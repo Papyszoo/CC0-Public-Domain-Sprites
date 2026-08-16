@@ -1,0 +1,18 @@
+{
+  "name": "Western 2D & FPS",
+  "creator": "Pixel-boy",
+  "website": "https://github.com/sparklinlabs/superpowers-asset-packs",
+  "license": "CC0",
+  "description": "Wild West pixel art sprites by Pixel-boy: sheriffs, outlaws, saloon interiors, revolvers, dynamite, wanted posters, tumbleweeds, and desert town tilesets.",
+  "generation": {
+    "category": "Characters",
+    "allowed_categories": [
+      "Characters",
+      "Creatures",
+      "Items & Icons",
+      "Tilesets & Environments",
+      "Effects",
+      "UI"
+    ]
+  }
+}

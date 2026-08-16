@@ -1,0 +1,4316 @@
+{
+  "source": "https://github.com/Papyszoo/CC0-Public-Domain-Sprites",
+  "license": "CC0",
+  "name": "Medieval Fantasy",
+  "creator": "Pixel-boy",
+  "website": "https://github.com/sparklinlabs/superpowers-asset-packs",
+  "description": "16-bit medieval fantasy pixel art sprites by Pixel-boy: knights, archers, wizards, castle and dungeon tilesets, dragons, goblins, skeletons, chests, potions, and weapons.",
+  "folder": "packs/pixelboy-medieval-fantasy",
+  "pinnedSha": "74d14212345ddbfa9d77286224ef4b51ce9eab85",
+  "itemCount": 143,
+  "items": [
+    {
+      "name": "Animals 0 Animals",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Creatures\",\"subcategory\":\"Animals\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/animals_0-animals.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Animals 1",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Creatures\",\"subcategory\":\"Animals\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/animals_1.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Animals 2",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Creatures\",\"subcategory\":\"Animals\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/animals_2.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Animals 3",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Creatures\",\"subcategory\":\"Animals\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/animals_3.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Animals 4",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Creatures\",\"subcategory\":\"Animals\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/animals_4.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Animals 5",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Creatures\",\"subcategory\":\"Animals\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/animals_5.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Animals 6",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Creatures\",\"subcategory\":\"Animals\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/animals_6.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Background Elements 0 Tileset",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Tilesets & Environments\",\"subcategory\":\"Terrain & Platforms\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_0-tileset.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Background Elements 1",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Tilesets & Environments\",\"subcategory\":\"Terrain & Platforms\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_1.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Background Elements 10",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Tilesets & Environments\",\"subcategory\":\"Terrain & Platforms\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_10.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Background Elements 11",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Tilesets & Environments\",\"subcategory\":\"Terrain & Platforms\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_11.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Background Elements 12",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Tilesets & Environments\",\"subcategory\":\"Terrain & Platforms\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_12.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Background Elements 13",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Tilesets & Environments\",\"subcategory\":\"Terrain & Platforms\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_13.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Background Elements 14",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Tilesets & Environments\",\"subcategory\":\"Terrain & Platforms\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_14.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Background Elements 15",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Tilesets & Environments\",\"subcategory\":\"Terrain & Platforms\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_15.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Background Elements 16",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Tilesets & Environments\",\"subcategory\":\"Terrain & Platforms\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_16.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Background Elements 17",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Tilesets & Environments\",\"subcategory\":\"Terrain & Platforms\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_17.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Background Elements 18",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Tilesets & Environments\",\"subcategory\":\"Terrain & Platforms\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_18.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Background Elements 19",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Tilesets & Environments\",\"subcategory\":\"Terrain & Platforms\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_19.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Background Elements 2",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Tilesets & Environments\",\"subcategory\":\"Terrain & Platforms\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_2.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Background Elements 20",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Tilesets & Environments\",\"subcategory\":\"Terrain & Platforms\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_20.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Background Elements 21",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Tilesets & Environments\",\"subcategory\":\"Terrain & Platforms\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_21.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Background Elements 3",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Tilesets & Environments\",\"subcategory\":\"Terrain & Platforms\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_3.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Background Elements 4",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Tilesets & Environments\",\"subcategory\":\"Terrain & Platforms\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_4.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Background Elements 5",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Tilesets & Environments\",\"subcategory\":\"Terrain & Platforms\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_5.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Background Elements 6",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Tilesets & Environments\",\"subcategory\":\"Terrain & Platforms\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_6.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Background Elements 7",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Tilesets & Environments\",\"subcategory\":\"Terrain & Platforms\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_7.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Background Elements 8",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Tilesets & Environments\",\"subcategory\":\"Terrain & Platforms\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_8.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Background Elements 9",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Tilesets & Environments\",\"subcategory\":\"Terrain & Platforms\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_9.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Characters 0 Characters",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/characters_0-characters.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Characters 1",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/characters_1.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Characters 10",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/characters_10.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Characters 2",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/characters_2.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Characters 3",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/characters_3.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Characters 4",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/characters_4.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Characters 5",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/characters_5.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Characters 6",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/characters_6.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Characters 7",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/characters_7.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Characters 8",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/characters_8.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Characters 9",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/characters_9.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Font 1",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"Fonts & Numbers\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/font-1.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Font 2",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"Fonts & Numbers\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/font-2.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Fx 1 (10x10)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":10,\"frameHeight\":10,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/fx_1 (10x10).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Fx 10",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/fx_10.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Fx 11 (14x14)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":14,\"frameHeight\":14,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/fx_11 (14x14).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Fx 2 (13x13)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":13,\"frameHeight\":13,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/fx_2 (13x13).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Fx 3",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/fx_3.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Fx 4 (15x15)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":15,\"frameHeight\":15,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/fx_4 (15x15).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Fx 5 (13x13)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":13,\"frameHeight\":13,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/fx_5 (13x13).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Fx 6 (14x14)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":14,\"frameHeight\":14,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/fx_6 (14x14).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Fx 7",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/fx_7.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Fx 8 (16x16)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":16,\"frameHeight\":16,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/fx_8 (16x16).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Fx 9 (13x13)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":13,\"frameHeight\":13,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/fx_9 (13x13).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Hud 1",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/hud_1.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Hud 2",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/hud_2.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Hud Empty Heart",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/hud_empty-heart.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Hud Full Heart",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/hud_full-heart.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Hud Life Box 2",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"Panels & Windows\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/hud_life-box-2.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Hud Life Box Empty 2",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"Panels & Windows\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/hud_life-box-empty-2.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Hud Life Box Empty",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"Panels & Windows\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/hud_life-box-empty.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Hud Life Box",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"Panels & Windows\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/hud_life-box.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Hud Little Box",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"Panels & Windows\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/hud_little-box.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Hud Medium Box",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"Panels & Windows\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/hud_medium-box.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items 1",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_1.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items 10",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_10.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items 11",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_11.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items 12",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_12.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items 13",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_13.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items 14",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_14.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items 15",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_15.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items 16",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_16.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items 17",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_17.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items 18",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_18.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items 19",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_19.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items 2",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_2.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items 3",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_3.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items 4",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_4.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items 5",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_5.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items 6",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_6.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items 7",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_7.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items 8",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_8.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items 9",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_9.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Barrel",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_barrel.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Crate",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_crate.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Element 1",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_element_1.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Element 2",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_element_2.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Element 3",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_element_3.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Element 4",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_element_4.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Element 5",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_element_5.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Element 6",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_element_6.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Element 7",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_element_7.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Element 8",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_element_8.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Element Elements (20x20)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\",\"spritesheet\":{\"frameWidth\":20,\"frameHeight\":20,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_element_elements (20x20).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Emblem 1",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_emblem_1.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Emblem 2",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_emblem_2.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Emblem 3",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_emblem_3.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Emblem 4",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_emblem_4.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Emblem 5",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_emblem_5.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Emblem 6",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_emblem_6.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Emblem All",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_emblem_all.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Food And Potion Food",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Consumables\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_food-and-potion_food.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Food And Potion Potion (11x11)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Consumables\",\"spritesheet\":{\"frameWidth\":11,\"frameHeight\":11,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_food-and-potion_potion (11x11).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Gold And Gem Coin",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Loot & Coins\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_coin.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Gold And Gem Gem 1",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Loot & Coins\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gem-1.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Gold And Gem Gem 2",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Loot & Coins\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gem-2.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Gold And Gem Gem 3",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Loot & Coins\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gem-3.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Gold And Gem Gem 4",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Loot & Coins\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gem-4.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Gold And Gem Gold Cup",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Loot & Coins\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gold-cup.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Gold And Gem Gold",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Loot & Coins\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gold.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Gold Chest Close",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Loot & Coins\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_gold-chest-close.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Gold Chest Open",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Loot & Coins\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_gold-chest-open.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Other (12x12)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\",\"spritesheet\":{\"frameWidth\":12,\"frameHeight\":12,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_other (12x12).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Projectile 1",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_projectile_1.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Projectile 2",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_projectile_2.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Projectile 3",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_projectile_3.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Projectile 4",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_projectile_4.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Projectile 5",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_projectile_5.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Projectile 6",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_projectile_6.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Projectile 7",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_projectile_7.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Projectile 8",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_projectile_8.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Weapon 1",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_1.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Weapon 10",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_10.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Weapon 11",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_11.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Weapon 2",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_2.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Weapon 3",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_3.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Weapon 4",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_4.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Weapon 5",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_5.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Weapon 6",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_6.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Weapon 7",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_7.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Weapon 8",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_8.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Weapon 9",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_9.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Weapon Weapon",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_weapon.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Wood Chest Close",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_wood-chest-close.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Items Wood Chest Open",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/items_wood-chest-open.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Monsters Bat",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Creatures\",\"subcategory\":\"Monsters\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/monsters_bat.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Monsters Cyclop (16x16)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Creatures\",\"subcategory\":\"Monsters\",\"spritesheet\":{\"frameWidth\":16,\"frameHeight\":16,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/monsters_cyclop (16x16).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Monsters Dragon",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Creatures\",\"subcategory\":\"Monsters\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/monsters_dragon.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Monsters Goblin",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Creatures\",\"subcategory\":\"Monsters\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/monsters_goblin.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Monsters King Skeleton",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Creatures\",\"subcategory\":\"Monsters\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/monsters_king-skeleton.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Monsters Leonard",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Creatures\",\"subcategory\":\"Monsters\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/monsters_leonard.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Monsters Skeleton",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Creatures\",\"subcategory\":\"Monsters\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/monsters_skeleton.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Monsters Slim",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Creatures\",\"subcategory\":\"Monsters\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/monsters_slim.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Monsters Snake",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Creatures\",\"subcategory\":\"Monsters\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/pixelboy-medieval-fantasy/sprites/monsters_snake.png",
+          "role": "Image"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "fileName": "animals_0-animals.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/animals_0-animals.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/animals_0-animals.png",
+      "sha256": "e953d96beb5621baa8aef73933d684e8863b215caebb0aafc33c5a5f995920c5",
+      "size": 620,
+      "role": "Image"
+    },
+    {
+      "fileName": "animals_1.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/animals_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/animals_1.png",
+      "sha256": "d1c72f8d7648ac574093886920e79fa7b1aee244cc7edf9302c3a807e47f41c1",
+      "size": 2940,
+      "role": "Image"
+    },
+    {
+      "fileName": "animals_2.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/animals_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/animals_2.png",
+      "sha256": "eb495bcd875c3ed75182fb5fed13c8a030a7967cabeef3dfd164dc4281b02b7b",
+      "size": 2944,
+      "role": "Image"
+    },
+    {
+      "fileName": "animals_3.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/animals_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/animals_3.png",
+      "sha256": "7af7ad8687e2f629a7a76b94f16921d0df413cc53951e55158e411d6c941dc1b",
+      "size": 2927,
+      "role": "Image"
+    },
+    {
+      "fileName": "animals_4.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/animals_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/animals_4.png",
+      "sha256": "545dd9492ba4596125c30b38751f9758fd850c08bdc42f92be961f0a96fbb52f",
+      "size": 3036,
+      "role": "Image"
+    },
+    {
+      "fileName": "animals_5.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/animals_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/animals_5.png",
+      "sha256": "a9d8a0781f1cc108ee711c8a7edb4a18f6a3344e914ad26e10c81612e29f0858",
+      "size": 3032,
+      "role": "Image"
+    },
+    {
+      "fileName": "animals_6.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/animals_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/animals_6.png",
+      "sha256": "ae45db1195537306f8597a822da58a0a22fe50a5da4790a820e56fd386b7e73c",
+      "size": 2958,
+      "role": "Image"
+    },
+    {
+      "fileName": "background-elements_0-tileset.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_0-tileset.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_0-tileset.png",
+      "sha256": "ff01fdc39190d5d118f33be10e6c949dd4a47f7dccd62dfe9b90ed21263073d9",
+      "size": 21422,
+      "role": "Image"
+    },
+    {
+      "fileName": "background-elements_1.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_1.png",
+      "sha256": "fb08f738e8ddf938af596ce0154eb5104d03931a5defac8a3fab40c69c876c4d",
+      "size": 3494,
+      "role": "Image"
+    },
+    {
+      "fileName": "background-elements_10.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_10.png",
+      "sha256": "7d81c272bd78f45ef3211eb8cb5cd8fb18d914e25789c718961a3f7358989894",
+      "size": 3002,
+      "role": "Image"
+    },
+    {
+      "fileName": "background-elements_11.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_11.png",
+      "sha256": "30e8bc7d01337a5538ebfdcf641e7587735a837cda0f43ac91f98e67edba22e6",
+      "size": 3074,
+      "role": "Image"
+    },
+    {
+      "fileName": "background-elements_12.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_12.png",
+      "sha256": "9686e0b93dd0426bb453b5270e52e55bbf2834496ef8e72015da062d35974b14",
+      "size": 3177,
+      "role": "Image"
+    },
+    {
+      "fileName": "background-elements_13.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_13.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_13.png",
+      "sha256": "273ea63ad65ff9bd64106b94cfb1526b049aeb39375e271737eafbe2985677e8",
+      "size": 3042,
+      "role": "Image"
+    },
+    {
+      "fileName": "background-elements_14.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_14.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_14.png",
+      "sha256": "3f380e957ad33b713306a7c640cb7f75fa3b6db44680f8fc38f1685814596771",
+      "size": 3342,
+      "role": "Image"
+    },
+    {
+      "fileName": "background-elements_15.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_15.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_15.png",
+      "sha256": "249daf76abb82dbbeedd5b51198222c2d3c826fe6ce163bbda1ea23053272079",
+      "size": 3108,
+      "role": "Image"
+    },
+    {
+      "fileName": "background-elements_16.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_16.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_16.png",
+      "sha256": "a3f3ebda9500b54a56e17bc82846b3c950e8601b33054e8c66dfa04f53cfdaa3",
+      "size": 3180,
+      "role": "Image"
+    },
+    {
+      "fileName": "background-elements_17.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_17.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_17.png",
+      "sha256": "55c21db8d7cd761c54185b6cdb8b5ca31f54f954839fed6f6a9fce11adda612a",
+      "size": 3768,
+      "role": "Image"
+    },
+    {
+      "fileName": "background-elements_18.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_18.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_18.png",
+      "sha256": "eb9000dd48cc1fa6bf89e82c388e9765d8f8482dd48304e43cba00ad16758159",
+      "size": 3427,
+      "role": "Image"
+    },
+    {
+      "fileName": "background-elements_19.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_19.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_19.png",
+      "sha256": "36bb21b41f8d031286572277e5ef00185e926217e15f1eed63ce6d59516cdf69",
+      "size": 3132,
+      "role": "Image"
+    },
+    {
+      "fileName": "background-elements_2.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_2.png",
+      "sha256": "e22b6822633a3b20303c51b02ef0b6ef341ce728f09515c7af7867a77cd6e63e",
+      "size": 3264,
+      "role": "Image"
+    },
+    {
+      "fileName": "background-elements_20.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_20.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_20.png",
+      "sha256": "44e3a4ee017a94cda56f5c0e02950824a772425c5ba748057b7141d19d02f867",
+      "size": 3064,
+      "role": "Image"
+    },
+    {
+      "fileName": "background-elements_21.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_21.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_21.png",
+      "sha256": "901efb8cb0c150e66cdc23ed5d0c2c6d5bf74674c9500510543971ae55d1da7e",
+      "size": 3533,
+      "role": "Image"
+    },
+    {
+      "fileName": "background-elements_3.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_3.png",
+      "sha256": "43ce3ce61591218573c4939db5647349c55fb639b5837a5369b4a905551d368c",
+      "size": 3028,
+      "role": "Image"
+    },
+    {
+      "fileName": "background-elements_4.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_4.png",
+      "sha256": "e360d5282a1482214c894c6ad5bf35e65a5e9389bdccbb8fb107c52bafcb5794",
+      "size": 3003,
+      "role": "Image"
+    },
+    {
+      "fileName": "background-elements_5.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_5.png",
+      "sha256": "8988d003cc248344ca2686043efffb1117fe4b6fe4c1a04d84259b3a1357cf88",
+      "size": 2970,
+      "role": "Image"
+    },
+    {
+      "fileName": "background-elements_6.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_6.png",
+      "sha256": "260ffabbdfc04a6571aa4b2322b0e4df296b17476a9f1fe037ad64ffa2329cc4",
+      "size": 3027,
+      "role": "Image"
+    },
+    {
+      "fileName": "background-elements_7.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_7.png",
+      "sha256": "959eb0e35ef1a12f291411256befa82782db774a1e6dccd192070e47599a45f6",
+      "size": 3138,
+      "role": "Image"
+    },
+    {
+      "fileName": "background-elements_8.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_8.png",
+      "sha256": "c72e1ed696065efebf48b1c8c80dc0dce61c3c14c0f0edb3d338515fa4f5f0fa",
+      "size": 3020,
+      "role": "Image"
+    },
+    {
+      "fileName": "background-elements_9.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_9.png",
+      "sha256": "5a1dafc82bbba137dbe55220ff29e36beb0b095bc9bf9203922aacac29cd8aee",
+      "size": 3065,
+      "role": "Image"
+    },
+    {
+      "fileName": "characters_0-characters.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/characters_0-characters.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/characters_0-characters.png",
+      "sha256": "0634652574a2e05f8257e42a19591d179977dd8f7ec042b6cf893f9fb21f9585",
+      "size": 1164,
+      "role": "Image"
+    },
+    {
+      "fileName": "characters_1.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/characters_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/characters_1.png",
+      "sha256": "95d0e3cce27118a0239b71decc12171773c40d9d352f1237d6120d8eb461e44f",
+      "size": 3028,
+      "role": "Image"
+    },
+    {
+      "fileName": "characters_10.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/characters_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/characters_10.png",
+      "sha256": "3c23b1f93f4d84a6f98795f3c718b74a0e6f3f5c8f8c4097e1180ec126aa44c2",
+      "size": 3111,
+      "role": "Image"
+    },
+    {
+      "fileName": "characters_2.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/characters_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/characters_2.png",
+      "sha256": "66339f0d4dac950f7d9e8f2c357db3c91772ba72424be4ef6a7768a63bb07f05",
+      "size": 2951,
+      "role": "Image"
+    },
+    {
+      "fileName": "characters_3.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/characters_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/characters_3.png",
+      "sha256": "872c7ff22140885bac8c4881eec237d65559c1aa1f408634d2ad6508a5217bde",
+      "size": 3023,
+      "role": "Image"
+    },
+    {
+      "fileName": "characters_4.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/characters_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/characters_4.png",
+      "sha256": "5cf0366556d7f3cc9fc36a2a527f3033eed14571151c0fe50503eee0345f8c98",
+      "size": 3019,
+      "role": "Image"
+    },
+    {
+      "fileName": "characters_5.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/characters_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/characters_5.png",
+      "sha256": "8553ea00588f388e4212f1fb913447429cb681822d80b2885256cb1f4916bcf2",
+      "size": 3015,
+      "role": "Image"
+    },
+    {
+      "fileName": "characters_6.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/characters_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/characters_6.png",
+      "sha256": "203684740bef3310770051e66877b9111492ae8f35795249dd47fd77f1abb37c",
+      "size": 3007,
+      "role": "Image"
+    },
+    {
+      "fileName": "characters_7.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/characters_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/characters_7.png",
+      "sha256": "dca9931798abc13d500ef7b2d7c236d098500750330e57f442dc73251d2ea3ed",
+      "size": 3084,
+      "role": "Image"
+    },
+    {
+      "fileName": "characters_8.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/characters_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/characters_8.png",
+      "sha256": "9897065b60a878f0e89a2dfc9bdc15671e86edeb248d9795bec756e05bb7358d",
+      "size": 3051,
+      "role": "Image"
+    },
+    {
+      "fileName": "characters_9.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/characters_9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/characters_9.png",
+      "sha256": "cf774d3257143adddef0fa9b37a58e60a868b3fe5bba6121eb14a44efa3c0e5a",
+      "size": 3078,
+      "role": "Image"
+    },
+    {
+      "fileName": "font-1.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/font-1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/font-1.png",
+      "sha256": "76aba39c51882df268577fcbb7816ab3752f7a830ac5a9fc4762d4389db287b4",
+      "size": 4654,
+      "role": "Image"
+    },
+    {
+      "fileName": "font-2.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/font-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/font-2.png",
+      "sha256": "360cd539f7fde54cee6fcf005d66b861e919041e1354f7846adff8377571f308",
+      "size": 5275,
+      "role": "Image"
+    },
+    {
+      "fileName": "fx_1 (10x10).png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/fx_1 (10x10).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/fx_1%20(10x10).png",
+      "sha256": "7fdf8952f87d77ea325763f6f46601779e08842cf4ea3ddea1361df8242fd0b2",
+      "size": 142,
+      "role": "Image"
+    },
+    {
+      "fileName": "fx_10.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/fx_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/fx_10.png",
+      "sha256": "3eda92ffb318e3ea80b80703a49122b7235254ae3b84d3a9cc9faa0fd3eb7e8d",
+      "size": 258,
+      "role": "Image"
+    },
+    {
+      "fileName": "fx_11 (14x14).png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/fx_11 (14x14).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/fx_11%20(14x14).png",
+      "sha256": "983dcbe572a7fd56013f4370c27d1cfe34e823e8cf599b8c318de599515a410d",
+      "size": 278,
+      "role": "Image"
+    },
+    {
+      "fileName": "fx_2 (13x13).png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/fx_2 (13x13).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/fx_2%20(13x13).png",
+      "sha256": "93509a215a50ce3bfd01732c7f6994e2b73561881c95cf5cd6b656d537a1676a",
+      "size": 161,
+      "role": "Image"
+    },
+    {
+      "fileName": "fx_3.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/fx_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/fx_3.png",
+      "sha256": "22b626e8bc1c1a00b999e5e7155f23b117f543159691db567b9d7b6c9d22ceab",
+      "size": 167,
+      "role": "Image"
+    },
+    {
+      "fileName": "fx_4 (15x15).png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/fx_4 (15x15).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/fx_4%20(15x15).png",
+      "sha256": "9c8cea819183c48fac384f18e8f50c6baffbdb25f99bea1ef69fb3ab8225c565",
+      "size": 183,
+      "role": "Image"
+    },
+    {
+      "fileName": "fx_5 (13x13).png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/fx_5 (13x13).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/fx_5%20(13x13).png",
+      "sha256": "20503540ddf955c9ae26f038fd237abbad75b4c7b74271581277333652e67b05",
+      "size": 264,
+      "role": "Image"
+    },
+    {
+      "fileName": "fx_6 (14x14).png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/fx_6 (14x14).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/fx_6%20(14x14).png",
+      "sha256": "a7c2bff6ffe8d63ca3486818816a4c1e2ec8492a8d1374df407a10d1867e4dc4",
+      "size": 327,
+      "role": "Image"
+    },
+    {
+      "fileName": "fx_7.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/fx_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/fx_7.png",
+      "sha256": "1c4f246d530e74c162fbe3189c755f5ca0a61a242caed6ef106a476b82d8caad",
+      "size": 448,
+      "role": "Image"
+    },
+    {
+      "fileName": "fx_8 (16x16).png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/fx_8 (16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/fx_8%20(16x16).png",
+      "sha256": "11f7a1e5d595a3bc625418ba7303c82f6baf0b6d4fb03bdfe9bcc9cbf9847372",
+      "size": 405,
+      "role": "Image"
+    },
+    {
+      "fileName": "fx_9 (13x13).png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/fx_9 (13x13).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/fx_9%20(13x13).png",
+      "sha256": "68a3f004b2182cbfcddaea72e55f7e2d0f2bc7d8c62ba64334cf5efeee5d604b",
+      "size": 318,
+      "role": "Image"
+    },
+    {
+      "fileName": "hud_1.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/hud_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/hud_1.png",
+      "sha256": "180c773d630533900bca8e81466a819c557e02620db5e13073821cf95dedb6a4",
+      "size": 3001,
+      "role": "Image"
+    },
+    {
+      "fileName": "hud_2.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/hud_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/hud_2.png",
+      "sha256": "96c36a4980c85e1f1f666a4eaa1c1b08241f0e125452f98fb7178e037d8a5eab",
+      "size": 2992,
+      "role": "Image"
+    },
+    {
+      "fileName": "hud_empty-heart.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/hud_empty-heart.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/hud_empty-heart.png",
+      "sha256": "2a35e2219816d1640a5071e322a60961242838e62650e98a4f231e0e96eea68f",
+      "size": 2966,
+      "role": "Image"
+    },
+    {
+      "fileName": "hud_full-heart.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/hud_full-heart.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/hud_full-heart.png",
+      "sha256": "3f3e68616c84e13f97a0a4bf2b0dcc4f9a7bac9b61f9333014914e2ccb8cd77f",
+      "size": 2995,
+      "role": "Image"
+    },
+    {
+      "fileName": "hud_life-box-2.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/hud_life-box-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/hud_life-box-2.png",
+      "sha256": "fef08c50cfb66221c546beba0a65684f544e9ae4d92275caa5c705a3be1f9d76",
+      "size": 2838,
+      "role": "Image"
+    },
+    {
+      "fileName": "hud_life-box-empty-2.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/hud_life-box-empty-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/hud_life-box-empty-2.png",
+      "sha256": "e2fcf25a0a2700e6b1505fe4d3f1b7509666e1bdccc457683cc5c5190924b020",
+      "size": 2826,
+      "role": "Image"
+    },
+    {
+      "fileName": "hud_life-box-empty.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/hud_life-box-empty.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/hud_life-box-empty.png",
+      "sha256": "3dcd05857f8be49a5fe06edadd6d9f7f91c710d703932675f297bc035afc3b91",
+      "size": 2810,
+      "role": "Image"
+    },
+    {
+      "fileName": "hud_life-box.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/hud_life-box.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/hud_life-box.png",
+      "sha256": "eaaaf5521e8d0b77e493459307fb2a17f6c75d7c2841317e27d895ee01927123",
+      "size": 2815,
+      "role": "Image"
+    },
+    {
+      "fileName": "hud_little-box.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/hud_little-box.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/hud_little-box.png",
+      "sha256": "127e6e41bac758ba84bb30c14c6c247c6377bf0904f12abb73f3306a24698860",
+      "size": 2870,
+      "role": "Image"
+    },
+    {
+      "fileName": "hud_medium-box.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/hud_medium-box.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/hud_medium-box.png",
+      "sha256": "7ffdbb388f0860b6b37fbf28a2f76721edfe1b0dda719a459f7a56fd16e5915a",
+      "size": 2967,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_1.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_1.png",
+      "sha256": "c5f85fc169be94c2cfd6a1dd658c7a105176dc3257f932a79457d850bda62b1e",
+      "size": 2923,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_10.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_10.png",
+      "sha256": "86db4e2703cce194abeb2f7f125dfda21678085cc955d8b697edaa053a119816",
+      "size": 2909,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_11.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_11.png",
+      "sha256": "642da7a23450693bb4e93c2b876193a0fd4b4f670cb782a87775e0b47cc6894e",
+      "size": 2913,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_12.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_12.png",
+      "sha256": "0495ed911b68a6d8fa1c6771895d7505ea98317b17f373940d5d0d529fc5531f",
+      "size": 3021,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_13.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_13.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_13.png",
+      "sha256": "291b5d295bd6ebc749c8100878d9d4558616cc76e5ddcec1e080b4104c37650d",
+      "size": 3026,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_14.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_14.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_14.png",
+      "sha256": "692210db67aeab4d829eb3df822b50273efb3ba9b4d5b69fa015cb9a0eb08f7d",
+      "size": 3041,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_15.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_15.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_15.png",
+      "sha256": "7158e676103f812470da0e60bc46f4bab2462ae790f1ee67870af67c255e82dd",
+      "size": 2871,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_16.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_16.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_16.png",
+      "sha256": "f938ffe213a0d9018c3ed22d433a6e6bd4f6bbee8f02d2578c4908145f12d74b",
+      "size": 2882,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_17.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_17.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_17.png",
+      "sha256": "c171a9ea0fad2b00a79525b0d2d28288062baad60d826a4cc9c19d0a20ffdbdc",
+      "size": 2895,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_18.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_18.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_18.png",
+      "sha256": "0b1fb7c3d8cba4418950351a065b258dfc0caba90e36150bcf78b74d408bec08",
+      "size": 2881,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_19.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_19.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_19.png",
+      "sha256": "701d6db016a7f97220779db4b178faa394def1cf6482ebb98d7041d5fdb9eef4",
+      "size": 2914,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_2.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_2.png",
+      "sha256": "cf4ac17990cc817745615c2bcba666b932c1e6aaab3e96cd6d41327a63b2929e",
+      "size": 2972,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_3.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_3.png",
+      "sha256": "089e652b969c865614423613a4b3bfd6ba9fa22a43b508dbaaf99b3171210227",
+      "size": 2959,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_4.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_4.png",
+      "sha256": "0c2d12781364d0c1930ea60b8158c291d83a6272b8c7d0a4107e44aac0064a46",
+      "size": 2926,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_5.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_5.png",
+      "sha256": "9a7ad73bcf071f8c8300b3d284e16b8d92ceada0e458c3081e444748b26e604a",
+      "size": 2900,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_6.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_6.png",
+      "sha256": "2abc2ff16f8322a6c021d979f2f0a8386c8a853b04b79040ddd5d6102d10731e",
+      "size": 2906,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_7.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_7.png",
+      "sha256": "b8bf5a6bb530e7465cf67ea2df649a997179d66511d2f251a714c5fee75481d7",
+      "size": 2951,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_8.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_8.png",
+      "sha256": "fa4dbd073018123547d7600744c79e896c5790e5593caeb48cb612544981adef",
+      "size": 2872,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_9.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_9.png",
+      "sha256": "f8aa9b0fdba239ceeca88847325a78c549aa074945dbf4874aff3bd9d1ac2abd",
+      "size": 2854,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_barrel.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_barrel.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_barrel.png",
+      "sha256": "09806d7f28530ccf6b172496528de3b10c27225f2746eb9afc907adcdad599bf",
+      "size": 2950,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_crate.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_crate.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_crate.png",
+      "sha256": "7b52ec3f2180f71e72c17578e623f88b07607f4dd3225d53b213d61bddd1ad8e",
+      "size": 2897,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_element_1.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_element_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_element_1.png",
+      "sha256": "f8f89c893bb0192e199cfd2abd60726858064b3fe748ad995904ab094c11730a",
+      "size": 2947,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_element_2.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_element_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_element_2.png",
+      "sha256": "dfc1d10af06c7267c09c49077ed47d1792c16e5cefce398f42590bc4e0513e7d",
+      "size": 2963,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_element_3.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_element_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_element_3.png",
+      "sha256": "4c2ec0bbfb9b57be8b02ddae1485ac0b5d34a907c68da451603fa83bde48f87e",
+      "size": 2949,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_element_4.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_element_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_element_4.png",
+      "sha256": "4f3e5cf5f30dacf62d3d3f6615480f6655ae2667b4a6c7e893e705b692c154ff",
+      "size": 2947,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_element_5.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_element_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_element_5.png",
+      "sha256": "b5c08877c2c593c7be3921ad6f8886f76d08a6b6dd97095b82fd509f50ae9d8f",
+      "size": 2980,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_element_6.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_element_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_element_6.png",
+      "sha256": "dfca8d4ffd3754138d77cca9cde6f55b45b296abd05a3a52df20755105a619d5",
+      "size": 3018,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_element_7.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_element_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_element_7.png",
+      "sha256": "8269f86050dece5c8efe772460b090573274d56f7e182758074a29b1ca14aa64",
+      "size": 2892,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_element_8.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_element_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_element_8.png",
+      "sha256": "2fb76d5516da0a9cbb462d44b8715db34294c06ae960375043d96cdae73beefc",
+      "size": 2976,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_element_elements (20x20).png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_element_elements (20x20).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_element_elements%20(20x20).png",
+      "sha256": "f74cb6f67643ae8f3ba532161ad873bd384c9a5086ab98d75ca4e757dde21afd",
+      "size": 729,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_emblem_1.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_emblem_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_emblem_1.png",
+      "sha256": "9fc554897d130a6513fa351c3199dc9cf5a648ed55dc6a00a70e6b559d5f1e34",
+      "size": 3300,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_emblem_2.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_emblem_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_emblem_2.png",
+      "sha256": "ff0ad84bb191637aa8719371dfd5b3caa1bec80d708fcbb4d59eb1f5acb7692c",
+      "size": 3195,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_emblem_3.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_emblem_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_emblem_3.png",
+      "sha256": "7e0db54472d8699d33b7bd404e86f65abf4510085519ce2b8486487fae306940",
+      "size": 3222,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_emblem_4.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_emblem_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_emblem_4.png",
+      "sha256": "237ce1cdb9bf382f62b14f4a4c5988c906ce6a36ede7ac3f999268930c90e6d1",
+      "size": 3455,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_emblem_5.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_emblem_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_emblem_5.png",
+      "sha256": "9f4c2fd082d2894b1c9ccf54e4ca3cfab118ddb4bc1b0ddaa910effab382cea3",
+      "size": 3378,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_emblem_6.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_emblem_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_emblem_6.png",
+      "sha256": "a7cefefdc22b1af4488f9dd0f89f15302b7b906c00099e4e974ba623de4b0126",
+      "size": 3455,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_emblem_all.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_emblem_all.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_emblem_all.png",
+      "sha256": "d6d0e0003f1152a6da7225a77a2ccce323f57fbe39d96981762230993cfaf837",
+      "size": 1799,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_food-and-potion_food.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_food-and-potion_food.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_food-and-potion_food.png",
+      "sha256": "ad613804747b447bbe8516bb20e831997245404dc5558df41955ee5a61f10cde",
+      "size": 655,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_food-and-potion_potion (11x11).png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_food-and-potion_potion (11x11).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_food-and-potion_potion%20(11x11).png",
+      "sha256": "c63c27e8d4b8770fdc3374990bb07e0c0b1789acb726a60dd22fa9f1c8277012",
+      "size": 359,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_gold-and-gem_coin.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_coin.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_coin.png",
+      "sha256": "4e504b230a9de25df74cb6d541539fa594e7c92f70570d88cbbe776e46aa99b9",
+      "size": 2921,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_gold-and-gem_gem-1.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gem-1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gem-1.png",
+      "sha256": "a4af46951cd3a4bd5d825352ab29b2ecd12684122ab649eab44a4dad79e1adc6",
+      "size": 2900,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_gold-and-gem_gem-2.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gem-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gem-2.png",
+      "sha256": "6c3268561592678f0f7568b2a27fb6c1e1f5dcef408b565be2c548e9e7e382b1",
+      "size": 2857,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_gold-and-gem_gem-3.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gem-3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gem-3.png",
+      "sha256": "b020556264cb36059ffde22d98372b00613fa4b562ac8111ddc0a186a411573e",
+      "size": 2859,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_gold-and-gem_gem-4.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gem-4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gem-4.png",
+      "sha256": "12dc0f585d4c93c1087e3905a8d97e8576c1af853f168d970f0e7c7f1f899652",
+      "size": 2846,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_gold-and-gem_gold-cup.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gold-cup.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gold-cup.png",
+      "sha256": "db4110093048321418dec10524d2ac08442ffa53e2c4586f18981a46a772d7a4",
+      "size": 2952,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_gold-and-gem_gold.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gold.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gold.png",
+      "sha256": "6b9f9daf17f8257ad6f39982f17790989ab8c7296cc337b77e93c856e929a39a",
+      "size": 3144,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_gold-chest-close.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_gold-chest-close.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_gold-chest-close.png",
+      "sha256": "c0ced82a649ee192fa906ab6140c2397a8450db2e87a5bc0cd1b4c73c56ffeab",
+      "size": 2917,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_gold-chest-open.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_gold-chest-open.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_gold-chest-open.png",
+      "sha256": "0eef6fcbd72eab214bc52f29a38622aeafb6d1798e391ef56388d29f818f2f4e",
+      "size": 2906,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_other (12x12).png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_other (12x12).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_other%20(12x12).png",
+      "sha256": "5e31bd2f1d1194ac62ac021598c05ec55dd7154e80a7c88c7741f1a5004d3554",
+      "size": 3922,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_projectile_1.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_projectile_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_projectile_1.png",
+      "sha256": "c8ed2774ef9196d9507d5c3b095f8b97cfbdbee736b489f9784037533c74e4a2",
+      "size": 2911,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_projectile_2.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_projectile_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_projectile_2.png",
+      "sha256": "c0d15e4b6936ce24530b2baf44d5600c52f8e84aae7b3417660ba025ba8cc64b",
+      "size": 2921,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_projectile_3.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_projectile_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_projectile_3.png",
+      "sha256": "d6de27b9e495353c88ea97bd73f4a89002d38d73a49fe9a8ec830f51e92a0928",
+      "size": 2860,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_projectile_4.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_projectile_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_projectile_4.png",
+      "sha256": "c6c7b3cb45305033c6ce74a6449bb1a843d4060e049ebed800f36a8e180efa09",
+      "size": 2911,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_projectile_5.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_projectile_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_projectile_5.png",
+      "sha256": "20f14cf53b4ab1db7eeeee96783ef2bdefcc07020f5212a294d7d13888de297e",
+      "size": 2870,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_projectile_6.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_projectile_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_projectile_6.png",
+      "sha256": "0f01204ef3226d70e4a53a0af5ebff0ce99e336b5dea338bb0841dbc0b70a4ac",
+      "size": 2875,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_projectile_7.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_projectile_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_projectile_7.png",
+      "sha256": "0b95bb983b3949343618df1999cad79d61d80559d579d0754537330bcb959b01",
+      "size": 2847,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_projectile_8.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_projectile_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_projectile_8.png",
+      "sha256": "b6ee70a913926be5474de14366af2c77ce0659b953dea302b7943b06b02e9e4f",
+      "size": 3017,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_weapon_1.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_weapon_1.png",
+      "sha256": "dbc37d53962b2644b262bf8074ead0632afb699cf02cdecc40ac8d10ed40eb40",
+      "size": 2952,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_weapon_10.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_weapon_10.png",
+      "sha256": "0545a252dd4db4771568e781dca8f2f60c6baf825ef251fa82c1e90f21c21c40",
+      "size": 2913,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_weapon_11.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_weapon_11.png",
+      "sha256": "0e6d8fba313009ea697ac3a79ad6394cc668a74c88673d92371b91c299c9953a",
+      "size": 2875,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_weapon_2.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_weapon_2.png",
+      "sha256": "8f1489f1142078fa7c613f6b7e736a86486994eb53a7a58942513461d342743e",
+      "size": 2909,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_weapon_3.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_weapon_3.png",
+      "sha256": "9c02959a283a238efa229655bf45376f2decf23eb519eae457994f6e584308b0",
+      "size": 2966,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_weapon_4.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_weapon_4.png",
+      "sha256": "6b3242e6ec6e01a2396edd77766651f4f6d4f781f7d80249f6b2f356d3d41227",
+      "size": 2943,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_weapon_5.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_weapon_5.png",
+      "sha256": "c68195ce1960f1327c43a9010736fab0ff8c1a6b1ba7e18d8201efa77363c808",
+      "size": 2952,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_weapon_6.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_weapon_6.png",
+      "sha256": "d34d87a262df1e644625f28c117006704f8d5eda3812764145577ce11d647877",
+      "size": 2948,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_weapon_7.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_weapon_7.png",
+      "sha256": "f37648495fc809d8ba39955f6da033959adf7e498c5f0d625644228dabfb2461",
+      "size": 2970,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_weapon_8.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_weapon_8.png",
+      "sha256": "868c52f3bfe023c2ad3661b6af1e0ca58336e58ec5f50ab10f303253d6dc9e80",
+      "size": 2952,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_weapon_9.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_weapon_9.png",
+      "sha256": "7af52e6913c1d68f473a584edd9c4f684ffa67f8a117bacf5cbb85efb226d3a4",
+      "size": 2868,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_weapon_weapon.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_weapon.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_weapon_weapon.png",
+      "sha256": "07be4205a77af632f75d3a9c67fb5b68411a486c9fa433da3fee4f306fe9114c",
+      "size": 726,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_wood-chest-close.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_wood-chest-close.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_wood-chest-close.png",
+      "sha256": "ed914bb0648c98677c6534443bcb45c2d2e8f72e2c732faaad6ad7218bdc734d",
+      "size": 2927,
+      "role": "Image"
+    },
+    {
+      "fileName": "items_wood-chest-open.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_wood-chest-open.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_wood-chest-open.png",
+      "sha256": "7f58d908a3b9aab3b5b86eb1639fded3f971030a3d86a8191ae313fa0ce4d9dc",
+      "size": 2948,
+      "role": "Image"
+    },
+    {
+      "fileName": "monsters_bat.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/monsters_bat.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/monsters_bat.png",
+      "sha256": "884bb994477e9e3038d634c9c5bfa4fa311e9c1dfc4e83703249eabe2b683963",
+      "size": 2967,
+      "role": "Image"
+    },
+    {
+      "fileName": "monsters_cyclop (16x16).png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/monsters_cyclop (16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/monsters_cyclop%20(16x16).png",
+      "sha256": "de72ad2b94ab90f1df7b15792d3d846c60c19fc1c6c72c029de50e46db3e9a67",
+      "size": 3405,
+      "role": "Image"
+    },
+    {
+      "fileName": "monsters_dragon.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/monsters_dragon.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/monsters_dragon.png",
+      "sha256": "938c05391ddeb48692a5b35b45c4fe3a24a4ab54556c387ac9ba02da29e63dd4",
+      "size": 3730,
+      "role": "Image"
+    },
+    {
+      "fileName": "monsters_goblin.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/monsters_goblin.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/monsters_goblin.png",
+      "sha256": "306ff97147da520386d1d1563dccf00194e7394f75cb6d5d0af84e6b8110e0e7",
+      "size": 3016,
+      "role": "Image"
+    },
+    {
+      "fileName": "monsters_king-skeleton.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/monsters_king-skeleton.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/monsters_king-skeleton.png",
+      "sha256": "36dfd40d085b251efbf1a2e12b471a0ac993b0830136e430282a8f03413a26bf",
+      "size": 3702,
+      "role": "Image"
+    },
+    {
+      "fileName": "monsters_leonard.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/monsters_leonard.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/monsters_leonard.png",
+      "sha256": "8a721d30b54cfc8d8d519dae48caba8700b717d1781b9fff981eb98da7a5e8ef",
+      "size": 3923,
+      "role": "Image"
+    },
+    {
+      "fileName": "monsters_skeleton.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/monsters_skeleton.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/monsters_skeleton.png",
+      "sha256": "76357139e83ddec54c629ee30c2ce70c5fbc5b8c4058b6fa70e4c65742cc6617",
+      "size": 3019,
+      "role": "Image"
+    },
+    {
+      "fileName": "monsters_slim.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/monsters_slim.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/monsters_slim.png",
+      "sha256": "68776cd6a38b60f15c27e32fc891a701c6e0a6e6465c29e24414768ba20fc15e",
+      "size": 2953,
+      "role": "Image"
+    },
+    {
+      "fileName": "monsters_snake.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/monsters_snake.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/monsters_snake.png",
+      "sha256": "0864e79e3fbb42cd590bf82b4f657c8cf88f099af6d29f032b5eb656383c7dd1",
+      "size": 3191,
+      "role": "Image"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "cover.png",
+      "path": "packs/pixelboy-medieval-fantasy/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/cover.png",
+      "sha256": "184d56fb92b3634ef0043075c0e1a646dc74cdd3559b4e85ae498b3434293137",
+      "size": 80937,
+      "contentType": "image/png",
+      "type": "Thumbnail"
+    },
+    {
+      "fileName": "animals_0-animals.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/animals_0-animals.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/animals_0-animals.png",
+      "sha256": "e953d96beb5621baa8aef73933d684e8863b215caebb0aafc33c5a5f995920c5",
+      "size": 620,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Animals 0 Animals"
+    },
+    {
+      "fileName": "animals_1.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/animals_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/animals_1.png",
+      "sha256": "d1c72f8d7648ac574093886920e79fa7b1aee244cc7edf9302c3a807e47f41c1",
+      "size": 2940,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Animals 1"
+    },
+    {
+      "fileName": "animals_2.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/animals_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/animals_2.png",
+      "sha256": "eb495bcd875c3ed75182fb5fed13c8a030a7967cabeef3dfd164dc4281b02b7b",
+      "size": 2944,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Animals 2"
+    },
+    {
+      "fileName": "animals_3.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/animals_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/animals_3.png",
+      "sha256": "7af7ad8687e2f629a7a76b94f16921d0df413cc53951e55158e411d6c941dc1b",
+      "size": 2927,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Animals 3"
+    },
+    {
+      "fileName": "animals_4.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/animals_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/animals_4.png",
+      "sha256": "545dd9492ba4596125c30b38751f9758fd850c08bdc42f92be961f0a96fbb52f",
+      "size": 3036,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Animals 4"
+    },
+    {
+      "fileName": "animals_5.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/animals_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/animals_5.png",
+      "sha256": "a9d8a0781f1cc108ee711c8a7edb4a18f6a3344e914ad26e10c81612e29f0858",
+      "size": 3032,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Animals 5"
+    },
+    {
+      "fileName": "animals_6.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/animals_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/animals_6.png",
+      "sha256": "ae45db1195537306f8597a822da58a0a22fe50a5da4790a820e56fd386b7e73c",
+      "size": 2958,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Animals 6"
+    },
+    {
+      "fileName": "background-elements_0-tileset.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_0-tileset.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_0-tileset.png",
+      "sha256": "ff01fdc39190d5d118f33be10e6c949dd4a47f7dccd62dfe9b90ed21263073d9",
+      "size": 21422,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Background Elements 0 Tileset"
+    },
+    {
+      "fileName": "background-elements_1.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_1.png",
+      "sha256": "fb08f738e8ddf938af596ce0154eb5104d03931a5defac8a3fab40c69c876c4d",
+      "size": 3494,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Background Elements 1"
+    },
+    {
+      "fileName": "background-elements_10.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_10.png",
+      "sha256": "7d81c272bd78f45ef3211eb8cb5cd8fb18d914e25789c718961a3f7358989894",
+      "size": 3002,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Background Elements 10"
+    },
+    {
+      "fileName": "background-elements_11.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_11.png",
+      "sha256": "30e8bc7d01337a5538ebfdcf641e7587735a837cda0f43ac91f98e67edba22e6",
+      "size": 3074,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Background Elements 11"
+    },
+    {
+      "fileName": "background-elements_12.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_12.png",
+      "sha256": "9686e0b93dd0426bb453b5270e52e55bbf2834496ef8e72015da062d35974b14",
+      "size": 3177,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Background Elements 12"
+    },
+    {
+      "fileName": "background-elements_13.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_13.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_13.png",
+      "sha256": "273ea63ad65ff9bd64106b94cfb1526b049aeb39375e271737eafbe2985677e8",
+      "size": 3042,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Background Elements 13"
+    },
+    {
+      "fileName": "background-elements_14.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_14.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_14.png",
+      "sha256": "3f380e957ad33b713306a7c640cb7f75fa3b6db44680f8fc38f1685814596771",
+      "size": 3342,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Background Elements 14"
+    },
+    {
+      "fileName": "background-elements_15.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_15.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_15.png",
+      "sha256": "249daf76abb82dbbeedd5b51198222c2d3c826fe6ce163bbda1ea23053272079",
+      "size": 3108,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Background Elements 15"
+    },
+    {
+      "fileName": "background-elements_16.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_16.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_16.png",
+      "sha256": "a3f3ebda9500b54a56e17bc82846b3c950e8601b33054e8c66dfa04f53cfdaa3",
+      "size": 3180,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Background Elements 16"
+    },
+    {
+      "fileName": "background-elements_17.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_17.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_17.png",
+      "sha256": "55c21db8d7cd761c54185b6cdb8b5ca31f54f954839fed6f6a9fce11adda612a",
+      "size": 3768,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Background Elements 17"
+    },
+    {
+      "fileName": "background-elements_18.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_18.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_18.png",
+      "sha256": "eb9000dd48cc1fa6bf89e82c388e9765d8f8482dd48304e43cba00ad16758159",
+      "size": 3427,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Background Elements 18"
+    },
+    {
+      "fileName": "background-elements_19.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_19.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_19.png",
+      "sha256": "36bb21b41f8d031286572277e5ef00185e926217e15f1eed63ce6d59516cdf69",
+      "size": 3132,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Background Elements 19"
+    },
+    {
+      "fileName": "background-elements_2.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_2.png",
+      "sha256": "e22b6822633a3b20303c51b02ef0b6ef341ce728f09515c7af7867a77cd6e63e",
+      "size": 3264,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Background Elements 2"
+    },
+    {
+      "fileName": "background-elements_20.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_20.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_20.png",
+      "sha256": "44e3a4ee017a94cda56f5c0e02950824a772425c5ba748057b7141d19d02f867",
+      "size": 3064,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Background Elements 20"
+    },
+    {
+      "fileName": "background-elements_21.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_21.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_21.png",
+      "sha256": "901efb8cb0c150e66cdc23ed5d0c2c6d5bf74674c9500510543971ae55d1da7e",
+      "size": 3533,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Background Elements 21"
+    },
+    {
+      "fileName": "background-elements_3.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_3.png",
+      "sha256": "43ce3ce61591218573c4939db5647349c55fb639b5837a5369b4a905551d368c",
+      "size": 3028,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Background Elements 3"
+    },
+    {
+      "fileName": "background-elements_4.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_4.png",
+      "sha256": "e360d5282a1482214c894c6ad5bf35e65a5e9389bdccbb8fb107c52bafcb5794",
+      "size": 3003,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Background Elements 4"
+    },
+    {
+      "fileName": "background-elements_5.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_5.png",
+      "sha256": "8988d003cc248344ca2686043efffb1117fe4b6fe4c1a04d84259b3a1357cf88",
+      "size": 2970,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Background Elements 5"
+    },
+    {
+      "fileName": "background-elements_6.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_6.png",
+      "sha256": "260ffabbdfc04a6571aa4b2322b0e4df296b17476a9f1fe037ad64ffa2329cc4",
+      "size": 3027,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Background Elements 6"
+    },
+    {
+      "fileName": "background-elements_7.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_7.png",
+      "sha256": "959eb0e35ef1a12f291411256befa82782db774a1e6dccd192070e47599a45f6",
+      "size": 3138,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Background Elements 7"
+    },
+    {
+      "fileName": "background-elements_8.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_8.png",
+      "sha256": "c72e1ed696065efebf48b1c8c80dc0dce61c3c14c0f0edb3d338515fa4f5f0fa",
+      "size": 3020,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Background Elements 8"
+    },
+    {
+      "fileName": "background-elements_9.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/background-elements_9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/background-elements_9.png",
+      "sha256": "5a1dafc82bbba137dbe55220ff29e36beb0b095bc9bf9203922aacac29cd8aee",
+      "size": 3065,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Background Elements 9"
+    },
+    {
+      "fileName": "characters_0-characters.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/characters_0-characters.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/characters_0-characters.png",
+      "sha256": "0634652574a2e05f8257e42a19591d179977dd8f7ec042b6cf893f9fb21f9585",
+      "size": 1164,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Characters 0 Characters"
+    },
+    {
+      "fileName": "characters_1.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/characters_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/characters_1.png",
+      "sha256": "95d0e3cce27118a0239b71decc12171773c40d9d352f1237d6120d8eb461e44f",
+      "size": 3028,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Characters 1"
+    },
+    {
+      "fileName": "characters_10.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/characters_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/characters_10.png",
+      "sha256": "3c23b1f93f4d84a6f98795f3c718b74a0e6f3f5c8f8c4097e1180ec126aa44c2",
+      "size": 3111,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Characters 10"
+    },
+    {
+      "fileName": "characters_2.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/characters_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/characters_2.png",
+      "sha256": "66339f0d4dac950f7d9e8f2c357db3c91772ba72424be4ef6a7768a63bb07f05",
+      "size": 2951,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Characters 2"
+    },
+    {
+      "fileName": "characters_3.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/characters_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/characters_3.png",
+      "sha256": "872c7ff22140885bac8c4881eec237d65559c1aa1f408634d2ad6508a5217bde",
+      "size": 3023,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Characters 3"
+    },
+    {
+      "fileName": "characters_4.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/characters_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/characters_4.png",
+      "sha256": "5cf0366556d7f3cc9fc36a2a527f3033eed14571151c0fe50503eee0345f8c98",
+      "size": 3019,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Characters 4"
+    },
+    {
+      "fileName": "characters_5.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/characters_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/characters_5.png",
+      "sha256": "8553ea00588f388e4212f1fb913447429cb681822d80b2885256cb1f4916bcf2",
+      "size": 3015,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Characters 5"
+    },
+    {
+      "fileName": "characters_6.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/characters_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/characters_6.png",
+      "sha256": "203684740bef3310770051e66877b9111492ae8f35795249dd47fd77f1abb37c",
+      "size": 3007,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Characters 6"
+    },
+    {
+      "fileName": "characters_7.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/characters_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/characters_7.png",
+      "sha256": "dca9931798abc13d500ef7b2d7c236d098500750330e57f442dc73251d2ea3ed",
+      "size": 3084,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Characters 7"
+    },
+    {
+      "fileName": "characters_8.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/characters_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/characters_8.png",
+      "sha256": "9897065b60a878f0e89a2dfc9bdc15671e86edeb248d9795bec756e05bb7358d",
+      "size": 3051,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Characters 8"
+    },
+    {
+      "fileName": "characters_9.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/characters_9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/characters_9.png",
+      "sha256": "cf774d3257143adddef0fa9b37a58e60a868b3fe5bba6121eb14a44efa3c0e5a",
+      "size": 3078,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Characters 9"
+    },
+    {
+      "fileName": "font-1.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/font-1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/font-1.png",
+      "sha256": "76aba39c51882df268577fcbb7816ab3752f7a830ac5a9fc4762d4389db287b4",
+      "size": 4654,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Font 1"
+    },
+    {
+      "fileName": "font-2.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/font-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/font-2.png",
+      "sha256": "360cd539f7fde54cee6fcf005d66b861e919041e1354f7846adff8377571f308",
+      "size": 5275,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Font 2"
+    },
+    {
+      "fileName": "fx_1 (10x10).png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/fx_1 (10x10).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/fx_1%20(10x10).png",
+      "sha256": "7fdf8952f87d77ea325763f6f46601779e08842cf4ea3ddea1361df8242fd0b2",
+      "size": 142,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fx 1 (10x10)"
+    },
+    {
+      "fileName": "fx_10.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/fx_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/fx_10.png",
+      "sha256": "3eda92ffb318e3ea80b80703a49122b7235254ae3b84d3a9cc9faa0fd3eb7e8d",
+      "size": 258,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fx 10"
+    },
+    {
+      "fileName": "fx_11 (14x14).png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/fx_11 (14x14).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/fx_11%20(14x14).png",
+      "sha256": "983dcbe572a7fd56013f4370c27d1cfe34e823e8cf599b8c318de599515a410d",
+      "size": 278,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fx 11 (14x14)"
+    },
+    {
+      "fileName": "fx_2 (13x13).png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/fx_2 (13x13).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/fx_2%20(13x13).png",
+      "sha256": "93509a215a50ce3bfd01732c7f6994e2b73561881c95cf5cd6b656d537a1676a",
+      "size": 161,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fx 2 (13x13)"
+    },
+    {
+      "fileName": "fx_3.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/fx_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/fx_3.png",
+      "sha256": "22b626e8bc1c1a00b999e5e7155f23b117f543159691db567b9d7b6c9d22ceab",
+      "size": 167,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fx 3"
+    },
+    {
+      "fileName": "fx_4 (15x15).png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/fx_4 (15x15).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/fx_4%20(15x15).png",
+      "sha256": "9c8cea819183c48fac384f18e8f50c6baffbdb25f99bea1ef69fb3ab8225c565",
+      "size": 183,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fx 4 (15x15)"
+    },
+    {
+      "fileName": "fx_5 (13x13).png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/fx_5 (13x13).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/fx_5%20(13x13).png",
+      "sha256": "20503540ddf955c9ae26f038fd237abbad75b4c7b74271581277333652e67b05",
+      "size": 264,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fx 5 (13x13)"
+    },
+    {
+      "fileName": "fx_6 (14x14).png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/fx_6 (14x14).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/fx_6%20(14x14).png",
+      "sha256": "a7c2bff6ffe8d63ca3486818816a4c1e2ec8492a8d1374df407a10d1867e4dc4",
+      "size": 327,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fx 6 (14x14)"
+    },
+    {
+      "fileName": "fx_7.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/fx_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/fx_7.png",
+      "sha256": "1c4f246d530e74c162fbe3189c755f5ca0a61a242caed6ef106a476b82d8caad",
+      "size": 448,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fx 7"
+    },
+    {
+      "fileName": "fx_8 (16x16).png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/fx_8 (16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/fx_8%20(16x16).png",
+      "sha256": "11f7a1e5d595a3bc625418ba7303c82f6baf0b6d4fb03bdfe9bcc9cbf9847372",
+      "size": 405,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fx 8 (16x16)"
+    },
+    {
+      "fileName": "fx_9 (13x13).png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/fx_9 (13x13).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/fx_9%20(13x13).png",
+      "sha256": "68a3f004b2182cbfcddaea72e55f7e2d0f2bc7d8c62ba64334cf5efeee5d604b",
+      "size": 318,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fx 9 (13x13)"
+    },
+    {
+      "fileName": "hud_1.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/hud_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/hud_1.png",
+      "sha256": "180c773d630533900bca8e81466a819c557e02620db5e13073821cf95dedb6a4",
+      "size": 3001,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hud 1"
+    },
+    {
+      "fileName": "hud_2.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/hud_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/hud_2.png",
+      "sha256": "96c36a4980c85e1f1f666a4eaa1c1b08241f0e125452f98fb7178e037d8a5eab",
+      "size": 2992,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hud 2"
+    },
+    {
+      "fileName": "hud_empty-heart.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/hud_empty-heart.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/hud_empty-heart.png",
+      "sha256": "2a35e2219816d1640a5071e322a60961242838e62650e98a4f231e0e96eea68f",
+      "size": 2966,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hud Empty Heart"
+    },
+    {
+      "fileName": "hud_full-heart.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/hud_full-heart.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/hud_full-heart.png",
+      "sha256": "3f3e68616c84e13f97a0a4bf2b0dcc4f9a7bac9b61f9333014914e2ccb8cd77f",
+      "size": 2995,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hud Full Heart"
+    },
+    {
+      "fileName": "hud_life-box-2.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/hud_life-box-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/hud_life-box-2.png",
+      "sha256": "fef08c50cfb66221c546beba0a65684f544e9ae4d92275caa5c705a3be1f9d76",
+      "size": 2838,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hud Life Box 2"
+    },
+    {
+      "fileName": "hud_life-box-empty-2.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/hud_life-box-empty-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/hud_life-box-empty-2.png",
+      "sha256": "e2fcf25a0a2700e6b1505fe4d3f1b7509666e1bdccc457683cc5c5190924b020",
+      "size": 2826,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hud Life Box Empty 2"
+    },
+    {
+      "fileName": "hud_life-box-empty.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/hud_life-box-empty.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/hud_life-box-empty.png",
+      "sha256": "3dcd05857f8be49a5fe06edadd6d9f7f91c710d703932675f297bc035afc3b91",
+      "size": 2810,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hud Life Box Empty"
+    },
+    {
+      "fileName": "hud_life-box.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/hud_life-box.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/hud_life-box.png",
+      "sha256": "eaaaf5521e8d0b77e493459307fb2a17f6c75d7c2841317e27d895ee01927123",
+      "size": 2815,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hud Life Box"
+    },
+    {
+      "fileName": "hud_little-box.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/hud_little-box.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/hud_little-box.png",
+      "sha256": "127e6e41bac758ba84bb30c14c6c247c6377bf0904f12abb73f3306a24698860",
+      "size": 2870,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hud Little Box"
+    },
+    {
+      "fileName": "hud_medium-box.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/hud_medium-box.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/hud_medium-box.png",
+      "sha256": "7ffdbb388f0860b6b37fbf28a2f76721edfe1b0dda719a459f7a56fd16e5915a",
+      "size": 2967,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Hud Medium Box"
+    },
+    {
+      "fileName": "items_1.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_1.png",
+      "sha256": "c5f85fc169be94c2cfd6a1dd658c7a105176dc3257f932a79457d850bda62b1e",
+      "size": 2923,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items 1"
+    },
+    {
+      "fileName": "items_10.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_10.png",
+      "sha256": "86db4e2703cce194abeb2f7f125dfda21678085cc955d8b697edaa053a119816",
+      "size": 2909,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items 10"
+    },
+    {
+      "fileName": "items_11.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_11.png",
+      "sha256": "642da7a23450693bb4e93c2b876193a0fd4b4f670cb782a87775e0b47cc6894e",
+      "size": 2913,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items 11"
+    },
+    {
+      "fileName": "items_12.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_12.png",
+      "sha256": "0495ed911b68a6d8fa1c6771895d7505ea98317b17f373940d5d0d529fc5531f",
+      "size": 3021,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items 12"
+    },
+    {
+      "fileName": "items_13.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_13.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_13.png",
+      "sha256": "291b5d295bd6ebc749c8100878d9d4558616cc76e5ddcec1e080b4104c37650d",
+      "size": 3026,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items 13"
+    },
+    {
+      "fileName": "items_14.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_14.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_14.png",
+      "sha256": "692210db67aeab4d829eb3df822b50273efb3ba9b4d5b69fa015cb9a0eb08f7d",
+      "size": 3041,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items 14"
+    },
+    {
+      "fileName": "items_15.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_15.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_15.png",
+      "sha256": "7158e676103f812470da0e60bc46f4bab2462ae790f1ee67870af67c255e82dd",
+      "size": 2871,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items 15"
+    },
+    {
+      "fileName": "items_16.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_16.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_16.png",
+      "sha256": "f938ffe213a0d9018c3ed22d433a6e6bd4f6bbee8f02d2578c4908145f12d74b",
+      "size": 2882,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items 16"
+    },
+    {
+      "fileName": "items_17.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_17.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_17.png",
+      "sha256": "c171a9ea0fad2b00a79525b0d2d28288062baad60d826a4cc9c19d0a20ffdbdc",
+      "size": 2895,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items 17"
+    },
+    {
+      "fileName": "items_18.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_18.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_18.png",
+      "sha256": "0b1fb7c3d8cba4418950351a065b258dfc0caba90e36150bcf78b74d408bec08",
+      "size": 2881,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items 18"
+    },
+    {
+      "fileName": "items_19.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_19.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_19.png",
+      "sha256": "701d6db016a7f97220779db4b178faa394def1cf6482ebb98d7041d5fdb9eef4",
+      "size": 2914,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items 19"
+    },
+    {
+      "fileName": "items_2.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_2.png",
+      "sha256": "cf4ac17990cc817745615c2bcba666b932c1e6aaab3e96cd6d41327a63b2929e",
+      "size": 2972,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items 2"
+    },
+    {
+      "fileName": "items_3.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_3.png",
+      "sha256": "089e652b969c865614423613a4b3bfd6ba9fa22a43b508dbaaf99b3171210227",
+      "size": 2959,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items 3"
+    },
+    {
+      "fileName": "items_4.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_4.png",
+      "sha256": "0c2d12781364d0c1930ea60b8158c291d83a6272b8c7d0a4107e44aac0064a46",
+      "size": 2926,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items 4"
+    },
+    {
+      "fileName": "items_5.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_5.png",
+      "sha256": "9a7ad73bcf071f8c8300b3d284e16b8d92ceada0e458c3081e444748b26e604a",
+      "size": 2900,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items 5"
+    },
+    {
+      "fileName": "items_6.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_6.png",
+      "sha256": "2abc2ff16f8322a6c021d979f2f0a8386c8a853b04b79040ddd5d6102d10731e",
+      "size": 2906,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items 6"
+    },
+    {
+      "fileName": "items_7.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_7.png",
+      "sha256": "b8bf5a6bb530e7465cf67ea2df649a997179d66511d2f251a714c5fee75481d7",
+      "size": 2951,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items 7"
+    },
+    {
+      "fileName": "items_8.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_8.png",
+      "sha256": "fa4dbd073018123547d7600744c79e896c5790e5593caeb48cb612544981adef",
+      "size": 2872,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items 8"
+    },
+    {
+      "fileName": "items_9.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_9.png",
+      "sha256": "f8aa9b0fdba239ceeca88847325a78c549aa074945dbf4874aff3bd9d1ac2abd",
+      "size": 2854,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items 9"
+    },
+    {
+      "fileName": "items_barrel.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_barrel.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_barrel.png",
+      "sha256": "09806d7f28530ccf6b172496528de3b10c27225f2746eb9afc907adcdad599bf",
+      "size": 2950,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Barrel"
+    },
+    {
+      "fileName": "items_crate.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_crate.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_crate.png",
+      "sha256": "7b52ec3f2180f71e72c17578e623f88b07607f4dd3225d53b213d61bddd1ad8e",
+      "size": 2897,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Crate"
+    },
+    {
+      "fileName": "items_element_1.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_element_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_element_1.png",
+      "sha256": "f8f89c893bb0192e199cfd2abd60726858064b3fe748ad995904ab094c11730a",
+      "size": 2947,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Element 1"
+    },
+    {
+      "fileName": "items_element_2.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_element_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_element_2.png",
+      "sha256": "dfc1d10af06c7267c09c49077ed47d1792c16e5cefce398f42590bc4e0513e7d",
+      "size": 2963,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Element 2"
+    },
+    {
+      "fileName": "items_element_3.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_element_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_element_3.png",
+      "sha256": "4c2ec0bbfb9b57be8b02ddae1485ac0b5d34a907c68da451603fa83bde48f87e",
+      "size": 2949,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Element 3"
+    },
+    {
+      "fileName": "items_element_4.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_element_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_element_4.png",
+      "sha256": "4f3e5cf5f30dacf62d3d3f6615480f6655ae2667b4a6c7e893e705b692c154ff",
+      "size": 2947,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Element 4"
+    },
+    {
+      "fileName": "items_element_5.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_element_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_element_5.png",
+      "sha256": "b5c08877c2c593c7be3921ad6f8886f76d08a6b6dd97095b82fd509f50ae9d8f",
+      "size": 2980,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Element 5"
+    },
+    {
+      "fileName": "items_element_6.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_element_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_element_6.png",
+      "sha256": "dfca8d4ffd3754138d77cca9cde6f55b45b296abd05a3a52df20755105a619d5",
+      "size": 3018,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Element 6"
+    },
+    {
+      "fileName": "items_element_7.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_element_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_element_7.png",
+      "sha256": "8269f86050dece5c8efe772460b090573274d56f7e182758074a29b1ca14aa64",
+      "size": 2892,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Element 7"
+    },
+    {
+      "fileName": "items_element_8.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_element_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_element_8.png",
+      "sha256": "2fb76d5516da0a9cbb462d44b8715db34294c06ae960375043d96cdae73beefc",
+      "size": 2976,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Element 8"
+    },
+    {
+      "fileName": "items_element_elements (20x20).png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_element_elements (20x20).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_element_elements%20(20x20).png",
+      "sha256": "f74cb6f67643ae8f3ba532161ad873bd384c9a5086ab98d75ca4e757dde21afd",
+      "size": 729,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Element Elements (20x20)"
+    },
+    {
+      "fileName": "items_emblem_1.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_emblem_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_emblem_1.png",
+      "sha256": "9fc554897d130a6513fa351c3199dc9cf5a648ed55dc6a00a70e6b559d5f1e34",
+      "size": 3300,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Emblem 1"
+    },
+    {
+      "fileName": "items_emblem_2.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_emblem_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_emblem_2.png",
+      "sha256": "ff0ad84bb191637aa8719371dfd5b3caa1bec80d708fcbb4d59eb1f5acb7692c",
+      "size": 3195,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Emblem 2"
+    },
+    {
+      "fileName": "items_emblem_3.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_emblem_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_emblem_3.png",
+      "sha256": "7e0db54472d8699d33b7bd404e86f65abf4510085519ce2b8486487fae306940",
+      "size": 3222,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Emblem 3"
+    },
+    {
+      "fileName": "items_emblem_4.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_emblem_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_emblem_4.png",
+      "sha256": "237ce1cdb9bf382f62b14f4a4c5988c906ce6a36ede7ac3f999268930c90e6d1",
+      "size": 3455,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Emblem 4"
+    },
+    {
+      "fileName": "items_emblem_5.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_emblem_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_emblem_5.png",
+      "sha256": "9f4c2fd082d2894b1c9ccf54e4ca3cfab118ddb4bc1b0ddaa910effab382cea3",
+      "size": 3378,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Emblem 5"
+    },
+    {
+      "fileName": "items_emblem_6.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_emblem_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_emblem_6.png",
+      "sha256": "a7cefefdc22b1af4488f9dd0f89f15302b7b906c00099e4e974ba623de4b0126",
+      "size": 3455,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Emblem 6"
+    },
+    {
+      "fileName": "items_emblem_all.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_emblem_all.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_emblem_all.png",
+      "sha256": "d6d0e0003f1152a6da7225a77a2ccce323f57fbe39d96981762230993cfaf837",
+      "size": 1799,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Emblem All"
+    },
+    {
+      "fileName": "items_food-and-potion_food.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_food-and-potion_food.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_food-and-potion_food.png",
+      "sha256": "ad613804747b447bbe8516bb20e831997245404dc5558df41955ee5a61f10cde",
+      "size": 655,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Food And Potion Food"
+    },
+    {
+      "fileName": "items_food-and-potion_potion (11x11).png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_food-and-potion_potion (11x11).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_food-and-potion_potion%20(11x11).png",
+      "sha256": "c63c27e8d4b8770fdc3374990bb07e0c0b1789acb726a60dd22fa9f1c8277012",
+      "size": 359,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Food And Potion Potion (11x11)"
+    },
+    {
+      "fileName": "items_gold-and-gem_coin.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_coin.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_coin.png",
+      "sha256": "4e504b230a9de25df74cb6d541539fa594e7c92f70570d88cbbe776e46aa99b9",
+      "size": 2921,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Gold And Gem Coin"
+    },
+    {
+      "fileName": "items_gold-and-gem_gem-1.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gem-1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gem-1.png",
+      "sha256": "a4af46951cd3a4bd5d825352ab29b2ecd12684122ab649eab44a4dad79e1adc6",
+      "size": 2900,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Gold And Gem Gem 1"
+    },
+    {
+      "fileName": "items_gold-and-gem_gem-2.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gem-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gem-2.png",
+      "sha256": "6c3268561592678f0f7568b2a27fb6c1e1f5dcef408b565be2c548e9e7e382b1",
+      "size": 2857,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Gold And Gem Gem 2"
+    },
+    {
+      "fileName": "items_gold-and-gem_gem-3.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gem-3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gem-3.png",
+      "sha256": "b020556264cb36059ffde22d98372b00613fa4b562ac8111ddc0a186a411573e",
+      "size": 2859,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Gold And Gem Gem 3"
+    },
+    {
+      "fileName": "items_gold-and-gem_gem-4.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gem-4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gem-4.png",
+      "sha256": "12dc0f585d4c93c1087e3905a8d97e8576c1af853f168d970f0e7c7f1f899652",
+      "size": 2846,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Gold And Gem Gem 4"
+    },
+    {
+      "fileName": "items_gold-and-gem_gold-cup.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gold-cup.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gold-cup.png",
+      "sha256": "db4110093048321418dec10524d2ac08442ffa53e2c4586f18981a46a772d7a4",
+      "size": 2952,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Gold And Gem Gold Cup"
+    },
+    {
+      "fileName": "items_gold-and-gem_gold.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gold.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_gold-and-gem_gold.png",
+      "sha256": "6b9f9daf17f8257ad6f39982f17790989ab8c7296cc337b77e93c856e929a39a",
+      "size": 3144,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Gold And Gem Gold"
+    },
+    {
+      "fileName": "items_gold-chest-close.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_gold-chest-close.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_gold-chest-close.png",
+      "sha256": "c0ced82a649ee192fa906ab6140c2397a8450db2e87a5bc0cd1b4c73c56ffeab",
+      "size": 2917,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Gold Chest Close"
+    },
+    {
+      "fileName": "items_gold-chest-open.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_gold-chest-open.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_gold-chest-open.png",
+      "sha256": "0eef6fcbd72eab214bc52f29a38622aeafb6d1798e391ef56388d29f818f2f4e",
+      "size": 2906,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Gold Chest Open"
+    },
+    {
+      "fileName": "items_other (12x12).png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_other (12x12).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_other%20(12x12).png",
+      "sha256": "5e31bd2f1d1194ac62ac021598c05ec55dd7154e80a7c88c7741f1a5004d3554",
+      "size": 3922,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Other (12x12)"
+    },
+    {
+      "fileName": "items_projectile_1.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_projectile_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_projectile_1.png",
+      "sha256": "c8ed2774ef9196d9507d5c3b095f8b97cfbdbee736b489f9784037533c74e4a2",
+      "size": 2911,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Projectile 1"
+    },
+    {
+      "fileName": "items_projectile_2.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_projectile_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_projectile_2.png",
+      "sha256": "c0d15e4b6936ce24530b2baf44d5600c52f8e84aae7b3417660ba025ba8cc64b",
+      "size": 2921,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Projectile 2"
+    },
+    {
+      "fileName": "items_projectile_3.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_projectile_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_projectile_3.png",
+      "sha256": "d6de27b9e495353c88ea97bd73f4a89002d38d73a49fe9a8ec830f51e92a0928",
+      "size": 2860,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Projectile 3"
+    },
+    {
+      "fileName": "items_projectile_4.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_projectile_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_projectile_4.png",
+      "sha256": "c6c7b3cb45305033c6ce74a6449bb1a843d4060e049ebed800f36a8e180efa09",
+      "size": 2911,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Projectile 4"
+    },
+    {
+      "fileName": "items_projectile_5.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_projectile_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_projectile_5.png",
+      "sha256": "20f14cf53b4ab1db7eeeee96783ef2bdefcc07020f5212a294d7d13888de297e",
+      "size": 2870,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Projectile 5"
+    },
+    {
+      "fileName": "items_projectile_6.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_projectile_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_projectile_6.png",
+      "sha256": "0f01204ef3226d70e4a53a0af5ebff0ce99e336b5dea338bb0841dbc0b70a4ac",
+      "size": 2875,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Projectile 6"
+    },
+    {
+      "fileName": "items_projectile_7.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_projectile_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_projectile_7.png",
+      "sha256": "0b95bb983b3949343618df1999cad79d61d80559d579d0754537330bcb959b01",
+      "size": 2847,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Projectile 7"
+    },
+    {
+      "fileName": "items_projectile_8.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_projectile_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_projectile_8.png",
+      "sha256": "b6ee70a913926be5474de14366af2c77ce0659b953dea302b7943b06b02e9e4f",
+      "size": 3017,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Projectile 8"
+    },
+    {
+      "fileName": "items_weapon_1.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_weapon_1.png",
+      "sha256": "dbc37d53962b2644b262bf8074ead0632afb699cf02cdecc40ac8d10ed40eb40",
+      "size": 2952,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Weapon 1"
+    },
+    {
+      "fileName": "items_weapon_10.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_weapon_10.png",
+      "sha256": "0545a252dd4db4771568e781dca8f2f60c6baf825ef251fa82c1e90f21c21c40",
+      "size": 2913,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Weapon 10"
+    },
+    {
+      "fileName": "items_weapon_11.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_weapon_11.png",
+      "sha256": "0e6d8fba313009ea697ac3a79ad6394cc668a74c88673d92371b91c299c9953a",
+      "size": 2875,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Weapon 11"
+    },
+    {
+      "fileName": "items_weapon_2.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_weapon_2.png",
+      "sha256": "8f1489f1142078fa7c613f6b7e736a86486994eb53a7a58942513461d342743e",
+      "size": 2909,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Weapon 2"
+    },
+    {
+      "fileName": "items_weapon_3.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_weapon_3.png",
+      "sha256": "9c02959a283a238efa229655bf45376f2decf23eb519eae457994f6e584308b0",
+      "size": 2966,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Weapon 3"
+    },
+    {
+      "fileName": "items_weapon_4.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_weapon_4.png",
+      "sha256": "6b3242e6ec6e01a2396edd77766651f4f6d4f781f7d80249f6b2f356d3d41227",
+      "size": 2943,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Weapon 4"
+    },
+    {
+      "fileName": "items_weapon_5.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_weapon_5.png",
+      "sha256": "c68195ce1960f1327c43a9010736fab0ff8c1a6b1ba7e18d8201efa77363c808",
+      "size": 2952,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Weapon 5"
+    },
+    {
+      "fileName": "items_weapon_6.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_weapon_6.png",
+      "sha256": "d34d87a262df1e644625f28c117006704f8d5eda3812764145577ce11d647877",
+      "size": 2948,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Weapon 6"
+    },
+    {
+      "fileName": "items_weapon_7.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_weapon_7.png",
+      "sha256": "f37648495fc809d8ba39955f6da033959adf7e498c5f0d625644228dabfb2461",
+      "size": 2970,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Weapon 7"
+    },
+    {
+      "fileName": "items_weapon_8.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_weapon_8.png",
+      "sha256": "868c52f3bfe023c2ad3661b6af1e0ca58336e58ec5f50ab10f303253d6dc9e80",
+      "size": 2952,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Weapon 8"
+    },
+    {
+      "fileName": "items_weapon_9.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_weapon_9.png",
+      "sha256": "7af52e6913c1d68f473a584edd9c4f684ffa67f8a117bacf5cbb85efb226d3a4",
+      "size": 2868,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Weapon 9"
+    },
+    {
+      "fileName": "items_weapon_weapon.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_weapon_weapon.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_weapon_weapon.png",
+      "sha256": "07be4205a77af632f75d3a9c67fb5b68411a486c9fa433da3fee4f306fe9114c",
+      "size": 726,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Weapon Weapon"
+    },
+    {
+      "fileName": "items_wood-chest-close.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_wood-chest-close.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_wood-chest-close.png",
+      "sha256": "ed914bb0648c98677c6534443bcb45c2d2e8f72e2c732faaad6ad7218bdc734d",
+      "size": 2927,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Wood Chest Close"
+    },
+    {
+      "fileName": "items_wood-chest-open.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/items_wood-chest-open.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/items_wood-chest-open.png",
+      "sha256": "7f58d908a3b9aab3b5b86eb1639fded3f971030a3d86a8191ae313fa0ce4d9dc",
+      "size": 2948,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Items Wood Chest Open"
+    },
+    {
+      "fileName": "monsters_bat.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/monsters_bat.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/monsters_bat.png",
+      "sha256": "884bb994477e9e3038d634c9c5bfa4fa311e9c1dfc4e83703249eabe2b683963",
+      "size": 2967,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Monsters Bat"
+    },
+    {
+      "fileName": "monsters_cyclop (16x16).png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/monsters_cyclop (16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/monsters_cyclop%20(16x16).png",
+      "sha256": "de72ad2b94ab90f1df7b15792d3d846c60c19fc1c6c72c029de50e46db3e9a67",
+      "size": 3405,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Monsters Cyclop (16x16)"
+    },
+    {
+      "fileName": "monsters_dragon.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/monsters_dragon.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/monsters_dragon.png",
+      "sha256": "938c05391ddeb48692a5b35b45c4fe3a24a4ab54556c387ac9ba02da29e63dd4",
+      "size": 3730,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Monsters Dragon"
+    },
+    {
+      "fileName": "monsters_goblin.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/monsters_goblin.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/monsters_goblin.png",
+      "sha256": "306ff97147da520386d1d1563dccf00194e7394f75cb6d5d0af84e6b8110e0e7",
+      "size": 3016,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Monsters Goblin"
+    },
+    {
+      "fileName": "monsters_king-skeleton.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/monsters_king-skeleton.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/monsters_king-skeleton.png",
+      "sha256": "36dfd40d085b251efbf1a2e12b471a0ac993b0830136e430282a8f03413a26bf",
+      "size": 3702,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Monsters King Skeleton"
+    },
+    {
+      "fileName": "monsters_leonard.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/monsters_leonard.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/monsters_leonard.png",
+      "sha256": "8a721d30b54cfc8d8d519dae48caba8700b717d1781b9fff981eb98da7a5e8ef",
+      "size": 3923,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Monsters Leonard"
+    },
+    {
+      "fileName": "monsters_skeleton.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/monsters_skeleton.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/monsters_skeleton.png",
+      "sha256": "76357139e83ddec54c629ee30c2ce70c5fbc5b8c4058b6fa70e4c65742cc6617",
+      "size": 3019,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Monsters Skeleton"
+    },
+    {
+      "fileName": "monsters_slim.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/monsters_slim.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/monsters_slim.png",
+      "sha256": "68776cd6a38b60f15c27e32fc891a701c6e0a6e6465c29e24414768ba20fc15e",
+      "size": 2953,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Monsters Slim"
+    },
+    {
+      "fileName": "monsters_snake.png",
+      "path": "packs/pixelboy-medieval-fantasy/sprites/monsters_snake.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/pixelboy-medieval-fantasy/sprites/monsters_snake.png",
+      "sha256": "0864e79e3fbb42cd590bf82b4f657c8cf88f099af6d29f032b5eb656383c7dd1",
+      "size": 3191,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Monsters Snake"
+    }
+  ]
+}

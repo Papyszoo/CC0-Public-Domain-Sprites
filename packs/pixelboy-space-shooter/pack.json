@@ -1,0 +1,17 @@
+{
+  "name": "Space Shooter",
+  "creator": "Pixel-boy",
+  "website": "https://github.com/sparklinlabs/superpowers-asset-packs",
+  "license": "CC0",
+  "description": "Retro arcade space shooter pixel art sprites by Pixel-boy: starfighter player ships, alien swarm fleets, mothership bosses, laser beams, energy shields, asteroids, and explosions.",
+  "generation": {
+    "category": "Items & Icons",
+    "allowed_categories": [
+      "Items & Icons",
+      "Creatures",
+      "Effects",
+      "UI",
+      "Tilesets & Environments"
+    ]
+  }
+}

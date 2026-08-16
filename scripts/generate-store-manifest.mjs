@@ -140,33 +140,48 @@ function categorize(relPath, options = {}) {
   // 2. Directory segment & prefix mapping
   const segments = normalized.split('/').filter(Boolean);
   for (const seg of segments) {
-    if ((seg === 'characters' || seg === 'character' || seg.includes('main characters') || seg.includes('-player-') || baseName.startsWith('infantry_')) && (!allowedCategories || allowedCategories.has('Characters'))) {
+    if ((seg === 'characters' || seg === 'character' || seg.includes('main characters') || seg.includes('-player-') || baseName.startsWith('infantry_') || baseName.startsWith('characters_') || baseName.startsWith('char_')) && (!allowedCategories || allowedCategories.has('Characters'))) {
+      if (baseName.includes('faceset') || baseName.includes('portrait')) return { category: 'Characters', subcategory: 'Portraits & Avatars' };
       return { category: 'Characters', subcategory: 'Humanoids' };
     }
-    if ((seg === 'creatures' || seg === 'monsters' || seg === 'enemies' || seg.includes('-enemy-') || seg.includes('pig') || baseName.startsWith('animals_')) && (!allowedCategories || allowedCategories.has('Creatures'))) {
-      if (seg.includes('whale') || seg.includes('bird') || seg.includes('duck') || seg.includes('turtle') || baseName.startsWith('animals_')) {
+    if ((seg === 'creatures' || seg === 'monsters' || seg === 'enemies' || seg.includes('-enemy-') || seg.includes('pig') || baseName.startsWith('animals_') || baseName.startsWith('monsters_') || baseName.startsWith('monster_')) && (!allowedCategories || allowedCategories.has('Creatures'))) {
+      if (seg.includes('whale') || seg.includes('bird') || seg.includes('duck') || seg.includes('turtle') || baseName.startsWith('animals_') || baseName.includes('dog') || baseName.includes('cat') || baseName.includes('horse')) {
         return { category: 'Creatures', subcategory: 'Animals' };
       }
       return { category: 'Creatures', subcategory: 'Monsters' };
     }
-    if ((seg === 'tilesets' || seg === 'tiles' || seg === 'environments' || seg === 'terrain' || seg.includes('tile-set') || seg.includes('tileset') || baseName.startsWith('buildings_')) && (!allowedCategories || allowedCategories.has('Tilesets & Environments'))) {
-      if (baseName.startsWith('buildings_')) return { category: 'Tilesets & Environments', subcategory: 'Architecture' };
+    if ((seg === 'tilesets' || seg === 'tiles' || seg === 'environments' || seg === 'terrain' || seg.includes('tile-set') || seg.includes('tileset') || baseName.startsWith('buildings_') || baseName.startsWith('background-elements_') || baseName.startsWith('background_elements_')) && (!allowedCategories || allowedCategories.has('Tilesets & Environments'))) {
+      if (baseName.startsWith('buildings_') || baseName.includes('building') || baseName.includes('house') || baseName.includes('castle')) return { category: 'Tilesets & Environments', subcategory: 'Architecture' };
+      if (baseName.includes('tree') || baseName.includes('plant') || baseName.includes('bush') || baseName.includes('flower')) return { category: 'Tilesets & Environments', subcategory: 'Foliage & Props' };
       return { category: 'Tilesets & Environments', subcategory: 'Terrain & Platforms' };
     }
-    if ((seg === 'items' || seg === 'icons' || seg.includes('objects') || baseName.startsWith('vehicles_') || baseName.startsWith('aircraft_') || baseName.startsWith('ships_')) && (!allowedCategories || allowedCategories.has('Items & Icons'))) {
-      if (baseName.includes('bomb') || baseName.includes('cannon')) return { category: 'Items & Icons', subcategory: 'Weapons' };
-      if (baseName.includes('coin') || baseName.includes('diamond') || baseName.includes('heart') || baseName.includes('live')) return { category: 'Items & Icons', subcategory: 'Loot & Coins' };
-      if (baseName.includes('potion') || baseName.includes('fruit')) return { category: 'Items & Icons', subcategory: 'Consumables' };
+    if ((seg === 'weapons' || baseName.startsWith('weapons_') || baseName.startsWith('weapon_')) && (!allowedCategories || allowedCategories.has('Items & Icons'))) {
+      return { category: 'Items & Icons', subcategory: 'Weapons' };
+    }
+    if ((seg === 'items' || seg === 'icons' || seg.includes('objects') || baseName.startsWith('vehicles_') || baseName.startsWith('aircraft_') || baseName.startsWith('ships_') || baseName.startsWith('item_') || baseName.startsWith('items_')) && (!allowedCategories || allowedCategories.has('Items & Icons'))) {
+      if (baseName.includes('bomb') || baseName.includes('cannon') || baseName.includes('sword') || baseName.includes('axe') || baseName.includes('bow') || baseName.includes('gun') || baseName.includes('pistol')) return { category: 'Items & Icons', subcategory: 'Weapons' };
+      if (baseName.includes('coin') || baseName.includes('diamond') || baseName.includes('heart') || baseName.includes('live') || baseName.includes('gem') || baseName.includes('gold')) return { category: 'Items & Icons', subcategory: 'Loot & Coins' };
+      if (baseName.includes('potion') || baseName.includes('fruit') || baseName.includes('food') || baseName.includes('bread') || baseName.includes('meat')) return { category: 'Items & Icons', subcategory: 'Consumables' };
+      if (baseName.includes('armor') || baseName.includes('helmet') || baseName.includes('boot') || baseName.includes('glove')) return { category: 'Items & Icons', subcategory: 'Armor & Clothing' };
       return { category: 'Items & Icons', subcategory: 'Tools & Resources' };
     }
-    if ((seg === 'ui' || seg === 'gui' || seg === 'interface' || seg.includes('dialogue')) && (!allowedCategories || allowedCategories.has('UI'))) {
-      if (seg.includes('dialogue')) return { category: 'UI', subcategory: 'Panels & Windows' };
+    if ((seg === 'ui' || seg === 'gui' || seg === 'interface' || seg.includes('dialogue') || baseName.startsWith('hud_') || baseName.startsWith('ui_')) && (!allowedCategories || allowedCategories.has('UI'))) {
+      if (seg.includes('dialogue') || baseName.includes('panel') || baseName.includes('window') || baseName.includes('box')) return { category: 'UI', subcategory: 'Panels & Windows' };
+      if (baseName.includes('font') || baseName.includes('number')) return { category: 'UI', subcategory: 'Fonts & Numbers' };
+      if (baseName.includes('heart') || baseName.includes('life') || baseName.includes('icon') || baseName.includes('hud')) return { category: 'UI', subcategory: 'HUD & Icons' };
+      if (baseName.includes('bar') || baseName.includes('gauge')) return { category: 'UI', subcategory: 'Bars & Gauges' };
       return { category: 'UI', subcategory: 'Buttons & Controls' };
     }
-    if ((seg === 'effects' || seg === 'fx' || seg === 'particles' || seg.includes('traps') || seg.includes('effect') || baseName.startsWith('effects_')) && (!allowedCategories || allowedCategories.has('Effects'))) {
+    if ((seg === 'effects' || seg === 'fx' || seg === 'particles' || seg.includes('traps') || seg.includes('effect') || baseName.startsWith('effects_') || baseName.startsWith('fx_') || baseName.startsWith('particles_')) && (!allowedCategories || allowedCategories.has('Effects'))) {
+      if (baseName.includes('explosion') || baseName.includes('smoke')) return { category: 'Effects', subcategory: 'Explosions & Smoke' };
+      if (baseName.includes('fire') || baseName.includes('flame')) return { category: 'Effects', subcategory: 'Fire & Flames' };
+      if (baseName.includes('water') || baseName.includes('splash')) return { category: 'Effects', subcategory: 'Water & Splashes' };
+      if (baseName.includes('hit') || baseName.includes('slash')) return { category: 'Effects', subcategory: 'Hits & Slashes' };
+      if (baseName.includes('magic') || baseName.includes('spell') || baseName.includes('laser') || baseName.includes('beam')) return { category: 'Effects', subcategory: 'Magic & Spells' };
       return { category: 'Effects', subcategory: 'Particles' };
     }
-    if ((seg === 'backgrounds' || seg === 'background' || seg === 'parallax') && (!allowedCategories || allowedCategories.has('Backgrounds'))) {
+    if ((seg === 'backgrounds' || seg === 'background' || seg === 'parallax' || baseName.startsWith('backgrounds_') || baseName.startsWith('layers_')) && (!allowedCategories || allowedCategories.has('Backgrounds'))) {
+      if (baseName.includes('layer') || baseName.startsWith('layers_') || baseName.includes('parallax')) return { category: 'Backgrounds', subcategory: 'Parallax' };
       return { category: 'Backgrounds', subcategory: 'Landscapes & Vistas' };
     }
   }

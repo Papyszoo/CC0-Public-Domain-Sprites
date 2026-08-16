@@ -580,6 +580,130 @@ async function intakeHardVacuum() {
     }
 }
 
+async function intakeSuperpowers() {
+    const srcBase = "/tmp/superpowers_packs";
+    if (!fs.existsSync(srcBase)) return;
+
+    const packsConfig = [
+        {
+            slug: "pixelboy-medieval-fantasy",
+            folder: "medieval-fantasy",
+            name: "Medieval Fantasy",
+            creator: "Pixel-boy",
+            website: "https://github.com/sparklinlabs/superpowers-asset-packs",
+            license: "CC0",
+            description: "16-bit medieval fantasy pixel art sprites by Pixel-boy: knights, archers, wizards, castle and dungeon tilesets, dragons, goblins, skeletons, chests, potions, and weapons.",
+            cover: "preview.png",
+            category: "Characters",
+            allowed_categories: ["Characters", "Creatures", "Items & Icons", "Tilesets & Environments", "Effects", "UI"]
+        },
+        {
+            slug: "pixelboy-ninja-adventure",
+            folder: "ninja-adventure",
+            name: "Ninja Adventure",
+            creator: "Pixel-boy",
+            website: "https://github.com/sparklinlabs/superpowers-asset-packs",
+            license: "CC0",
+            description: "Action adventure ninja pixel art sprites by Pixel-boy: ninjas, samurai, shurikens, katanas, bamboo forest tiles, Japanese village buildings, monsters, smoke bombs, and FX.",
+            cover: "preview-part-1.png",
+            category: "Characters",
+            allowed_categories: ["Characters", "Creatures", "Items & Icons", "Tilesets & Environments", "Effects", "UI"]
+        },
+        {
+            slug: "pixelboy-prehistoric-platformer",
+            folder: "prehistoric-platformer",
+            name: "Prehistoric Platformer",
+            creator: "Pixel-boy",
+            website: "https://github.com/sparklinlabs/superpowers-asset-packs",
+            license: "CC0",
+            description: "Prehistoric dinosaur platformer pixel art sprites by Pixel-boy: cavemen, T-rex, triceratops, pterodactyl, mammoth, bone clubs, stone axes, jungle & cave tilesets.",
+            cover: "preview.png",
+            category: "Characters",
+            allowed_categories: ["Characters", "Creatures", "Items & Icons", "Tilesets & Environments", "Effects", "UI"]
+        },
+        {
+            slug: "pixelboy-rpg-battle-system",
+            folder: "rpg-battle-system",
+            name: "RPG Battle System",
+            creator: "Pixel-boy",
+            website: "https://github.com/sparklinlabs/superpowers-asset-packs",
+            license: "CC0",
+            description: "Turn-based RPG battle pixel art sprites by Pixel-boy: battle heroes (warrior, mage, rogue, healer), animated battle monsters, elemental spell effects, status icons, and UI.",
+            cover: "preview.png",
+            category: "Characters",
+            allowed_categories: ["Characters", "Creatures", "Items & Icons", "Effects", "UI", "Backgrounds"]
+        },
+        {
+            slug: "pixelboy-space-shooter",
+            folder: "space-shooter",
+            name: "Space Shooter",
+            creator: "Pixel-boy",
+            website: "https://github.com/sparklinlabs/superpowers-asset-packs",
+            license: "CC0",
+            description: "Retro arcade space shooter pixel art sprites by Pixel-boy: starfighter player ships, alien swarm fleets, mothership bosses, laser beams, energy shields, asteroids, and explosions.",
+            cover: "preview.png",
+            category: "Items & Icons",
+            allowed_categories: ["Items & Icons", "Creatures", "Effects", "UI", "Tilesets & Environments"]
+        },
+        {
+            slug: "pixelboy-top-down-shooter",
+            folder: "top-down-shooter",
+            name: "Top-Down Shooter",
+            creator: "Pixel-boy",
+            website: "https://github.com/sparklinlabs/superpowers-asset-packs",
+            license: "CC0",
+            description: "Top-down survival shooter pixel art sprites by Pixel-boy: commando soldiers, zombie hordes, assault rifles, shotguns, bullet casings, blood splatters, and urban warehouse tiles.",
+            cover: "preview.png",
+            category: "Characters",
+            allowed_categories: ["Characters", "Creatures", "Items & Icons", "Tilesets & Environments", "Effects", "UI"]
+        },
+        {
+            slug: "pixelboy-western-fps-2d",
+            folder: "western-fps-2d",
+            name: "Western 2D & FPS",
+            creator: "Pixel-boy",
+            website: "https://github.com/sparklinlabs/superpowers-asset-packs",
+            license: "CC0",
+            description: "Wild West pixel art sprites by Pixel-boy: sheriffs, outlaws, saloon interiors, revolvers, dynamite, wanted posters, tumbleweeds, and desert town tilesets.",
+            cover: "preview.png",
+            category: "Characters",
+            allowed_categories: ["Characters", "Creatures", "Items & Icons", "Tilesets & Environments", "Effects", "UI"]
+        },
+        {
+            slug: "pixelboy-parallax-backgrounds",
+            folder: "backgrounds",
+            name: "Parallax Backgrounds",
+            creator: "Pixel-boy",
+            website: "https://github.com/sparklinlabs/superpowers-asset-packs",
+            license: "CC0",
+            description: "Seamless looping multi-layer parallax backgrounds by Pixel-boy: deep space, cloudy skies, snowy mountains, dense forests, desert dunes, and cyberpunk cityscapes.",
+            cover: "preview.png",
+            category: "Backgrounds",
+            allowed_categories: ["Backgrounds"]
+        }
+    ];
+
+    for (const cfg of packsConfig) {
+        const destDir = path.join(PACKS_DIR, cfg.slug);
+        const spritesDir = path.join(destDir, "sprites");
+        fs.mkdirSync(spritesDir, { recursive: true });
+
+        const packJson = {
+            name: cfg.name,
+            creator: cfg.creator,
+            website: cfg.website,
+            license: cfg.license,
+            description: cfg.description,
+            generation: {
+                category: cfg.category,
+                allowed_categories: cfg.allowed_categories
+            }
+        };
+        fs.writeFileSync(path.join(destDir, "pack.json"), JSON.stringify(packJson, null, 2) + "\n");
+        console.log(`✓ ${cfg.slug} intaked`);
+    }
+}
+
 async function main() {
     await intakePixelAdventure1();
     await intakePixelAdventure2();
@@ -588,6 +712,7 @@ async function main() {
     await intakePlanetCute();
     await intakeDCSS();
     await intakeHardVacuum();
+    await intakeSuperpowers();
 }
 
 main().catch(err => {

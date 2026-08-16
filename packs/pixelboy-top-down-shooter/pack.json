@@ -1,0 +1,18 @@
+{
+  "name": "Top-Down Shooter",
+  "creator": "Pixel-boy",
+  "website": "https://github.com/sparklinlabs/superpowers-asset-packs",
+  "license": "CC0",
+  "description": "Top-down survival shooter pixel art sprites by Pixel-boy: commando soldiers, zombie hordes, assault rifles, shotguns, bullet casings, blood splatters, and urban warehouse tiles.",
+  "generation": {
+    "category": "Characters",
+    "allowed_categories": [
+      "Characters",
+      "Creatures",
+      "Items & Icons",
+      "Tilesets & Environments",
+      "Effects",
+      "UI"
+    ]
+  }
+}

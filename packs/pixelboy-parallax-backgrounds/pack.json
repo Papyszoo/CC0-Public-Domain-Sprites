@@ -1,0 +1,13 @@
+{
+  "name": "Parallax Backgrounds",
+  "creator": "Pixel-boy",
+  "website": "https://github.com/sparklinlabs/superpowers-asset-packs",
+  "license": "CC0",
+  "description": "Seamless looping multi-layer parallax backgrounds by Pixel-boy: deep space, cloudy skies, snowy mountains, dense forests, desert dunes, and cyberpunk cityscapes.",
+  "generation": {
+    "category": "Backgrounds",
+    "allowed_categories": [
+      "Backgrounds"
+    ]
+  }
+}

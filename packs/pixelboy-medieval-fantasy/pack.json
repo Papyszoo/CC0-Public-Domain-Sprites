@@ -1,0 +1,18 @@
+{
+  "name": "Medieval Fantasy",
+  "creator": "Pixel-boy",
+  "website": "https://github.com/sparklinlabs/superpowers-asset-packs",
+  "license": "CC0",
+  "description": "16-bit medieval fantasy pixel art sprites by Pixel-boy: knights, archers, wizards, castle and dungeon tilesets, dragons, goblins, skeletons, chests, potions, and weapons.",
+  "generation": {
+    "category": "Characters",
+    "allowed_categories": [
+      "Characters",
+      "Creatures",
+      "Items & Icons",
+      "Tilesets & Environments",
+      "Effects",
+      "UI"
+    ]
+  }
+}
