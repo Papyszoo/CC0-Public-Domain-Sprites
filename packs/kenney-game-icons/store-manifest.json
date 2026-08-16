@@ -6,7 +6,7 @@
   "website": "https://kenney.nl",
   "description": "500+ game and UI icons: controls, audio, media, inventory, tools, buttons, and status indicators by Kenney (kenney.nl). CC0 1.0 Universal public domain.",
   "folder": "packs/kenney-game-icons",
-  "pinnedSha": "0cc96d965b06bf7afdc89276d78327300a51b498",
+  "pinnedSha": "409165adade9353f093bbb32753442fa54da656c",
   "itemCount": 105,
   "items": [
     {
@@ -1274,7 +1274,7 @@
     {
       "fileName": "arrowDown.png",
       "path": "packs/kenney-game-icons/sprites/arrowDown.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/arrowDown.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/arrowDown.png",
       "sha256": "187df6603922dbde3db15f0f28033e2f7e74435a017095d56cf617bf4eee6c59",
       "size": 15328,
       "role": "Image"
@@ -1282,7 +1282,7 @@
     {
       "fileName": "arrowLeft.png",
       "path": "packs/kenney-game-icons/sprites/arrowLeft.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/arrowLeft.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/arrowLeft.png",
       "sha256": "ae31db60393c860e404cda7193c843fe027a1542202bf7ffbab90b774f342cb6",
       "size": 15286,
       "role": "Image"
@@ -1290,7 +1290,7 @@
     {
       "fileName": "arrowRight.png",
       "path": "packs/kenney-game-icons/sprites/arrowRight.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/arrowRight.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/arrowRight.png",
       "sha256": "768d7d882448f78554b4a379b2e8f217403e073c9b1735744a8c92ba7d31005f",
       "size": 15282,
       "role": "Image"
@@ -1298,7 +1298,7 @@
     {
       "fileName": "arrowUp.png",
       "path": "packs/kenney-game-icons/sprites/arrowUp.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/arrowUp.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/arrowUp.png",
       "sha256": "7a6ef6093124f3bea577062fda23533e136d58a5a5b31d3d3841707f1082e677",
       "size": 15229,
       "role": "Image"
@@ -1306,7 +1306,7 @@
     {
       "fileName": "audioOff.png",
       "path": "packs/kenney-game-icons/sprites/audioOff.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/audioOff.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/audioOff.png",
       "sha256": "c82e3784acee369264aa9e6cfc91973729982db5a2154d6ecddfd1927414d676",
       "size": 15311,
       "role": "Image"
@@ -1314,7 +1314,7 @@
     {
       "fileName": "audioOn.png",
       "path": "packs/kenney-game-icons/sprites/audioOn.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/audioOn.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/audioOn.png",
       "sha256": "aee49ff7b9151214178079eb860a341958ba54627c93d0b2636b05670a37a585",
       "size": 15628,
       "role": "Image"
@@ -1322,7 +1322,7 @@
     {
       "fileName": "barsHorizontal.png",
       "path": "packs/kenney-game-icons/sprites/barsHorizontal.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/barsHorizontal.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/barsHorizontal.png",
       "sha256": "3b8529604d7c8a3a28aa39709b8838031c87062a8e5a5ee0087c7e9d0357a14d",
       "size": 15220,
       "role": "Image"
@@ -1330,7 +1330,7 @@
     {
       "fileName": "barsVertical.png",
       "path": "packs/kenney-game-icons/sprites/barsVertical.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/barsVertical.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/barsVertical.png",
       "sha256": "901ee49ac4325ce470b3fc19b6cc383bd65f917b4ba3d8fd7204bb327e4846ff",
       "size": 15163,
       "role": "Image"
@@ -1338,7 +1338,7 @@
     {
       "fileName": "button1.png",
       "path": "packs/kenney-game-icons/sprites/button1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/button1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/button1.png",
       "sha256": "9b9b626528ff73423da83f061f2a599156dc49bfedcba30a1313f3ecb0ed20f2",
       "size": 15718,
       "role": "Image"
@@ -1346,7 +1346,7 @@
     {
       "fileName": "button2.png",
       "path": "packs/kenney-game-icons/sprites/button2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/button2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/button2.png",
       "sha256": "7f6e4ba543e07918f941b299fba1cffc93178bfbad98e8c3e1aa2580a7edf301",
       "size": 15921,
       "role": "Image"
@@ -1354,7 +1354,7 @@
     {
       "fileName": "button3.png",
       "path": "packs/kenney-game-icons/sprites/button3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/button3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/button3.png",
       "sha256": "507718d79295dcba749fdf93e20e35c60844400e85d9337e465bacd7e51c4f51",
       "size": 15948,
       "role": "Image"
@@ -1362,7 +1362,7 @@
     {
       "fileName": "buttonA.png",
       "path": "packs/kenney-game-icons/sprites/buttonA.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/buttonA.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/buttonA.png",
       "sha256": "1e000a513313651db35920569af754431fa3961b42099c27adfffdcc9b2a81dd",
       "size": 15943,
       "role": "Image"
@@ -1370,7 +1370,7 @@
     {
       "fileName": "buttonB.png",
       "path": "packs/kenney-game-icons/sprites/buttonB.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/buttonB.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/buttonB.png",
       "sha256": "231e4efa8445dcb0a70c28fc75f09590671f921262964d5b28765b750d46f236",
       "size": 15907,
       "role": "Image"
@@ -1378,7 +1378,7 @@
     {
       "fileName": "buttonL.png",
       "path": "packs/kenney-game-icons/sprites/buttonL.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/buttonL.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/buttonL.png",
       "sha256": "d8d5354d039084aad473a6ebb937edd058db35621e1ca1596506be5c6296740a",
       "size": 15183,
       "role": "Image"
@@ -1386,7 +1386,7 @@
     {
       "fileName": "buttonL1.png",
       "path": "packs/kenney-game-icons/sprites/buttonL1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/buttonL1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/buttonL1.png",
       "sha256": "bb11ca705cbc2100dd09652eaf60567550355ab9712fd790e29567e0464c6944",
       "size": 15222,
       "role": "Image"
@@ -1394,7 +1394,7 @@
     {
       "fileName": "buttonL2.png",
       "path": "packs/kenney-game-icons/sprites/buttonL2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/buttonL2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/buttonL2.png",
       "sha256": "5247a466d61f2c5af352c69855150d8b856a94e9fb51b2daa3667682341df1f7",
       "size": 15389,
       "role": "Image"
@@ -1402,7 +1402,7 @@
     {
       "fileName": "buttonR.png",
       "path": "packs/kenney-game-icons/sprites/buttonR.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/buttonR.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/buttonR.png",
       "sha256": "5c25e2e9fcc5ca9279efb45e4a1ca83909eb40e8bfa57263605e6c8ed6c2d88c",
       "size": 15366,
       "role": "Image"
@@ -1410,7 +1410,7 @@
     {
       "fileName": "buttonR1.png",
       "path": "packs/kenney-game-icons/sprites/buttonR1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/buttonR1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/buttonR1.png",
       "sha256": "c7141864adffe655db54bc0c5eb51985b8ab14d4bf2412933bdff611801c7b0a",
       "size": 15362,
       "role": "Image"
@@ -1418,7 +1418,7 @@
     {
       "fileName": "buttonR2.png",
       "path": "packs/kenney-game-icons/sprites/buttonR2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/buttonR2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/buttonR2.png",
       "sha256": "649b07c206bcbde8f348a9fdc864eef2dd1dd56da803609c1ac5332ba76e8a86",
       "size": 15512,
       "role": "Image"
@@ -1426,7 +1426,7 @@
     {
       "fileName": "buttonSelect.png",
       "path": "packs/kenney-game-icons/sprites/buttonSelect.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/buttonSelect.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/buttonSelect.png",
       "sha256": "c3a0f57c0efef98f4ebb12aa3befb9e4e12afea95f004efc3c37bd0be8bf8f9c",
       "size": 15634,
       "role": "Image"
@@ -1434,7 +1434,7 @@
     {
       "fileName": "buttonStart.png",
       "path": "packs/kenney-game-icons/sprites/buttonStart.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/buttonStart.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/buttonStart.png",
       "sha256": "881181f5dc75bcadb854ce3a37885b172f3e6a5c382ae1d177b8edf1e5b42e91",
       "size": 15604,
       "role": "Image"
@@ -1442,7 +1442,7 @@
     {
       "fileName": "buttonX.png",
       "path": "packs/kenney-game-icons/sprites/buttonX.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/buttonX.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/buttonX.png",
       "sha256": "a9e5243ae0d88dc1a32e1be7e42860d896cf0b2581552517d6fe0d760dd69a8f",
       "size": 15991,
       "role": "Image"
@@ -1450,7 +1450,7 @@
     {
       "fileName": "buttonY.png",
       "path": "packs/kenney-game-icons/sprites/buttonY.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/buttonY.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/buttonY.png",
       "sha256": "1b1b6d7800a72d418e1eb79e3d1cfd4e2c95ad8981707f11526c1aa9c6b058b2",
       "size": 15929,
       "role": "Image"
@@ -1458,7 +1458,7 @@
     {
       "fileName": "checkmark.png",
       "path": "packs/kenney-game-icons/sprites/checkmark.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/checkmark.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/checkmark.png",
       "sha256": "00e3025322ddb4948598b7fb8d385762073de7b2b534d2cfd44372072608a92a",
       "size": 15751,
       "role": "Image"
@@ -1466,7 +1466,7 @@
     {
       "fileName": "contrast.png",
       "path": "packs/kenney-game-icons/sprites/contrast.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/contrast.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/contrast.png",
       "sha256": "edf0020bfe89b387c3d2eed687509f463d8d1c79dec7957549deb7e2b8eab66e",
       "size": 15870,
       "role": "Image"
@@ -1474,7 +1474,7 @@
     {
       "fileName": "cross.png",
       "path": "packs/kenney-game-icons/sprites/cross.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/cross.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/cross.png",
       "sha256": "8293e3758e7df2eb1c5bb8d6979cccc826e66c28f8c703e6cbb0a54a3c0efc33",
       "size": 15480,
       "role": "Image"
@@ -1482,7 +1482,7 @@
     {
       "fileName": "down.png",
       "path": "packs/kenney-game-icons/sprites/down.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/down.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/down.png",
       "sha256": "f7fbf10f136c4d8399d20c59280b4297bf645ede68b5327a1e4fcf261ecdfd39",
       "size": 15313,
       "role": "Image"
@@ -1490,7 +1490,7 @@
     {
       "fileName": "downLeft.png",
       "path": "packs/kenney-game-icons/sprites/downLeft.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/downLeft.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/downLeft.png",
       "sha256": "4b5df109fed2652fcd5bed7e78da5620f2b8b0a17f94f94f94b766d2d301012d",
       "size": 15412,
       "role": "Image"
@@ -1498,7 +1498,7 @@
     {
       "fileName": "downRight.png",
       "path": "packs/kenney-game-icons/sprites/downRight.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/downRight.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/downRight.png",
       "sha256": "0e86bc91a284ea34035aa7116e06484f6f3170f1d5ec275c1ada3d15a18802ff",
       "size": 15441,
       "role": "Image"
@@ -1506,7 +1506,7 @@
     {
       "fileName": "exclamation.png",
       "path": "packs/kenney-game-icons/sprites/exclamation.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/exclamation.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/exclamation.png",
       "sha256": "60faed6673976798a058071fade4861fa246638d9619a5bd261e93e766c69928",
       "size": 15304,
       "role": "Image"
@@ -1514,7 +1514,7 @@
     {
       "fileName": "exit.png",
       "path": "packs/kenney-game-icons/sprites/exit.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/exit.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/exit.png",
       "sha256": "a59692fdb84e8c4f92d5da919cf8b7396a8bc8979007a19f9b2e6b63dc007f52",
       "size": 15378,
       "role": "Image"
@@ -1522,7 +1522,7 @@
     {
       "fileName": "exitLeft.png",
       "path": "packs/kenney-game-icons/sprites/exitLeft.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/exitLeft.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/exitLeft.png",
       "sha256": "f329616c6f62d986ac69f0d8e56c9ebd117e2b8b90419d155669e34827e8efb9",
       "size": 15338,
       "role": "Image"
@@ -1530,7 +1530,7 @@
     {
       "fileName": "exitRight.png",
       "path": "packs/kenney-game-icons/sprites/exitRight.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/exitRight.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/exitRight.png",
       "sha256": "1ecb1247f22644952fb032461cb0b40ef601de9eee5f88bd49bf7015260470a8",
       "size": 15305,
       "role": "Image"
@@ -1538,7 +1538,7 @@
     {
       "fileName": "export.png",
       "path": "packs/kenney-game-icons/sprites/export.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/export.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/export.png",
       "sha256": "1007229740b373c9478a62bffec84e5a252454a970422f8d395c96ed07a22e81",
       "size": 15268,
       "role": "Image"
@@ -1546,7 +1546,7 @@
     {
       "fileName": "fastForward.png",
       "path": "packs/kenney-game-icons/sprites/fastForward.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/fastForward.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/fastForward.png",
       "sha256": "7530d9bdfc4fc12a682365db063a1ebaab54184f4acf849f6fc02652bac1b4ce",
       "size": 15352,
       "role": "Image"
@@ -1554,7 +1554,7 @@
     {
       "fileName": "gamepad.png",
       "path": "packs/kenney-game-icons/sprites/gamepad.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/gamepad.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/gamepad.png",
       "sha256": "409ec081344f893b7103c98ec3aec00b1709a4ee74679e3da2b877d9fb0a2275",
       "size": 15325,
       "role": "Image"
@@ -1562,7 +1562,7 @@
     {
       "fileName": "gamepad1.png",
       "path": "packs/kenney-game-icons/sprites/gamepad1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/gamepad1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/gamepad1.png",
       "sha256": "e5dea8a18dce0ef6628bbd51c273447e4c0caf03f2e680feebe7670fddc0337a",
       "size": 16017,
       "role": "Image"
@@ -1570,7 +1570,7 @@
     {
       "fileName": "gamepad2.png",
       "path": "packs/kenney-game-icons/sprites/gamepad2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/gamepad2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/gamepad2.png",
       "sha256": "e8d5e7ea1cb0d7376093651caed67c379198dc95de2f64e448af493453d365a9",
       "size": 16071,
       "role": "Image"
@@ -1578,7 +1578,7 @@
     {
       "fileName": "gamepad3.png",
       "path": "packs/kenney-game-icons/sprites/gamepad3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/gamepad3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/gamepad3.png",
       "sha256": "f3a6b1f032f1f836e722588a5e3650bdebcc0a74fbe97e5c6cf555213279f4d8",
       "size": 16055,
       "role": "Image"
@@ -1586,7 +1586,7 @@
     {
       "fileName": "gamepad4.png",
       "path": "packs/kenney-game-icons/sprites/gamepad4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/gamepad4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/gamepad4.png",
       "sha256": "fab07d458ed0a8b1d24a78420cadfef6ff940bb99a3896e4adf20a6b52a47ed1",
       "size": 16028,
       "role": "Image"
@@ -1594,7 +1594,7 @@
     {
       "fileName": "gear.png",
       "path": "packs/kenney-game-icons/sprites/gear.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/gear.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/gear.png",
       "sha256": "50b313ffe97db1733e529d5b0f5ac91eed5c0c8ffee1034bbb7766508e4f720c",
       "size": 16228,
       "role": "Image"
@@ -1602,7 +1602,7 @@
     {
       "fileName": "home.png",
       "path": "packs/kenney-game-icons/sprites/home.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/home.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/home.png",
       "sha256": "1f6d39df47cb8849feb8f01aad329583f5f014c449c622b39aa154a3eca55160",
       "size": 15222,
       "role": "Image"
@@ -1610,7 +1610,7 @@
     {
       "fileName": "import.png",
       "path": "packs/kenney-game-icons/sprites/import.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/import.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/import.png",
       "sha256": "f07be0e2dd4a6823a1b49895282b6fae81d974a458f0e31380adc8b9befca57b",
       "size": 15285,
       "role": "Image"
@@ -1618,7 +1618,7 @@
     {
       "fileName": "information.png",
       "path": "packs/kenney-game-icons/sprites/information.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/information.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/information.png",
       "sha256": "dc6909b9d262528156a8afd6247696d0ea39ff533a722ca8d3432c5957544e05",
       "size": 15443,
       "role": "Image"
@@ -1626,7 +1626,7 @@
     {
       "fileName": "joystick.png",
       "path": "packs/kenney-game-icons/sprites/joystick.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/joystick.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/joystick.png",
       "sha256": "471e5a8f077b56889928bd173d551014a84fb3af7744c6126cd7a70fde78d4bd",
       "size": 15327,
       "role": "Image"
@@ -1634,7 +1634,7 @@
     {
       "fileName": "joystickLeft.png",
       "path": "packs/kenney-game-icons/sprites/joystickLeft.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/joystickLeft.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/joystickLeft.png",
       "sha256": "757ffad56c3d1019ac15b42331b1ee3290310a5b929827a80f4d92938ba06ac8",
       "size": 15550,
       "role": "Image"
@@ -1642,7 +1642,7 @@
     {
       "fileName": "joystickRight.png",
       "path": "packs/kenney-game-icons/sprites/joystickRight.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/joystickRight.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/joystickRight.png",
       "sha256": "f004893b73684505f308eeb34d4d896c10ae6af2c2e6bddb1fdf854f5816e9e0",
       "size": 15513,
       "role": "Image"
@@ -1650,7 +1650,7 @@
     {
       "fileName": "joystickUp.png",
       "path": "packs/kenney-game-icons/sprites/joystickUp.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/joystickUp.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/joystickUp.png",
       "sha256": "bed809e152f293ce3ca013509fa4f60961b05749d2a6ecc5e3d084a312f3f3e3",
       "size": 15453,
       "role": "Image"
@@ -1658,7 +1658,7 @@
     {
       "fileName": "larger.png",
       "path": "packs/kenney-game-icons/sprites/larger.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/larger.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/larger.png",
       "sha256": "6c4c23f0323d8a373c41be300d7ab59f82d35e1b1c3f2025e6cc20d71a624fac",
       "size": 15389,
       "role": "Image"
@@ -1666,7 +1666,7 @@
     {
       "fileName": "leaderboardsComplex.png",
       "path": "packs/kenney-game-icons/sprites/leaderboardsComplex.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/leaderboardsComplex.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/leaderboardsComplex.png",
       "sha256": "42fb5ca04f212198616268c213aa94b3ae126b4422b948b2a6ea15f4ae6d2caf",
       "size": 15495,
       "role": "Image"
@@ -1674,7 +1674,7 @@
     {
       "fileName": "leaderboardsSimple.png",
       "path": "packs/kenney-game-icons/sprites/leaderboardsSimple.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/leaderboardsSimple.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/leaderboardsSimple.png",
       "sha256": "9af73369adb5e57b4e6084e071c2c6ef489e3ab192c65369d54577c56b23ad3b",
       "size": 15098,
       "role": "Image"
@@ -1682,7 +1682,7 @@
     {
       "fileName": "left.png",
       "path": "packs/kenney-game-icons/sprites/left.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/left.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/left.png",
       "sha256": "ddbc115de5636e3ee22809427dc7a9eef5a15ac26c25489f5dd92f4552ffbc91",
       "size": 15319,
       "role": "Image"
@@ -1690,7 +1690,7 @@
     {
       "fileName": "locked.png",
       "path": "packs/kenney-game-icons/sprites/locked.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/locked.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/locked.png",
       "sha256": "b83e9f3d17e94a054fa0add775e89eb6973052dca9185a4b5fface1d14cf9cd1",
       "size": 15262,
       "role": "Image"
@@ -1698,7 +1698,7 @@
     {
       "fileName": "massiveMultiplayer.png",
       "path": "packs/kenney-game-icons/sprites/massiveMultiplayer.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/massiveMultiplayer.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/massiveMultiplayer.png",
       "sha256": "f6263f9857aaeb0fe0facf9046815069bb4403459703999832a2a2c67006877b",
       "size": 16113,
       "role": "Image"
@@ -1706,7 +1706,7 @@
     {
       "fileName": "medal1.png",
       "path": "packs/kenney-game-icons/sprites/medal1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/medal1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/medal1.png",
       "sha256": "1fc2223c740227f97094a3ed8512b00f26ef58b60830ee1f6cb415dca2a90bf2",
       "size": 15731,
       "role": "Image"
@@ -1714,7 +1714,7 @@
     {
       "fileName": "medal2.png",
       "path": "packs/kenney-game-icons/sprites/medal2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/medal2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/medal2.png",
       "sha256": "2a476afe8a69889b6e771c3b259d28908089e7465eae756040f74426a3f81b46",
       "size": 15953,
       "role": "Image"
@@ -1722,7 +1722,7 @@
     {
       "fileName": "menuGrid.png",
       "path": "packs/kenney-game-icons/sprites/menuGrid.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/menuGrid.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/menuGrid.png",
       "sha256": "8afe8dea5bbc99f744482486a197983771afac1ef118aff0d9bd386d413a37c8",
       "size": 15242,
       "role": "Image"
@@ -1730,7 +1730,7 @@
     {
       "fileName": "menuList.png",
       "path": "packs/kenney-game-icons/sprites/menuList.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/menuList.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/menuList.png",
       "sha256": "50ef2bcb14b49f4ea652416caa1a91fcfc43d4c8a02dbcbcde4485f4963c74eb",
       "size": 15278,
       "role": "Image"
@@ -1738,7 +1738,7 @@
     {
       "fileName": "minus.png",
       "path": "packs/kenney-game-icons/sprites/minus.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/minus.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/minus.png",
       "sha256": "5f4e70adea9061d0105db1860108b669e348d0d99314542a77dd96f707800ec7",
       "size": 15146,
       "role": "Image"
@@ -1746,7 +1746,7 @@
     {
       "fileName": "mouse.png",
       "path": "packs/kenney-game-icons/sprites/mouse.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/mouse.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/mouse.png",
       "sha256": "c7e65a3698530fe7183ae03f1559476ad326a267598ef71a78cc30a5da1007fb",
       "size": 15695,
       "role": "Image"
@@ -1754,7 +1754,7 @@
     {
       "fileName": "movie.png",
       "path": "packs/kenney-game-icons/sprites/movie.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/movie.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/movie.png",
       "sha256": "e7cf28967aeb420080e55dfa2ef00f940cbd07dbc9ee63161fb681cf92de7f2a",
       "size": 15211,
       "role": "Image"
@@ -1762,7 +1762,7 @@
     {
       "fileName": "multiplayer.png",
       "path": "packs/kenney-game-icons/sprites/multiplayer.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/multiplayer.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/multiplayer.png",
       "sha256": "e9c3199ee5c296f438598bf3ee959ecc476ee07ea24463702c72ce2a5356f11b",
       "size": 15819,
       "role": "Image"
@@ -1770,7 +1770,7 @@
     {
       "fileName": "musicOff.png",
       "path": "packs/kenney-game-icons/sprites/musicOff.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/musicOff.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/musicOff.png",
       "sha256": "ee0901ab81572df6dd47400b5694c0c41d8ccb1c3bf24485b4414dfb4c1172ea",
       "size": 15721,
       "role": "Image"
@@ -1778,7 +1778,7 @@
     {
       "fileName": "musicOn.png",
       "path": "packs/kenney-game-icons/sprites/musicOn.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/musicOn.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/musicOn.png",
       "sha256": "9998567109c4ad007ad796091b4f1d7774779f6f96c8b4b615f215f7d74c5230",
       "size": 15537,
       "role": "Image"
@@ -1786,7 +1786,7 @@
     {
       "fileName": "next.png",
       "path": "packs/kenney-game-icons/sprites/next.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/next.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/next.png",
       "sha256": "d78a2548f8a2360f4496ed499ca280fa377f1e486510c6957b9703e597f550e6",
       "size": 15389,
       "role": "Image"
@@ -1794,7 +1794,7 @@
     {
       "fileName": "open.png",
       "path": "packs/kenney-game-icons/sprites/open.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/open.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/open.png",
       "sha256": "1eebec0a35e6e99ba152e76fe6ac66c85387ff8d37e26be39ec214220cd089f0",
       "size": 15316,
       "role": "Image"
@@ -1802,7 +1802,7 @@
     {
       "fileName": "pause.png",
       "path": "packs/kenney-game-icons/sprites/pause.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/pause.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/pause.png",
       "sha256": "5c940ad60dd46b3252d4f991f24e9c21865722fe401947830228629baed28774",
       "size": 15197,
       "role": "Image"
@@ -1810,7 +1810,7 @@
     {
       "fileName": "phone.png",
       "path": "packs/kenney-game-icons/sprites/phone.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/phone.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/phone.png",
       "sha256": "2bc1e8246d05960fe3cce66ffe0d79ef272b867f8281243209f670036895193e",
       "size": 15246,
       "role": "Image"
@@ -1818,7 +1818,7 @@
     {
       "fileName": "plus.png",
       "path": "packs/kenney-game-icons/sprites/plus.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/plus.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/plus.png",
       "sha256": "dc5d564ffe3ae546f2e72ce19ea8349124cf48256418de50bb045a5d97ab9872",
       "size": 15215,
       "role": "Image"
@@ -1826,7 +1826,7 @@
     {
       "fileName": "power.png",
       "path": "packs/kenney-game-icons/sprites/power.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/power.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/power.png",
       "sha256": "afb30d057282be0d610e789d1dcc156a91b2f1f2d31e412041c6652ec36a8153",
       "size": 16006,
       "role": "Image"
@@ -1834,7 +1834,7 @@
     {
       "fileName": "previous.png",
       "path": "packs/kenney-game-icons/sprites/previous.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/previous.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/previous.png",
       "sha256": "7a7a4b8f7ca76a1ecd518c736c71dc433044fe2ca7913619def152f2e8f1b938",
       "size": 15366,
       "role": "Image"
@@ -1842,7 +1842,7 @@
     {
       "fileName": "question.png",
       "path": "packs/kenney-game-icons/sprites/question.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/question.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/question.png",
       "sha256": "752c59d82a33e9bc4c3414ab43833e913b3a9f9966af663a70c42aff56f3735c",
       "size": 15636,
       "role": "Image"
@@ -1850,7 +1850,7 @@
     {
       "fileName": "return.png",
       "path": "packs/kenney-game-icons/sprites/return.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/return.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/return.png",
       "sha256": "99b425ec6d8e49633ddcea55e7485adf44a4ca8614abf39e59b7a83602ee3866",
       "size": 15821,
       "role": "Image"
@@ -1858,7 +1858,7 @@
     {
       "fileName": "rewind.png",
       "path": "packs/kenney-game-icons/sprites/rewind.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/rewind.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/rewind.png",
       "sha256": "c8270bda4e85a3e478880f4974df353fa61e2b87150b5f1a3d9e91935b623557",
       "size": 15329,
       "role": "Image"
@@ -1866,7 +1866,7 @@
     {
       "fileName": "right.png",
       "path": "packs/kenney-game-icons/sprites/right.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/right.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/right.png",
       "sha256": "4a03b4912262ef74a04dac87a59db2ed9dc8c1c9c527439e490630ca899cf252",
       "size": 15312,
       "role": "Image"
@@ -1874,7 +1874,7 @@
     {
       "fileName": "save.png",
       "path": "packs/kenney-game-icons/sprites/save.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/save.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/save.png",
       "sha256": "a8204ded82d12288c3510c8e0c0033e04f26958ef31aba3087f67288e3e1a7ed",
       "size": 15155,
       "role": "Image"
@@ -1882,7 +1882,7 @@
     {
       "fileName": "scrollHorizontal.png",
       "path": "packs/kenney-game-icons/sprites/scrollHorizontal.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/scrollHorizontal.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/scrollHorizontal.png",
       "sha256": "75b0e25b416f31e4f765ee429d44c17983c2292f0bb5e42681255f6c5c0aac5c",
       "size": 15408,
       "role": "Image"
@@ -1890,7 +1890,7 @@
     {
       "fileName": "scrollVertical.png",
       "path": "packs/kenney-game-icons/sprites/scrollVertical.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/scrollVertical.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/scrollVertical.png",
       "sha256": "227d5e4f68ba146225c0e0102bd3b6273716805f315203f3e2a420cd36c75317",
       "size": 15393,
       "role": "Image"
@@ -1898,7 +1898,7 @@
     {
       "fileName": "share1.png",
       "path": "packs/kenney-game-icons/sprites/share1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/share1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/share1.png",
       "sha256": "86edfe7dbc912167db31123f7e316b14814960d1c13176a165e4f8a9a15d5483",
       "size": 15440,
       "role": "Image"
@@ -1906,7 +1906,7 @@
     {
       "fileName": "share2.png",
       "path": "packs/kenney-game-icons/sprites/share2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/share2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/share2.png",
       "sha256": "a18ed6c2d026f01c17a6b6c197d324dae4dac944ee6da967fd9f574c6ed87071",
       "size": 15913,
       "role": "Image"
@@ -1914,7 +1914,7 @@
     {
       "fileName": "shoppingBasket.png",
       "path": "packs/kenney-game-icons/sprites/shoppingBasket.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/shoppingBasket.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/shoppingBasket.png",
       "sha256": "edcc5b38af3e1f971a3503fb7dc6bf96c18296af866227c72885562d4984371d",
       "size": 15579,
       "role": "Image"
@@ -1922,7 +1922,7 @@
     {
       "fileName": "shoppingCart.png",
       "path": "packs/kenney-game-icons/sprites/shoppingCart.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/shoppingCart.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/shoppingCart.png",
       "sha256": "bffd4a2e83af3a8928363e8e628639924d54f08ba8b2bc88c46e7ecf4f5008ed",
       "size": 15518,
       "role": "Image"
@@ -1930,7 +1930,7 @@
     {
       "fileName": "siganl1.png",
       "path": "packs/kenney-game-icons/sprites/siganl1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/siganl1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/siganl1.png",
       "sha256": "86a6795b6c171aceb9d0a86c0b28c101d72673e10c1855d08ccf90aa062838fb",
       "size": 15150,
       "role": "Image"
@@ -1938,7 +1938,7 @@
     {
       "fileName": "signal2.png",
       "path": "packs/kenney-game-icons/sprites/signal2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/signal2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/signal2.png",
       "sha256": "7271226d3d48c04588f78afee87bd2a491ad7ceb6a7fc74488d618660d8a88ac",
       "size": 15191,
       "role": "Image"
@@ -1946,7 +1946,7 @@
     {
       "fileName": "signal3.png",
       "path": "packs/kenney-game-icons/sprites/signal3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/signal3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/signal3.png",
       "sha256": "04305c07a1af5ee3782a96c6bbe027e6d90eb11f892ae1a4e1a3b645c7421a62",
       "size": 15211,
       "role": "Image"
@@ -1954,7 +1954,7 @@
     {
       "fileName": "singleplayer.png",
       "path": "packs/kenney-game-icons/sprites/singleplayer.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/singleplayer.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/singleplayer.png",
       "sha256": "daa4f85635eff03529b9659afb27f774dca9eff0105026ee384446eeefa834b9",
       "size": 15663,
       "role": "Image"
@@ -1962,7 +1962,7 @@
     {
       "fileName": "smaller.png",
       "path": "packs/kenney-game-icons/sprites/smaller.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/smaller.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/smaller.png",
       "sha256": "c50ff53aac485c6e06012163980ce6adb075e8b0221163985ec7eb4485c64350",
       "size": 15374,
       "role": "Image"
@@ -1970,7 +1970,7 @@
     {
       "fileName": "star.png",
       "path": "packs/kenney-game-icons/sprites/star.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/star.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/star.png",
       "sha256": "8e10578b82d6d46aff27a9939f4c1adccd1be6dc93c8302c9e28d281e126aae2",
       "size": 15648,
       "role": "Image"
@@ -1978,7 +1978,7 @@
     {
       "fileName": "stop.png",
       "path": "packs/kenney-game-icons/sprites/stop.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/stop.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/stop.png",
       "sha256": "ece2ec1c88bc7af9bab9e50bb614b8c25307d0862eb069b1a316331d4f14c988",
       "size": 15146,
       "role": "Image"
@@ -1986,7 +1986,7 @@
     {
       "fileName": "tablet.png",
       "path": "packs/kenney-game-icons/sprites/tablet.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/tablet.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/tablet.png",
       "sha256": "3669083c65855e91d5ed3d61a651a73418581e659e7f3f10041ae1edb2950aac",
       "size": 15248,
       "role": "Image"
@@ -1994,7 +1994,7 @@
     {
       "fileName": "target.png",
       "path": "packs/kenney-game-icons/sprites/target.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/target.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/target.png",
       "sha256": "afd40325569fa91bfc690856dc4c70901bbd7c2e27dedc9fe3847258c61bbc81",
       "size": 16104,
       "role": "Image"
@@ -2002,7 +2002,7 @@
     {
       "fileName": "trashcan.png",
       "path": "packs/kenney-game-icons/sprites/trashcan.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/trashcan.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/trashcan.png",
       "sha256": "a66c81acb0e37481f187b444beb24307826638d35934169a4cb3229fb0d5beca",
       "size": 15231,
       "role": "Image"
@@ -2010,7 +2010,7 @@
     {
       "fileName": "trashcanOpen.png",
       "path": "packs/kenney-game-icons/sprites/trashcanOpen.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/trashcanOpen.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/trashcanOpen.png",
       "sha256": "35c29fe2be2190ff8aaa3c13d2a5215d332503fc239dacc5be5f4fd81835904a",
       "size": 15470,
       "role": "Image"
@@ -2018,7 +2018,7 @@
     {
       "fileName": "trophy.png",
       "path": "packs/kenney-game-icons/sprites/trophy.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/trophy.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/trophy.png",
       "sha256": "9525a3a01eb4ffddbb1c6dd9444ffa20876d18843d7ddd44e6c80d28744e8714",
       "size": 15290,
       "role": "Image"
@@ -2026,7 +2026,7 @@
     {
       "fileName": "unlocked.png",
       "path": "packs/kenney-game-icons/sprites/unlocked.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/unlocked.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/unlocked.png",
       "sha256": "fd9e8d852f72f9c315eadf3448515bbfba229ec6ded636f647855f5317da6a80",
       "size": 15264,
       "role": "Image"
@@ -2034,7 +2034,7 @@
     {
       "fileName": "up.png",
       "path": "packs/kenney-game-icons/sprites/up.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/up.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/up.png",
       "sha256": "04c1cf09316420b11cc6ca49950df43dc22be2bd4736ec897e1e102ed7e9edc0",
       "size": 15204,
       "role": "Image"
@@ -2042,7 +2042,7 @@
     {
       "fileName": "upLeft.png",
       "path": "packs/kenney-game-icons/sprites/upLeft.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/upLeft.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/upLeft.png",
       "sha256": "7728ce934ed8b6f53dc7ebee4cddf5315d22daf59781def342d2b6447a0ad813",
       "size": 15406,
       "role": "Image"
@@ -2050,7 +2050,7 @@
     {
       "fileName": "upRight.png",
       "path": "packs/kenney-game-icons/sprites/upRight.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/upRight.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/upRight.png",
       "sha256": "1e25436f796c4bf2a7a01672225b9de83f1767298ae5a95d166d3b0c67d371a2",
       "size": 15407,
       "role": "Image"
@@ -2058,7 +2058,7 @@
     {
       "fileName": "video.png",
       "path": "packs/kenney-game-icons/sprites/video.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/video.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/video.png",
       "sha256": "cb28891e7944f0872e30e7bdfd657c58f460b27e0d63e8a3754e314862ae4f0e",
       "size": 15421,
       "role": "Image"
@@ -2066,7 +2066,7 @@
     {
       "fileName": "warning.png",
       "path": "packs/kenney-game-icons/sprites/warning.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/warning.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/warning.png",
       "sha256": "dcd64b5bbf8073c222581e7da1ce74ad29d64762345ff5825300b823b3fba8f5",
       "size": 15751,
       "role": "Image"
@@ -2074,7 +2074,7 @@
     {
       "fileName": "wrench.png",
       "path": "packs/kenney-game-icons/sprites/wrench.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/wrench.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/wrench.png",
       "sha256": "024ffc10111b23b5f3fcf820cbb1959942cbfe54a4466141d7d6a8df1fa21db2",
       "size": 15771,
       "role": "Image"
@@ -2082,7 +2082,7 @@
     {
       "fileName": "zoom.png",
       "path": "packs/kenney-game-icons/sprites/zoom.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/zoom.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/zoom.png",
       "sha256": "9d78f65572bc7b172354e3695019cdf7b0350e1f07337c04c620165479da6b50",
       "size": 15871,
       "role": "Image"
@@ -2090,7 +2090,7 @@
     {
       "fileName": "zoomDefault.png",
       "path": "packs/kenney-game-icons/sprites/zoomDefault.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/zoomDefault.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/zoomDefault.png",
       "sha256": "8fce35e732da436cda923853bcd01b63252e7caed8470055b8d5cf880f36a689",
       "size": 15922,
       "role": "Image"
@@ -2098,7 +2098,7 @@
     {
       "fileName": "zoomIn.png",
       "path": "packs/kenney-game-icons/sprites/zoomIn.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/zoomIn.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/zoomIn.png",
       "sha256": "249d5efc862ff82e61315dd1f776432ee588aeaf16f87019d176255ba4f5cbf6",
       "size": 15939,
       "role": "Image"
@@ -2106,7 +2106,7 @@
     {
       "fileName": "zoomOut.png",
       "path": "packs/kenney-game-icons/sprites/zoomOut.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/zoomOut.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/zoomOut.png",
       "sha256": "a5304aa80ab12e4319599799f67c088f4b6adc270dc77fee8b2ec18ee85d91a0",
       "size": 15908,
       "role": "Image"
@@ -2116,7 +2116,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/kenney-game-icons/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/cover.png",
       "sha256": "88a3fe23453a9ede2de08a1f40c8b93c2754085548956b676d41be215e13e5dc",
       "size": 40984,
       "contentType": "image/png",
@@ -2125,7 +2125,7 @@
     {
       "fileName": "arrowDown.png",
       "path": "packs/kenney-game-icons/sprites/arrowDown.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/arrowDown.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/arrowDown.png",
       "sha256": "187df6603922dbde3db15f0f28033e2f7e74435a017095d56cf617bf4eee6c59",
       "size": 15328,
       "contentType": "image/png",
@@ -2135,7 +2135,7 @@
     {
       "fileName": "arrowLeft.png",
       "path": "packs/kenney-game-icons/sprites/arrowLeft.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/arrowLeft.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/arrowLeft.png",
       "sha256": "ae31db60393c860e404cda7193c843fe027a1542202bf7ffbab90b774f342cb6",
       "size": 15286,
       "contentType": "image/png",
@@ -2145,7 +2145,7 @@
     {
       "fileName": "arrowRight.png",
       "path": "packs/kenney-game-icons/sprites/arrowRight.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/arrowRight.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/arrowRight.png",
       "sha256": "768d7d882448f78554b4a379b2e8f217403e073c9b1735744a8c92ba7d31005f",
       "size": 15282,
       "contentType": "image/png",
@@ -2155,7 +2155,7 @@
     {
       "fileName": "arrowUp.png",
       "path": "packs/kenney-game-icons/sprites/arrowUp.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/arrowUp.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/arrowUp.png",
       "sha256": "7a6ef6093124f3bea577062fda23533e136d58a5a5b31d3d3841707f1082e677",
       "size": 15229,
       "contentType": "image/png",
@@ -2165,7 +2165,7 @@
     {
       "fileName": "audioOff.png",
       "path": "packs/kenney-game-icons/sprites/audioOff.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/audioOff.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/audioOff.png",
       "sha256": "c82e3784acee369264aa9e6cfc91973729982db5a2154d6ecddfd1927414d676",
       "size": 15311,
       "contentType": "image/png",
@@ -2175,7 +2175,7 @@
     {
       "fileName": "audioOn.png",
       "path": "packs/kenney-game-icons/sprites/audioOn.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/audioOn.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/audioOn.png",
       "sha256": "aee49ff7b9151214178079eb860a341958ba54627c93d0b2636b05670a37a585",
       "size": 15628,
       "contentType": "image/png",
@@ -2185,7 +2185,7 @@
     {
       "fileName": "barsHorizontal.png",
       "path": "packs/kenney-game-icons/sprites/barsHorizontal.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/barsHorizontal.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/barsHorizontal.png",
       "sha256": "3b8529604d7c8a3a28aa39709b8838031c87062a8e5a5ee0087c7e9d0357a14d",
       "size": 15220,
       "contentType": "image/png",
@@ -2195,7 +2195,7 @@
     {
       "fileName": "barsVertical.png",
       "path": "packs/kenney-game-icons/sprites/barsVertical.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/barsVertical.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/barsVertical.png",
       "sha256": "901ee49ac4325ce470b3fc19b6cc383bd65f917b4ba3d8fd7204bb327e4846ff",
       "size": 15163,
       "contentType": "image/png",
@@ -2205,7 +2205,7 @@
     {
       "fileName": "button1.png",
       "path": "packs/kenney-game-icons/sprites/button1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/button1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/button1.png",
       "sha256": "9b9b626528ff73423da83f061f2a599156dc49bfedcba30a1313f3ecb0ed20f2",
       "size": 15718,
       "contentType": "image/png",
@@ -2215,7 +2215,7 @@
     {
       "fileName": "button2.png",
       "path": "packs/kenney-game-icons/sprites/button2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/button2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/button2.png",
       "sha256": "7f6e4ba543e07918f941b299fba1cffc93178bfbad98e8c3e1aa2580a7edf301",
       "size": 15921,
       "contentType": "image/png",
@@ -2225,7 +2225,7 @@
     {
       "fileName": "button3.png",
       "path": "packs/kenney-game-icons/sprites/button3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/button3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/button3.png",
       "sha256": "507718d79295dcba749fdf93e20e35c60844400e85d9337e465bacd7e51c4f51",
       "size": 15948,
       "contentType": "image/png",
@@ -2235,7 +2235,7 @@
     {
       "fileName": "buttonA.png",
       "path": "packs/kenney-game-icons/sprites/buttonA.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/buttonA.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/buttonA.png",
       "sha256": "1e000a513313651db35920569af754431fa3961b42099c27adfffdcc9b2a81dd",
       "size": 15943,
       "contentType": "image/png",
@@ -2245,7 +2245,7 @@
     {
       "fileName": "buttonB.png",
       "path": "packs/kenney-game-icons/sprites/buttonB.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/buttonB.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/buttonB.png",
       "sha256": "231e4efa8445dcb0a70c28fc75f09590671f921262964d5b28765b750d46f236",
       "size": 15907,
       "contentType": "image/png",
@@ -2255,7 +2255,7 @@
     {
       "fileName": "buttonL.png",
       "path": "packs/kenney-game-icons/sprites/buttonL.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/buttonL.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/buttonL.png",
       "sha256": "d8d5354d039084aad473a6ebb937edd058db35621e1ca1596506be5c6296740a",
       "size": 15183,
       "contentType": "image/png",
@@ -2265,7 +2265,7 @@
     {
       "fileName": "buttonL1.png",
       "path": "packs/kenney-game-icons/sprites/buttonL1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/buttonL1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/buttonL1.png",
       "sha256": "bb11ca705cbc2100dd09652eaf60567550355ab9712fd790e29567e0464c6944",
       "size": 15222,
       "contentType": "image/png",
@@ -2275,7 +2275,7 @@
     {
       "fileName": "buttonL2.png",
       "path": "packs/kenney-game-icons/sprites/buttonL2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/buttonL2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/buttonL2.png",
       "sha256": "5247a466d61f2c5af352c69855150d8b856a94e9fb51b2daa3667682341df1f7",
       "size": 15389,
       "contentType": "image/png",
@@ -2285,7 +2285,7 @@
     {
       "fileName": "buttonR.png",
       "path": "packs/kenney-game-icons/sprites/buttonR.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/buttonR.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/buttonR.png",
       "sha256": "5c25e2e9fcc5ca9279efb45e4a1ca83909eb40e8bfa57263605e6c8ed6c2d88c",
       "size": 15366,
       "contentType": "image/png",
@@ -2295,7 +2295,7 @@
     {
       "fileName": "buttonR1.png",
       "path": "packs/kenney-game-icons/sprites/buttonR1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/buttonR1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/buttonR1.png",
       "sha256": "c7141864adffe655db54bc0c5eb51985b8ab14d4bf2412933bdff611801c7b0a",
       "size": 15362,
       "contentType": "image/png",
@@ -2305,7 +2305,7 @@
     {
       "fileName": "buttonR2.png",
       "path": "packs/kenney-game-icons/sprites/buttonR2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/buttonR2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/buttonR2.png",
       "sha256": "649b07c206bcbde8f348a9fdc864eef2dd1dd56da803609c1ac5332ba76e8a86",
       "size": 15512,
       "contentType": "image/png",
@@ -2315,7 +2315,7 @@
     {
       "fileName": "buttonSelect.png",
       "path": "packs/kenney-game-icons/sprites/buttonSelect.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/buttonSelect.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/buttonSelect.png",
       "sha256": "c3a0f57c0efef98f4ebb12aa3befb9e4e12afea95f004efc3c37bd0be8bf8f9c",
       "size": 15634,
       "contentType": "image/png",
@@ -2325,7 +2325,7 @@
     {
       "fileName": "buttonStart.png",
       "path": "packs/kenney-game-icons/sprites/buttonStart.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/buttonStart.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/buttonStart.png",
       "sha256": "881181f5dc75bcadb854ce3a37885b172f3e6a5c382ae1d177b8edf1e5b42e91",
       "size": 15604,
       "contentType": "image/png",
@@ -2335,7 +2335,7 @@
     {
       "fileName": "buttonX.png",
       "path": "packs/kenney-game-icons/sprites/buttonX.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/buttonX.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/buttonX.png",
       "sha256": "a9e5243ae0d88dc1a32e1be7e42860d896cf0b2581552517d6fe0d760dd69a8f",
       "size": 15991,
       "contentType": "image/png",
@@ -2345,7 +2345,7 @@
     {
       "fileName": "buttonY.png",
       "path": "packs/kenney-game-icons/sprites/buttonY.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/buttonY.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/buttonY.png",
       "sha256": "1b1b6d7800a72d418e1eb79e3d1cfd4e2c95ad8981707f11526c1aa9c6b058b2",
       "size": 15929,
       "contentType": "image/png",
@@ -2355,7 +2355,7 @@
     {
       "fileName": "checkmark.png",
       "path": "packs/kenney-game-icons/sprites/checkmark.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/checkmark.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/checkmark.png",
       "sha256": "00e3025322ddb4948598b7fb8d385762073de7b2b534d2cfd44372072608a92a",
       "size": 15751,
       "contentType": "image/png",
@@ -2365,7 +2365,7 @@
     {
       "fileName": "contrast.png",
       "path": "packs/kenney-game-icons/sprites/contrast.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/contrast.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/contrast.png",
       "sha256": "edf0020bfe89b387c3d2eed687509f463d8d1c79dec7957549deb7e2b8eab66e",
       "size": 15870,
       "contentType": "image/png",
@@ -2375,7 +2375,7 @@
     {
       "fileName": "cross.png",
       "path": "packs/kenney-game-icons/sprites/cross.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/cross.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/cross.png",
       "sha256": "8293e3758e7df2eb1c5bb8d6979cccc826e66c28f8c703e6cbb0a54a3c0efc33",
       "size": 15480,
       "contentType": "image/png",
@@ -2385,7 +2385,7 @@
     {
       "fileName": "down.png",
       "path": "packs/kenney-game-icons/sprites/down.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/down.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/down.png",
       "sha256": "f7fbf10f136c4d8399d20c59280b4297bf645ede68b5327a1e4fcf261ecdfd39",
       "size": 15313,
       "contentType": "image/png",
@@ -2395,7 +2395,7 @@
     {
       "fileName": "downLeft.png",
       "path": "packs/kenney-game-icons/sprites/downLeft.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/downLeft.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/downLeft.png",
       "sha256": "4b5df109fed2652fcd5bed7e78da5620f2b8b0a17f94f94f94b766d2d301012d",
       "size": 15412,
       "contentType": "image/png",
@@ -2405,7 +2405,7 @@
     {
       "fileName": "downRight.png",
       "path": "packs/kenney-game-icons/sprites/downRight.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/downRight.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/downRight.png",
       "sha256": "0e86bc91a284ea34035aa7116e06484f6f3170f1d5ec275c1ada3d15a18802ff",
       "size": 15441,
       "contentType": "image/png",
@@ -2415,7 +2415,7 @@
     {
       "fileName": "exclamation.png",
       "path": "packs/kenney-game-icons/sprites/exclamation.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/exclamation.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/exclamation.png",
       "sha256": "60faed6673976798a058071fade4861fa246638d9619a5bd261e93e766c69928",
       "size": 15304,
       "contentType": "image/png",
@@ -2425,7 +2425,7 @@
     {
       "fileName": "exit.png",
       "path": "packs/kenney-game-icons/sprites/exit.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/exit.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/exit.png",
       "sha256": "a59692fdb84e8c4f92d5da919cf8b7396a8bc8979007a19f9b2e6b63dc007f52",
       "size": 15378,
       "contentType": "image/png",
@@ -2435,7 +2435,7 @@
     {
       "fileName": "exitLeft.png",
       "path": "packs/kenney-game-icons/sprites/exitLeft.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/exitLeft.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/exitLeft.png",
       "sha256": "f329616c6f62d986ac69f0d8e56c9ebd117e2b8b90419d155669e34827e8efb9",
       "size": 15338,
       "contentType": "image/png",
@@ -2445,7 +2445,7 @@
     {
       "fileName": "exitRight.png",
       "path": "packs/kenney-game-icons/sprites/exitRight.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/exitRight.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/exitRight.png",
       "sha256": "1ecb1247f22644952fb032461cb0b40ef601de9eee5f88bd49bf7015260470a8",
       "size": 15305,
       "contentType": "image/png",
@@ -2455,7 +2455,7 @@
     {
       "fileName": "export.png",
       "path": "packs/kenney-game-icons/sprites/export.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/export.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/export.png",
       "sha256": "1007229740b373c9478a62bffec84e5a252454a970422f8d395c96ed07a22e81",
       "size": 15268,
       "contentType": "image/png",
@@ -2465,7 +2465,7 @@
     {
       "fileName": "fastForward.png",
       "path": "packs/kenney-game-icons/sprites/fastForward.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/fastForward.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/fastForward.png",
       "sha256": "7530d9bdfc4fc12a682365db063a1ebaab54184f4acf849f6fc02652bac1b4ce",
       "size": 15352,
       "contentType": "image/png",
@@ -2475,7 +2475,7 @@
     {
       "fileName": "gamepad.png",
       "path": "packs/kenney-game-icons/sprites/gamepad.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/gamepad.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/gamepad.png",
       "sha256": "409ec081344f893b7103c98ec3aec00b1709a4ee74679e3da2b877d9fb0a2275",
       "size": 15325,
       "contentType": "image/png",
@@ -2485,7 +2485,7 @@
     {
       "fileName": "gamepad1.png",
       "path": "packs/kenney-game-icons/sprites/gamepad1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/gamepad1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/gamepad1.png",
       "sha256": "e5dea8a18dce0ef6628bbd51c273447e4c0caf03f2e680feebe7670fddc0337a",
       "size": 16017,
       "contentType": "image/png",
@@ -2495,7 +2495,7 @@
     {
       "fileName": "gamepad2.png",
       "path": "packs/kenney-game-icons/sprites/gamepad2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/gamepad2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/gamepad2.png",
       "sha256": "e8d5e7ea1cb0d7376093651caed67c379198dc95de2f64e448af493453d365a9",
       "size": 16071,
       "contentType": "image/png",
@@ -2505,7 +2505,7 @@
     {
       "fileName": "gamepad3.png",
       "path": "packs/kenney-game-icons/sprites/gamepad3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/gamepad3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/gamepad3.png",
       "sha256": "f3a6b1f032f1f836e722588a5e3650bdebcc0a74fbe97e5c6cf555213279f4d8",
       "size": 16055,
       "contentType": "image/png",
@@ -2515,7 +2515,7 @@
     {
       "fileName": "gamepad4.png",
       "path": "packs/kenney-game-icons/sprites/gamepad4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/gamepad4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/gamepad4.png",
       "sha256": "fab07d458ed0a8b1d24a78420cadfef6ff940bb99a3896e4adf20a6b52a47ed1",
       "size": 16028,
       "contentType": "image/png",
@@ -2525,7 +2525,7 @@
     {
       "fileName": "gear.png",
       "path": "packs/kenney-game-icons/sprites/gear.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/gear.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/gear.png",
       "sha256": "50b313ffe97db1733e529d5b0f5ac91eed5c0c8ffee1034bbb7766508e4f720c",
       "size": 16228,
       "contentType": "image/png",
@@ -2535,7 +2535,7 @@
     {
       "fileName": "home.png",
       "path": "packs/kenney-game-icons/sprites/home.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/home.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/home.png",
       "sha256": "1f6d39df47cb8849feb8f01aad329583f5f014c449c622b39aa154a3eca55160",
       "size": 15222,
       "contentType": "image/png",
@@ -2545,7 +2545,7 @@
     {
       "fileName": "import.png",
       "path": "packs/kenney-game-icons/sprites/import.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/import.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/import.png",
       "sha256": "f07be0e2dd4a6823a1b49895282b6fae81d974a458f0e31380adc8b9befca57b",
       "size": 15285,
       "contentType": "image/png",
@@ -2555,7 +2555,7 @@
     {
       "fileName": "information.png",
       "path": "packs/kenney-game-icons/sprites/information.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/information.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/information.png",
       "sha256": "dc6909b9d262528156a8afd6247696d0ea39ff533a722ca8d3432c5957544e05",
       "size": 15443,
       "contentType": "image/png",
@@ -2565,7 +2565,7 @@
     {
       "fileName": "joystick.png",
       "path": "packs/kenney-game-icons/sprites/joystick.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/joystick.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/joystick.png",
       "sha256": "471e5a8f077b56889928bd173d551014a84fb3af7744c6126cd7a70fde78d4bd",
       "size": 15327,
       "contentType": "image/png",
@@ -2575,7 +2575,7 @@
     {
       "fileName": "joystickLeft.png",
       "path": "packs/kenney-game-icons/sprites/joystickLeft.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/joystickLeft.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/joystickLeft.png",
       "sha256": "757ffad56c3d1019ac15b42331b1ee3290310a5b929827a80f4d92938ba06ac8",
       "size": 15550,
       "contentType": "image/png",
@@ -2585,7 +2585,7 @@
     {
       "fileName": "joystickRight.png",
       "path": "packs/kenney-game-icons/sprites/joystickRight.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/joystickRight.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/joystickRight.png",
       "sha256": "f004893b73684505f308eeb34d4d896c10ae6af2c2e6bddb1fdf854f5816e9e0",
       "size": 15513,
       "contentType": "image/png",
@@ -2595,7 +2595,7 @@
     {
       "fileName": "joystickUp.png",
       "path": "packs/kenney-game-icons/sprites/joystickUp.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/joystickUp.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/joystickUp.png",
       "sha256": "bed809e152f293ce3ca013509fa4f60961b05749d2a6ecc5e3d084a312f3f3e3",
       "size": 15453,
       "contentType": "image/png",
@@ -2605,7 +2605,7 @@
     {
       "fileName": "larger.png",
       "path": "packs/kenney-game-icons/sprites/larger.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/larger.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/larger.png",
       "sha256": "6c4c23f0323d8a373c41be300d7ab59f82d35e1b1c3f2025e6cc20d71a624fac",
       "size": 15389,
       "contentType": "image/png",
@@ -2615,7 +2615,7 @@
     {
       "fileName": "leaderboardsComplex.png",
       "path": "packs/kenney-game-icons/sprites/leaderboardsComplex.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/leaderboardsComplex.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/leaderboardsComplex.png",
       "sha256": "42fb5ca04f212198616268c213aa94b3ae126b4422b948b2a6ea15f4ae6d2caf",
       "size": 15495,
       "contentType": "image/png",
@@ -2625,7 +2625,7 @@
     {
       "fileName": "leaderboardsSimple.png",
       "path": "packs/kenney-game-icons/sprites/leaderboardsSimple.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/leaderboardsSimple.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/leaderboardsSimple.png",
       "sha256": "9af73369adb5e57b4e6084e071c2c6ef489e3ab192c65369d54577c56b23ad3b",
       "size": 15098,
       "contentType": "image/png",
@@ -2635,7 +2635,7 @@
     {
       "fileName": "left.png",
       "path": "packs/kenney-game-icons/sprites/left.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/left.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/left.png",
       "sha256": "ddbc115de5636e3ee22809427dc7a9eef5a15ac26c25489f5dd92f4552ffbc91",
       "size": 15319,
       "contentType": "image/png",
@@ -2645,7 +2645,7 @@
     {
       "fileName": "locked.png",
       "path": "packs/kenney-game-icons/sprites/locked.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/locked.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/locked.png",
       "sha256": "b83e9f3d17e94a054fa0add775e89eb6973052dca9185a4b5fface1d14cf9cd1",
       "size": 15262,
       "contentType": "image/png",
@@ -2655,7 +2655,7 @@
     {
       "fileName": "massiveMultiplayer.png",
       "path": "packs/kenney-game-icons/sprites/massiveMultiplayer.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/massiveMultiplayer.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/massiveMultiplayer.png",
       "sha256": "f6263f9857aaeb0fe0facf9046815069bb4403459703999832a2a2c67006877b",
       "size": 16113,
       "contentType": "image/png",
@@ -2665,7 +2665,7 @@
     {
       "fileName": "medal1.png",
       "path": "packs/kenney-game-icons/sprites/medal1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/medal1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/medal1.png",
       "sha256": "1fc2223c740227f97094a3ed8512b00f26ef58b60830ee1f6cb415dca2a90bf2",
       "size": 15731,
       "contentType": "image/png",
@@ -2675,7 +2675,7 @@
     {
       "fileName": "medal2.png",
       "path": "packs/kenney-game-icons/sprites/medal2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/medal2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/medal2.png",
       "sha256": "2a476afe8a69889b6e771c3b259d28908089e7465eae756040f74426a3f81b46",
       "size": 15953,
       "contentType": "image/png",
@@ -2685,7 +2685,7 @@
     {
       "fileName": "menuGrid.png",
       "path": "packs/kenney-game-icons/sprites/menuGrid.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/menuGrid.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/menuGrid.png",
       "sha256": "8afe8dea5bbc99f744482486a197983771afac1ef118aff0d9bd386d413a37c8",
       "size": 15242,
       "contentType": "image/png",
@@ -2695,7 +2695,7 @@
     {
       "fileName": "menuList.png",
       "path": "packs/kenney-game-icons/sprites/menuList.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/menuList.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/menuList.png",
       "sha256": "50ef2bcb14b49f4ea652416caa1a91fcfc43d4c8a02dbcbcde4485f4963c74eb",
       "size": 15278,
       "contentType": "image/png",
@@ -2705,7 +2705,7 @@
     {
       "fileName": "minus.png",
       "path": "packs/kenney-game-icons/sprites/minus.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/minus.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/minus.png",
       "sha256": "5f4e70adea9061d0105db1860108b669e348d0d99314542a77dd96f707800ec7",
       "size": 15146,
       "contentType": "image/png",
@@ -2715,7 +2715,7 @@
     {
       "fileName": "mouse.png",
       "path": "packs/kenney-game-icons/sprites/mouse.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/mouse.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/mouse.png",
       "sha256": "c7e65a3698530fe7183ae03f1559476ad326a267598ef71a78cc30a5da1007fb",
       "size": 15695,
       "contentType": "image/png",
@@ -2725,7 +2725,7 @@
     {
       "fileName": "movie.png",
       "path": "packs/kenney-game-icons/sprites/movie.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/movie.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/movie.png",
       "sha256": "e7cf28967aeb420080e55dfa2ef00f940cbd07dbc9ee63161fb681cf92de7f2a",
       "size": 15211,
       "contentType": "image/png",
@@ -2735,7 +2735,7 @@
     {
       "fileName": "multiplayer.png",
       "path": "packs/kenney-game-icons/sprites/multiplayer.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/multiplayer.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/multiplayer.png",
       "sha256": "e9c3199ee5c296f438598bf3ee959ecc476ee07ea24463702c72ce2a5356f11b",
       "size": 15819,
       "contentType": "image/png",
@@ -2745,7 +2745,7 @@
     {
       "fileName": "musicOff.png",
       "path": "packs/kenney-game-icons/sprites/musicOff.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/musicOff.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/musicOff.png",
       "sha256": "ee0901ab81572df6dd47400b5694c0c41d8ccb1c3bf24485b4414dfb4c1172ea",
       "size": 15721,
       "contentType": "image/png",
@@ -2755,7 +2755,7 @@
     {
       "fileName": "musicOn.png",
       "path": "packs/kenney-game-icons/sprites/musicOn.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/musicOn.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/musicOn.png",
       "sha256": "9998567109c4ad007ad796091b4f1d7774779f6f96c8b4b615f215f7d74c5230",
       "size": 15537,
       "contentType": "image/png",
@@ -2765,7 +2765,7 @@
     {
       "fileName": "next.png",
       "path": "packs/kenney-game-icons/sprites/next.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/next.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/next.png",
       "sha256": "d78a2548f8a2360f4496ed499ca280fa377f1e486510c6957b9703e597f550e6",
       "size": 15389,
       "contentType": "image/png",
@@ -2775,7 +2775,7 @@
     {
       "fileName": "open.png",
       "path": "packs/kenney-game-icons/sprites/open.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/open.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/open.png",
       "sha256": "1eebec0a35e6e99ba152e76fe6ac66c85387ff8d37e26be39ec214220cd089f0",
       "size": 15316,
       "contentType": "image/png",
@@ -2785,7 +2785,7 @@
     {
       "fileName": "pause.png",
       "path": "packs/kenney-game-icons/sprites/pause.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/pause.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/pause.png",
       "sha256": "5c940ad60dd46b3252d4f991f24e9c21865722fe401947830228629baed28774",
       "size": 15197,
       "contentType": "image/png",
@@ -2795,7 +2795,7 @@
     {
       "fileName": "phone.png",
       "path": "packs/kenney-game-icons/sprites/phone.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/phone.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/phone.png",
       "sha256": "2bc1e8246d05960fe3cce66ffe0d79ef272b867f8281243209f670036895193e",
       "size": 15246,
       "contentType": "image/png",
@@ -2805,7 +2805,7 @@
     {
       "fileName": "plus.png",
       "path": "packs/kenney-game-icons/sprites/plus.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/plus.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/plus.png",
       "sha256": "dc5d564ffe3ae546f2e72ce19ea8349124cf48256418de50bb045a5d97ab9872",
       "size": 15215,
       "contentType": "image/png",
@@ -2815,7 +2815,7 @@
     {
       "fileName": "power.png",
       "path": "packs/kenney-game-icons/sprites/power.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/power.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/power.png",
       "sha256": "afb30d057282be0d610e789d1dcc156a91b2f1f2d31e412041c6652ec36a8153",
       "size": 16006,
       "contentType": "image/png",
@@ -2825,7 +2825,7 @@
     {
       "fileName": "previous.png",
       "path": "packs/kenney-game-icons/sprites/previous.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/previous.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/previous.png",
       "sha256": "7a7a4b8f7ca76a1ecd518c736c71dc433044fe2ca7913619def152f2e8f1b938",
       "size": 15366,
       "contentType": "image/png",
@@ -2835,7 +2835,7 @@
     {
       "fileName": "question.png",
       "path": "packs/kenney-game-icons/sprites/question.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/question.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/question.png",
       "sha256": "752c59d82a33e9bc4c3414ab43833e913b3a9f9966af663a70c42aff56f3735c",
       "size": 15636,
       "contentType": "image/png",
@@ -2845,7 +2845,7 @@
     {
       "fileName": "return.png",
       "path": "packs/kenney-game-icons/sprites/return.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/return.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/return.png",
       "sha256": "99b425ec6d8e49633ddcea55e7485adf44a4ca8614abf39e59b7a83602ee3866",
       "size": 15821,
       "contentType": "image/png",
@@ -2855,7 +2855,7 @@
     {
       "fileName": "rewind.png",
       "path": "packs/kenney-game-icons/sprites/rewind.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/rewind.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/rewind.png",
       "sha256": "c8270bda4e85a3e478880f4974df353fa61e2b87150b5f1a3d9e91935b623557",
       "size": 15329,
       "contentType": "image/png",
@@ -2865,7 +2865,7 @@
     {
       "fileName": "right.png",
       "path": "packs/kenney-game-icons/sprites/right.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/right.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/right.png",
       "sha256": "4a03b4912262ef74a04dac87a59db2ed9dc8c1c9c527439e490630ca899cf252",
       "size": 15312,
       "contentType": "image/png",
@@ -2875,7 +2875,7 @@
     {
       "fileName": "save.png",
       "path": "packs/kenney-game-icons/sprites/save.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/save.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/save.png",
       "sha256": "a8204ded82d12288c3510c8e0c0033e04f26958ef31aba3087f67288e3e1a7ed",
       "size": 15155,
       "contentType": "image/png",
@@ -2885,7 +2885,7 @@
     {
       "fileName": "scrollHorizontal.png",
       "path": "packs/kenney-game-icons/sprites/scrollHorizontal.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/scrollHorizontal.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/scrollHorizontal.png",
       "sha256": "75b0e25b416f31e4f765ee429d44c17983c2292f0bb5e42681255f6c5c0aac5c",
       "size": 15408,
       "contentType": "image/png",
@@ -2895,7 +2895,7 @@
     {
       "fileName": "scrollVertical.png",
       "path": "packs/kenney-game-icons/sprites/scrollVertical.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/scrollVertical.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/scrollVertical.png",
       "sha256": "227d5e4f68ba146225c0e0102bd3b6273716805f315203f3e2a420cd36c75317",
       "size": 15393,
       "contentType": "image/png",
@@ -2905,7 +2905,7 @@
     {
       "fileName": "share1.png",
       "path": "packs/kenney-game-icons/sprites/share1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/share1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/share1.png",
       "sha256": "86edfe7dbc912167db31123f7e316b14814960d1c13176a165e4f8a9a15d5483",
       "size": 15440,
       "contentType": "image/png",
@@ -2915,7 +2915,7 @@
     {
       "fileName": "share2.png",
       "path": "packs/kenney-game-icons/sprites/share2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/share2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/share2.png",
       "sha256": "a18ed6c2d026f01c17a6b6c197d324dae4dac944ee6da967fd9f574c6ed87071",
       "size": 15913,
       "contentType": "image/png",
@@ -2925,7 +2925,7 @@
     {
       "fileName": "shoppingBasket.png",
       "path": "packs/kenney-game-icons/sprites/shoppingBasket.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/shoppingBasket.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/shoppingBasket.png",
       "sha256": "edcc5b38af3e1f971a3503fb7dc6bf96c18296af866227c72885562d4984371d",
       "size": 15579,
       "contentType": "image/png",
@@ -2935,7 +2935,7 @@
     {
       "fileName": "shoppingCart.png",
       "path": "packs/kenney-game-icons/sprites/shoppingCart.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/shoppingCart.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/shoppingCart.png",
       "sha256": "bffd4a2e83af3a8928363e8e628639924d54f08ba8b2bc88c46e7ecf4f5008ed",
       "size": 15518,
       "contentType": "image/png",
@@ -2945,7 +2945,7 @@
     {
       "fileName": "siganl1.png",
       "path": "packs/kenney-game-icons/sprites/siganl1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/siganl1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/siganl1.png",
       "sha256": "86a6795b6c171aceb9d0a86c0b28c101d72673e10c1855d08ccf90aa062838fb",
       "size": 15150,
       "contentType": "image/png",
@@ -2955,7 +2955,7 @@
     {
       "fileName": "signal2.png",
       "path": "packs/kenney-game-icons/sprites/signal2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/signal2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/signal2.png",
       "sha256": "7271226d3d48c04588f78afee87bd2a491ad7ceb6a7fc74488d618660d8a88ac",
       "size": 15191,
       "contentType": "image/png",
@@ -2965,7 +2965,7 @@
     {
       "fileName": "signal3.png",
       "path": "packs/kenney-game-icons/sprites/signal3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/signal3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/signal3.png",
       "sha256": "04305c07a1af5ee3782a96c6bbe027e6d90eb11f892ae1a4e1a3b645c7421a62",
       "size": 15211,
       "contentType": "image/png",
@@ -2975,7 +2975,7 @@
     {
       "fileName": "singleplayer.png",
       "path": "packs/kenney-game-icons/sprites/singleplayer.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/singleplayer.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/singleplayer.png",
       "sha256": "daa4f85635eff03529b9659afb27f774dca9eff0105026ee384446eeefa834b9",
       "size": 15663,
       "contentType": "image/png",
@@ -2985,7 +2985,7 @@
     {
       "fileName": "smaller.png",
       "path": "packs/kenney-game-icons/sprites/smaller.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/smaller.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/smaller.png",
       "sha256": "c50ff53aac485c6e06012163980ce6adb075e8b0221163985ec7eb4485c64350",
       "size": 15374,
       "contentType": "image/png",
@@ -2995,7 +2995,7 @@
     {
       "fileName": "star.png",
       "path": "packs/kenney-game-icons/sprites/star.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/star.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/star.png",
       "sha256": "8e10578b82d6d46aff27a9939f4c1adccd1be6dc93c8302c9e28d281e126aae2",
       "size": 15648,
       "contentType": "image/png",
@@ -3005,7 +3005,7 @@
     {
       "fileName": "stop.png",
       "path": "packs/kenney-game-icons/sprites/stop.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/stop.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/stop.png",
       "sha256": "ece2ec1c88bc7af9bab9e50bb614b8c25307d0862eb069b1a316331d4f14c988",
       "size": 15146,
       "contentType": "image/png",
@@ -3015,7 +3015,7 @@
     {
       "fileName": "tablet.png",
       "path": "packs/kenney-game-icons/sprites/tablet.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/tablet.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/tablet.png",
       "sha256": "3669083c65855e91d5ed3d61a651a73418581e659e7f3f10041ae1edb2950aac",
       "size": 15248,
       "contentType": "image/png",
@@ -3025,7 +3025,7 @@
     {
       "fileName": "target.png",
       "path": "packs/kenney-game-icons/sprites/target.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/target.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/target.png",
       "sha256": "afd40325569fa91bfc690856dc4c70901bbd7c2e27dedc9fe3847258c61bbc81",
       "size": 16104,
       "contentType": "image/png",
@@ -3035,7 +3035,7 @@
     {
       "fileName": "trashcan.png",
       "path": "packs/kenney-game-icons/sprites/trashcan.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/trashcan.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/trashcan.png",
       "sha256": "a66c81acb0e37481f187b444beb24307826638d35934169a4cb3229fb0d5beca",
       "size": 15231,
       "contentType": "image/png",
@@ -3045,7 +3045,7 @@
     {
       "fileName": "trashcanOpen.png",
       "path": "packs/kenney-game-icons/sprites/trashcanOpen.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/trashcanOpen.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/trashcanOpen.png",
       "sha256": "35c29fe2be2190ff8aaa3c13d2a5215d332503fc239dacc5be5f4fd81835904a",
       "size": 15470,
       "contentType": "image/png",
@@ -3055,7 +3055,7 @@
     {
       "fileName": "trophy.png",
       "path": "packs/kenney-game-icons/sprites/trophy.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/trophy.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/trophy.png",
       "sha256": "9525a3a01eb4ffddbb1c6dd9444ffa20876d18843d7ddd44e6c80d28744e8714",
       "size": 15290,
       "contentType": "image/png",
@@ -3065,7 +3065,7 @@
     {
       "fileName": "unlocked.png",
       "path": "packs/kenney-game-icons/sprites/unlocked.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/unlocked.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/unlocked.png",
       "sha256": "fd9e8d852f72f9c315eadf3448515bbfba229ec6ded636f647855f5317da6a80",
       "size": 15264,
       "contentType": "image/png",
@@ -3075,7 +3075,7 @@
     {
       "fileName": "up.png",
       "path": "packs/kenney-game-icons/sprites/up.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/up.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/up.png",
       "sha256": "04c1cf09316420b11cc6ca49950df43dc22be2bd4736ec897e1e102ed7e9edc0",
       "size": 15204,
       "contentType": "image/png",
@@ -3085,7 +3085,7 @@
     {
       "fileName": "upLeft.png",
       "path": "packs/kenney-game-icons/sprites/upLeft.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/upLeft.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/upLeft.png",
       "sha256": "7728ce934ed8b6f53dc7ebee4cddf5315d22daf59781def342d2b6447a0ad813",
       "size": 15406,
       "contentType": "image/png",
@@ -3095,7 +3095,7 @@
     {
       "fileName": "upRight.png",
       "path": "packs/kenney-game-icons/sprites/upRight.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/upRight.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/upRight.png",
       "sha256": "1e25436f796c4bf2a7a01672225b9de83f1767298ae5a95d166d3b0c67d371a2",
       "size": 15407,
       "contentType": "image/png",
@@ -3105,7 +3105,7 @@
     {
       "fileName": "video.png",
       "path": "packs/kenney-game-icons/sprites/video.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/video.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/video.png",
       "sha256": "cb28891e7944f0872e30e7bdfd657c58f460b27e0d63e8a3754e314862ae4f0e",
       "size": 15421,
       "contentType": "image/png",
@@ -3115,7 +3115,7 @@
     {
       "fileName": "warning.png",
       "path": "packs/kenney-game-icons/sprites/warning.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/warning.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/warning.png",
       "sha256": "dcd64b5bbf8073c222581e7da1ce74ad29d64762345ff5825300b823b3fba8f5",
       "size": 15751,
       "contentType": "image/png",
@@ -3125,7 +3125,7 @@
     {
       "fileName": "wrench.png",
       "path": "packs/kenney-game-icons/sprites/wrench.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/wrench.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/wrench.png",
       "sha256": "024ffc10111b23b5f3fcf820cbb1959942cbfe54a4466141d7d6a8df1fa21db2",
       "size": 15771,
       "contentType": "image/png",
@@ -3135,7 +3135,7 @@
     {
       "fileName": "zoom.png",
       "path": "packs/kenney-game-icons/sprites/zoom.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/zoom.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/zoom.png",
       "sha256": "9d78f65572bc7b172354e3695019cdf7b0350e1f07337c04c620165479da6b50",
       "size": 15871,
       "contentType": "image/png",
@@ -3145,7 +3145,7 @@
     {
       "fileName": "zoomDefault.png",
       "path": "packs/kenney-game-icons/sprites/zoomDefault.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/zoomDefault.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/zoomDefault.png",
       "sha256": "8fce35e732da436cda923853bcd01b63252e7caed8470055b8d5cf880f36a689",
       "size": 15922,
       "contentType": "image/png",
@@ -3155,7 +3155,7 @@
     {
       "fileName": "zoomIn.png",
       "path": "packs/kenney-game-icons/sprites/zoomIn.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/zoomIn.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/zoomIn.png",
       "sha256": "249d5efc862ff82e61315dd1f776432ee588aeaf16f87019d176255ba4f5cbf6",
       "size": 15939,
       "contentType": "image/png",
@@ -3165,7 +3165,7 @@
     {
       "fileName": "zoomOut.png",
       "path": "packs/kenney-game-icons/sprites/zoomOut.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-game-icons/sprites/zoomOut.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-game-icons/sprites/zoomOut.png",
       "sha256": "a5304aa80ab12e4319599799f67c088f4b6adc270dc77fee8b2ec18ee85d91a0",
       "size": 15908,
       "contentType": "image/png",

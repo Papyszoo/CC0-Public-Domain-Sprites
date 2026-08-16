@@ -6,7 +6,7 @@
   "website": "https://kenney.nl",
   "description": "Pixel art space shoot-em-up sprites: player starships, alien fighters, laser blasts, shields, powerups, and asteroids by Kenney (kenney.nl). CC0 1.0 Universal.",
   "folder": "packs/kenney-pixel-shmup",
-  "pinnedSha": "0cc96d965b06bf7afdc89276d78327300a51b498",
+  "pinnedSha": "409165adade9353f093bbb32753442fa54da656c",
   "itemCount": 24,
   "items": [
     {
@@ -302,7 +302,7 @@
     {
       "fileName": "ship_0000.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0000.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0000.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0000.png",
       "sha256": "15bc356dca89cc1009e88e6ac2ee80db47c9f2c973f7c113f1c6cb07b2d1ddb3",
       "size": 296,
       "role": "Image"
@@ -310,7 +310,7 @@
     {
       "fileName": "ship_0001.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0001.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0001.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0001.png",
       "sha256": "cb902990b33e493c937740f9363d90809793176105fe8a474906029df090c60b",
       "size": 279,
       "role": "Image"
@@ -318,7 +318,7 @@
     {
       "fileName": "ship_0002.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0002.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0002.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0002.png",
       "sha256": "61b486658f3ee5e1d804aea3a3cdcfc325fd5384473ecb5c53b9a665c8711166",
       "size": 300,
       "role": "Image"
@@ -326,7 +326,7 @@
     {
       "fileName": "ship_0003.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0003.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0003.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0003.png",
       "sha256": "ca572d261c6c9aaf4a2835c6dec176897bcb6e331f2283a0f8eb5781922a80aa",
       "size": 286,
       "role": "Image"
@@ -334,7 +334,7 @@
     {
       "fileName": "ship_0004.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0004.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0004.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0004.png",
       "sha256": "8b3b3763ab670748bae022eab9f99f1795911d0a366ce2273494268367d8d6c6",
       "size": 251,
       "role": "Image"
@@ -342,7 +342,7 @@
     {
       "fileName": "ship_0005.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0005.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0005.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0005.png",
       "sha256": "7d303e0635f9230f5ebc106f83de783e7eaa7f6ef4c186109a672a76e74e8dfe",
       "size": 226,
       "role": "Image"
@@ -350,7 +350,7 @@
     {
       "fileName": "ship_0006.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0006.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0006.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0006.png",
       "sha256": "f3bfd6862e07207946b9fbbfc07da92e1efa89407eac9f211ac56f02553fe286",
       "size": 238,
       "role": "Image"
@@ -358,7 +358,7 @@
     {
       "fileName": "ship_0007.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0007.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0007.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0007.png",
       "sha256": "5050e7c2358313dfe21cf4629abf6356742a709fb6fc4a3f5c4ed8ea814dd305",
       "size": 270,
       "role": "Image"
@@ -366,7 +366,7 @@
     {
       "fileName": "ship_0008.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0008.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0008.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0008.png",
       "sha256": "4b398acb868d1f07bcb0faec14fe75cb065a64a2e38cfe0eb3d9ee972f8f3457",
       "size": 221,
       "role": "Image"
@@ -374,7 +374,7 @@
     {
       "fileName": "ship_0009.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0009.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0009.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0009.png",
       "sha256": "bf989b6560ca5823997ff835ea77a60901d2718f4750e9f62de5df9a44446385",
       "size": 236,
       "role": "Image"
@@ -382,7 +382,7 @@
     {
       "fileName": "ship_0010.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0010.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0010.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0010.png",
       "sha256": "fba79895a033debf974740268405fcd58020757da81a0eb08f20f050115af532",
       "size": 222,
       "role": "Image"
@@ -390,7 +390,7 @@
     {
       "fileName": "ship_0011.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0011.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0011.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0011.png",
       "sha256": "1fae5ca8138c9bf14960ee81415b8d49e95bc979252d2c32ca3ebc5cdcfea390",
       "size": 237,
       "role": "Image"
@@ -398,7 +398,7 @@
     {
       "fileName": "ship_0012.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0012.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0012.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0012.png",
       "sha256": "f9cd302cad20ce52b54eb9f0ea734499004b0f1daa75931b3f730b174de8d26e",
       "size": 296,
       "role": "Image"
@@ -406,7 +406,7 @@
     {
       "fileName": "ship_0013.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0013.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0013.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0013.png",
       "sha256": "d079db2500bd2c0aeb5fbf794c079f8a6715e913a58d40ab8e602e450f3126f3",
       "size": 279,
       "role": "Image"
@@ -414,7 +414,7 @@
     {
       "fileName": "ship_0014.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0014.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0014.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0014.png",
       "sha256": "963c49555f3de344a699a01bcbb64bb5ab4d8aed82f940184180aaf50da4ac07",
       "size": 300,
       "role": "Image"
@@ -422,7 +422,7 @@
     {
       "fileName": "ship_0015.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0015.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0015.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0015.png",
       "sha256": "3ea8fa830130fcd7e9018bd1c6d4a5527419a8f187c061ae3cdf40c0ea196e78",
       "size": 286,
       "role": "Image"
@@ -430,7 +430,7 @@
     {
       "fileName": "ship_0016.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0016.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0016.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0016.png",
       "sha256": "d071446e9cf19f5d3094db25ae549ce961702af531274df87577392e90f1e4cf",
       "size": 251,
       "role": "Image"
@@ -438,7 +438,7 @@
     {
       "fileName": "ship_0017.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0017.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0017.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0017.png",
       "sha256": "f80a4caa8ba735af3cdd50128c99ae3a0dcf8b737543227e7dc8c1b2d0f0e911",
       "size": 226,
       "role": "Image"
@@ -446,7 +446,7 @@
     {
       "fileName": "ship_0018.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0018.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0018.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0018.png",
       "sha256": "47d537798120eee94aa3d707530704faf3f00822e5ef02239fef9db40d298990",
       "size": 238,
       "role": "Image"
@@ -454,7 +454,7 @@
     {
       "fileName": "ship_0019.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0019.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0019.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0019.png",
       "sha256": "7ce8e9ea39127d1d073f1f1681bb728efb931fb0cd96231ba29f20d7223ecebf",
       "size": 270,
       "role": "Image"
@@ -462,7 +462,7 @@
     {
       "fileName": "ship_0020.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0020.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0020.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0020.png",
       "sha256": "39246a762d65c1c9c68037171cfee0b03ccbf3d1c3de2935a7c4dcd85d7e8908",
       "size": 221,
       "role": "Image"
@@ -470,7 +470,7 @@
     {
       "fileName": "ship_0021.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0021.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0021.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0021.png",
       "sha256": "5f7211a7b0d165a015424e7cfdb0b7eb05e4fcdc65f273db9169d1c2a4d5ea77",
       "size": 236,
       "role": "Image"
@@ -478,7 +478,7 @@
     {
       "fileName": "ship_0022.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0022.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0022.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0022.png",
       "sha256": "b01917dcf94309b6d4213c76f068045a35bac39a9cad28b0015d7f8709fc617d",
       "size": 222,
       "role": "Image"
@@ -486,7 +486,7 @@
     {
       "fileName": "ship_0023.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0023.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0023.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0023.png",
       "sha256": "8946e8c53db0d720dc9d0e0be40eecb98c63ce99d22b9138ce87476677fa68ff",
       "size": 237,
       "role": "Image"
@@ -496,7 +496,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/kenney-pixel-shmup/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/cover.png",
       "sha256": "1d6d904c6b1670263e9d52c60fa749aeeb98c31c93a93e9c041a952265dca874",
       "size": 19720,
       "contentType": "image/png",
@@ -505,7 +505,7 @@
     {
       "fileName": "ship_0000.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0000.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0000.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0000.png",
       "sha256": "15bc356dca89cc1009e88e6ac2ee80db47c9f2c973f7c113f1c6cb07b2d1ddb3",
       "size": 296,
       "contentType": "image/png",
@@ -515,7 +515,7 @@
     {
       "fileName": "ship_0001.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0001.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0001.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0001.png",
       "sha256": "cb902990b33e493c937740f9363d90809793176105fe8a474906029df090c60b",
       "size": 279,
       "contentType": "image/png",
@@ -525,7 +525,7 @@
     {
       "fileName": "ship_0002.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0002.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0002.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0002.png",
       "sha256": "61b486658f3ee5e1d804aea3a3cdcfc325fd5384473ecb5c53b9a665c8711166",
       "size": 300,
       "contentType": "image/png",
@@ -535,7 +535,7 @@
     {
       "fileName": "ship_0003.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0003.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0003.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0003.png",
       "sha256": "ca572d261c6c9aaf4a2835c6dec176897bcb6e331f2283a0f8eb5781922a80aa",
       "size": 286,
       "contentType": "image/png",
@@ -545,7 +545,7 @@
     {
       "fileName": "ship_0004.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0004.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0004.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0004.png",
       "sha256": "8b3b3763ab670748bae022eab9f99f1795911d0a366ce2273494268367d8d6c6",
       "size": 251,
       "contentType": "image/png",
@@ -555,7 +555,7 @@
     {
       "fileName": "ship_0005.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0005.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0005.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0005.png",
       "sha256": "7d303e0635f9230f5ebc106f83de783e7eaa7f6ef4c186109a672a76e74e8dfe",
       "size": 226,
       "contentType": "image/png",
@@ -565,7 +565,7 @@
     {
       "fileName": "ship_0006.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0006.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0006.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0006.png",
       "sha256": "f3bfd6862e07207946b9fbbfc07da92e1efa89407eac9f211ac56f02553fe286",
       "size": 238,
       "contentType": "image/png",
@@ -575,7 +575,7 @@
     {
       "fileName": "ship_0007.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0007.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0007.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0007.png",
       "sha256": "5050e7c2358313dfe21cf4629abf6356742a709fb6fc4a3f5c4ed8ea814dd305",
       "size": 270,
       "contentType": "image/png",
@@ -585,7 +585,7 @@
     {
       "fileName": "ship_0008.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0008.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0008.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0008.png",
       "sha256": "4b398acb868d1f07bcb0faec14fe75cb065a64a2e38cfe0eb3d9ee972f8f3457",
       "size": 221,
       "contentType": "image/png",
@@ -595,7 +595,7 @@
     {
       "fileName": "ship_0009.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0009.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0009.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0009.png",
       "sha256": "bf989b6560ca5823997ff835ea77a60901d2718f4750e9f62de5df9a44446385",
       "size": 236,
       "contentType": "image/png",
@@ -605,7 +605,7 @@
     {
       "fileName": "ship_0010.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0010.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0010.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0010.png",
       "sha256": "fba79895a033debf974740268405fcd58020757da81a0eb08f20f050115af532",
       "size": 222,
       "contentType": "image/png",
@@ -615,7 +615,7 @@
     {
       "fileName": "ship_0011.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0011.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0011.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0011.png",
       "sha256": "1fae5ca8138c9bf14960ee81415b8d49e95bc979252d2c32ca3ebc5cdcfea390",
       "size": 237,
       "contentType": "image/png",
@@ -625,7 +625,7 @@
     {
       "fileName": "ship_0012.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0012.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0012.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0012.png",
       "sha256": "f9cd302cad20ce52b54eb9f0ea734499004b0f1daa75931b3f730b174de8d26e",
       "size": 296,
       "contentType": "image/png",
@@ -635,7 +635,7 @@
     {
       "fileName": "ship_0013.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0013.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0013.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0013.png",
       "sha256": "d079db2500bd2c0aeb5fbf794c079f8a6715e913a58d40ab8e602e450f3126f3",
       "size": 279,
       "contentType": "image/png",
@@ -645,7 +645,7 @@
     {
       "fileName": "ship_0014.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0014.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0014.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0014.png",
       "sha256": "963c49555f3de344a699a01bcbb64bb5ab4d8aed82f940184180aaf50da4ac07",
       "size": 300,
       "contentType": "image/png",
@@ -655,7 +655,7 @@
     {
       "fileName": "ship_0015.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0015.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0015.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0015.png",
       "sha256": "3ea8fa830130fcd7e9018bd1c6d4a5527419a8f187c061ae3cdf40c0ea196e78",
       "size": 286,
       "contentType": "image/png",
@@ -665,7 +665,7 @@
     {
       "fileName": "ship_0016.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0016.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0016.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0016.png",
       "sha256": "d071446e9cf19f5d3094db25ae549ce961702af531274df87577392e90f1e4cf",
       "size": 251,
       "contentType": "image/png",
@@ -675,7 +675,7 @@
     {
       "fileName": "ship_0017.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0017.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0017.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0017.png",
       "sha256": "f80a4caa8ba735af3cdd50128c99ae3a0dcf8b737543227e7dc8c1b2d0f0e911",
       "size": 226,
       "contentType": "image/png",
@@ -685,7 +685,7 @@
     {
       "fileName": "ship_0018.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0018.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0018.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0018.png",
       "sha256": "47d537798120eee94aa3d707530704faf3f00822e5ef02239fef9db40d298990",
       "size": 238,
       "contentType": "image/png",
@@ -695,7 +695,7 @@
     {
       "fileName": "ship_0019.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0019.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0019.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0019.png",
       "sha256": "7ce8e9ea39127d1d073f1f1681bb728efb931fb0cd96231ba29f20d7223ecebf",
       "size": 270,
       "contentType": "image/png",
@@ -705,7 +705,7 @@
     {
       "fileName": "ship_0020.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0020.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0020.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0020.png",
       "sha256": "39246a762d65c1c9c68037171cfee0b03ccbf3d1c3de2935a7c4dcd85d7e8908",
       "size": 221,
       "contentType": "image/png",
@@ -715,7 +715,7 @@
     {
       "fileName": "ship_0021.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0021.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0021.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0021.png",
       "sha256": "5f7211a7b0d165a015424e7cfdb0b7eb05e4fcdc65f273db9169d1c2a4d5ea77",
       "size": 236,
       "contentType": "image/png",
@@ -725,7 +725,7 @@
     {
       "fileName": "ship_0022.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0022.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0022.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0022.png",
       "sha256": "b01917dcf94309b6d4213c76f068045a35bac39a9cad28b0015d7f8709fc617d",
       "size": 222,
       "contentType": "image/png",
@@ -735,7 +735,7 @@
     {
       "fileName": "ship_0023.png",
       "path": "packs/kenney-pixel-shmup/sprites/ship_0023.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/kenney-pixel-shmup/sprites/ship_0023.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/409165adade9353f093bbb32753442fa54da656c/packs/kenney-pixel-shmup/sprites/ship_0023.png",
       "sha256": "8946e8c53db0d720dc9d0e0be40eecb98c63ce99d22b9138ce87476677fa68ff",
       "size": 237,
       "contentType": "image/png",
