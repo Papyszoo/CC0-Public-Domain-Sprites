@@ -6,7 +6,7 @@
   "website": "https://github.com/sparklinlabs/superpowers-asset-packs",
   "description": "Retro arcade space shooter pixel art sprites by Pixel-boy: starfighter player ships, alien swarm fleets, mothership bosses, laser beams, energy shields, asteroids, and explosions.",
   "folder": "packs/pixelboy-space-shooter",
-  "pinnedSha": "74dd2512da9a1f55334407b73f8ce5405481c17c",
+  "pinnedSha": "3af33dfa72868b34b0e38a8691d82fd773614339",
   "itemCount": 74,
   "items": [
     {
@@ -902,7 +902,7 @@
     {
       "fileName": "backgrounds_1.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_1.png",
       "sha256": "9b6bec6d8ca0da18d31db6d37be9dfeda702bd58664878b3268a98a5b48709e3",
       "size": 13835,
       "role": "Image"
@@ -910,7 +910,7 @@
     {
       "fileName": "backgrounds_2.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_2.png",
       "sha256": "5823e9dffed6f31fd1fc1d476e394c6428ace28f581cb473f708ff865b970635",
       "size": 15738,
       "role": "Image"
@@ -918,7 +918,7 @@
     {
       "fileName": "backgrounds_3.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_3.png",
       "sha256": "6941f142b5735336dacde923540d8a845a10c23d87631e563a26a87d332c5a28",
       "size": 16892,
       "role": "Image"
@@ -926,7 +926,7 @@
     {
       "fileName": "backgrounds_4.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_4.png",
       "sha256": "0f7ccbd570d195b65fb51687a806f1721896cd0893aa3a6dca9fc47bd418ac20",
       "size": 17888,
       "role": "Image"
@@ -934,7 +934,7 @@
     {
       "fileName": "backgrounds_5.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_5.png",
       "sha256": "b8147fe84b0bf4538a2e0eda5b7be6a56b6f7f2e223f897cba1c980e90a25c3c",
       "size": 27448,
       "role": "Image"
@@ -942,7 +942,7 @@
     {
       "fileName": "backgrounds_black-hole.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_black-hole.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_black-hole.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_black-hole.png",
       "sha256": "a9961f7c705eb0d9bcb86b002900aff4061225d60353c7c49f148c3071b26767",
       "size": 4430,
       "role": "Image"
@@ -950,7 +950,7 @@
     {
       "fileName": "backgrounds_meteor-1.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_meteor-1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_meteor-1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_meteor-1.png",
       "sha256": "77b09630743a1f36b7964fae2ce5aaac243561fe27afbca9c017d7c5d4b8ad5f",
       "size": 3678,
       "role": "Image"
@@ -958,7 +958,7 @@
     {
       "fileName": "backgrounds_meteor-2.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_meteor-2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_meteor-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_meteor-2.png",
       "sha256": "e690aeeb7d7fe3edc57f3cf2c3fc707a6cb3452297611b434a86caace61d14b0",
       "size": 3150,
       "role": "Image"
@@ -966,7 +966,7 @@
     {
       "fileName": "backgrounds_meteor-3.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_meteor-3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_meteor-3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_meteor-3.png",
       "sha256": "b7d2c88b5b76188b3c8aebe26dab7228a21f4f00718fdbdc082183fb68cf4100",
       "size": 3221,
       "role": "Image"
@@ -974,7 +974,7 @@
     {
       "fileName": "backgrounds_meteor-4.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_meteor-4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_meteor-4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_meteor-4.png",
       "sha256": "0ac97742a91c3956c9d00213adaf4316b39cf72c3d533ac1d04dfdb7d73d969e",
       "size": 3134,
       "role": "Image"
@@ -982,7 +982,7 @@
     {
       "fileName": "backgrounds_meteor-5.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_meteor-5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_meteor-5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_meteor-5.png",
       "sha256": "c61ff88bf71c55374c524d6e8d2525122c25e73ff3180bf205d82d9fc1203ea5",
       "size": 2966,
       "role": "Image"
@@ -990,7 +990,7 @@
     {
       "fileName": "backgrounds_moon.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_moon.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_moon.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_moon.png",
       "sha256": "c2b57810f688a15ad7e9d503ebd46b996492b615fefe4b5ecd6f3333c6b13905",
       "size": 3404,
       "role": "Image"
@@ -998,7 +998,7 @@
     {
       "fileName": "backgrounds_planet-1.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_planet-1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_planet-1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_planet-1.png",
       "sha256": "9ac4c9be250d00b89b36cd76a63fbd9714f3a227e04acd4ad2d0378ba7302969",
       "size": 4235,
       "role": "Image"
@@ -1006,7 +1006,7 @@
     {
       "fileName": "backgrounds_planet-2.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_planet-2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_planet-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_planet-2.png",
       "sha256": "e0fe5cb1b8bcefa1078667a523d220ed4941014efa19d9adf8f97ef55fde8288",
       "size": 4062,
       "role": "Image"
@@ -1014,7 +1014,7 @@
     {
       "fileName": "backgrounds_star-1.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_star-1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_star-1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_star-1.png",
       "sha256": "040c5ed54bd03d148bc4543f05a55e18b9acd91eed9bb8978628de6ad65bd6a8",
       "size": 3250,
       "role": "Image"
@@ -1022,7 +1022,7 @@
     {
       "fileName": "backgrounds_star-2.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_star-2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_star-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_star-2.png",
       "sha256": "559b6e6981f94f433e41c54b6a5321429e3255275ba7d6dfc5b0a472d4b16b93",
       "size": 3068,
       "role": "Image"
@@ -1030,7 +1030,7 @@
     {
       "fileName": "backgrounds_stars.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_stars.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_stars.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_stars.png",
       "sha256": "511d0a229964a81ea6ed0810d5e1fb77d590c2c2755061b86e49c3070ca33d6f",
       "size": 5370,
       "role": "Image"
@@ -1038,7 +1038,7 @@
     {
       "fileName": "effects_fx-1 (38x38).png",
       "path": "packs/pixelboy-space-shooter/sprites/effects_fx-1 (38x38).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/effects_fx-1%20(38x38).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/effects_fx-1%20(38x38).png",
       "sha256": "388337c0778bc9d9a675da47e944ac7d52a685df46a7f3d42d856aa37ecf3e2e",
       "size": 741,
       "role": "Image"
@@ -1046,7 +1046,7 @@
     {
       "fileName": "effects_fx-2 (34x34).png",
       "path": "packs/pixelboy-space-shooter/sprites/effects_fx-2 (34x34).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/effects_fx-2%20(34x34).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/effects_fx-2%20(34x34).png",
       "sha256": "eaf88de33ea7b45c01c4e44269d7e4a84a7056672ced18f75b5f5b1e31dfad19",
       "size": 576,
       "role": "Image"
@@ -1054,7 +1054,7 @@
     {
       "fileName": "effects_fx-3 (30x30).png",
       "path": "packs/pixelboy-space-shooter/sprites/effects_fx-3 (30x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/effects_fx-3%20(30x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/effects_fx-3%20(30x30).png",
       "sha256": "70500c1cf4dd0a134caaf5aa8eae81bf2009b145131a570afb18e897e777a162",
       "size": 506,
       "role": "Image"
@@ -1062,7 +1062,7 @@
     {
       "fileName": "effects_fx-4 (36x36).png",
       "path": "packs/pixelboy-space-shooter/sprites/effects_fx-4 (36x36).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/effects_fx-4%20(36x36).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/effects_fx-4%20(36x36).png",
       "sha256": "fac14694a8e5be38d8435ba63afc79519a55f9e7581dd1280c5df6ef5cb6bfb3",
       "size": 648,
       "role": "Image"
@@ -1070,7 +1070,7 @@
     {
       "fileName": "effects_fx-5.png",
       "path": "packs/pixelboy-space-shooter/sprites/effects_fx-5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/effects_fx-5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/effects_fx-5.png",
       "sha256": "9c1664aae8f9d274aa3d79ab4c59e20f7ef33b694dd5c60c1abbc6c64cc83c3a",
       "size": 274,
       "role": "Image"
@@ -1078,7 +1078,7 @@
     {
       "fileName": "effects_fx-6 (28x28).png",
       "path": "packs/pixelboy-space-shooter/sprites/effects_fx-6 (28x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/effects_fx-6%20(28x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/effects_fx-6%20(28x28).png",
       "sha256": "20bffb90984d54d3528cf268655dd9073f6e87843e292dad31ca0707c319e2b8",
       "size": 406,
       "role": "Image"
@@ -1086,7 +1086,7 @@
     {
       "fileName": "effects_fx-7.png",
       "path": "packs/pixelboy-space-shooter/sprites/effects_fx-7.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/effects_fx-7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/effects_fx-7.png",
       "sha256": "0cf44e19436cb23a63b1b7dc427f6d764deaef99f157b0b42b428fe9640acb64",
       "size": 3088,
       "role": "Image"
@@ -1094,7 +1094,7 @@
     {
       "fileName": "effects_shield-1.png",
       "path": "packs/pixelboy-space-shooter/sprites/effects_shield-1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/effects_shield-1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/effects_shield-1.png",
       "sha256": "bed5c2e1787cfb60002017925de332099b43b4f06f6dafce31251a89ac8b7fcc",
       "size": 3610,
       "role": "Image"
@@ -1102,7 +1102,7 @@
     {
       "fileName": "effects_shield-2.png",
       "path": "packs/pixelboy-space-shooter/sprites/effects_shield-2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/effects_shield-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/effects_shield-2.png",
       "sha256": "3ec82e94133086d5cae92b17b7e1eab751804093487f823a5b79a9b8381c2060",
       "size": 3649,
       "role": "Image"
@@ -1110,7 +1110,7 @@
     {
       "fileName": "font-20x20.png",
       "path": "packs/pixelboy-space-shooter/sprites/font-20x20.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/font-20x20.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/font-20x20.png",
       "sha256": "e17764c9e15dda54cb41791ce32674813b7f5df7b6129a0e80d03b0513ec96d0",
       "size": 6619,
       "role": "Image"
@@ -1118,7 +1118,7 @@
     {
       "fileName": "hud_energy-bar (26x26).png",
       "path": "packs/pixelboy-space-shooter/sprites/hud_energy-bar (26x26).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/hud_energy-bar%20(26x26).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/hud_energy-bar%20(26x26).png",
       "sha256": "5742e6383a2977569398babc501d117f4ca3df806ebf90e4d5ee36fd8e55c936",
       "size": 3086,
       "role": "Image"
@@ -1126,7 +1126,7 @@
     {
       "fileName": "hud_energy-bar-fill (12x12).png",
       "path": "packs/pixelboy-space-shooter/sprites/hud_energy-bar-fill (12x12).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/hud_energy-bar-fill%20(12x12).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/hud_energy-bar-fill%20(12x12).png",
       "sha256": "9f09bfc4fe8a82f3b81106f5f8de2cea21ecd65f4b3ef8765763dd3d2ae9f2f8",
       "size": 2836,
       "role": "Image"
@@ -1134,7 +1134,7 @@
     {
       "fileName": "hud_health-bar-fill.png",
       "path": "packs/pixelboy-space-shooter/sprites/hud_health-bar-fill.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/hud_health-bar-fill.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/hud_health-bar-fill.png",
       "sha256": "f844ee21d2ace79af0b99caa7230a1061ae8a128f73dd2dd637a7e63bac77e84",
       "size": 2849,
       "role": "Image"
@@ -1142,7 +1142,7 @@
     {
       "fileName": "hud_health-bar.png",
       "path": "packs/pixelboy-space-shooter/sprites/hud_health-bar.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/hud_health-bar.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/hud_health-bar.png",
       "sha256": "775196ed5eb054f0d22c7207539923a098b46d8bdaf715b8a01a5707d38bd0cf",
       "size": 3110,
       "role": "Image"
@@ -1150,7 +1150,7 @@
     {
       "fileName": "hud_life-empty.png",
       "path": "packs/pixelboy-space-shooter/sprites/hud_life-empty.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/hud_life-empty.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/hud_life-empty.png",
       "sha256": "69c72d52f0e7c2daff868b2abf2d54bb30b61b7410b1bfb4ba7a9771a53f10fc",
       "size": 3196,
       "role": "Image"
@@ -1158,7 +1158,7 @@
     {
       "fileName": "hud_life-full.png",
       "path": "packs/pixelboy-space-shooter/sprites/hud_life-full.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/hud_life-full.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/hud_life-full.png",
       "sha256": "592494359dbe97b99010cec66ba2573f8c6622a49ba13f152c10bc0814edf27f",
       "size": 3306,
       "role": "Image"
@@ -1166,7 +1166,7 @@
     {
       "fileName": "hud_lives-icon.png",
       "path": "packs/pixelboy-space-shooter/sprites/hud_lives-icon.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/hud_lives-icon.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/hud_lives-icon.png",
       "sha256": "33fb84c4119d24c99233542939f007006237001b15d434dbd6044bfb76555c84",
       "size": 3081,
       "role": "Image"
@@ -1174,7 +1174,7 @@
     {
       "fileName": "items_ball.png",
       "path": "packs/pixelboy-space-shooter/sprites/items_ball.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_ball.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_ball.png",
       "sha256": "63e49616429aef0bb2860f3924a76599dd48ec305e96ddf8c6ac05d1c52d51f0",
       "size": 2914,
       "role": "Image"
@@ -1182,7 +1182,7 @@
     {
       "fileName": "items_bomb.png",
       "path": "packs/pixelboy-space-shooter/sprites/items_bomb.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_bomb.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_bomb.png",
       "sha256": "5fa6df6e69598934716275332b561db5b98027a2bad17061fad678fb579c0759",
       "size": 2980,
       "role": "Image"
@@ -1190,7 +1190,7 @@
     {
       "fileName": "items_bubble.png",
       "path": "packs/pixelboy-space-shooter/sprites/items_bubble.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_bubble.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_bubble.png",
       "sha256": "d8ca9d3e3c96b09a3984f45a8949b82110f240e61491997c291df5a83ea5d55e",
       "size": 2876,
       "role": "Image"
@@ -1198,7 +1198,7 @@
     {
       "fileName": "items_crate-1.png",
       "path": "packs/pixelboy-space-shooter/sprites/items_crate-1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_crate-1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_crate-1.png",
       "sha256": "26c8fe4bc211134e8f811e7c074c4a750e3ea7e706ea74c010063df5c037b79e",
       "size": 2976,
       "role": "Image"
@@ -1206,7 +1206,7 @@
     {
       "fileName": "items_crate-2.png",
       "path": "packs/pixelboy-space-shooter/sprites/items_crate-2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_crate-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_crate-2.png",
       "sha256": "f88affdfef930a59d042ff89d59066cf0f61d2e233f0b5926937ca1e44da6c98",
       "size": 2976,
       "role": "Image"
@@ -1214,7 +1214,7 @@
     {
       "fileName": "items_gem-1.png",
       "path": "packs/pixelboy-space-shooter/sprites/items_gem-1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_gem-1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_gem-1.png",
       "sha256": "e4a6c97b9f383b8ef4f793f2c0ab19ab06119f30fd5cda2fc284a7027c477963",
       "size": 369,
       "role": "Image"
@@ -1222,7 +1222,7 @@
     {
       "fileName": "items_gem-2 (21x21).png",
       "path": "packs/pixelboy-space-shooter/sprites/items_gem-2 (21x21).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_gem-2%20(21x21).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_gem-2%20(21x21).png",
       "sha256": "740ea9547fa03b8f5bb010cc45d75ba66d0810d6e1ff704aecc51f3a66ac718b",
       "size": 465,
       "role": "Image"
@@ -1230,7 +1230,7 @@
     {
       "fileName": "items_gem-3 (20x20).png",
       "path": "packs/pixelboy-space-shooter/sprites/items_gem-3 (20x20).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_gem-3%20(20x20).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_gem-3%20(20x20).png",
       "sha256": "059bf451c20b6e8a9142b725804f25bcefd3d055c5a6325b70e1cd77612728c2",
       "size": 364,
       "role": "Image"
@@ -1238,7 +1238,7 @@
     {
       "fileName": "items_gem-4 (15x15).png",
       "path": "packs/pixelboy-space-shooter/sprites/items_gem-4 (15x15).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_gem-4%20(15x15).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_gem-4%20(15x15).png",
       "sha256": "3992843ece3d96f48ee2c9ed88eb9cd161849ffb1b7dd9f9d6efcb2c3005ce86",
       "size": 325,
       "role": "Image"
@@ -1246,7 +1246,7 @@
     {
       "fileName": "items_power-up-1.png",
       "path": "packs/pixelboy-space-shooter/sprites/items_power-up-1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_power-up-1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_power-up-1.png",
       "sha256": "fa373809671029838b752c5d62a2885931b176265df16bdb924fd2b82c643e05",
       "size": 3171,
       "role": "Image"
@@ -1254,7 +1254,7 @@
     {
       "fileName": "items_power-up-2.png",
       "path": "packs/pixelboy-space-shooter/sprites/items_power-up-2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_power-up-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_power-up-2.png",
       "sha256": "f96e6e74f6bd03e43af7822eed8dfdf07b5e4bf254c58c27b4faa152644015f7",
       "size": 3174,
       "role": "Image"
@@ -1262,7 +1262,7 @@
     {
       "fileName": "items_power-up-3.png",
       "path": "packs/pixelboy-space-shooter/sprites/items_power-up-3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_power-up-3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_power-up-3.png",
       "sha256": "e348d20d1abdbba46b0bbba3cdbae3b7b89560d69c01f3e0a5ba89210fefd532",
       "size": 3169,
       "role": "Image"
@@ -1270,7 +1270,7 @@
     {
       "fileName": "items_power-up-4.png",
       "path": "packs/pixelboy-space-shooter/sprites/items_power-up-4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_power-up-4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_power-up-4.png",
       "sha256": "f23ef2912d6074854577405ac7aae4397ace39674ed6e28abc51cb943a910c80",
       "size": 3156,
       "role": "Image"
@@ -1278,7 +1278,7 @@
     {
       "fileName": "items_power-up-5.png",
       "path": "packs/pixelboy-space-shooter/sprites/items_power-up-5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_power-up-5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_power-up-5.png",
       "sha256": "2b0b3b020c8e76aa5f0adcdc427985bfbe114074d60dbabf15d02f874c51afb7",
       "size": 3210,
       "role": "Image"
@@ -1286,7 +1286,7 @@
     {
       "fileName": "items_rocket-1.png",
       "path": "packs/pixelboy-space-shooter/sprites/items_rocket-1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_rocket-1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_rocket-1.png",
       "sha256": "7ea3a13a8bf90b081a34d4900721b4fb8c528d5aa44c1730f0a3f66761495ff3",
       "size": 3045,
       "role": "Image"
@@ -1294,7 +1294,7 @@
     {
       "fileName": "items_rocket-2.png",
       "path": "packs/pixelboy-space-shooter/sprites/items_rocket-2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_rocket-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_rocket-2.png",
       "sha256": "51de2e052b19fdf9a64a7e4b50c6671d33d8c5dfce9b14dd0d73c53b3dd79469",
       "size": 3008,
       "role": "Image"
@@ -1302,7 +1302,7 @@
     {
       "fileName": "logo.png",
       "path": "packs/pixelboy-space-shooter/sprites/logo.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/logo.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/logo.png",
       "sha256": "7042334de8d473b94dd97cd5c6294d8ee59f921b6187655871030f5192a219d0",
       "size": 6918,
       "role": "Image"
@@ -1310,7 +1310,7 @@
     {
       "fileName": "ships_1.png",
       "path": "packs/pixelboy-space-shooter/sprites/ships_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/ships_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/ships_1.png",
       "sha256": "da0059fd22e4c2bd1bc6ccafaed57eba254d371b442d4a1ebd8b59eb58f0655f",
       "size": 4412,
       "role": "Image"
@@ -1318,7 +1318,7 @@
     {
       "fileName": "ships_10.png",
       "path": "packs/pixelboy-space-shooter/sprites/ships_10.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/ships_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/ships_10.png",
       "sha256": "aced2c4b9ba7767136cf0b4ad5ef7ad9ceae20b1ccc6a208a5ba3b841ea99012",
       "size": 3196,
       "role": "Image"
@@ -1326,7 +1326,7 @@
     {
       "fileName": "ships_2.png",
       "path": "packs/pixelboy-space-shooter/sprites/ships_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/ships_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/ships_2.png",
       "sha256": "98b1f552c571d19b48d68ac32bf9ed469ddee58ec0ee48ec7a57e081aa7f0275",
       "size": 3638,
       "role": "Image"
@@ -1334,7 +1334,7 @@
     {
       "fileName": "ships_3.png",
       "path": "packs/pixelboy-space-shooter/sprites/ships_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/ships_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/ships_3.png",
       "sha256": "7637161d1a32ebb50d2f10b0bc1c68981fe9c946833af22e2947844262bd0b20",
       "size": 3848,
       "role": "Image"
@@ -1342,7 +1342,7 @@
     {
       "fileName": "ships_4.png",
       "path": "packs/pixelboy-space-shooter/sprites/ships_4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/ships_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/ships_4.png",
       "sha256": "9bab686466511c146e2677ce424a8b8b24cbcade1e5b9124020973f5f64693e7",
       "size": 4006,
       "role": "Image"
@@ -1350,7 +1350,7 @@
     {
       "fileName": "ships_5.png",
       "path": "packs/pixelboy-space-shooter/sprites/ships_5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/ships_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/ships_5.png",
       "sha256": "1e257a6b91c7e91f1ed2dd0869cbfc71f598f4c058a8f9801749cb20f92a96d0",
       "size": 3141,
       "role": "Image"
@@ -1358,7 +1358,7 @@
     {
       "fileName": "ships_6.png",
       "path": "packs/pixelboy-space-shooter/sprites/ships_6.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/ships_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/ships_6.png",
       "sha256": "ef67b2c7dc500880fc9593b97ac906cc06d6f2aa1d16430ab1f7253886d19a4b",
       "size": 3765,
       "role": "Image"
@@ -1366,7 +1366,7 @@
     {
       "fileName": "ships_7.png",
       "path": "packs/pixelboy-space-shooter/sprites/ships_7.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/ships_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/ships_7.png",
       "sha256": "086b34f6ed9d9d160709cb406555496684f72cf03abe9df595723a70630473c1",
       "size": 5215,
       "role": "Image"
@@ -1374,7 +1374,7 @@
     {
       "fileName": "ships_8.png",
       "path": "packs/pixelboy-space-shooter/sprites/ships_8.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/ships_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/ships_8.png",
       "sha256": "ddfee76106c0dd90c0ba13e25cb2d3759f2a5a7da999d2350ae7adf45aeb7852",
       "size": 6368,
       "role": "Image"
@@ -1382,7 +1382,7 @@
     {
       "fileName": "ships_9.png",
       "path": "packs/pixelboy-space-shooter/sprites/ships_9.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/ships_9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/ships_9.png",
       "sha256": "9668628235fb444a388d36d947ad983efbd3d21a0a411d94f6fb8ee9730bdc2b",
       "size": 4052,
       "role": "Image"
@@ -1390,7 +1390,7 @@
     {
       "fileName": "shots_1.png",
       "path": "packs/pixelboy-space-shooter/sprites/shots_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/shots_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/shots_1.png",
       "sha256": "d09a1488238d5c636c89100b12000ade6d8adf9461ef091bcb87999f97c869de",
       "size": 3091,
       "role": "Image"
@@ -1398,7 +1398,7 @@
     {
       "fileName": "shots_10.png",
       "path": "packs/pixelboy-space-shooter/sprites/shots_10.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/shots_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/shots_10.png",
       "sha256": "7551119723bfbb91d1a6fb2e69d157da8a2c67b5816856be35f8f887f0bb8104",
       "size": 3295,
       "role": "Image"
@@ -1406,7 +1406,7 @@
     {
       "fileName": "shots_11.png",
       "path": "packs/pixelboy-space-shooter/sprites/shots_11.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/shots_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/shots_11.png",
       "sha256": "71bc4f3dd5c1a274974aa6b2c7483a4c5e97270c227d95b8a43507a68cfd6ecc",
       "size": 3075,
       "role": "Image"
@@ -1414,7 +1414,7 @@
     {
       "fileName": "shots_12.png",
       "path": "packs/pixelboy-space-shooter/sprites/shots_12.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/shots_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/shots_12.png",
       "sha256": "65bfbc204983b91f43f770b86a6ce91705ef7ed3678a9067da7ab16bda674c32",
       "size": 3092,
       "role": "Image"
@@ -1422,7 +1422,7 @@
     {
       "fileName": "shots_2.png",
       "path": "packs/pixelboy-space-shooter/sprites/shots_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/shots_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/shots_2.png",
       "sha256": "9aa21cf54b7945a1f51c865ff8eb42d888fa95fc453cd3f6d6184aee2c1bd599",
       "size": 3108,
       "role": "Image"
@@ -1430,7 +1430,7 @@
     {
       "fileName": "shots_3.png",
       "path": "packs/pixelboy-space-shooter/sprites/shots_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/shots_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/shots_3.png",
       "sha256": "82e1bb57f3f1e164bfd923843a5b27d04c41e6d87a8f414e127541557e7f5dc0",
       "size": 2979,
       "role": "Image"
@@ -1438,7 +1438,7 @@
     {
       "fileName": "shots_4.png",
       "path": "packs/pixelboy-space-shooter/sprites/shots_4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/shots_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/shots_4.png",
       "sha256": "a8484ca5511ef8655c4e1a1996f829d5f599fc9e733178057801fe587a3a23d1",
       "size": 2953,
       "role": "Image"
@@ -1446,7 +1446,7 @@
     {
       "fileName": "shots_5.png",
       "path": "packs/pixelboy-space-shooter/sprites/shots_5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/shots_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/shots_5.png",
       "sha256": "f356ecf8fe275c1ec942155827f56ce70cb8eb9794de5961b4e0c93fd143244f",
       "size": 2995,
       "role": "Image"
@@ -1454,7 +1454,7 @@
     {
       "fileName": "shots_6.png",
       "path": "packs/pixelboy-space-shooter/sprites/shots_6.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/shots_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/shots_6.png",
       "sha256": "8b3aaaf34d9351e2ef78a36dcafc63b9a44e9dd1f50c91852cc1e669d097aa7e",
       "size": 3080,
       "role": "Image"
@@ -1462,7 +1462,7 @@
     {
       "fileName": "shots_7.png",
       "path": "packs/pixelboy-space-shooter/sprites/shots_7.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/shots_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/shots_7.png",
       "sha256": "e4ff923c226c79b5b9319b313d6769b8b31b8df1b72bf68bf24ec12f85ac2df8",
       "size": 3047,
       "role": "Image"
@@ -1470,7 +1470,7 @@
     {
       "fileName": "shots_8.png",
       "path": "packs/pixelboy-space-shooter/sprites/shots_8.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/shots_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/shots_8.png",
       "sha256": "153618dd7e77e836c92d4475b76d7cddba30bb9f06bab73de91c76e17a9ef4b4",
       "size": 3403,
       "role": "Image"
@@ -1478,7 +1478,7 @@
     {
       "fileName": "shots_9.png",
       "path": "packs/pixelboy-space-shooter/sprites/shots_9.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/shots_9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/shots_9.png",
       "sha256": "39d46dae07372f2ceeadb12f38d052dffb1153e6756540dc2f6db9c955734299",
       "size": 3075,
       "role": "Image"
@@ -1486,7 +1486,7 @@
     {
       "fileName": "title-font.png",
       "path": "packs/pixelboy-space-shooter/sprites/title-font.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/title-font.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/title-font.png",
       "sha256": "6440f6a07a93a148cbd9910ec46512b8f76bf32cae84dd60582489971affd778",
       "size": 6350,
       "role": "Image"
@@ -1496,7 +1496,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/pixelboy-space-shooter/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/cover.png",
       "sha256": "9357f75052bef9f3cfbcfad33c48d9755afaafe858cb5d4c921fae19cd0eb0ce",
       "size": 69216,
       "contentType": "image/png",
@@ -1505,7 +1505,7 @@
     {
       "fileName": "backgrounds_1.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_1.png",
       "sha256": "9b6bec6d8ca0da18d31db6d37be9dfeda702bd58664878b3268a98a5b48709e3",
       "size": 13835,
       "contentType": "image/png",
@@ -1515,7 +1515,7 @@
     {
       "fileName": "backgrounds_2.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_2.png",
       "sha256": "5823e9dffed6f31fd1fc1d476e394c6428ace28f581cb473f708ff865b970635",
       "size": 15738,
       "contentType": "image/png",
@@ -1525,7 +1525,7 @@
     {
       "fileName": "backgrounds_3.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_3.png",
       "sha256": "6941f142b5735336dacde923540d8a845a10c23d87631e563a26a87d332c5a28",
       "size": 16892,
       "contentType": "image/png",
@@ -1535,7 +1535,7 @@
     {
       "fileName": "backgrounds_4.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_4.png",
       "sha256": "0f7ccbd570d195b65fb51687a806f1721896cd0893aa3a6dca9fc47bd418ac20",
       "size": 17888,
       "contentType": "image/png",
@@ -1545,7 +1545,7 @@
     {
       "fileName": "backgrounds_5.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_5.png",
       "sha256": "b8147fe84b0bf4538a2e0eda5b7be6a56b6f7f2e223f897cba1c980e90a25c3c",
       "size": 27448,
       "contentType": "image/png",
@@ -1555,7 +1555,7 @@
     {
       "fileName": "backgrounds_black-hole.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_black-hole.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_black-hole.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_black-hole.png",
       "sha256": "a9961f7c705eb0d9bcb86b002900aff4061225d60353c7c49f148c3071b26767",
       "size": 4430,
       "contentType": "image/png",
@@ -1565,7 +1565,7 @@
     {
       "fileName": "backgrounds_meteor-1.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_meteor-1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_meteor-1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_meteor-1.png",
       "sha256": "77b09630743a1f36b7964fae2ce5aaac243561fe27afbca9c017d7c5d4b8ad5f",
       "size": 3678,
       "contentType": "image/png",
@@ -1575,7 +1575,7 @@
     {
       "fileName": "backgrounds_meteor-2.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_meteor-2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_meteor-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_meteor-2.png",
       "sha256": "e690aeeb7d7fe3edc57f3cf2c3fc707a6cb3452297611b434a86caace61d14b0",
       "size": 3150,
       "contentType": "image/png",
@@ -1585,7 +1585,7 @@
     {
       "fileName": "backgrounds_meteor-3.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_meteor-3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_meteor-3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_meteor-3.png",
       "sha256": "b7d2c88b5b76188b3c8aebe26dab7228a21f4f00718fdbdc082183fb68cf4100",
       "size": 3221,
       "contentType": "image/png",
@@ -1595,7 +1595,7 @@
     {
       "fileName": "backgrounds_meteor-4.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_meteor-4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_meteor-4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_meteor-4.png",
       "sha256": "0ac97742a91c3956c9d00213adaf4316b39cf72c3d533ac1d04dfdb7d73d969e",
       "size": 3134,
       "contentType": "image/png",
@@ -1605,7 +1605,7 @@
     {
       "fileName": "backgrounds_meteor-5.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_meteor-5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_meteor-5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_meteor-5.png",
       "sha256": "c61ff88bf71c55374c524d6e8d2525122c25e73ff3180bf205d82d9fc1203ea5",
       "size": 2966,
       "contentType": "image/png",
@@ -1615,7 +1615,7 @@
     {
       "fileName": "backgrounds_moon.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_moon.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_moon.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_moon.png",
       "sha256": "c2b57810f688a15ad7e9d503ebd46b996492b615fefe4b5ecd6f3333c6b13905",
       "size": 3404,
       "contentType": "image/png",
@@ -1625,7 +1625,7 @@
     {
       "fileName": "backgrounds_planet-1.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_planet-1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_planet-1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_planet-1.png",
       "sha256": "9ac4c9be250d00b89b36cd76a63fbd9714f3a227e04acd4ad2d0378ba7302969",
       "size": 4235,
       "contentType": "image/png",
@@ -1635,7 +1635,7 @@
     {
       "fileName": "backgrounds_planet-2.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_planet-2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_planet-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_planet-2.png",
       "sha256": "e0fe5cb1b8bcefa1078667a523d220ed4941014efa19d9adf8f97ef55fde8288",
       "size": 4062,
       "contentType": "image/png",
@@ -1645,7 +1645,7 @@
     {
       "fileName": "backgrounds_star-1.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_star-1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_star-1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_star-1.png",
       "sha256": "040c5ed54bd03d148bc4543f05a55e18b9acd91eed9bb8978628de6ad65bd6a8",
       "size": 3250,
       "contentType": "image/png",
@@ -1655,7 +1655,7 @@
     {
       "fileName": "backgrounds_star-2.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_star-2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_star-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_star-2.png",
       "sha256": "559b6e6981f94f433e41c54b6a5321429e3255275ba7d6dfc5b0a472d4b16b93",
       "size": 3068,
       "contentType": "image/png",
@@ -1665,7 +1665,7 @@
     {
       "fileName": "backgrounds_stars.png",
       "path": "packs/pixelboy-space-shooter/sprites/backgrounds_stars.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/backgrounds_stars.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/backgrounds_stars.png",
       "sha256": "511d0a229964a81ea6ed0810d5e1fb77d590c2c2755061b86e49c3070ca33d6f",
       "size": 5370,
       "contentType": "image/png",
@@ -1675,7 +1675,7 @@
     {
       "fileName": "effects_fx-1 (38x38).png",
       "path": "packs/pixelboy-space-shooter/sprites/effects_fx-1 (38x38).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/effects_fx-1%20(38x38).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/effects_fx-1%20(38x38).png",
       "sha256": "388337c0778bc9d9a675da47e944ac7d52a685df46a7f3d42d856aa37ecf3e2e",
       "size": 741,
       "contentType": "image/png",
@@ -1685,7 +1685,7 @@
     {
       "fileName": "effects_fx-2 (34x34).png",
       "path": "packs/pixelboy-space-shooter/sprites/effects_fx-2 (34x34).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/effects_fx-2%20(34x34).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/effects_fx-2%20(34x34).png",
       "sha256": "eaf88de33ea7b45c01c4e44269d7e4a84a7056672ced18f75b5f5b1e31dfad19",
       "size": 576,
       "contentType": "image/png",
@@ -1695,7 +1695,7 @@
     {
       "fileName": "effects_fx-3 (30x30).png",
       "path": "packs/pixelboy-space-shooter/sprites/effects_fx-3 (30x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/effects_fx-3%20(30x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/effects_fx-3%20(30x30).png",
       "sha256": "70500c1cf4dd0a134caaf5aa8eae81bf2009b145131a570afb18e897e777a162",
       "size": 506,
       "contentType": "image/png",
@@ -1705,7 +1705,7 @@
     {
       "fileName": "effects_fx-4 (36x36).png",
       "path": "packs/pixelboy-space-shooter/sprites/effects_fx-4 (36x36).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/effects_fx-4%20(36x36).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/effects_fx-4%20(36x36).png",
       "sha256": "fac14694a8e5be38d8435ba63afc79519a55f9e7581dd1280c5df6ef5cb6bfb3",
       "size": 648,
       "contentType": "image/png",
@@ -1715,7 +1715,7 @@
     {
       "fileName": "effects_fx-5.png",
       "path": "packs/pixelboy-space-shooter/sprites/effects_fx-5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/effects_fx-5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/effects_fx-5.png",
       "sha256": "9c1664aae8f9d274aa3d79ab4c59e20f7ef33b694dd5c60c1abbc6c64cc83c3a",
       "size": 274,
       "contentType": "image/png",
@@ -1725,7 +1725,7 @@
     {
       "fileName": "effects_fx-6 (28x28).png",
       "path": "packs/pixelboy-space-shooter/sprites/effects_fx-6 (28x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/effects_fx-6%20(28x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/effects_fx-6%20(28x28).png",
       "sha256": "20bffb90984d54d3528cf268655dd9073f6e87843e292dad31ca0707c319e2b8",
       "size": 406,
       "contentType": "image/png",
@@ -1735,7 +1735,7 @@
     {
       "fileName": "effects_fx-7.png",
       "path": "packs/pixelboy-space-shooter/sprites/effects_fx-7.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/effects_fx-7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/effects_fx-7.png",
       "sha256": "0cf44e19436cb23a63b1b7dc427f6d764deaef99f157b0b42b428fe9640acb64",
       "size": 3088,
       "contentType": "image/png",
@@ -1745,7 +1745,7 @@
     {
       "fileName": "effects_shield-1.png",
       "path": "packs/pixelboy-space-shooter/sprites/effects_shield-1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/effects_shield-1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/effects_shield-1.png",
       "sha256": "bed5c2e1787cfb60002017925de332099b43b4f06f6dafce31251a89ac8b7fcc",
       "size": 3610,
       "contentType": "image/png",
@@ -1755,7 +1755,7 @@
     {
       "fileName": "effects_shield-2.png",
       "path": "packs/pixelboy-space-shooter/sprites/effects_shield-2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/effects_shield-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/effects_shield-2.png",
       "sha256": "3ec82e94133086d5cae92b17b7e1eab751804093487f823a5b79a9b8381c2060",
       "size": 3649,
       "contentType": "image/png",
@@ -1765,7 +1765,7 @@
     {
       "fileName": "font-20x20.png",
       "path": "packs/pixelboy-space-shooter/sprites/font-20x20.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/font-20x20.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/font-20x20.png",
       "sha256": "e17764c9e15dda54cb41791ce32674813b7f5df7b6129a0e80d03b0513ec96d0",
       "size": 6619,
       "contentType": "image/png",
@@ -1775,7 +1775,7 @@
     {
       "fileName": "hud_energy-bar (26x26).png",
       "path": "packs/pixelboy-space-shooter/sprites/hud_energy-bar (26x26).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/hud_energy-bar%20(26x26).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/hud_energy-bar%20(26x26).png",
       "sha256": "5742e6383a2977569398babc501d117f4ca3df806ebf90e4d5ee36fd8e55c936",
       "size": 3086,
       "contentType": "image/png",
@@ -1785,7 +1785,7 @@
     {
       "fileName": "hud_energy-bar-fill (12x12).png",
       "path": "packs/pixelboy-space-shooter/sprites/hud_energy-bar-fill (12x12).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/hud_energy-bar-fill%20(12x12).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/hud_energy-bar-fill%20(12x12).png",
       "sha256": "9f09bfc4fe8a82f3b81106f5f8de2cea21ecd65f4b3ef8765763dd3d2ae9f2f8",
       "size": 2836,
       "contentType": "image/png",
@@ -1795,7 +1795,7 @@
     {
       "fileName": "hud_health-bar-fill.png",
       "path": "packs/pixelboy-space-shooter/sprites/hud_health-bar-fill.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/hud_health-bar-fill.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/hud_health-bar-fill.png",
       "sha256": "f844ee21d2ace79af0b99caa7230a1061ae8a128f73dd2dd637a7e63bac77e84",
       "size": 2849,
       "contentType": "image/png",
@@ -1805,7 +1805,7 @@
     {
       "fileName": "hud_health-bar.png",
       "path": "packs/pixelboy-space-shooter/sprites/hud_health-bar.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/hud_health-bar.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/hud_health-bar.png",
       "sha256": "775196ed5eb054f0d22c7207539923a098b46d8bdaf715b8a01a5707d38bd0cf",
       "size": 3110,
       "contentType": "image/png",
@@ -1815,7 +1815,7 @@
     {
       "fileName": "hud_life-empty.png",
       "path": "packs/pixelboy-space-shooter/sprites/hud_life-empty.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/hud_life-empty.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/hud_life-empty.png",
       "sha256": "69c72d52f0e7c2daff868b2abf2d54bb30b61b7410b1bfb4ba7a9771a53f10fc",
       "size": 3196,
       "contentType": "image/png",
@@ -1825,7 +1825,7 @@
     {
       "fileName": "hud_life-full.png",
       "path": "packs/pixelboy-space-shooter/sprites/hud_life-full.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/hud_life-full.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/hud_life-full.png",
       "sha256": "592494359dbe97b99010cec66ba2573f8c6622a49ba13f152c10bc0814edf27f",
       "size": 3306,
       "contentType": "image/png",
@@ -1835,7 +1835,7 @@
     {
       "fileName": "hud_lives-icon.png",
       "path": "packs/pixelboy-space-shooter/sprites/hud_lives-icon.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/hud_lives-icon.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/hud_lives-icon.png",
       "sha256": "33fb84c4119d24c99233542939f007006237001b15d434dbd6044bfb76555c84",
       "size": 3081,
       "contentType": "image/png",
@@ -1845,7 +1845,7 @@
     {
       "fileName": "items_ball.png",
       "path": "packs/pixelboy-space-shooter/sprites/items_ball.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_ball.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_ball.png",
       "sha256": "63e49616429aef0bb2860f3924a76599dd48ec305e96ddf8c6ac05d1c52d51f0",
       "size": 2914,
       "contentType": "image/png",
@@ -1855,7 +1855,7 @@
     {
       "fileName": "items_bomb.png",
       "path": "packs/pixelboy-space-shooter/sprites/items_bomb.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_bomb.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_bomb.png",
       "sha256": "5fa6df6e69598934716275332b561db5b98027a2bad17061fad678fb579c0759",
       "size": 2980,
       "contentType": "image/png",
@@ -1865,7 +1865,7 @@
     {
       "fileName": "items_bubble.png",
       "path": "packs/pixelboy-space-shooter/sprites/items_bubble.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_bubble.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_bubble.png",
       "sha256": "d8ca9d3e3c96b09a3984f45a8949b82110f240e61491997c291df5a83ea5d55e",
       "size": 2876,
       "contentType": "image/png",
@@ -1875,7 +1875,7 @@
     {
       "fileName": "items_crate-1.png",
       "path": "packs/pixelboy-space-shooter/sprites/items_crate-1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_crate-1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_crate-1.png",
       "sha256": "26c8fe4bc211134e8f811e7c074c4a750e3ea7e706ea74c010063df5c037b79e",
       "size": 2976,
       "contentType": "image/png",
@@ -1885,7 +1885,7 @@
     {
       "fileName": "items_crate-2.png",
       "path": "packs/pixelboy-space-shooter/sprites/items_crate-2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_crate-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_crate-2.png",
       "sha256": "f88affdfef930a59d042ff89d59066cf0f61d2e233f0b5926937ca1e44da6c98",
       "size": 2976,
       "contentType": "image/png",
@@ -1895,7 +1895,7 @@
     {
       "fileName": "items_gem-1.png",
       "path": "packs/pixelboy-space-shooter/sprites/items_gem-1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_gem-1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_gem-1.png",
       "sha256": "e4a6c97b9f383b8ef4f793f2c0ab19ab06119f30fd5cda2fc284a7027c477963",
       "size": 369,
       "contentType": "image/png",
@@ -1905,7 +1905,7 @@
     {
       "fileName": "items_gem-2 (21x21).png",
       "path": "packs/pixelboy-space-shooter/sprites/items_gem-2 (21x21).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_gem-2%20(21x21).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_gem-2%20(21x21).png",
       "sha256": "740ea9547fa03b8f5bb010cc45d75ba66d0810d6e1ff704aecc51f3a66ac718b",
       "size": 465,
       "contentType": "image/png",
@@ -1915,7 +1915,7 @@
     {
       "fileName": "items_gem-3 (20x20).png",
       "path": "packs/pixelboy-space-shooter/sprites/items_gem-3 (20x20).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_gem-3%20(20x20).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_gem-3%20(20x20).png",
       "sha256": "059bf451c20b6e8a9142b725804f25bcefd3d055c5a6325b70e1cd77612728c2",
       "size": 364,
       "contentType": "image/png",
@@ -1925,7 +1925,7 @@
     {
       "fileName": "items_gem-4 (15x15).png",
       "path": "packs/pixelboy-space-shooter/sprites/items_gem-4 (15x15).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_gem-4%20(15x15).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_gem-4%20(15x15).png",
       "sha256": "3992843ece3d96f48ee2c9ed88eb9cd161849ffb1b7dd9f9d6efcb2c3005ce86",
       "size": 325,
       "contentType": "image/png",
@@ -1935,7 +1935,7 @@
     {
       "fileName": "items_power-up-1.png",
       "path": "packs/pixelboy-space-shooter/sprites/items_power-up-1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_power-up-1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_power-up-1.png",
       "sha256": "fa373809671029838b752c5d62a2885931b176265df16bdb924fd2b82c643e05",
       "size": 3171,
       "contentType": "image/png",
@@ -1945,7 +1945,7 @@
     {
       "fileName": "items_power-up-2.png",
       "path": "packs/pixelboy-space-shooter/sprites/items_power-up-2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_power-up-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_power-up-2.png",
       "sha256": "f96e6e74f6bd03e43af7822eed8dfdf07b5e4bf254c58c27b4faa152644015f7",
       "size": 3174,
       "contentType": "image/png",
@@ -1955,7 +1955,7 @@
     {
       "fileName": "items_power-up-3.png",
       "path": "packs/pixelboy-space-shooter/sprites/items_power-up-3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_power-up-3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_power-up-3.png",
       "sha256": "e348d20d1abdbba46b0bbba3cdbae3b7b89560d69c01f3e0a5ba89210fefd532",
       "size": 3169,
       "contentType": "image/png",
@@ -1965,7 +1965,7 @@
     {
       "fileName": "items_power-up-4.png",
       "path": "packs/pixelboy-space-shooter/sprites/items_power-up-4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_power-up-4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_power-up-4.png",
       "sha256": "f23ef2912d6074854577405ac7aae4397ace39674ed6e28abc51cb943a910c80",
       "size": 3156,
       "contentType": "image/png",
@@ -1975,7 +1975,7 @@
     {
       "fileName": "items_power-up-5.png",
       "path": "packs/pixelboy-space-shooter/sprites/items_power-up-5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_power-up-5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_power-up-5.png",
       "sha256": "2b0b3b020c8e76aa5f0adcdc427985bfbe114074d60dbabf15d02f874c51afb7",
       "size": 3210,
       "contentType": "image/png",
@@ -1985,7 +1985,7 @@
     {
       "fileName": "items_rocket-1.png",
       "path": "packs/pixelboy-space-shooter/sprites/items_rocket-1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_rocket-1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_rocket-1.png",
       "sha256": "7ea3a13a8bf90b081a34d4900721b4fb8c528d5aa44c1730f0a3f66761495ff3",
       "size": 3045,
       "contentType": "image/png",
@@ -1995,7 +1995,7 @@
     {
       "fileName": "items_rocket-2.png",
       "path": "packs/pixelboy-space-shooter/sprites/items_rocket-2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/items_rocket-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/items_rocket-2.png",
       "sha256": "51de2e052b19fdf9a64a7e4b50c6671d33d8c5dfce9b14dd0d73c53b3dd79469",
       "size": 3008,
       "contentType": "image/png",
@@ -2005,7 +2005,7 @@
     {
       "fileName": "logo.png",
       "path": "packs/pixelboy-space-shooter/sprites/logo.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/logo.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/logo.png",
       "sha256": "7042334de8d473b94dd97cd5c6294d8ee59f921b6187655871030f5192a219d0",
       "size": 6918,
       "contentType": "image/png",
@@ -2015,7 +2015,7 @@
     {
       "fileName": "ships_1.png",
       "path": "packs/pixelboy-space-shooter/sprites/ships_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/ships_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/ships_1.png",
       "sha256": "da0059fd22e4c2bd1bc6ccafaed57eba254d371b442d4a1ebd8b59eb58f0655f",
       "size": 4412,
       "contentType": "image/png",
@@ -2025,7 +2025,7 @@
     {
       "fileName": "ships_10.png",
       "path": "packs/pixelboy-space-shooter/sprites/ships_10.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/ships_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/ships_10.png",
       "sha256": "aced2c4b9ba7767136cf0b4ad5ef7ad9ceae20b1ccc6a208a5ba3b841ea99012",
       "size": 3196,
       "contentType": "image/png",
@@ -2035,7 +2035,7 @@
     {
       "fileName": "ships_2.png",
       "path": "packs/pixelboy-space-shooter/sprites/ships_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/ships_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/ships_2.png",
       "sha256": "98b1f552c571d19b48d68ac32bf9ed469ddee58ec0ee48ec7a57e081aa7f0275",
       "size": 3638,
       "contentType": "image/png",
@@ -2045,7 +2045,7 @@
     {
       "fileName": "ships_3.png",
       "path": "packs/pixelboy-space-shooter/sprites/ships_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/ships_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/ships_3.png",
       "sha256": "7637161d1a32ebb50d2f10b0bc1c68981fe9c946833af22e2947844262bd0b20",
       "size": 3848,
       "contentType": "image/png",
@@ -2055,7 +2055,7 @@
     {
       "fileName": "ships_4.png",
       "path": "packs/pixelboy-space-shooter/sprites/ships_4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/ships_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/ships_4.png",
       "sha256": "9bab686466511c146e2677ce424a8b8b24cbcade1e5b9124020973f5f64693e7",
       "size": 4006,
       "contentType": "image/png",
@@ -2065,7 +2065,7 @@
     {
       "fileName": "ships_5.png",
       "path": "packs/pixelboy-space-shooter/sprites/ships_5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/ships_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/ships_5.png",
       "sha256": "1e257a6b91c7e91f1ed2dd0869cbfc71f598f4c058a8f9801749cb20f92a96d0",
       "size": 3141,
       "contentType": "image/png",
@@ -2075,7 +2075,7 @@
     {
       "fileName": "ships_6.png",
       "path": "packs/pixelboy-space-shooter/sprites/ships_6.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/ships_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/ships_6.png",
       "sha256": "ef67b2c7dc500880fc9593b97ac906cc06d6f2aa1d16430ab1f7253886d19a4b",
       "size": 3765,
       "contentType": "image/png",
@@ -2085,7 +2085,7 @@
     {
       "fileName": "ships_7.png",
       "path": "packs/pixelboy-space-shooter/sprites/ships_7.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/ships_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/ships_7.png",
       "sha256": "086b34f6ed9d9d160709cb406555496684f72cf03abe9df595723a70630473c1",
       "size": 5215,
       "contentType": "image/png",
@@ -2095,7 +2095,7 @@
     {
       "fileName": "ships_8.png",
       "path": "packs/pixelboy-space-shooter/sprites/ships_8.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/ships_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/ships_8.png",
       "sha256": "ddfee76106c0dd90c0ba13e25cb2d3759f2a5a7da999d2350ae7adf45aeb7852",
       "size": 6368,
       "contentType": "image/png",
@@ -2105,7 +2105,7 @@
     {
       "fileName": "ships_9.png",
       "path": "packs/pixelboy-space-shooter/sprites/ships_9.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/ships_9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/ships_9.png",
       "sha256": "9668628235fb444a388d36d947ad983efbd3d21a0a411d94f6fb8ee9730bdc2b",
       "size": 4052,
       "contentType": "image/png",
@@ -2115,7 +2115,7 @@
     {
       "fileName": "shots_1.png",
       "path": "packs/pixelboy-space-shooter/sprites/shots_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/shots_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/shots_1.png",
       "sha256": "d09a1488238d5c636c89100b12000ade6d8adf9461ef091bcb87999f97c869de",
       "size": 3091,
       "contentType": "image/png",
@@ -2125,7 +2125,7 @@
     {
       "fileName": "shots_10.png",
       "path": "packs/pixelboy-space-shooter/sprites/shots_10.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/shots_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/shots_10.png",
       "sha256": "7551119723bfbb91d1a6fb2e69d157da8a2c67b5816856be35f8f887f0bb8104",
       "size": 3295,
       "contentType": "image/png",
@@ -2135,7 +2135,7 @@
     {
       "fileName": "shots_11.png",
       "path": "packs/pixelboy-space-shooter/sprites/shots_11.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/shots_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/shots_11.png",
       "sha256": "71bc4f3dd5c1a274974aa6b2c7483a4c5e97270c227d95b8a43507a68cfd6ecc",
       "size": 3075,
       "contentType": "image/png",
@@ -2145,7 +2145,7 @@
     {
       "fileName": "shots_12.png",
       "path": "packs/pixelboy-space-shooter/sprites/shots_12.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/shots_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/shots_12.png",
       "sha256": "65bfbc204983b91f43f770b86a6ce91705ef7ed3678a9067da7ab16bda674c32",
       "size": 3092,
       "contentType": "image/png",
@@ -2155,7 +2155,7 @@
     {
       "fileName": "shots_2.png",
       "path": "packs/pixelboy-space-shooter/sprites/shots_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/shots_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/shots_2.png",
       "sha256": "9aa21cf54b7945a1f51c865ff8eb42d888fa95fc453cd3f6d6184aee2c1bd599",
       "size": 3108,
       "contentType": "image/png",
@@ -2165,7 +2165,7 @@
     {
       "fileName": "shots_3.png",
       "path": "packs/pixelboy-space-shooter/sprites/shots_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/shots_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/shots_3.png",
       "sha256": "82e1bb57f3f1e164bfd923843a5b27d04c41e6d87a8f414e127541557e7f5dc0",
       "size": 2979,
       "contentType": "image/png",
@@ -2175,7 +2175,7 @@
     {
       "fileName": "shots_4.png",
       "path": "packs/pixelboy-space-shooter/sprites/shots_4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/shots_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/shots_4.png",
       "sha256": "a8484ca5511ef8655c4e1a1996f829d5f599fc9e733178057801fe587a3a23d1",
       "size": 2953,
       "contentType": "image/png",
@@ -2185,7 +2185,7 @@
     {
       "fileName": "shots_5.png",
       "path": "packs/pixelboy-space-shooter/sprites/shots_5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/shots_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/shots_5.png",
       "sha256": "f356ecf8fe275c1ec942155827f56ce70cb8eb9794de5961b4e0c93fd143244f",
       "size": 2995,
       "contentType": "image/png",
@@ -2195,7 +2195,7 @@
     {
       "fileName": "shots_6.png",
       "path": "packs/pixelboy-space-shooter/sprites/shots_6.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/shots_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/shots_6.png",
       "sha256": "8b3aaaf34d9351e2ef78a36dcafc63b9a44e9dd1f50c91852cc1e669d097aa7e",
       "size": 3080,
       "contentType": "image/png",
@@ -2205,7 +2205,7 @@
     {
       "fileName": "shots_7.png",
       "path": "packs/pixelboy-space-shooter/sprites/shots_7.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/shots_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/shots_7.png",
       "sha256": "e4ff923c226c79b5b9319b313d6769b8b31b8df1b72bf68bf24ec12f85ac2df8",
       "size": 3047,
       "contentType": "image/png",
@@ -2215,7 +2215,7 @@
     {
       "fileName": "shots_8.png",
       "path": "packs/pixelboy-space-shooter/sprites/shots_8.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/shots_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/shots_8.png",
       "sha256": "153618dd7e77e836c92d4475b76d7cddba30bb9f06bab73de91c76e17a9ef4b4",
       "size": 3403,
       "contentType": "image/png",
@@ -2225,7 +2225,7 @@
     {
       "fileName": "shots_9.png",
       "path": "packs/pixelboy-space-shooter/sprites/shots_9.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/shots_9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/shots_9.png",
       "sha256": "39d46dae07372f2ceeadb12f38d052dffb1153e6756540dc2f6db9c955734299",
       "size": 3075,
       "contentType": "image/png",
@@ -2235,7 +2235,7 @@
     {
       "fileName": "title-font.png",
       "path": "packs/pixelboy-space-shooter/sprites/title-font.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-space-shooter/sprites/title-font.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelboy-space-shooter/sprites/title-font.png",
       "sha256": "6440f6a07a93a148cbd9910ec46512b8f76bf32cae84dd60582489971affd778",
       "size": 6350,
       "contentType": "image/png",

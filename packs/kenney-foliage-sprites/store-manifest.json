@@ -6,7 +6,7 @@
   "website": "https://kenney.nl/assets/foliage-sprites",
   "description": "50 flat vector foliage and nature particle sprites: leaves, petals, shrub flakes, and grass blades for particle systems by Kenney (kenney.nl). CC0 1.0 Universal.",
   "folder": "packs/kenney-foliage-sprites",
-  "pinnedSha": "a6a845a4e4c51a34ea45c5fb98bbca9df74afa78",
+  "pinnedSha": "3af33dfa72868b34b0e38a8691d82fd773614339",
   "itemCount": 50,
   "items": [
     {
@@ -614,7 +614,7 @@
     {
       "fileName": "sprite_0001.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0001.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0001.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0001.png",
       "sha256": "f68634c0a094efc987991705a1d971ab4e348a85a5b39dbca2d972425d0ea0c8",
       "size": 13874,
       "role": "Image"
@@ -622,7 +622,7 @@
     {
       "fileName": "sprite_0002.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0002.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0002.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0002.png",
       "sha256": "518ace9326c52dd86badb8d6f1b2118dfb20d68b21f8d7c8a570233dd63d0a2f",
       "size": 15594,
       "role": "Image"
@@ -630,7 +630,7 @@
     {
       "fileName": "sprite_0003.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0003.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0003.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0003.png",
       "sha256": "e0dba945e2e752d707b5da28037ae8c6c93b0efb17d6c52ced77a58f0f124333",
       "size": 19388,
       "role": "Image"
@@ -638,7 +638,7 @@
     {
       "fileName": "sprite_0004.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0004.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0004.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0004.png",
       "sha256": "952c2492a076dacdcd8ed6da68986e5da2ed3802673029a22ea8b23796ebf87f",
       "size": 15743,
       "role": "Image"
@@ -646,7 +646,7 @@
     {
       "fileName": "sprite_0005.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0005.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0005.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0005.png",
       "sha256": "bc2faa31e5b289e087a6602b4a01e0d92d4a7e00a4e63acac5f8a5d8f5563c0e",
       "size": 21797,
       "role": "Image"
@@ -654,7 +654,7 @@
     {
       "fileName": "sprite_0006.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0006.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0006.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0006.png",
       "sha256": "75735e285974b6a2641370eb1c753648ac54d30fb40a7120c26d577ee0d72d02",
       "size": 23051,
       "role": "Image"
@@ -662,7 +662,7 @@
     {
       "fileName": "sprite_0007.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0007.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0007.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0007.png",
       "sha256": "dfb7632e5185f411c589caabf6e07465e2207ae80efc53740a02747651678e83",
       "size": 11122,
       "role": "Image"
@@ -670,7 +670,7 @@
     {
       "fileName": "sprite_0008.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0008.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0008.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0008.png",
       "sha256": "1206ae536cdbf7fa65c27bb09d1bf6cf2aa0764982189c11adbc20b4769ca099",
       "size": 7127,
       "role": "Image"
@@ -678,7 +678,7 @@
     {
       "fileName": "sprite_0009.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0009.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0009.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0009.png",
       "sha256": "298569da97154d1ca3be1ef0c4ca0d6a122ec342a1a87f4d262ff5fea82dd193",
       "size": 17016,
       "role": "Image"
@@ -686,7 +686,7 @@
     {
       "fileName": "sprite_0010.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0010.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0010.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0010.png",
       "sha256": "4dc9d02b20ef0ada78444aa5fe7ae400b82c5a8598c0e1beb596d6782a10a17f",
       "size": 22710,
       "role": "Image"
@@ -694,7 +694,7 @@
     {
       "fileName": "sprite_0011.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0011.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0011.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0011.png",
       "sha256": "6689c145e5ed909977cc9fec1d7d1fc205aaa571e6df71df3c26ce88cd2992f1",
       "size": 22506,
       "role": "Image"
@@ -702,7 +702,7 @@
     {
       "fileName": "sprite_0012.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0012.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0012.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0012.png",
       "sha256": "b955c3eb3a066b591ee375ee0ae1229f8c00a92881e1651ccf95a86cb858ab01",
       "size": 21694,
       "role": "Image"
@@ -710,7 +710,7 @@
     {
       "fileName": "sprite_0013.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0013.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0013.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0013.png",
       "sha256": "32bd36f30aea6892347f5391e97563a7bc5f13661ee8a6a21863da2083bf936c",
       "size": 18768,
       "role": "Image"
@@ -718,7 +718,7 @@
     {
       "fileName": "sprite_0014.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0014.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0014.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0014.png",
       "sha256": "84925fc2660440377553b21b13e002fc36dd7b49c3816c08450fc55cf056f9fd",
       "size": 16635,
       "role": "Image"
@@ -726,7 +726,7 @@
     {
       "fileName": "sprite_0015.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0015.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0015.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0015.png",
       "sha256": "2f129ee7bb2e2cd56b1eb460d2196b1fa4677e935beb8c68f48fdbe680316def",
       "size": 17248,
       "role": "Image"
@@ -734,7 +734,7 @@
     {
       "fileName": "sprite_0016.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0016.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0016.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0016.png",
       "sha256": "bbc3ce51cef534fb37d6de200d459ee62fe8e919ceed1602dccd1372e7038ed6",
       "size": 14767,
       "role": "Image"
@@ -742,7 +742,7 @@
     {
       "fileName": "sprite_0017.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0017.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0017.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0017.png",
       "sha256": "f4557e4d46d2d69ad01b8f35f2136bd19eef35c3ea85a49463c5a744f3267c71",
       "size": 24872,
       "role": "Image"
@@ -750,7 +750,7 @@
     {
       "fileName": "sprite_0018.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0018.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0018.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0018.png",
       "sha256": "cc87af160ac15f4a284975f6390667a1a337c19042d3ef4ab0edd60c0ba50749",
       "size": 19274,
       "role": "Image"
@@ -758,7 +758,7 @@
     {
       "fileName": "sprite_0019.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0019.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0019.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0019.png",
       "sha256": "cd238e4c31eef1ea4e837a49df077b5c948ddb44674e8455a12862b483da376d",
       "size": 9399,
       "role": "Image"
@@ -766,7 +766,7 @@
     {
       "fileName": "sprite_0020.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0020.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0020.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0020.png",
       "sha256": "2b0014a5a2c3968be639573b970cff18cab33ada18d9be39cfbea8518d5d5083",
       "size": 20983,
       "role": "Image"
@@ -774,7 +774,7 @@
     {
       "fileName": "sprite_0021.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0021.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0021.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0021.png",
       "sha256": "404ceab82c2bc11033fb3fb3d6617d36b13de1c4e726704a7111dff6861d1fdf",
       "size": 20103,
       "role": "Image"
@@ -782,7 +782,7 @@
     {
       "fileName": "sprite_0022.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0022.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0022.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0022.png",
       "sha256": "39f330259e60c9f0a23a02538d3ee8965841aea21f1a78b518147b8f35ed902c",
       "size": 20720,
       "role": "Image"
@@ -790,7 +790,7 @@
     {
       "fileName": "sprite_0023.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0023.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0023.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0023.png",
       "sha256": "e70a4da3f445ec461dc30c2e947cea18d6c11b7eee0a290296a8cae25cafc568",
       "size": 1330,
       "role": "Image"
@@ -798,7 +798,7 @@
     {
       "fileName": "sprite_0024.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0024.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0024.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0024.png",
       "sha256": "8d5d2268605888119c585b5b79c9b1b4716df23e052c7ba0c57a5f851bd02fe4",
       "size": 15767,
       "role": "Image"
@@ -806,7 +806,7 @@
     {
       "fileName": "sprite_0025.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0025.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0025.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0025.png",
       "sha256": "b1e1f8044d58a98aca90974953053223e25d4641955d6d9143ea3a18bee32753",
       "size": 6858,
       "role": "Image"
@@ -814,7 +814,7 @@
     {
       "fileName": "sprite_0026.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0026.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0026.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0026.png",
       "sha256": "1e3bec1441557742928981a6bbfcf219771110f5d466cc07ff00dab6c224f811",
       "size": 15035,
       "role": "Image"
@@ -822,7 +822,7 @@
     {
       "fileName": "sprite_0027.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0027.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0027.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0027.png",
       "sha256": "cb8575041e0a02019128901e840f96327f7e38e493c59b9631f42ba99e0bb0be",
       "size": 7764,
       "role": "Image"
@@ -830,7 +830,7 @@
     {
       "fileName": "sprite_0028.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0028.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0028.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0028.png",
       "sha256": "eb65f45dc1b120ecef0abde3f4f5b0a91b7b783967341fb432d11396dd4f886f",
       "size": 9654,
       "role": "Image"
@@ -838,7 +838,7 @@
     {
       "fileName": "sprite_0029.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0029.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0029.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0029.png",
       "sha256": "add4d2c68f73049133b8f30f4d00f1b8b5e30b9a825847da946e93d98ee10314",
       "size": 7284,
       "role": "Image"
@@ -846,7 +846,7 @@
     {
       "fileName": "sprite_0030.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0030.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0030.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0030.png",
       "sha256": "e33e99bf40e22d2e42604e7aa4c00e337991551be5ccdc9a26254b8472a73e63",
       "size": 8050,
       "role": "Image"
@@ -854,7 +854,7 @@
     {
       "fileName": "sprite_0031.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0031.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0031.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0031.png",
       "sha256": "eaafc8422ceb4980da43daa844cef092ebf3e62b6d8af21f7d79156c9ceb77cd",
       "size": 8127,
       "role": "Image"
@@ -862,7 +862,7 @@
     {
       "fileName": "sprite_0032.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0032.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0032.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0032.png",
       "sha256": "a58199430681a797dab8d2d4d56930abeea35598d528161f61469d09db60d332",
       "size": 8991,
       "role": "Image"
@@ -870,7 +870,7 @@
     {
       "fileName": "sprite_0033.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0033.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0033.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0033.png",
       "sha256": "eac86c09d3005ec4d8d51abb0a039dadd1e5675c40371cbabd0306a5d76d12ae",
       "size": 11064,
       "role": "Image"
@@ -878,7 +878,7 @@
     {
       "fileName": "sprite_0034.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0034.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0034.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0034.png",
       "sha256": "2121567af084ff0bd6716b9ccd14eaa78f05b8221c886d427f8d4f7c2c10b6a4",
       "size": 10132,
       "role": "Image"
@@ -886,7 +886,7 @@
     {
       "fileName": "sprite_0035.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0035.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0035.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0035.png",
       "sha256": "c142bbe1597e89eb5eac6ee25135115eab3455ef8b4b1bd2624d8f3f54c39e73",
       "size": 11277,
       "role": "Image"
@@ -894,7 +894,7 @@
     {
       "fileName": "sprite_0036.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0036.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0036.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0036.png",
       "sha256": "08fa3db12ad60e1a8bdfaa56729e49c68c892b085db04574c29b82bb2ee837aa",
       "size": 12329,
       "role": "Image"
@@ -902,7 +902,7 @@
     {
       "fileName": "sprite_0037.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0037.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0037.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0037.png",
       "sha256": "f20bd27d85671ab3cd02bb9dd57afa88077cdd2d2ea365720b8e96202c4fb9de",
       "size": 10352,
       "role": "Image"
@@ -910,7 +910,7 @@
     {
       "fileName": "sprite_0038.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0038.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0038.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0038.png",
       "sha256": "9af485e5cc2b6934326fad7b1760593842fc44c4f139ff64ecc9fde7d38e5e46",
       "size": 8496,
       "role": "Image"
@@ -918,7 +918,7 @@
     {
       "fileName": "sprite_0039.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0039.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0039.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0039.png",
       "sha256": "907bb1c63d1e9d90567eacc11c7d5f98fd26ed359e7989f3b8d6f6adcde0b7c1",
       "size": 10707,
       "role": "Image"
@@ -926,7 +926,7 @@
     {
       "fileName": "sprite_0040.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0040.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0040.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0040.png",
       "sha256": "6b11e247406c6eebc23b17536cd412c6bb75a894dbe99273c18d906736c6d925",
       "size": 10856,
       "role": "Image"
@@ -934,7 +934,7 @@
     {
       "fileName": "sprite_0041.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0041.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0041.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0041.png",
       "sha256": "917cacef4d292181b4f499f6de16fed8f195f599021a8497db99df1383f23fe2",
       "size": 12670,
       "role": "Image"
@@ -942,7 +942,7 @@
     {
       "fileName": "sprite_0042.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0042.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0042.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0042.png",
       "sha256": "8e701f5e6582de9e453b5b50a143bf8677721540eb37469820993583aa411264",
       "size": 18296,
       "role": "Image"
@@ -950,7 +950,7 @@
     {
       "fileName": "sprite_0043.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0043.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0043.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0043.png",
       "sha256": "0fdfe381a0627f4917b7f2a3163c90c4f6f767e3bf37d64cfd4191daabc9c817",
       "size": 26612,
       "role": "Image"
@@ -958,7 +958,7 @@
     {
       "fileName": "sprite_0044.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0044.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0044.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0044.png",
       "sha256": "5f313d17b80d26bf0c120d8b17de0bf9908ffd409e796aef5e18525bed98b8f6",
       "size": 19842,
       "role": "Image"
@@ -966,7 +966,7 @@
     {
       "fileName": "sprite_0045.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0045.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0045.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0045.png",
       "sha256": "a847cea3d352a7d373c36f0ce0f9e8e7d597497a95b0300308f8992e8990e13f",
       "size": 34368,
       "role": "Image"
@@ -974,7 +974,7 @@
     {
       "fileName": "sprite_0046.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0046.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0046.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0046.png",
       "sha256": "87ac23432375c2c9a8955b6a23e80d9ceb7143b446799f3667562ac160d67490",
       "size": 39441,
       "role": "Image"
@@ -982,7 +982,7 @@
     {
       "fileName": "sprite_0047.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0047.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0047.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0047.png",
       "sha256": "125ed4712ef95f56ce22f0073e52032687b38d02cbead1586aa53bea5909dca1",
       "size": 31962,
       "role": "Image"
@@ -990,7 +990,7 @@
     {
       "fileName": "sprite_0048.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0048.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0048.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0048.png",
       "sha256": "3302bf3497f4c78a5bdf1ea43790e58ea3ef868c59a98876ebd3e88d8e00fd67",
       "size": 48093,
       "role": "Image"
@@ -998,7 +998,7 @@
     {
       "fileName": "sprite_0049.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0049.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0049.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0049.png",
       "sha256": "8945f13adb8ae1452cf4636b8c7620398b003a321ba793f525a12b1375e1d699",
       "size": 15073,
       "role": "Image"
@@ -1006,7 +1006,7 @@
     {
       "fileName": "sprite_0050.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0050.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0050.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0050.png",
       "sha256": "a2495bdde621c1e35a4a707513edd8de8b48bfa3a086a4da106e4c2cad452491",
       "size": 19134,
       "role": "Image"
@@ -1016,7 +1016,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/kenney-foliage-sprites/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/cover.png",
       "sha256": "9a6394899439505f0f3095502199ae5ab143214dc793ba6390900e2a3d233b13",
       "size": 65558,
       "contentType": "image/png",
@@ -1025,7 +1025,7 @@
     {
       "fileName": "sprite_0001.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0001.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0001.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0001.png",
       "sha256": "f68634c0a094efc987991705a1d971ab4e348a85a5b39dbca2d972425d0ea0c8",
       "size": 13874,
       "contentType": "image/png",
@@ -1035,7 +1035,7 @@
     {
       "fileName": "sprite_0002.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0002.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0002.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0002.png",
       "sha256": "518ace9326c52dd86badb8d6f1b2118dfb20d68b21f8d7c8a570233dd63d0a2f",
       "size": 15594,
       "contentType": "image/png",
@@ -1045,7 +1045,7 @@
     {
       "fileName": "sprite_0003.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0003.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0003.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0003.png",
       "sha256": "e0dba945e2e752d707b5da28037ae8c6c93b0efb17d6c52ced77a58f0f124333",
       "size": 19388,
       "contentType": "image/png",
@@ -1055,7 +1055,7 @@
     {
       "fileName": "sprite_0004.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0004.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0004.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0004.png",
       "sha256": "952c2492a076dacdcd8ed6da68986e5da2ed3802673029a22ea8b23796ebf87f",
       "size": 15743,
       "contentType": "image/png",
@@ -1065,7 +1065,7 @@
     {
       "fileName": "sprite_0005.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0005.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0005.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0005.png",
       "sha256": "bc2faa31e5b289e087a6602b4a01e0d92d4a7e00a4e63acac5f8a5d8f5563c0e",
       "size": 21797,
       "contentType": "image/png",
@@ -1075,7 +1075,7 @@
     {
       "fileName": "sprite_0006.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0006.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0006.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0006.png",
       "sha256": "75735e285974b6a2641370eb1c753648ac54d30fb40a7120c26d577ee0d72d02",
       "size": 23051,
       "contentType": "image/png",
@@ -1085,7 +1085,7 @@
     {
       "fileName": "sprite_0007.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0007.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0007.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0007.png",
       "sha256": "dfb7632e5185f411c589caabf6e07465e2207ae80efc53740a02747651678e83",
       "size": 11122,
       "contentType": "image/png",
@@ -1095,7 +1095,7 @@
     {
       "fileName": "sprite_0008.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0008.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0008.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0008.png",
       "sha256": "1206ae536cdbf7fa65c27bb09d1bf6cf2aa0764982189c11adbc20b4769ca099",
       "size": 7127,
       "contentType": "image/png",
@@ -1105,7 +1105,7 @@
     {
       "fileName": "sprite_0009.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0009.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0009.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0009.png",
       "sha256": "298569da97154d1ca3be1ef0c4ca0d6a122ec342a1a87f4d262ff5fea82dd193",
       "size": 17016,
       "contentType": "image/png",
@@ -1115,7 +1115,7 @@
     {
       "fileName": "sprite_0010.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0010.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0010.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0010.png",
       "sha256": "4dc9d02b20ef0ada78444aa5fe7ae400b82c5a8598c0e1beb596d6782a10a17f",
       "size": 22710,
       "contentType": "image/png",
@@ -1125,7 +1125,7 @@
     {
       "fileName": "sprite_0011.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0011.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0011.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0011.png",
       "sha256": "6689c145e5ed909977cc9fec1d7d1fc205aaa571e6df71df3c26ce88cd2992f1",
       "size": 22506,
       "contentType": "image/png",
@@ -1135,7 +1135,7 @@
     {
       "fileName": "sprite_0012.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0012.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0012.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0012.png",
       "sha256": "b955c3eb3a066b591ee375ee0ae1229f8c00a92881e1651ccf95a86cb858ab01",
       "size": 21694,
       "contentType": "image/png",
@@ -1145,7 +1145,7 @@
     {
       "fileName": "sprite_0013.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0013.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0013.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0013.png",
       "sha256": "32bd36f30aea6892347f5391e97563a7bc5f13661ee8a6a21863da2083bf936c",
       "size": 18768,
       "contentType": "image/png",
@@ -1155,7 +1155,7 @@
     {
       "fileName": "sprite_0014.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0014.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0014.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0014.png",
       "sha256": "84925fc2660440377553b21b13e002fc36dd7b49c3816c08450fc55cf056f9fd",
       "size": 16635,
       "contentType": "image/png",
@@ -1165,7 +1165,7 @@
     {
       "fileName": "sprite_0015.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0015.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0015.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0015.png",
       "sha256": "2f129ee7bb2e2cd56b1eb460d2196b1fa4677e935beb8c68f48fdbe680316def",
       "size": 17248,
       "contentType": "image/png",
@@ -1175,7 +1175,7 @@
     {
       "fileName": "sprite_0016.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0016.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0016.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0016.png",
       "sha256": "bbc3ce51cef534fb37d6de200d459ee62fe8e919ceed1602dccd1372e7038ed6",
       "size": 14767,
       "contentType": "image/png",
@@ -1185,7 +1185,7 @@
     {
       "fileName": "sprite_0017.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0017.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0017.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0017.png",
       "sha256": "f4557e4d46d2d69ad01b8f35f2136bd19eef35c3ea85a49463c5a744f3267c71",
       "size": 24872,
       "contentType": "image/png",
@@ -1195,7 +1195,7 @@
     {
       "fileName": "sprite_0018.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0018.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0018.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0018.png",
       "sha256": "cc87af160ac15f4a284975f6390667a1a337c19042d3ef4ab0edd60c0ba50749",
       "size": 19274,
       "contentType": "image/png",
@@ -1205,7 +1205,7 @@
     {
       "fileName": "sprite_0019.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0019.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0019.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0019.png",
       "sha256": "cd238e4c31eef1ea4e837a49df077b5c948ddb44674e8455a12862b483da376d",
       "size": 9399,
       "contentType": "image/png",
@@ -1215,7 +1215,7 @@
     {
       "fileName": "sprite_0020.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0020.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0020.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0020.png",
       "sha256": "2b0014a5a2c3968be639573b970cff18cab33ada18d9be39cfbea8518d5d5083",
       "size": 20983,
       "contentType": "image/png",
@@ -1225,7 +1225,7 @@
     {
       "fileName": "sprite_0021.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0021.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0021.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0021.png",
       "sha256": "404ceab82c2bc11033fb3fb3d6617d36b13de1c4e726704a7111dff6861d1fdf",
       "size": 20103,
       "contentType": "image/png",
@@ -1235,7 +1235,7 @@
     {
       "fileName": "sprite_0022.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0022.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0022.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0022.png",
       "sha256": "39f330259e60c9f0a23a02538d3ee8965841aea21f1a78b518147b8f35ed902c",
       "size": 20720,
       "contentType": "image/png",
@@ -1245,7 +1245,7 @@
     {
       "fileName": "sprite_0023.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0023.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0023.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0023.png",
       "sha256": "e70a4da3f445ec461dc30c2e947cea18d6c11b7eee0a290296a8cae25cafc568",
       "size": 1330,
       "contentType": "image/png",
@@ -1255,7 +1255,7 @@
     {
       "fileName": "sprite_0024.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0024.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0024.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0024.png",
       "sha256": "8d5d2268605888119c585b5b79c9b1b4716df23e052c7ba0c57a5f851bd02fe4",
       "size": 15767,
       "contentType": "image/png",
@@ -1265,7 +1265,7 @@
     {
       "fileName": "sprite_0025.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0025.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0025.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0025.png",
       "sha256": "b1e1f8044d58a98aca90974953053223e25d4641955d6d9143ea3a18bee32753",
       "size": 6858,
       "contentType": "image/png",
@@ -1275,7 +1275,7 @@
     {
       "fileName": "sprite_0026.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0026.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0026.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0026.png",
       "sha256": "1e3bec1441557742928981a6bbfcf219771110f5d466cc07ff00dab6c224f811",
       "size": 15035,
       "contentType": "image/png",
@@ -1285,7 +1285,7 @@
     {
       "fileName": "sprite_0027.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0027.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0027.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0027.png",
       "sha256": "cb8575041e0a02019128901e840f96327f7e38e493c59b9631f42ba99e0bb0be",
       "size": 7764,
       "contentType": "image/png",
@@ -1295,7 +1295,7 @@
     {
       "fileName": "sprite_0028.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0028.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0028.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0028.png",
       "sha256": "eb65f45dc1b120ecef0abde3f4f5b0a91b7b783967341fb432d11396dd4f886f",
       "size": 9654,
       "contentType": "image/png",
@@ -1305,7 +1305,7 @@
     {
       "fileName": "sprite_0029.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0029.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0029.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0029.png",
       "sha256": "add4d2c68f73049133b8f30f4d00f1b8b5e30b9a825847da946e93d98ee10314",
       "size": 7284,
       "contentType": "image/png",
@@ -1315,7 +1315,7 @@
     {
       "fileName": "sprite_0030.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0030.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0030.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0030.png",
       "sha256": "e33e99bf40e22d2e42604e7aa4c00e337991551be5ccdc9a26254b8472a73e63",
       "size": 8050,
       "contentType": "image/png",
@@ -1325,7 +1325,7 @@
     {
       "fileName": "sprite_0031.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0031.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0031.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0031.png",
       "sha256": "eaafc8422ceb4980da43daa844cef092ebf3e62b6d8af21f7d79156c9ceb77cd",
       "size": 8127,
       "contentType": "image/png",
@@ -1335,7 +1335,7 @@
     {
       "fileName": "sprite_0032.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0032.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0032.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0032.png",
       "sha256": "a58199430681a797dab8d2d4d56930abeea35598d528161f61469d09db60d332",
       "size": 8991,
       "contentType": "image/png",
@@ -1345,7 +1345,7 @@
     {
       "fileName": "sprite_0033.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0033.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0033.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0033.png",
       "sha256": "eac86c09d3005ec4d8d51abb0a039dadd1e5675c40371cbabd0306a5d76d12ae",
       "size": 11064,
       "contentType": "image/png",
@@ -1355,7 +1355,7 @@
     {
       "fileName": "sprite_0034.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0034.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0034.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0034.png",
       "sha256": "2121567af084ff0bd6716b9ccd14eaa78f05b8221c886d427f8d4f7c2c10b6a4",
       "size": 10132,
       "contentType": "image/png",
@@ -1365,7 +1365,7 @@
     {
       "fileName": "sprite_0035.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0035.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0035.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0035.png",
       "sha256": "c142bbe1597e89eb5eac6ee25135115eab3455ef8b4b1bd2624d8f3f54c39e73",
       "size": 11277,
       "contentType": "image/png",
@@ -1375,7 +1375,7 @@
     {
       "fileName": "sprite_0036.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0036.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0036.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0036.png",
       "sha256": "08fa3db12ad60e1a8bdfaa56729e49c68c892b085db04574c29b82bb2ee837aa",
       "size": 12329,
       "contentType": "image/png",
@@ -1385,7 +1385,7 @@
     {
       "fileName": "sprite_0037.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0037.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0037.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0037.png",
       "sha256": "f20bd27d85671ab3cd02bb9dd57afa88077cdd2d2ea365720b8e96202c4fb9de",
       "size": 10352,
       "contentType": "image/png",
@@ -1395,7 +1395,7 @@
     {
       "fileName": "sprite_0038.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0038.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0038.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0038.png",
       "sha256": "9af485e5cc2b6934326fad7b1760593842fc44c4f139ff64ecc9fde7d38e5e46",
       "size": 8496,
       "contentType": "image/png",
@@ -1405,7 +1405,7 @@
     {
       "fileName": "sprite_0039.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0039.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0039.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0039.png",
       "sha256": "907bb1c63d1e9d90567eacc11c7d5f98fd26ed359e7989f3b8d6f6adcde0b7c1",
       "size": 10707,
       "contentType": "image/png",
@@ -1415,7 +1415,7 @@
     {
       "fileName": "sprite_0040.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0040.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0040.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0040.png",
       "sha256": "6b11e247406c6eebc23b17536cd412c6bb75a894dbe99273c18d906736c6d925",
       "size": 10856,
       "contentType": "image/png",
@@ -1425,7 +1425,7 @@
     {
       "fileName": "sprite_0041.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0041.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0041.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0041.png",
       "sha256": "917cacef4d292181b4f499f6de16fed8f195f599021a8497db99df1383f23fe2",
       "size": 12670,
       "contentType": "image/png",
@@ -1435,7 +1435,7 @@
     {
       "fileName": "sprite_0042.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0042.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0042.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0042.png",
       "sha256": "8e701f5e6582de9e453b5b50a143bf8677721540eb37469820993583aa411264",
       "size": 18296,
       "contentType": "image/png",
@@ -1445,7 +1445,7 @@
     {
       "fileName": "sprite_0043.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0043.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0043.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0043.png",
       "sha256": "0fdfe381a0627f4917b7f2a3163c90c4f6f767e3bf37d64cfd4191daabc9c817",
       "size": 26612,
       "contentType": "image/png",
@@ -1455,7 +1455,7 @@
     {
       "fileName": "sprite_0044.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0044.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0044.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0044.png",
       "sha256": "5f313d17b80d26bf0c120d8b17de0bf9908ffd409e796aef5e18525bed98b8f6",
       "size": 19842,
       "contentType": "image/png",
@@ -1465,7 +1465,7 @@
     {
       "fileName": "sprite_0045.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0045.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0045.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0045.png",
       "sha256": "a847cea3d352a7d373c36f0ce0f9e8e7d597497a95b0300308f8992e8990e13f",
       "size": 34368,
       "contentType": "image/png",
@@ -1475,7 +1475,7 @@
     {
       "fileName": "sprite_0046.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0046.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0046.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0046.png",
       "sha256": "87ac23432375c2c9a8955b6a23e80d9ceb7143b446799f3667562ac160d67490",
       "size": 39441,
       "contentType": "image/png",
@@ -1485,7 +1485,7 @@
     {
       "fileName": "sprite_0047.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0047.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0047.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0047.png",
       "sha256": "125ed4712ef95f56ce22f0073e52032687b38d02cbead1586aa53bea5909dca1",
       "size": 31962,
       "contentType": "image/png",
@@ -1495,7 +1495,7 @@
     {
       "fileName": "sprite_0048.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0048.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0048.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0048.png",
       "sha256": "3302bf3497f4c78a5bdf1ea43790e58ea3ef868c59a98876ebd3e88d8e00fd67",
       "size": 48093,
       "contentType": "image/png",
@@ -1505,7 +1505,7 @@
     {
       "fileName": "sprite_0049.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0049.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0049.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0049.png",
       "sha256": "8945f13adb8ae1452cf4636b8c7620398b003a321ba793f525a12b1375e1d699",
       "size": 15073,
       "contentType": "image/png",
@@ -1515,7 +1515,7 @@
     {
       "fileName": "sprite_0050.png",
       "path": "packs/kenney-foliage-sprites/sprites/sprite_0050.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/kenney-foliage-sprites/sprites/sprite_0050.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-foliage-sprites/sprites/sprite_0050.png",
       "sha256": "a2495bdde621c1e35a4a707513edd8de8b48bfa3a086a4da106e4c2cad452491",
       "size": 19134,
       "contentType": "image/png",

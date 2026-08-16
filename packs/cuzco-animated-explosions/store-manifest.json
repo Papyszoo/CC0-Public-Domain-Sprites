@@ -6,7 +6,7 @@
   "website": "https://opengameart.org/content/explosion",
   "description": "16-frame 64x64 transparent pixel-art explosion burst animation by Cuzco. CC0 1.0 Universal.",
   "folder": "packs/cuzco-animated-explosions",
-  "pinnedSha": "a6a845a4e4c51a34ea45c5fb98bbca9df74afa78",
+  "pinnedSha": "3af33dfa72868b34b0e38a8691d82fd773614339",
   "itemCount": 1,
   "items": [
     {
@@ -26,7 +26,7 @@
     {
       "fileName": "explosion_burst (64x64).png",
       "path": "packs/cuzco-animated-explosions/sprites/explosion_burst (64x64).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/cuzco-animated-explosions/sprites/explosion_burst%20(64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/cuzco-animated-explosions/sprites/explosion_burst%20(64x64).png",
       "sha256": "f4144fb0839d070a608d44c1a12a4e62529a158386ec2db29921608c06fd7cdb",
       "size": 47453,
       "role": "Image"
@@ -36,7 +36,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/cuzco-animated-explosions/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/cuzco-animated-explosions/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/cuzco-animated-explosions/cover.png",
       "sha256": "f4144fb0839d070a608d44c1a12a4e62529a158386ec2db29921608c06fd7cdb",
       "size": 47453,
       "contentType": "image/png",
@@ -45,7 +45,7 @@
     {
       "fileName": "explosion_burst (64x64).png",
       "path": "packs/cuzco-animated-explosions/sprites/explosion_burst (64x64).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/a6a845a4e4c51a34ea45c5fb98bbca9df74afa78/packs/cuzco-animated-explosions/sprites/explosion_burst%20(64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/cuzco-animated-explosions/sprites/explosion_burst%20(64x64).png",
       "sha256": "f4144fb0839d070a608d44c1a12a4e62529a158386ec2db29921608c06fd7cdb",
       "size": 47453,
       "contentType": "image/png",

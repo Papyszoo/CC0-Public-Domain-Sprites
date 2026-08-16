@@ -6,7 +6,7 @@
   "website": "https://opengameart.org/content/colorful-potions-animated",
   "description": "20 colorful animated bubbling potion sprites in various bottle shapes (round flasks, vials, tall bottles, square flasks) by Buch. CC0 1.0 Universal.",
   "folder": "packs/buch-animated-potions",
-  "pinnedSha": "74dd2512da9a1f55334407b73f8ce5405481c17c",
+  "pinnedSha": "3af33dfa72868b34b0e38a8691d82fd773614339",
   "itemCount": 20,
   "items": [
     {
@@ -254,7 +254,7 @@
     {
       "fileName": "blue_flask_round (24x24).png",
       "path": "packs/buch-animated-potions/sprites/blue_flask_round (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/blue_flask_round%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/blue_flask_round%20(24x24).png",
       "sha256": "b7e2ddd23da509fa30674452b85ee0c48f26c1a44365330cd8d4853d17bf7b7d",
       "size": 3427,
       "role": "Image"
@@ -262,7 +262,7 @@
     {
       "fileName": "blue_potion_oval (24x24).png",
       "path": "packs/buch-animated-potions/sprites/blue_potion_oval (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/blue_potion_oval%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/blue_potion_oval%20(24x24).png",
       "sha256": "bbc4481a151605a6dfdab63cad793a1f4a4dcbd65b6827a5c50fba825c3542c0",
       "size": 3519,
       "role": "Image"
@@ -270,7 +270,7 @@
     {
       "fileName": "blue_potion_square (24x24).png",
       "path": "packs/buch-animated-potions/sprites/blue_potion_square (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/blue_potion_square%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/blue_potion_square%20(24x24).png",
       "sha256": "0c53cd588306ce20f56b27a8690b61f7ed99d12cc7ae3ba95be2f6298345006f",
       "size": 3553,
       "role": "Image"
@@ -278,7 +278,7 @@
     {
       "fileName": "blue_potion_tall (24x24).png",
       "path": "packs/buch-animated-potions/sprites/blue_potion_tall (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/blue_potion_tall%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/blue_potion_tall%20(24x24).png",
       "sha256": "b3ef50cadfa65f1d3db4bd91dfa67f4e8e7cb2876741c2affa915dcfea40038c",
       "size": 3565,
       "role": "Image"
@@ -286,7 +286,7 @@
     {
       "fileName": "blue_potion_vial (24x24).png",
       "path": "packs/buch-animated-potions/sprites/blue_potion_vial (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/blue_potion_vial%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/blue_potion_vial%20(24x24).png",
       "sha256": "8df4c6c2008bd829481f99b18d4f6c7a8e181aa646848eda4892ee9e10f656d8",
       "size": 3622,
       "role": "Image"
@@ -294,7 +294,7 @@
     {
       "fileName": "green_flask_round (24x24).png",
       "path": "packs/buch-animated-potions/sprites/green_flask_round (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/green_flask_round%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/green_flask_round%20(24x24).png",
       "sha256": "e5fe8c60fd2b24206852ebd43ebc085271aae74b0a894529c68e975000a9c183",
       "size": 3367,
       "role": "Image"
@@ -302,7 +302,7 @@
     {
       "fileName": "green_potion_oval (24x24).png",
       "path": "packs/buch-animated-potions/sprites/green_potion_oval (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/green_potion_oval%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/green_potion_oval%20(24x24).png",
       "sha256": "d3017f5aa15e8f73e745191f772d500aab5f5edad574f9be0a2e051a4e15c0e3",
       "size": 3459,
       "role": "Image"
@@ -310,7 +310,7 @@
     {
       "fileName": "green_potion_square (24x24).png",
       "path": "packs/buch-animated-potions/sprites/green_potion_square (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/green_potion_square%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/green_potion_square%20(24x24).png",
       "sha256": "cc89a30437dad834d1f6e3505f909c0808b3477216ae66dcd457b1a199fccd23",
       "size": 3488,
       "role": "Image"
@@ -318,7 +318,7 @@
     {
       "fileName": "green_potion_tall (24x24).png",
       "path": "packs/buch-animated-potions/sprites/green_potion_tall (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/green_potion_tall%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/green_potion_tall%20(24x24).png",
       "sha256": "a40724d96dce0d7909930e71ad9d41a7d7238e04cfcd611f05209e4a3f5c6685",
       "size": 3496,
       "role": "Image"
@@ -326,7 +326,7 @@
     {
       "fileName": "green_potion_vial (24x24).png",
       "path": "packs/buch-animated-potions/sprites/green_potion_vial (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/green_potion_vial%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/green_potion_vial%20(24x24).png",
       "sha256": "e474f34c8953416346e1a7c9625de37c047ed7a05fa44911be7c6325e0f2fdb4",
       "size": 3517,
       "role": "Image"
@@ -334,7 +334,7 @@
     {
       "fileName": "purple_flask_round (24x24).png",
       "path": "packs/buch-animated-potions/sprites/purple_flask_round (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/purple_flask_round%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/purple_flask_round%20(24x24).png",
       "sha256": "4261496704e65f112cd88bf220be098222f4f7332f7c033570c5fb04e05bfce6",
       "size": 3365,
       "role": "Image"
@@ -342,7 +342,7 @@
     {
       "fileName": "purple_potion_oval (24x24).png",
       "path": "packs/buch-animated-potions/sprites/purple_potion_oval (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/purple_potion_oval%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/purple_potion_oval%20(24x24).png",
       "sha256": "b0f894d045813a121c3dcae771439043be9b9bf3a27fa12f2b1fe608f91e4898",
       "size": 3384,
       "role": "Image"
@@ -350,7 +350,7 @@
     {
       "fileName": "purple_potion_square (24x24).png",
       "path": "packs/buch-animated-potions/sprites/purple_potion_square (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/purple_potion_square%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/purple_potion_square%20(24x24).png",
       "sha256": "87171dc29e785e69911baf5cccee550cc89a17bf891cadb7351430e9f81073a3",
       "size": 3466,
       "role": "Image"
@@ -358,7 +358,7 @@
     {
       "fileName": "purple_potion_tall (24x24).png",
       "path": "packs/buch-animated-potions/sprites/purple_potion_tall (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/purple_potion_tall%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/purple_potion_tall%20(24x24).png",
       "sha256": "76f92fe268730c02667dda3af49af81e2168f8cd0f8ad78b8f1624a2c74e34b4",
       "size": 3413,
       "role": "Image"
@@ -366,7 +366,7 @@
     {
       "fileName": "purple_potion_vial (24x24).png",
       "path": "packs/buch-animated-potions/sprites/purple_potion_vial (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/purple_potion_vial%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/purple_potion_vial%20(24x24).png",
       "sha256": "3285d0ad45b4e351fab047076543f14eb5ef2d3f826887195f9d3ee96757941d",
       "size": 3421,
       "role": "Image"
@@ -374,7 +374,7 @@
     {
       "fileName": "red_flask_round (24x24).png",
       "path": "packs/buch-animated-potions/sprites/red_flask_round (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/red_flask_round%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/red_flask_round%20(24x24).png",
       "sha256": "78a42c5c182bedd9430e25ea75334fa52f103d3d0f58e5fd6ca5bcb1fdaf0d29",
       "size": 3321,
       "role": "Image"
@@ -382,7 +382,7 @@
     {
       "fileName": "red_potion_oval (24x24).png",
       "path": "packs/buch-animated-potions/sprites/red_potion_oval (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/red_potion_oval%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/red_potion_oval%20(24x24).png",
       "sha256": "1850d2ac674b46d867fc0542d023038343b9bf29da5df49b82eb55fc811757af",
       "size": 3471,
       "role": "Image"
@@ -390,7 +390,7 @@
     {
       "fileName": "red_potion_square (24x24).png",
       "path": "packs/buch-animated-potions/sprites/red_potion_square (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/red_potion_square%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/red_potion_square%20(24x24).png",
       "sha256": "9fb0282bd68741372416a4794721ea8643609adb7ec3100682ebf4913ff265ed",
       "size": 3481,
       "role": "Image"
@@ -398,7 +398,7 @@
     {
       "fileName": "red_potion_tall (24x24).png",
       "path": "packs/buch-animated-potions/sprites/red_potion_tall (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/red_potion_tall%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/red_potion_tall%20(24x24).png",
       "sha256": "d537222b804d41ce15305d469ecca63fc11488f8eca03a6668069b6844389232",
       "size": 3384,
       "role": "Image"
@@ -406,7 +406,7 @@
     {
       "fileName": "red_potion_vial (24x24).png",
       "path": "packs/buch-animated-potions/sprites/red_potion_vial (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/red_potion_vial%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/red_potion_vial%20(24x24).png",
       "sha256": "ca38bdad9d4b7a693b36145bda4c63810a8912b6f2e3244a48b2b1a4f7271329",
       "size": 3401,
       "role": "Image"
@@ -416,7 +416,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/buch-animated-potions/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/cover.png",
       "sha256": "78a42c5c182bedd9430e25ea75334fa52f103d3d0f58e5fd6ca5bcb1fdaf0d29",
       "size": 3321,
       "contentType": "image/png",
@@ -425,7 +425,7 @@
     {
       "fileName": "blue_flask_round (24x24).png",
       "path": "packs/buch-animated-potions/sprites/blue_flask_round (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/blue_flask_round%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/blue_flask_round%20(24x24).png",
       "sha256": "b7e2ddd23da509fa30674452b85ee0c48f26c1a44365330cd8d4853d17bf7b7d",
       "size": 3427,
       "contentType": "image/png",
@@ -435,7 +435,7 @@
     {
       "fileName": "blue_potion_oval (24x24).png",
       "path": "packs/buch-animated-potions/sprites/blue_potion_oval (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/blue_potion_oval%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/blue_potion_oval%20(24x24).png",
       "sha256": "bbc4481a151605a6dfdab63cad793a1f4a4dcbd65b6827a5c50fba825c3542c0",
       "size": 3519,
       "contentType": "image/png",
@@ -445,7 +445,7 @@
     {
       "fileName": "blue_potion_square (24x24).png",
       "path": "packs/buch-animated-potions/sprites/blue_potion_square (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/blue_potion_square%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/blue_potion_square%20(24x24).png",
       "sha256": "0c53cd588306ce20f56b27a8690b61f7ed99d12cc7ae3ba95be2f6298345006f",
       "size": 3553,
       "contentType": "image/png",
@@ -455,7 +455,7 @@
     {
       "fileName": "blue_potion_tall (24x24).png",
       "path": "packs/buch-animated-potions/sprites/blue_potion_tall (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/blue_potion_tall%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/blue_potion_tall%20(24x24).png",
       "sha256": "b3ef50cadfa65f1d3db4bd91dfa67f4e8e7cb2876741c2affa915dcfea40038c",
       "size": 3565,
       "contentType": "image/png",
@@ -465,7 +465,7 @@
     {
       "fileName": "blue_potion_vial (24x24).png",
       "path": "packs/buch-animated-potions/sprites/blue_potion_vial (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/blue_potion_vial%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/blue_potion_vial%20(24x24).png",
       "sha256": "8df4c6c2008bd829481f99b18d4f6c7a8e181aa646848eda4892ee9e10f656d8",
       "size": 3622,
       "contentType": "image/png",
@@ -475,7 +475,7 @@
     {
       "fileName": "green_flask_round (24x24).png",
       "path": "packs/buch-animated-potions/sprites/green_flask_round (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/green_flask_round%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/green_flask_round%20(24x24).png",
       "sha256": "e5fe8c60fd2b24206852ebd43ebc085271aae74b0a894529c68e975000a9c183",
       "size": 3367,
       "contentType": "image/png",
@@ -485,7 +485,7 @@
     {
       "fileName": "green_potion_oval (24x24).png",
       "path": "packs/buch-animated-potions/sprites/green_potion_oval (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/green_potion_oval%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/green_potion_oval%20(24x24).png",
       "sha256": "d3017f5aa15e8f73e745191f772d500aab5f5edad574f9be0a2e051a4e15c0e3",
       "size": 3459,
       "contentType": "image/png",
@@ -495,7 +495,7 @@
     {
       "fileName": "green_potion_square (24x24).png",
       "path": "packs/buch-animated-potions/sprites/green_potion_square (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/green_potion_square%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/green_potion_square%20(24x24).png",
       "sha256": "cc89a30437dad834d1f6e3505f909c0808b3477216ae66dcd457b1a199fccd23",
       "size": 3488,
       "contentType": "image/png",
@@ -505,7 +505,7 @@
     {
       "fileName": "green_potion_tall (24x24).png",
       "path": "packs/buch-animated-potions/sprites/green_potion_tall (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/green_potion_tall%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/green_potion_tall%20(24x24).png",
       "sha256": "a40724d96dce0d7909930e71ad9d41a7d7238e04cfcd611f05209e4a3f5c6685",
       "size": 3496,
       "contentType": "image/png",
@@ -515,7 +515,7 @@
     {
       "fileName": "green_potion_vial (24x24).png",
       "path": "packs/buch-animated-potions/sprites/green_potion_vial (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/green_potion_vial%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/green_potion_vial%20(24x24).png",
       "sha256": "e474f34c8953416346e1a7c9625de37c047ed7a05fa44911be7c6325e0f2fdb4",
       "size": 3517,
       "contentType": "image/png",
@@ -525,7 +525,7 @@
     {
       "fileName": "purple_flask_round (24x24).png",
       "path": "packs/buch-animated-potions/sprites/purple_flask_round (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/purple_flask_round%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/purple_flask_round%20(24x24).png",
       "sha256": "4261496704e65f112cd88bf220be098222f4f7332f7c033570c5fb04e05bfce6",
       "size": 3365,
       "contentType": "image/png",
@@ -535,7 +535,7 @@
     {
       "fileName": "purple_potion_oval (24x24).png",
       "path": "packs/buch-animated-potions/sprites/purple_potion_oval (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/purple_potion_oval%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/purple_potion_oval%20(24x24).png",
       "sha256": "b0f894d045813a121c3dcae771439043be9b9bf3a27fa12f2b1fe608f91e4898",
       "size": 3384,
       "contentType": "image/png",
@@ -545,7 +545,7 @@
     {
       "fileName": "purple_potion_square (24x24).png",
       "path": "packs/buch-animated-potions/sprites/purple_potion_square (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/purple_potion_square%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/purple_potion_square%20(24x24).png",
       "sha256": "87171dc29e785e69911baf5cccee550cc89a17bf891cadb7351430e9f81073a3",
       "size": 3466,
       "contentType": "image/png",
@@ -555,7 +555,7 @@
     {
       "fileName": "purple_potion_tall (24x24).png",
       "path": "packs/buch-animated-potions/sprites/purple_potion_tall (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/purple_potion_tall%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/purple_potion_tall%20(24x24).png",
       "sha256": "76f92fe268730c02667dda3af49af81e2168f8cd0f8ad78b8f1624a2c74e34b4",
       "size": 3413,
       "contentType": "image/png",
@@ -565,7 +565,7 @@
     {
       "fileName": "purple_potion_vial (24x24).png",
       "path": "packs/buch-animated-potions/sprites/purple_potion_vial (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/purple_potion_vial%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/purple_potion_vial%20(24x24).png",
       "sha256": "3285d0ad45b4e351fab047076543f14eb5ef2d3f826887195f9d3ee96757941d",
       "size": 3421,
       "contentType": "image/png",
@@ -575,7 +575,7 @@
     {
       "fileName": "red_flask_round (24x24).png",
       "path": "packs/buch-animated-potions/sprites/red_flask_round (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/red_flask_round%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/red_flask_round%20(24x24).png",
       "sha256": "78a42c5c182bedd9430e25ea75334fa52f103d3d0f58e5fd6ca5bcb1fdaf0d29",
       "size": 3321,
       "contentType": "image/png",
@@ -585,7 +585,7 @@
     {
       "fileName": "red_potion_oval (24x24).png",
       "path": "packs/buch-animated-potions/sprites/red_potion_oval (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/red_potion_oval%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/red_potion_oval%20(24x24).png",
       "sha256": "1850d2ac674b46d867fc0542d023038343b9bf29da5df49b82eb55fc811757af",
       "size": 3471,
       "contentType": "image/png",
@@ -595,7 +595,7 @@
     {
       "fileName": "red_potion_square (24x24).png",
       "path": "packs/buch-animated-potions/sprites/red_potion_square (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/red_potion_square%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/red_potion_square%20(24x24).png",
       "sha256": "9fb0282bd68741372416a4794721ea8643609adb7ec3100682ebf4913ff265ed",
       "size": 3481,
       "contentType": "image/png",
@@ -605,7 +605,7 @@
     {
       "fileName": "red_potion_tall (24x24).png",
       "path": "packs/buch-animated-potions/sprites/red_potion_tall (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/red_potion_tall%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/red_potion_tall%20(24x24).png",
       "sha256": "d537222b804d41ce15305d469ecca63fc11488f8eca03a6668069b6844389232",
       "size": 3384,
       "contentType": "image/png",
@@ -615,7 +615,7 @@
     {
       "fileName": "red_potion_vial (24x24).png",
       "path": "packs/buch-animated-potions/sprites/red_potion_vial (24x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/buch-animated-potions/sprites/red_potion_vial%20(24x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/buch-animated-potions/sprites/red_potion_vial%20(24x24).png",
       "sha256": "ca38bdad9d4b7a693b36145bda4c63810a8912b6f2e3244a48b2b1a4f7271329",
       "size": 3401,
       "contentType": "image/png",
