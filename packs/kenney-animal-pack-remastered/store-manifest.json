@@ -6,7 +6,7 @@
   "website": "https://kenney.nl",
   "description": "High quality vector 2D animals: pets, farm livestock, safari wildlife, birds, and aquatic creatures by Kenney (kenney.nl). CC0 1.0 Universal.",
   "folder": "packs/kenney-animal-pack-remastered",
-  "pinnedSha": "903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf",
+  "pinnedSha": "bc49bf7297094d9ac32103e09500f5a473aa8bee",
   "itemCount": 30,
   "items": [
     {
@@ -374,7 +374,7 @@
     {
       "fileName": "bear.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/bear.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/bear.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/bear.png",
       "sha256": "38bc0b488212af64a3146373f4e5bae731acd97cb0f0da1b06ce9e20d36adea6",
       "size": 4050,
       "role": "Image"
@@ -382,7 +382,7 @@
     {
       "fileName": "buffalo.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/buffalo.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/buffalo.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/buffalo.png",
       "sha256": "818c6e075b2352a8558da7e97654e62edf163c547e64d18f9abe55a395331139",
       "size": 4545,
       "role": "Image"
@@ -390,7 +390,7 @@
     {
       "fileName": "chick.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/chick.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/chick.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/chick.png",
       "sha256": "f0c1bea1bb575c0a3d484ca9a8a79da01826e7528f8d6114a588589925164b2f",
       "size": 3052,
       "role": "Image"
@@ -398,7 +398,7 @@
     {
       "fileName": "chicken.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/chicken.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/chicken.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/chicken.png",
       "sha256": "28ff8da3b83ddb5f56094fd6e860048f9df7370222f3fe6d38c9d7d19868e840",
       "size": 3489,
       "role": "Image"
@@ -406,7 +406,7 @@
     {
       "fileName": "cow.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/cow.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/cow.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/cow.png",
       "sha256": "da7beb3985a01217a4b82bb51526079418316c2663e301a44184c619eb37d2e4",
       "size": 3858,
       "role": "Image"
@@ -414,7 +414,7 @@
     {
       "fileName": "crocodile.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/crocodile.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/crocodile.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/crocodile.png",
       "sha256": "0ec89e66579dff40070f3aabbdae494790383010b5ce49ab07a3837e1a3231b4",
       "size": 3392,
       "role": "Image"
@@ -422,7 +422,7 @@
     {
       "fileName": "dog.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/dog.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/dog.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/dog.png",
       "sha256": "2319095c34858fa9610d16dc2468dfc308ca9e061cc98b42762318fae7157b87",
       "size": 3886,
       "role": "Image"
@@ -430,7 +430,7 @@
     {
       "fileName": "duck.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/duck.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/duck.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/duck.png",
       "sha256": "335a0dc95baeecc7f3d6ab8efaee517fcd37d82f5999e46b0edd5d740d370496",
       "size": 3460,
       "role": "Image"
@@ -438,7 +438,7 @@
     {
       "fileName": "elephant.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/elephant.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/elephant.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/elephant.png",
       "sha256": "63261d8126ac00eccefc292a243701c98c1bbed8ea589c6b30971595407c29a3",
       "size": 4691,
       "role": "Image"
@@ -446,7 +446,7 @@
     {
       "fileName": "frog.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/frog.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/frog.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/frog.png",
       "sha256": "db0a75073c617f846f9f8e6c5e9186ac87a884f47e11ee77b3c018bd5acb539f",
       "size": 2908,
       "role": "Image"
@@ -454,7 +454,7 @@
     {
       "fileName": "giraffe.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/giraffe.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/giraffe.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/giraffe.png",
       "sha256": "627712bba9d484a5cb384cbba3c53f62a3098e7cf8b73e4ea1732bddf258de0a",
       "size": 4518,
       "role": "Image"
@@ -462,7 +462,7 @@
     {
       "fileName": "goat.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/goat.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/goat.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/goat.png",
       "sha256": "9827fadfc7ddc4e33fb5785d26d3c91152f7d5bfddd8af293592b53758673989",
       "size": 4984,
       "role": "Image"
@@ -470,7 +470,7 @@
     {
       "fileName": "gorilla.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/gorilla.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/gorilla.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/gorilla.png",
       "sha256": "1c35e525b283ceac8235ebf747a44d2d7c71da2e6d6736076b05488219fb7b14",
       "size": 3166,
       "role": "Image"
@@ -478,7 +478,7 @@
     {
       "fileName": "hippo.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/hippo.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/hippo.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/hippo.png",
       "sha256": "e6b2d63f6bf91692bbd8744ada028d6eef8ad8c6bb8d70f7fada504648a8cfc6",
       "size": 3220,
       "role": "Image"
@@ -486,7 +486,7 @@
     {
       "fileName": "horse.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/horse.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/horse.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/horse.png",
       "sha256": "ea94f00d4f9400bdd0446093c3cc32256b0be922ac945a6a96facf9903625e79",
       "size": 4174,
       "role": "Image"
@@ -494,7 +494,7 @@
     {
       "fileName": "monkey.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/monkey.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/monkey.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/monkey.png",
       "sha256": "2ef3946118ccc49a0b5a7eee84c49ce74ecb5b1f981b79a353b29a931039d992",
       "size": 3856,
       "role": "Image"
@@ -502,7 +502,7 @@
     {
       "fileName": "moose.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/moose.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/moose.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/moose.png",
       "sha256": "60f5ae969956c66321c32c9bc6374c493f8970dac977276a6493a894fff37732",
       "size": 6048,
       "role": "Image"
@@ -510,7 +510,7 @@
     {
       "fileName": "narwhal.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/narwhal.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/narwhal.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/narwhal.png",
       "sha256": "45d3fb3e94ea78574e75521183a1ca2425e2dcb651c6d0bec23311db7cdd436a",
       "size": 4216,
       "role": "Image"
@@ -518,7 +518,7 @@
     {
       "fileName": "owl.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/owl.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/owl.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/owl.png",
       "sha256": "566967db65e528041cc407d7453997f8e37bd023edd6e743241ba085fb257b86",
       "size": 4020,
       "role": "Image"
@@ -526,7 +526,7 @@
     {
       "fileName": "panda.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/panda.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/panda.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/panda.png",
       "sha256": "8b96854c9710647cf5c00d5b69380c116610e19f4a26ff9c759d645cd759dccc",
       "size": 3868,
       "role": "Image"
@@ -534,7 +534,7 @@
     {
       "fileName": "parrot.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/parrot.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/parrot.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/parrot.png",
       "sha256": "9953a7557d6cfdfee6d5decb32bd104d0d80c2ce53e584b5da84919d5eb028cf",
       "size": 3639,
       "role": "Image"
@@ -542,7 +542,7 @@
     {
       "fileName": "penguin.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/penguin.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/penguin.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/penguin.png",
       "sha256": "49c9ab9d319d8bfcbee086495e73b8104b8305edc6c051e935ce942fdcb281c9",
       "size": 3253,
       "role": "Image"
@@ -550,7 +550,7 @@
     {
       "fileName": "pig.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/pig.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/pig.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/pig.png",
       "sha256": "2107affc9737e87b9af0f88a5e8c45eb4825224fb347bcd3a55750f9b4a1e773",
       "size": 3669,
       "role": "Image"
@@ -558,7 +558,7 @@
     {
       "fileName": "rabbit.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/rabbit.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/rabbit.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/rabbit.png",
       "sha256": "fa8ad3517b0b55c3893355e756982ce3114b21ca1bcdbc3cd56a05d0f386696f",
       "size": 4029,
       "role": "Image"
@@ -566,7 +566,7 @@
     {
       "fileName": "rhino.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/rhino.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/rhino.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/rhino.png",
       "sha256": "7caee4ff22606ea5da1c2991b6bc348c58a7de5dde25ddc238ff087add57ec01",
       "size": 3631,
       "role": "Image"
@@ -574,7 +574,7 @@
     {
       "fileName": "sloth.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/sloth.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/sloth.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/sloth.png",
       "sha256": "5311a1a39cc2a85993eb0cb59848a68ef436df92d73df87573f66d7b48e47008",
       "size": 3388,
       "role": "Image"
@@ -582,7 +582,7 @@
     {
       "fileName": "snake.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/snake.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/snake.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/snake.png",
       "sha256": "e3f956fab13a6ade41464e9fb9ea5fd59511c08ed7d764dec320c0fa6adb0e84",
       "size": 3243,
       "role": "Image"
@@ -590,7 +590,7 @@
     {
       "fileName": "walrus.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/walrus.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/walrus.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/walrus.png",
       "sha256": "1dbf1685b9de120da393260684d52a444af3762986ea16dd52b816f147454d4f",
       "size": 3693,
       "role": "Image"
@@ -598,7 +598,7 @@
     {
       "fileName": "whale.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/whale.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/whale.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/whale.png",
       "sha256": "b344423e85a35b4a8ec1793fe3e7872ee6ced6739dd21b56e178adfc9273477a",
       "size": 3646,
       "role": "Image"
@@ -606,7 +606,7 @@
     {
       "fileName": "zebra.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/zebra.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/zebra.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/zebra.png",
       "sha256": "ade5add4fb1dbc504471915ed649b66117430313fde0e7d524ff512888911a55",
       "size": 3906,
       "role": "Image"
@@ -616,7 +616,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/kenney-animal-pack-remastered/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/cover.png",
       "sha256": "4599b44ed6175778e554cbdb41b2d947821f8215283a1916192152d9e74a4500",
       "size": 263073,
       "contentType": "image/png",
@@ -625,7 +625,7 @@
     {
       "fileName": "bear.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/bear.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/bear.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/bear.png",
       "sha256": "38bc0b488212af64a3146373f4e5bae731acd97cb0f0da1b06ce9e20d36adea6",
       "size": 4050,
       "contentType": "image/png",
@@ -635,7 +635,7 @@
     {
       "fileName": "buffalo.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/buffalo.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/buffalo.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/buffalo.png",
       "sha256": "818c6e075b2352a8558da7e97654e62edf163c547e64d18f9abe55a395331139",
       "size": 4545,
       "contentType": "image/png",
@@ -645,7 +645,7 @@
     {
       "fileName": "chick.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/chick.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/chick.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/chick.png",
       "sha256": "f0c1bea1bb575c0a3d484ca9a8a79da01826e7528f8d6114a588589925164b2f",
       "size": 3052,
       "contentType": "image/png",
@@ -655,7 +655,7 @@
     {
       "fileName": "chicken.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/chicken.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/chicken.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/chicken.png",
       "sha256": "28ff8da3b83ddb5f56094fd6e860048f9df7370222f3fe6d38c9d7d19868e840",
       "size": 3489,
       "contentType": "image/png",
@@ -665,7 +665,7 @@
     {
       "fileName": "cow.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/cow.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/cow.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/cow.png",
       "sha256": "da7beb3985a01217a4b82bb51526079418316c2663e301a44184c619eb37d2e4",
       "size": 3858,
       "contentType": "image/png",
@@ -675,7 +675,7 @@
     {
       "fileName": "crocodile.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/crocodile.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/crocodile.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/crocodile.png",
       "sha256": "0ec89e66579dff40070f3aabbdae494790383010b5ce49ab07a3837e1a3231b4",
       "size": 3392,
       "contentType": "image/png",
@@ -685,7 +685,7 @@
     {
       "fileName": "dog.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/dog.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/dog.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/dog.png",
       "sha256": "2319095c34858fa9610d16dc2468dfc308ca9e061cc98b42762318fae7157b87",
       "size": 3886,
       "contentType": "image/png",
@@ -695,7 +695,7 @@
     {
       "fileName": "duck.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/duck.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/duck.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/duck.png",
       "sha256": "335a0dc95baeecc7f3d6ab8efaee517fcd37d82f5999e46b0edd5d740d370496",
       "size": 3460,
       "contentType": "image/png",
@@ -705,7 +705,7 @@
     {
       "fileName": "elephant.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/elephant.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/elephant.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/elephant.png",
       "sha256": "63261d8126ac00eccefc292a243701c98c1bbed8ea589c6b30971595407c29a3",
       "size": 4691,
       "contentType": "image/png",
@@ -715,7 +715,7 @@
     {
       "fileName": "frog.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/frog.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/frog.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/frog.png",
       "sha256": "db0a75073c617f846f9f8e6c5e9186ac87a884f47e11ee77b3c018bd5acb539f",
       "size": 2908,
       "contentType": "image/png",
@@ -725,7 +725,7 @@
     {
       "fileName": "giraffe.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/giraffe.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/giraffe.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/giraffe.png",
       "sha256": "627712bba9d484a5cb384cbba3c53f62a3098e7cf8b73e4ea1732bddf258de0a",
       "size": 4518,
       "contentType": "image/png",
@@ -735,7 +735,7 @@
     {
       "fileName": "goat.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/goat.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/goat.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/goat.png",
       "sha256": "9827fadfc7ddc4e33fb5785d26d3c91152f7d5bfddd8af293592b53758673989",
       "size": 4984,
       "contentType": "image/png",
@@ -745,7 +745,7 @@
     {
       "fileName": "gorilla.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/gorilla.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/gorilla.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/gorilla.png",
       "sha256": "1c35e525b283ceac8235ebf747a44d2d7c71da2e6d6736076b05488219fb7b14",
       "size": 3166,
       "contentType": "image/png",
@@ -755,7 +755,7 @@
     {
       "fileName": "hippo.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/hippo.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/hippo.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/hippo.png",
       "sha256": "e6b2d63f6bf91692bbd8744ada028d6eef8ad8c6bb8d70f7fada504648a8cfc6",
       "size": 3220,
       "contentType": "image/png",
@@ -765,7 +765,7 @@
     {
       "fileName": "horse.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/horse.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/horse.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/horse.png",
       "sha256": "ea94f00d4f9400bdd0446093c3cc32256b0be922ac945a6a96facf9903625e79",
       "size": 4174,
       "contentType": "image/png",
@@ -775,7 +775,7 @@
     {
       "fileName": "monkey.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/monkey.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/monkey.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/monkey.png",
       "sha256": "2ef3946118ccc49a0b5a7eee84c49ce74ecb5b1f981b79a353b29a931039d992",
       "size": 3856,
       "contentType": "image/png",
@@ -785,7 +785,7 @@
     {
       "fileName": "moose.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/moose.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/moose.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/moose.png",
       "sha256": "60f5ae969956c66321c32c9bc6374c493f8970dac977276a6493a894fff37732",
       "size": 6048,
       "contentType": "image/png",
@@ -795,7 +795,7 @@
     {
       "fileName": "narwhal.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/narwhal.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/narwhal.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/narwhal.png",
       "sha256": "45d3fb3e94ea78574e75521183a1ca2425e2dcb651c6d0bec23311db7cdd436a",
       "size": 4216,
       "contentType": "image/png",
@@ -805,7 +805,7 @@
     {
       "fileName": "owl.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/owl.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/owl.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/owl.png",
       "sha256": "566967db65e528041cc407d7453997f8e37bd023edd6e743241ba085fb257b86",
       "size": 4020,
       "contentType": "image/png",
@@ -815,7 +815,7 @@
     {
       "fileName": "panda.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/panda.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/panda.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/panda.png",
       "sha256": "8b96854c9710647cf5c00d5b69380c116610e19f4a26ff9c759d645cd759dccc",
       "size": 3868,
       "contentType": "image/png",
@@ -825,7 +825,7 @@
     {
       "fileName": "parrot.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/parrot.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/parrot.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/parrot.png",
       "sha256": "9953a7557d6cfdfee6d5decb32bd104d0d80c2ce53e584b5da84919d5eb028cf",
       "size": 3639,
       "contentType": "image/png",
@@ -835,7 +835,7 @@
     {
       "fileName": "penguin.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/penguin.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/penguin.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/penguin.png",
       "sha256": "49c9ab9d319d8bfcbee086495e73b8104b8305edc6c051e935ce942fdcb281c9",
       "size": 3253,
       "contentType": "image/png",
@@ -845,7 +845,7 @@
     {
       "fileName": "pig.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/pig.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/pig.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/pig.png",
       "sha256": "2107affc9737e87b9af0f88a5e8c45eb4825224fb347bcd3a55750f9b4a1e773",
       "size": 3669,
       "contentType": "image/png",
@@ -855,7 +855,7 @@
     {
       "fileName": "rabbit.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/rabbit.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/rabbit.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/rabbit.png",
       "sha256": "fa8ad3517b0b55c3893355e756982ce3114b21ca1bcdbc3cd56a05d0f386696f",
       "size": 4029,
       "contentType": "image/png",
@@ -865,7 +865,7 @@
     {
       "fileName": "rhino.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/rhino.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/rhino.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/rhino.png",
       "sha256": "7caee4ff22606ea5da1c2991b6bc348c58a7de5dde25ddc238ff087add57ec01",
       "size": 3631,
       "contentType": "image/png",
@@ -875,7 +875,7 @@
     {
       "fileName": "sloth.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/sloth.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/sloth.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/sloth.png",
       "sha256": "5311a1a39cc2a85993eb0cb59848a68ef436df92d73df87573f66d7b48e47008",
       "size": 3388,
       "contentType": "image/png",
@@ -885,7 +885,7 @@
     {
       "fileName": "snake.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/snake.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/snake.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/snake.png",
       "sha256": "e3f956fab13a6ade41464e9fb9ea5fd59511c08ed7d764dec320c0fa6adb0e84",
       "size": 3243,
       "contentType": "image/png",
@@ -895,7 +895,7 @@
     {
       "fileName": "walrus.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/walrus.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/walrus.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/walrus.png",
       "sha256": "1dbf1685b9de120da393260684d52a444af3762986ea16dd52b816f147454d4f",
       "size": 3693,
       "contentType": "image/png",
@@ -905,7 +905,7 @@
     {
       "fileName": "whale.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/whale.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/whale.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/whale.png",
       "sha256": "b344423e85a35b4a8ec1793fe3e7872ee6ced6739dd21b56e178adfc9273477a",
       "size": 3646,
       "contentType": "image/png",
@@ -915,7 +915,7 @@
     {
       "fileName": "zebra.png",
       "path": "packs/kenney-animal-pack-remastered/sprites/zebra.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-animal-pack-remastered/sprites/zebra.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-animal-pack-remastered/sprites/zebra.png",
       "sha256": "ade5add4fb1dbc504471915ed649b66117430313fde0e7d524ff512888911a55",
       "size": 3906,
       "contentType": "image/png",

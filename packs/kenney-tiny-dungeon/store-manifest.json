@@ -6,7 +6,7 @@
   "website": "https://kenney.nl",
   "description": "130+ 16x16 pixel-art dungeon sprites: stone walls, floors, doors, chests, potions, skeletons, heroes, and props by Kenney (kenney.nl). CC0 1.0 Universal public domain.",
   "folder": "packs/kenney-tiny-dungeon",
-  "pinnedSha": "c8e6ce904673223c00258ab6919f36a0e5142cba",
+  "pinnedSha": "bc49bf7297094d9ac32103e09500f5a473aa8bee",
   "itemCount": 132,
   "items": [
     {
@@ -1598,7 +1598,7 @@
     {
       "fileName": "tile_0000.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0000.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0000.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0000.png",
       "sha256": "ebf91e6638d484dc6bdaec5f30e91589252125146b70c2911f11fac7ebe17090",
       "size": 99,
       "role": "Image"
@@ -1606,7 +1606,7 @@
     {
       "fileName": "tile_0001.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0001.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0001.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0001.png",
       "sha256": "cd86d8a06512f6e1bb97110fdefc9dbbd64ea4d50e0c04158860d8420145c346",
       "size": 126,
       "role": "Image"
@@ -1614,7 +1614,7 @@
     {
       "fileName": "tile_0002.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0002.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0002.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0002.png",
       "sha256": "1bee42a448291ff9259c6afee8151478238d1c2f49e74f3323577e0110b8fc67",
       "size": 150,
       "role": "Image"
@@ -1622,7 +1622,7 @@
     {
       "fileName": "tile_0003.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0003.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0003.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0003.png",
       "sha256": "2c0b45910d964d71112b81f7be17cc9a24169d4942c64ce8b59ea0f3f7490ca8",
       "size": 126,
       "role": "Image"
@@ -1630,7 +1630,7 @@
     {
       "fileName": "tile_0004.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0004.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0004.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0004.png",
       "sha256": "f3ea334d2be859c68ad1d1ff9c3314905ac12030cd65ce093e4ee8ec3c6b202b",
       "size": 178,
       "role": "Image"
@@ -1638,7 +1638,7 @@
     {
       "fileName": "tile_0005.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0005.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0005.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0005.png",
       "sha256": "7ed587c0ae06d8c8dfb683ff25b7119c6600f21364a253301a3faf230a1eb0e6",
       "size": 181,
       "role": "Image"
@@ -1646,7 +1646,7 @@
     {
       "fileName": "tile_0006.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0006.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0006.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0006.png",
       "sha256": "34fefe03ad9f435a777c81e56e288ead41dc3a0654088d85b51cb36e5579a0d3",
       "size": 164,
       "role": "Image"
@@ -1654,7 +1654,7 @@
     {
       "fileName": "tile_0007.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0007.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0007.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0007.png",
       "sha256": "883ba3a3fb022b373db047b9dd19ae67f2611e584190a82d45d2b8d3f21dfad2",
       "size": 180,
       "role": "Image"
@@ -1662,7 +1662,7 @@
     {
       "fileName": "tile_0008.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0008.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0008.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0008.png",
       "sha256": "23721149763a8fd6071857c19e01d0967c769e80ae89bbe968bc88a4816fc4f5",
       "size": 209,
       "role": "Image"
@@ -1670,7 +1670,7 @@
     {
       "fileName": "tile_0009.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0009.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0009.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0009.png",
       "sha256": "c8b7b183b0750dca16581173d7de4862ee01e937b1c414de526da5b75574adff",
       "size": 174,
       "role": "Image"
@@ -1678,7 +1678,7 @@
     {
       "fileName": "tile_0010.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0010.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0010.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0010.png",
       "sha256": "ba622a41d8fac8885d65c9cac01f35f3c6a3e7782c7c5eb375fafa78bafa9868",
       "size": 159,
       "role": "Image"
@@ -1686,7 +1686,7 @@
     {
       "fileName": "tile_0011.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0011.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0011.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0011.png",
       "sha256": "22b9237af31b12ff6cfaa1ed3b520383e93380c4e1582b7feafd76a9e9344426",
       "size": 163,
       "role": "Image"
@@ -1694,7 +1694,7 @@
     {
       "fileName": "tile_0012.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0012.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0012.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0012.png",
       "sha256": "dddf38ef416861eb38c499eaf8fdeb62051b577d5e33699fd42b46a198bec5f9",
       "size": 160,
       "role": "Image"
@@ -1702,7 +1702,7 @@
     {
       "fileName": "tile_0013.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0013.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0013.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0013.png",
       "sha256": "4eb6fedc53053420bbe92517109c941bc53cd114094ba9f9b8bc20802548d254",
       "size": 110,
       "role": "Image"
@@ -1710,7 +1710,7 @@
     {
       "fileName": "tile_0014.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0014.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0014.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0014.png",
       "sha256": "0d4f0c82ffb4c4158342fc0d7fc95cef22ff509003d711e84ec3b5ba3cee21f6",
       "size": 143,
       "role": "Image"
@@ -1718,7 +1718,7 @@
     {
       "fileName": "tile_0015.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0015.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0015.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0015.png",
       "sha256": "fdee6e6ccd725ae07348d4da5740b5837bf516a4e519f55cc6b5c566b5f5aa4d",
       "size": 110,
       "role": "Image"
@@ -1726,7 +1726,7 @@
     {
       "fileName": "tile_0016.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0016.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0016.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0016.png",
       "sha256": "62e5de639001c66c44f2aa84e3fd1eee56d99eb234c82f2d5b2f471663592bad",
       "size": 147,
       "role": "Image"
@@ -1734,7 +1734,7 @@
     {
       "fileName": "tile_0017.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0017.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0017.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0017.png",
       "sha256": "714b92d97d613bbcf4d15c553a0c85fa29a2807a2601ac1395b8f45da6575deb",
       "size": 152,
       "role": "Image"
@@ -1742,7 +1742,7 @@
     {
       "fileName": "tile_0018.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0018.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0018.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0018.png",
       "sha256": "b331519c825010a8d061b740a1127e3d711c2b447d6db1fad27f371acd1a1870",
       "size": 176,
       "role": "Image"
@@ -1750,7 +1750,7 @@
     {
       "fileName": "tile_0019.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0019.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0019.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0019.png",
       "sha256": "77031b04b17129b8142c6ca80dc10d265fb94c39a443f17ecfb2e48d9a7c2a16",
       "size": 182,
       "role": "Image"
@@ -1758,7 +1758,7 @@
     {
       "fileName": "tile_0020.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0020.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0020.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0020.png",
       "sha256": "8ed3c08b77ef4e6ead26858f95efcaa302f5f014aaf3b26b49dd2bea991eecce",
       "size": 211,
       "role": "Image"
@@ -1766,7 +1766,7 @@
     {
       "fileName": "tile_0021.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0021.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0021.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0021.png",
       "sha256": "9def7eb7a3b00190148a55367c08ecfd4a03b66096e585b0c07b6f21277bb4fd",
       "size": 182,
       "role": "Image"
@@ -1774,7 +1774,7 @@
     {
       "fileName": "tile_0022.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0022.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0022.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0022.png",
       "sha256": "24298faf91a61a57d158435e9fa75ca30ab88bbfddae797e2a268b1064787f45",
       "size": 173,
       "role": "Image"
@@ -1782,7 +1782,7 @@
     {
       "fileName": "tile_0023.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0023.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0023.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0023.png",
       "sha256": "ff3ac631206dd4882134b8719368519644fd26703ea289a7237924e9d622f208",
       "size": 172,
       "role": "Image"
@@ -1790,7 +1790,7 @@
     {
       "fileName": "tile_0024.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0024.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0024.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0024.png",
       "sha256": "3f4d77da84e948836c16d2c81f2812b7805e76147921f0ea9f047705f709a62a",
       "size": 175,
       "role": "Image"
@@ -1798,7 +1798,7 @@
     {
       "fileName": "tile_0025.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0025.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0025.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0025.png",
       "sha256": "5782701dc1d3d19c26f26cf1b147a044ecbc8535766ffa33ed93eee0e8bec2a1",
       "size": 139,
       "role": "Image"
@@ -1806,7 +1806,7 @@
     {
       "fileName": "tile_0026.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0026.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0026.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0026.png",
       "sha256": "a18f13529118365c4054f2b6dc7379190c8d99fc70f2f1c374f6e95f532630ce",
       "size": 185,
       "role": "Image"
@@ -1814,7 +1814,7 @@
     {
       "fileName": "tile_0027.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0027.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0027.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0027.png",
       "sha256": "c9ddc3f83a9ecb1d340d2925df3f99f34542d8be1514c53e82c71500c5537ced",
       "size": 139,
       "role": "Image"
@@ -1822,7 +1822,7 @@
     {
       "fileName": "tile_0028.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0028.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0028.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0028.png",
       "sha256": "7a67b0ec169f8a967906b2272927f4d4dd34ee60e0e066ad1544deaa9cf86d08",
       "size": 149,
       "role": "Image"
@@ -1830,7 +1830,7 @@
     {
       "fileName": "tile_0029.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0029.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0029.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0029.png",
       "sha256": "9a448977535c4af375b3db4800112ecde93e0d794b393e0cacf1dd82b4d9f971",
       "size": 208,
       "role": "Image"
@@ -1838,7 +1838,7 @@
     {
       "fileName": "tile_0030.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0030.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0030.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0030.png",
       "sha256": "50ba69228b0185e84fe73b4beec8837e275c7be1b8bde1981484feeecdf02199",
       "size": 138,
       "role": "Image"
@@ -1846,7 +1846,7 @@
     {
       "fileName": "tile_0031.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0031.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0031.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0031.png",
       "sha256": "3cde5a77140e4d8ed160e37cd14789aa9901c4808e2a6b0c109fd1502ca8deb2",
       "size": 171,
       "role": "Image"
@@ -1854,7 +1854,7 @@
     {
       "fileName": "tile_0032.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0032.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0032.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0032.png",
       "sha256": "82ee687a8c6b7929ad25f4f9497a2e96b54b00c68cf174c405b77b74b456df33",
       "size": 195,
       "role": "Image"
@@ -1862,7 +1862,7 @@
     {
       "fileName": "tile_0033.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0033.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0033.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0033.png",
       "sha256": "928dcac1d9d2df6fa2ac8916edc35f409605e70e387321a7cbd5ba26ffdc3b5e",
       "size": 202,
       "role": "Image"
@@ -1870,7 +1870,7 @@
     {
       "fileName": "tile_0034.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0034.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0034.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0034.png",
       "sha256": "7e06aac6ac40317d4699b9bad6c5fdcaea4df1aa350878a6c825089db6133f82",
       "size": 196,
       "role": "Image"
@@ -1878,7 +1878,7 @@
     {
       "fileName": "tile_0035.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0035.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0035.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0035.png",
       "sha256": "9fa58f97f4b8cd794179d8d2110c6180b69aa2030f449d734d69466b58eed2fb",
       "size": 198,
       "role": "Image"
@@ -1886,7 +1886,7 @@
     {
       "fileName": "tile_0036.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0036.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0036.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0036.png",
       "sha256": "d0be450733fad7bb93599113861381e3caedb8e0fbf30bd4e120024547689582",
       "size": 139,
       "role": "Image"
@@ -1894,7 +1894,7 @@
     {
       "fileName": "tile_0037.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0037.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0037.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0037.png",
       "sha256": "dff77f0cd9bf86fe3f6ee4ebcb4074c2a30ceba18e5966022b0fc74a339e036d",
       "size": 130,
       "role": "Image"
@@ -1902,7 +1902,7 @@
     {
       "fileName": "tile_0038.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0038.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0038.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0038.png",
       "sha256": "0b8d843daedf04706f865ad877e71d2d9ad1ce1dee01073071d286fd5aafdbdb",
       "size": 145,
       "role": "Image"
@@ -1910,7 +1910,7 @@
     {
       "fileName": "tile_0039.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0039.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0039.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0039.png",
       "sha256": "7dc16b81fa82f7fdd377d68bac398a8358438599d1036c509de913abcde64683",
       "size": 140,
       "role": "Image"
@@ -1918,7 +1918,7 @@
     {
       "fileName": "tile_0040.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0040.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0040.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0040.png",
       "sha256": "7541f8325e46dc4d5f0707819c0b6cbf48dab832727c2bca54a4380991b6cf10",
       "size": 128,
       "role": "Image"
@@ -1926,7 +1926,7 @@
     {
       "fileName": "tile_0041.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0041.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0041.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0041.png",
       "sha256": "0fbb63362251a29d741280e59f5d9cf29c80c0fcff0532cc9c8530936d873994",
       "size": 178,
       "role": "Image"
@@ -1934,7 +1934,7 @@
     {
       "fileName": "tile_0042.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0042.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0042.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0042.png",
       "sha256": "8dc63d1b4fc05e9ef0dc5ad22788e49e4b37477d4e85de2c2e420d22fe4cd958",
       "size": 142,
       "role": "Image"
@@ -1942,7 +1942,7 @@
     {
       "fileName": "tile_0043.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0043.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0043.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0043.png",
       "sha256": "77511b6490f69a9f4991ac807a7a53bb946077883d629ae21f935989709067ea",
       "size": 155,
       "role": "Image"
@@ -1950,7 +1950,7 @@
     {
       "fileName": "tile_0044.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0044.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0044.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0044.png",
       "sha256": "e4deaf3ebddc654a8e3d075e41cc78a29fd5e5635b3d6646e6b36da10d63ea20",
       "size": 170,
       "role": "Image"
@@ -1958,7 +1958,7 @@
     {
       "fileName": "tile_0045.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0045.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0045.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0045.png",
       "sha256": "4f5d0fd34c70872b66f2418b6cae9c9c9e3aca133bdec0b0dbf860ce82f9f225",
       "size": 191,
       "role": "Image"
@@ -1966,7 +1966,7 @@
     {
       "fileName": "tile_0046.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0046.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0046.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0046.png",
       "sha256": "acc19c7eee1b0c89dc9bacda260c7678490967389e41cdd8186c2fe82cee78c5",
       "size": 180,
       "role": "Image"
@@ -1974,7 +1974,7 @@
     {
       "fileName": "tile_0047.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0047.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0047.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0047.png",
       "sha256": "ec5c217c482cb5921717c5577049846283f689c993b65ca57a9dff5d245ff635",
       "size": 178,
       "role": "Image"
@@ -1982,7 +1982,7 @@
     {
       "fileName": "tile_0048.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0048.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0048.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0048.png",
       "sha256": "63519065228f5f8af6200d979fa54cd7f00650034ceea10a1609203a34b3ff9b",
       "size": 99,
       "role": "Image"
@@ -1990,7 +1990,7 @@
     {
       "fileName": "tile_0049.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0049.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0049.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0049.png",
       "sha256": "c4257bfa85878e4d293237cd9a50e72b3e883f721e4fe1c48132514bb93668f2",
       "size": 130,
       "role": "Image"
@@ -1998,7 +1998,7 @@
     {
       "fileName": "tile_0050.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0050.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0050.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0050.png",
       "sha256": "af45eaf5658a481cbf5645ed006ea59072e8bcdbe481b15a55204179d291f5c7",
       "size": 109,
       "role": "Image"
@@ -2006,7 +2006,7 @@
     {
       "fileName": "tile_0051.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0051.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0051.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0051.png",
       "sha256": "2c10663f36fbfef2638b018d8ed3c11f1e2e3c62fd63300b13e7aeb39273eb97",
       "size": 133,
       "role": "Image"
@@ -2014,7 +2014,7 @@
     {
       "fileName": "tile_0052.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0052.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0052.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0052.png",
       "sha256": "d380d7941b23178f8a90ff41f977bb459890f3a5f4b29f9c159859221d8f9704",
       "size": 122,
       "role": "Image"
@@ -2022,7 +2022,7 @@
     {
       "fileName": "tile_0053.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0053.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0053.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0053.png",
       "sha256": "e3d67fdc99ebea256141127ccfeb4103821db7dca11d099639de32e60b05b47e",
       "size": 110,
       "role": "Image"
@@ -2030,7 +2030,7 @@
     {
       "fileName": "tile_0054.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0054.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0054.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0054.png",
       "sha256": "1a9ae3a209decf1f4b8df62d354edd7dfa1f7d4101ab14819f181a8e51b5ce20",
       "size": 184,
       "role": "Image"
@@ -2038,7 +2038,7 @@
     {
       "fileName": "tile_0055.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0055.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0055.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0055.png",
       "sha256": "5a17519655807550ae9a90ae9618772d6bb67e856b9920ec090ccddcc3057e2c",
       "size": 182,
       "role": "Image"
@@ -2046,7 +2046,7 @@
     {
       "fileName": "tile_0056.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0056.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0056.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0056.png",
       "sha256": "3dce1fb1d0ab8ecc5b168449b9cac11709a221f53d7dc49d31c4c7c96bd5ea2f",
       "size": 207,
       "role": "Image"
@@ -2054,7 +2054,7 @@
     {
       "fileName": "tile_0057.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0057.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0057.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0057.png",
       "sha256": "2d553978f4663e6fde5d5eb8dce1db9fd9aff9823c04c4ac9b5434625910c6c2",
       "size": 135,
       "role": "Image"
@@ -2062,7 +2062,7 @@
     {
       "fileName": "tile_0058.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0058.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0058.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0058.png",
       "sha256": "d010f83dc263ca1b3b4788ef380c7ef5695a21493c7db10e423c9891e2eac730",
       "size": 140,
       "role": "Image"
@@ -2070,7 +2070,7 @@
     {
       "fileName": "tile_0059.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0059.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0059.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0059.png",
       "sha256": "78d2be3cc11b4dfcd3bdc6f90a34ff564f8d8216aa3ad7abf11bdd349bba02ee",
       "size": 134,
       "role": "Image"
@@ -2078,7 +2078,7 @@
     {
       "fileName": "tile_0060.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0060.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0060.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0060.png",
       "sha256": "c0c9ba7c823d46b2baf1fd4134c36f8e966b840b5f79a95a7585a0b3252a45a8",
       "size": 140,
       "role": "Image"
@@ -2086,7 +2086,7 @@
     {
       "fileName": "tile_0061.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0061.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0061.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0061.png",
       "sha256": "c090e00663c0b81ad5769020fc450f1f0d32fb9420072f41ffcc939cbc25acb8",
       "size": 149,
       "role": "Image"
@@ -2094,7 +2094,7 @@
     {
       "fileName": "tile_0062.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0062.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0062.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0062.png",
       "sha256": "cf66bddd9f4b4ecea0ac26406e487cf2639d373a2d5f21f1efd3cc6992272399",
       "size": 152,
       "role": "Image"
@@ -2102,7 +2102,7 @@
     {
       "fileName": "tile_0063.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0063.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0063.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0063.png",
       "sha256": "2c7d1a1fdf12a6cd37cfb82f9c38e18cfc8fe28963d1c33ab97379671cdd1aa4",
       "size": 167,
       "role": "Image"
@@ -2110,7 +2110,7 @@
     {
       "fileName": "tile_0064.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0064.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0064.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0064.png",
       "sha256": "b2ddf6178c613f3725e1e28830514d378649238e695b0d0b74ca5b471f880fa5",
       "size": 176,
       "role": "Image"
@@ -2118,7 +2118,7 @@
     {
       "fileName": "tile_0065.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0065.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0065.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0065.png",
       "sha256": "cb304f8bfba830e8213f357e0ad9b255e63aed2574cf5a2b3c351490d28dabf3",
       "size": 177,
       "role": "Image"
@@ -2126,7 +2126,7 @@
     {
       "fileName": "tile_0066.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0066.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0066.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0066.png",
       "sha256": "601f7619c0103424fb76a2fe0ef6f086fbc29a404f2bfba2dd16fa6dc141e9d9",
       "size": 192,
       "role": "Image"
@@ -2134,7 +2134,7 @@
     {
       "fileName": "tile_0067.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0067.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0067.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0067.png",
       "sha256": "9cbd5a8a7bf7f43eb6a7429698e99e829c57997c5022018a8b60ba9a70e51ccc",
       "size": 170,
       "role": "Image"
@@ -2142,7 +2142,7 @@
     {
       "fileName": "tile_0068.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0068.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0068.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0068.png",
       "sha256": "f90351394da9efc3b61293c20378f50d30b3dd531a9fd83b4367927e7bf9c144",
       "size": 181,
       "role": "Image"
@@ -2150,7 +2150,7 @@
     {
       "fileName": "tile_0069.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0069.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0069.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0069.png",
       "sha256": "5a09ecf571abb5bb4d2b727b054d7417a0bafc1ac82a4a0ffe7eccc2561ad556",
       "size": 206,
       "role": "Image"
@@ -2158,7 +2158,7 @@
     {
       "fileName": "tile_0070.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0070.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0070.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0070.png",
       "sha256": "56ae1a17ea808d02da78e58b5d6dc58a6ea62287b4addb81b5a6967dc2245a5a",
       "size": 170,
       "role": "Image"
@@ -2166,7 +2166,7 @@
     {
       "fileName": "tile_0071.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0071.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0071.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0071.png",
       "sha256": "33589077ca1518bc453aa63bf2f1810d67422bea07ed5db8f486f8257478d154",
       "size": 201,
       "role": "Image"
@@ -2174,7 +2174,7 @@
     {
       "fileName": "tile_0072.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0072.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0072.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0072.png",
       "sha256": "a977172d74aef292a924c867d7d2744ac1c4720f9a9f7120c0dec4ca1b9e9e00",
       "size": 163,
       "role": "Image"
@@ -2182,7 +2182,7 @@
     {
       "fileName": "tile_0073.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0073.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0073.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0073.png",
       "sha256": "138b74609bc477ca5bacc3c8c2b6d80bfc0362c81f163e7b6dcb063526c97f89",
       "size": 161,
       "role": "Image"
@@ -2190,7 +2190,7 @@
     {
       "fileName": "tile_0074.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0074.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0074.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0074.png",
       "sha256": "cfb675c1dcc7530a41956004471c8ec27cd5ae19a03d8c424074b855395497e8",
       "size": 201,
       "role": "Image"
@@ -2198,7 +2198,7 @@
     {
       "fileName": "tile_0075.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0075.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0075.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0075.png",
       "sha256": "5fd90e49d9be0c155f1e6a5cb08099fda486ea6fbb266be20b6b97614b96ddd1",
       "size": 128,
       "role": "Image"
@@ -2206,7 +2206,7 @@
     {
       "fileName": "tile_0076.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0076.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0076.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0076.png",
       "sha256": "349c56fdf06e20fb6a1ee98e2dea1e70833f4f0cf3a96ace0660d32ee0496631",
       "size": 165,
       "role": "Image"
@@ -2214,7 +2214,7 @@
     {
       "fileName": "tile_0077.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0077.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0077.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0077.png",
       "sha256": "be810b6e4b8cd8dfa9dd06af7a5964648a6683c5a3e8da64bc3233b48a636be7",
       "size": 165,
       "role": "Image"
@@ -2222,7 +2222,7 @@
     {
       "fileName": "tile_0078.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0078.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0078.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0078.png",
       "sha256": "62d47ae44908d577c29ff002a2e73ae1bb07602ff4715a85c9743893ef72546d",
       "size": 165,
       "role": "Image"
@@ -2230,7 +2230,7 @@
     {
       "fileName": "tile_0079.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0079.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0079.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0079.png",
       "sha256": "c8c819b6054e0c231fae5f9f85dc9a34ed828379f5fdb4456ecd360305ca44c6",
       "size": 174,
       "role": "Image"
@@ -2238,7 +2238,7 @@
     {
       "fileName": "tile_0080.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0080.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0080.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0080.png",
       "sha256": "0151695f2890361f16ae4ea585e8f5d80fe0b6c2e82593f5e2ad336fbb7360fe",
       "size": 180,
       "role": "Image"
@@ -2246,7 +2246,7 @@
     {
       "fileName": "tile_0081.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0081.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0081.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0081.png",
       "sha256": "92edb7e7a7b658e00d2c983d9526ffa5f868071b72f98a645f48fac2b33eb377",
       "size": 156,
       "role": "Image"
@@ -2254,7 +2254,7 @@
     {
       "fileName": "tile_0082.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0082.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0082.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0082.png",
       "sha256": "2efb31e30cd6f1527329fe5d7704e41c65a8376d498bf93372f46155600420c9",
       "size": 207,
       "role": "Image"
@@ -2262,7 +2262,7 @@
     {
       "fileName": "tile_0083.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0083.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0083.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0083.png",
       "sha256": "92edb7e7a7b658e00d2c983d9526ffa5f868071b72f98a645f48fac2b33eb377",
       "size": 156,
       "role": "Image"
@@ -2270,7 +2270,7 @@
     {
       "fileName": "tile_0084.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0084.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0084.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0084.png",
       "sha256": "b3909f80a29a0f18729f96a90ebe446ecaf26a195da633f2a6c3dd31f660821e",
       "size": 232,
       "role": "Image"
@@ -2278,7 +2278,7 @@
     {
       "fileName": "tile_0085.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0085.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0085.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0085.png",
       "sha256": "377b35acbce5129e8167df1f5d1d0420805990962a37a30f5784b88b81a40ec2",
       "size": 230,
       "role": "Image"
@@ -2286,7 +2286,7 @@
     {
       "fileName": "tile_0086.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0086.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0086.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0086.png",
       "sha256": "0606653ad07e177c06c9782c9fff4b1388c7b67865b6ab0e202f76e8e6f6bec8",
       "size": 224,
       "role": "Image"
@@ -2294,7 +2294,7 @@
     {
       "fileName": "tile_0087.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0087.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0087.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0087.png",
       "sha256": "321ecd683c4e542e09d368709e75821b8b823b7b98b71bebb39d66cead951315",
       "size": 239,
       "role": "Image"
@@ -2302,7 +2302,7 @@
     {
       "fileName": "tile_0088.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0088.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0088.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0088.png",
       "sha256": "ad6715e9bcab60faed303260a21adfca2de09a7950b98384065bcc5df05634b2",
       "size": 222,
       "role": "Image"
@@ -2310,7 +2310,7 @@
     {
       "fileName": "tile_0089.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0089.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0089.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0089.png",
       "sha256": "0b9fa753068061e816246437466d0c9d3100375ff12b77fe9459a801265c83c1",
       "size": 196,
       "role": "Image"
@@ -2318,7 +2318,7 @@
     {
       "fileName": "tile_0090.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0090.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0090.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0090.png",
       "sha256": "fb4aa142cbbba7d9504ed3ff0d989069e8f1974feb76f25906efd9901d4f9ef4",
       "size": 209,
       "role": "Image"
@@ -2326,7 +2326,7 @@
     {
       "fileName": "tile_0091.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0091.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0091.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0091.png",
       "sha256": "19a75fbb7df761b7373dac310d5e7dd2aa5a65529f81d4ffc80940c89d0538ff",
       "size": 207,
       "role": "Image"
@@ -2334,7 +2334,7 @@
     {
       "fileName": "tile_0092.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0092.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0092.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0092.png",
       "sha256": "357e08bc52b8dc318ce003681196dce6d2de41298b6253bbcc9bd10283785b37",
       "size": 244,
       "role": "Image"
@@ -2342,7 +2342,7 @@
     {
       "fileName": "tile_0093.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0093.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0093.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0093.png",
       "sha256": "0ce7aabd23d9784f67ad64d461b132f8bd59932d9cc7dddb98c66edf60a6671a",
       "size": 205,
       "role": "Image"
@@ -2350,7 +2350,7 @@
     {
       "fileName": "tile_0094.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0094.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0094.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0094.png",
       "sha256": "56ae1a17ea808d02da78e58b5d6dc58a6ea62287b4addb81b5a6967dc2245a5a",
       "size": 170,
       "role": "Image"
@@ -2358,7 +2358,7 @@
     {
       "fileName": "tile_0095.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0095.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0095.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0095.png",
       "sha256": "f5c2ce5b8e9e36580df27e8287472c662b360e97c4b8bef669ad70eceb9fc7b4",
       "size": 203,
       "role": "Image"
@@ -2366,7 +2366,7 @@
     {
       "fileName": "tile_0096.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0096.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0096.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0096.png",
       "sha256": "b8a0a9376c1c3398a059a1e3226e8f8d6839c1d73ac53ea37425340d762055fd",
       "size": 206,
       "role": "Image"
@@ -2374,7 +2374,7 @@
     {
       "fileName": "tile_0097.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0097.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0097.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0097.png",
       "sha256": "20915fde756b990f5b0c86fda557a93a6c306373d7c4fc07a1991f4ace3271b4",
       "size": 225,
       "role": "Image"
@@ -2382,7 +2382,7 @@
     {
       "fileName": "tile_0098.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0098.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0098.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0098.png",
       "sha256": "39b7c35f414e086b9c7e0cd2b34693ae370e5382a05b4dbb9964cef20f9769c8",
       "size": 238,
       "role": "Image"
@@ -2390,7 +2390,7 @@
     {
       "fileName": "tile_0099.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0099.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0099.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0099.png",
       "sha256": "61af4b9f1f67aa761e89e516ac6d60371175875b78b073b7f6a8415517c66181",
       "size": 238,
       "role": "Image"
@@ -2398,7 +2398,7 @@
     {
       "fileName": "tile_0100.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0100.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0100.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0100.png",
       "sha256": "e139ab1d56c599af1cea5a955b705ead18a92d41e8e635b550729383cad9de3c",
       "size": 240,
       "role": "Image"
@@ -2406,7 +2406,7 @@
     {
       "fileName": "tile_0101.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0101.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0101.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0101.png",
       "sha256": "03b7f71be1904c72c71f98d31c5f0f7fd8dceffcd40c19c4232746cbf509f5b1",
       "size": 159,
       "role": "Image"
@@ -2414,7 +2414,7 @@
     {
       "fileName": "tile_0102.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0102.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0102.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0102.png",
       "sha256": "35af44a6fc76a09e7fe625c0becfeac809360774c6a845ec8024dd8db6f5fc3f",
       "size": 154,
       "role": "Image"
@@ -2422,7 +2422,7 @@
     {
       "fileName": "tile_0103.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0103.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0103.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0103.png",
       "sha256": "38a3ab676d73fe4219930bad3d0294e045269fd153587b0e21c60843fc13d281",
       "size": 164,
       "role": "Image"
@@ -2430,7 +2430,7 @@
     {
       "fileName": "tile_0104.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0104.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0104.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0104.png",
       "sha256": "3b38808f0c20a49a9923475022041c46e8a04b47d8621e5186fe153b4bbaed48",
       "size": 166,
       "role": "Image"
@@ -2438,7 +2438,7 @@
     {
       "fileName": "tile_0105.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0105.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0105.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0105.png",
       "sha256": "e6ce715420b033cc4b0eb6b26255996a919ef721c0081388d3fa6a964047630d",
       "size": 181,
       "role": "Image"
@@ -2446,7 +2446,7 @@
     {
       "fileName": "tile_0106.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0106.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0106.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0106.png",
       "sha256": "4958c3b09a0d41b3f21741476274855ab2242b3240e5054657dbc0569c881215",
       "size": 164,
       "role": "Image"
@@ -2454,7 +2454,7 @@
     {
       "fileName": "tile_0107.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0107.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0107.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0107.png",
       "sha256": "66d47c25a72a5be74cb8a15c0e4930ee4c8859f5ba5d04837d953d45649d0873",
       "size": 173,
       "role": "Image"
@@ -2462,7 +2462,7 @@
     {
       "fileName": "tile_0108.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0108.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0108.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0108.png",
       "sha256": "f15c964db469039861f70bdc75cc5b02ba9351eaa5d7421a85d028131eb12f4d",
       "size": 189,
       "role": "Image"
@@ -2470,7 +2470,7 @@
     {
       "fileName": "tile_0109.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0109.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0109.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0109.png",
       "sha256": "f344d22151345f81fe1b95fdb03cf007747042670bda1540192c14853f35b94a",
       "size": 219,
       "role": "Image"
@@ -2478,7 +2478,7 @@
     {
       "fileName": "tile_0110.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0110.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0110.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0110.png",
       "sha256": "ca2d26579be3738be5abfb74cea388634e212fb991b84701deeda65da4780f1c",
       "size": 217,
       "role": "Image"
@@ -2486,7 +2486,7 @@
     {
       "fileName": "tile_0111.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0111.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0111.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0111.png",
       "sha256": "8ecfc9b753e676a3cd1fcf2f8f98cc70c8e814f706f41a7e172508fe15156618",
       "size": 228,
       "role": "Image"
@@ -2494,7 +2494,7 @@
     {
       "fileName": "tile_0112.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0112.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0112.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0112.png",
       "sha256": "1e82481db9d95d0cec64ba0ea95b8fadf1e3675936e93731d0ff0e3bc72470b0",
       "size": 237,
       "role": "Image"
@@ -2502,7 +2502,7 @@
     {
       "fileName": "tile_0113.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0113.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0113.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0113.png",
       "sha256": "d8b00568696dfc79269a8f47ab8e19ecf6f080140176034cbf8124b4b143d49e",
       "size": 176,
       "role": "Image"
@@ -2510,7 +2510,7 @@
     {
       "fileName": "tile_0114.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0114.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0114.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0114.png",
       "sha256": "486bea807469ea50e471bd9a8e5d60424386b81b0bbef0c84f3cda285d8cf088",
       "size": 182,
       "role": "Image"
@@ -2518,7 +2518,7 @@
     {
       "fileName": "tile_0115.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0115.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0115.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0115.png",
       "sha256": "ad27340925ae7e936788c22cbd0f7d1922ef5bdd21377f916f1be9af6be4312d",
       "size": 182,
       "role": "Image"
@@ -2526,7 +2526,7 @@
     {
       "fileName": "tile_0116.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0116.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0116.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0116.png",
       "sha256": "610de03ee2d2a7d452159a885707217ccb17c6c18444418d7f21496d76a65f76",
       "size": 182,
       "role": "Image"
@@ -2534,7 +2534,7 @@
     {
       "fileName": "tile_0117.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0117.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0117.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0117.png",
       "sha256": "4f75a60e03d46523afba3c52f73c1fcbe06a7566a87eea9fb9b82320718182bf",
       "size": 191,
       "role": "Image"
@@ -2542,7 +2542,7 @@
     {
       "fileName": "tile_0118.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0118.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0118.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0118.png",
       "sha256": "43679336db4fca6d7c4b47941f707174cdc4476b75af32e0d9f0bd80677831bd",
       "size": 200,
       "role": "Image"
@@ -2550,7 +2550,7 @@
     {
       "fileName": "tile_0119.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0119.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0119.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0119.png",
       "sha256": "c1a5fcc94e0557e04615186966d5ded2a7b590985f03c4a564de6801aeea4acf",
       "size": 184,
       "role": "Image"
@@ -2558,7 +2558,7 @@
     {
       "fileName": "tile_0120.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0120.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0120.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0120.png",
       "sha256": "2ca96264cc5506bb52a5f7b5d278d0fa8e66e26c4b8242e40db6b46acb9df95e",
       "size": 195,
       "role": "Image"
@@ -2566,7 +2566,7 @@
     {
       "fileName": "tile_0121.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0121.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0121.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0121.png",
       "sha256": "28466ec899a6e0720f40e4f622aee5925d2e5c50b2409856f36ef65c7eedc532",
       "size": 189,
       "role": "Image"
@@ -2574,7 +2574,7 @@
     {
       "fileName": "tile_0122.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0122.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0122.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0122.png",
       "sha256": "2cb76164d899e3a5eb42d7cd23ffe8defae130f6ce702a35926cbf61d2d1b569",
       "size": 232,
       "role": "Image"
@@ -2582,7 +2582,7 @@
     {
       "fileName": "tile_0123.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0123.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0123.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0123.png",
       "sha256": "16d8f777b329a6516f32d790b389fd5072622195152680c298d2caf8d723ef8b",
       "size": 201,
       "role": "Image"
@@ -2590,7 +2590,7 @@
     {
       "fileName": "tile_0124.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0124.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0124.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0124.png",
       "sha256": "cda39a2ba32af6935e106b5c243ba5ca813a8b2566855b94524485463883196a",
       "size": 203,
       "role": "Image"
@@ -2598,7 +2598,7 @@
     {
       "fileName": "tile_0125.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0125.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0125.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0125.png",
       "sha256": "d576af0d95a09721d174c3f57cb51b3c736e3627330a9bfee110e676d37c3cab",
       "size": 165,
       "role": "Image"
@@ -2606,7 +2606,7 @@
     {
       "fileName": "tile_0126.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0126.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0126.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0126.png",
       "sha256": "59dd6e934921a327935f8aa35a24cd949bc04541c0adaed2d0ac46b29fe409c2",
       "size": 171,
       "role": "Image"
@@ -2614,7 +2614,7 @@
     {
       "fileName": "tile_0127.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0127.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0127.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0127.png",
       "sha256": "4ae08fffdd99c4e14a941e664de4cf9ecba0064cd94e5caae9d4a82a10fe120c",
       "size": 171,
       "role": "Image"
@@ -2622,7 +2622,7 @@
     {
       "fileName": "tile_0128.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0128.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0128.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0128.png",
       "sha256": "f9d1c49865855dece38e496cdb68458040facf8256831751f4b0ab695a193be9",
       "size": 171,
       "role": "Image"
@@ -2630,7 +2630,7 @@
     {
       "fileName": "tile_0129.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0129.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0129.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0129.png",
       "sha256": "1b0a4efa97420e011f08151149c662dbc7c91be0e3c72caa3e8f5718789908fb",
       "size": 173,
       "role": "Image"
@@ -2638,7 +2638,7 @@
     {
       "fileName": "tile_0130.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0130.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0130.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0130.png",
       "sha256": "a61e8a3fe7e1e6f192d6b6452852274a02768c20a45ef6afa48ec80908a39185",
       "size": 185,
       "role": "Image"
@@ -2646,7 +2646,7 @@
     {
       "fileName": "tile_0131.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0131.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0131.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0131.png",
       "sha256": "0fe7c5448902cef52dd8ed8530eda0a986ad0d2cc0c36c2ee1528fe0c6860262",
       "size": 181,
       "role": "Image"
@@ -2656,7 +2656,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/kenney-tiny-dungeon/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/cover.png",
       "sha256": "b6023d3a9504f84bbd128d21680d0899c7a150bce3443d0861590f3f3de1c24b",
       "size": 17553,
       "contentType": "image/png",
@@ -2665,7 +2665,7 @@
     {
       "fileName": "tile_0000.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0000.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0000.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0000.png",
       "sha256": "ebf91e6638d484dc6bdaec5f30e91589252125146b70c2911f11fac7ebe17090",
       "size": 99,
       "contentType": "image/png",
@@ -2675,7 +2675,7 @@
     {
       "fileName": "tile_0001.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0001.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0001.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0001.png",
       "sha256": "cd86d8a06512f6e1bb97110fdefc9dbbd64ea4d50e0c04158860d8420145c346",
       "size": 126,
       "contentType": "image/png",
@@ -2685,7 +2685,7 @@
     {
       "fileName": "tile_0002.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0002.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0002.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0002.png",
       "sha256": "1bee42a448291ff9259c6afee8151478238d1c2f49e74f3323577e0110b8fc67",
       "size": 150,
       "contentType": "image/png",
@@ -2695,7 +2695,7 @@
     {
       "fileName": "tile_0003.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0003.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0003.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0003.png",
       "sha256": "2c0b45910d964d71112b81f7be17cc9a24169d4942c64ce8b59ea0f3f7490ca8",
       "size": 126,
       "contentType": "image/png",
@@ -2705,7 +2705,7 @@
     {
       "fileName": "tile_0004.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0004.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0004.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0004.png",
       "sha256": "f3ea334d2be859c68ad1d1ff9c3314905ac12030cd65ce093e4ee8ec3c6b202b",
       "size": 178,
       "contentType": "image/png",
@@ -2715,7 +2715,7 @@
     {
       "fileName": "tile_0005.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0005.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0005.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0005.png",
       "sha256": "7ed587c0ae06d8c8dfb683ff25b7119c6600f21364a253301a3faf230a1eb0e6",
       "size": 181,
       "contentType": "image/png",
@@ -2725,7 +2725,7 @@
     {
       "fileName": "tile_0006.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0006.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0006.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0006.png",
       "sha256": "34fefe03ad9f435a777c81e56e288ead41dc3a0654088d85b51cb36e5579a0d3",
       "size": 164,
       "contentType": "image/png",
@@ -2735,7 +2735,7 @@
     {
       "fileName": "tile_0007.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0007.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0007.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0007.png",
       "sha256": "883ba3a3fb022b373db047b9dd19ae67f2611e584190a82d45d2b8d3f21dfad2",
       "size": 180,
       "contentType": "image/png",
@@ -2745,7 +2745,7 @@
     {
       "fileName": "tile_0008.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0008.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0008.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0008.png",
       "sha256": "23721149763a8fd6071857c19e01d0967c769e80ae89bbe968bc88a4816fc4f5",
       "size": 209,
       "contentType": "image/png",
@@ -2755,7 +2755,7 @@
     {
       "fileName": "tile_0009.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0009.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0009.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0009.png",
       "sha256": "c8b7b183b0750dca16581173d7de4862ee01e937b1c414de526da5b75574adff",
       "size": 174,
       "contentType": "image/png",
@@ -2765,7 +2765,7 @@
     {
       "fileName": "tile_0010.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0010.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0010.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0010.png",
       "sha256": "ba622a41d8fac8885d65c9cac01f35f3c6a3e7782c7c5eb375fafa78bafa9868",
       "size": 159,
       "contentType": "image/png",
@@ -2775,7 +2775,7 @@
     {
       "fileName": "tile_0011.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0011.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0011.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0011.png",
       "sha256": "22b9237af31b12ff6cfaa1ed3b520383e93380c4e1582b7feafd76a9e9344426",
       "size": 163,
       "contentType": "image/png",
@@ -2785,7 +2785,7 @@
     {
       "fileName": "tile_0012.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0012.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0012.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0012.png",
       "sha256": "dddf38ef416861eb38c499eaf8fdeb62051b577d5e33699fd42b46a198bec5f9",
       "size": 160,
       "contentType": "image/png",
@@ -2795,7 +2795,7 @@
     {
       "fileName": "tile_0013.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0013.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0013.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0013.png",
       "sha256": "4eb6fedc53053420bbe92517109c941bc53cd114094ba9f9b8bc20802548d254",
       "size": 110,
       "contentType": "image/png",
@@ -2805,7 +2805,7 @@
     {
       "fileName": "tile_0014.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0014.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0014.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0014.png",
       "sha256": "0d4f0c82ffb4c4158342fc0d7fc95cef22ff509003d711e84ec3b5ba3cee21f6",
       "size": 143,
       "contentType": "image/png",
@@ -2815,7 +2815,7 @@
     {
       "fileName": "tile_0015.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0015.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0015.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0015.png",
       "sha256": "fdee6e6ccd725ae07348d4da5740b5837bf516a4e519f55cc6b5c566b5f5aa4d",
       "size": 110,
       "contentType": "image/png",
@@ -2825,7 +2825,7 @@
     {
       "fileName": "tile_0016.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0016.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0016.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0016.png",
       "sha256": "62e5de639001c66c44f2aa84e3fd1eee56d99eb234c82f2d5b2f471663592bad",
       "size": 147,
       "contentType": "image/png",
@@ -2835,7 +2835,7 @@
     {
       "fileName": "tile_0017.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0017.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0017.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0017.png",
       "sha256": "714b92d97d613bbcf4d15c553a0c85fa29a2807a2601ac1395b8f45da6575deb",
       "size": 152,
       "contentType": "image/png",
@@ -2845,7 +2845,7 @@
     {
       "fileName": "tile_0018.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0018.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0018.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0018.png",
       "sha256": "b331519c825010a8d061b740a1127e3d711c2b447d6db1fad27f371acd1a1870",
       "size": 176,
       "contentType": "image/png",
@@ -2855,7 +2855,7 @@
     {
       "fileName": "tile_0019.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0019.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0019.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0019.png",
       "sha256": "77031b04b17129b8142c6ca80dc10d265fb94c39a443f17ecfb2e48d9a7c2a16",
       "size": 182,
       "contentType": "image/png",
@@ -2865,7 +2865,7 @@
     {
       "fileName": "tile_0020.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0020.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0020.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0020.png",
       "sha256": "8ed3c08b77ef4e6ead26858f95efcaa302f5f014aaf3b26b49dd2bea991eecce",
       "size": 211,
       "contentType": "image/png",
@@ -2875,7 +2875,7 @@
     {
       "fileName": "tile_0021.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0021.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0021.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0021.png",
       "sha256": "9def7eb7a3b00190148a55367c08ecfd4a03b66096e585b0c07b6f21277bb4fd",
       "size": 182,
       "contentType": "image/png",
@@ -2885,7 +2885,7 @@
     {
       "fileName": "tile_0022.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0022.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0022.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0022.png",
       "sha256": "24298faf91a61a57d158435e9fa75ca30ab88bbfddae797e2a268b1064787f45",
       "size": 173,
       "contentType": "image/png",
@@ -2895,7 +2895,7 @@
     {
       "fileName": "tile_0023.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0023.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0023.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0023.png",
       "sha256": "ff3ac631206dd4882134b8719368519644fd26703ea289a7237924e9d622f208",
       "size": 172,
       "contentType": "image/png",
@@ -2905,7 +2905,7 @@
     {
       "fileName": "tile_0024.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0024.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0024.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0024.png",
       "sha256": "3f4d77da84e948836c16d2c81f2812b7805e76147921f0ea9f047705f709a62a",
       "size": 175,
       "contentType": "image/png",
@@ -2915,7 +2915,7 @@
     {
       "fileName": "tile_0025.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0025.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0025.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0025.png",
       "sha256": "5782701dc1d3d19c26f26cf1b147a044ecbc8535766ffa33ed93eee0e8bec2a1",
       "size": 139,
       "contentType": "image/png",
@@ -2925,7 +2925,7 @@
     {
       "fileName": "tile_0026.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0026.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0026.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0026.png",
       "sha256": "a18f13529118365c4054f2b6dc7379190c8d99fc70f2f1c374f6e95f532630ce",
       "size": 185,
       "contentType": "image/png",
@@ -2935,7 +2935,7 @@
     {
       "fileName": "tile_0027.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0027.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0027.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0027.png",
       "sha256": "c9ddc3f83a9ecb1d340d2925df3f99f34542d8be1514c53e82c71500c5537ced",
       "size": 139,
       "contentType": "image/png",
@@ -2945,7 +2945,7 @@
     {
       "fileName": "tile_0028.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0028.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0028.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0028.png",
       "sha256": "7a67b0ec169f8a967906b2272927f4d4dd34ee60e0e066ad1544deaa9cf86d08",
       "size": 149,
       "contentType": "image/png",
@@ -2955,7 +2955,7 @@
     {
       "fileName": "tile_0029.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0029.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0029.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0029.png",
       "sha256": "9a448977535c4af375b3db4800112ecde93e0d794b393e0cacf1dd82b4d9f971",
       "size": 208,
       "contentType": "image/png",
@@ -2965,7 +2965,7 @@
     {
       "fileName": "tile_0030.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0030.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0030.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0030.png",
       "sha256": "50ba69228b0185e84fe73b4beec8837e275c7be1b8bde1981484feeecdf02199",
       "size": 138,
       "contentType": "image/png",
@@ -2975,7 +2975,7 @@
     {
       "fileName": "tile_0031.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0031.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0031.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0031.png",
       "sha256": "3cde5a77140e4d8ed160e37cd14789aa9901c4808e2a6b0c109fd1502ca8deb2",
       "size": 171,
       "contentType": "image/png",
@@ -2985,7 +2985,7 @@
     {
       "fileName": "tile_0032.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0032.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0032.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0032.png",
       "sha256": "82ee687a8c6b7929ad25f4f9497a2e96b54b00c68cf174c405b77b74b456df33",
       "size": 195,
       "contentType": "image/png",
@@ -2995,7 +2995,7 @@
     {
       "fileName": "tile_0033.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0033.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0033.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0033.png",
       "sha256": "928dcac1d9d2df6fa2ac8916edc35f409605e70e387321a7cbd5ba26ffdc3b5e",
       "size": 202,
       "contentType": "image/png",
@@ -3005,7 +3005,7 @@
     {
       "fileName": "tile_0034.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0034.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0034.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0034.png",
       "sha256": "7e06aac6ac40317d4699b9bad6c5fdcaea4df1aa350878a6c825089db6133f82",
       "size": 196,
       "contentType": "image/png",
@@ -3015,7 +3015,7 @@
     {
       "fileName": "tile_0035.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0035.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0035.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0035.png",
       "sha256": "9fa58f97f4b8cd794179d8d2110c6180b69aa2030f449d734d69466b58eed2fb",
       "size": 198,
       "contentType": "image/png",
@@ -3025,7 +3025,7 @@
     {
       "fileName": "tile_0036.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0036.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0036.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0036.png",
       "sha256": "d0be450733fad7bb93599113861381e3caedb8e0fbf30bd4e120024547689582",
       "size": 139,
       "contentType": "image/png",
@@ -3035,7 +3035,7 @@
     {
       "fileName": "tile_0037.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0037.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0037.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0037.png",
       "sha256": "dff77f0cd9bf86fe3f6ee4ebcb4074c2a30ceba18e5966022b0fc74a339e036d",
       "size": 130,
       "contentType": "image/png",
@@ -3045,7 +3045,7 @@
     {
       "fileName": "tile_0038.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0038.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0038.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0038.png",
       "sha256": "0b8d843daedf04706f865ad877e71d2d9ad1ce1dee01073071d286fd5aafdbdb",
       "size": 145,
       "contentType": "image/png",
@@ -3055,7 +3055,7 @@
     {
       "fileName": "tile_0039.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0039.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0039.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0039.png",
       "sha256": "7dc16b81fa82f7fdd377d68bac398a8358438599d1036c509de913abcde64683",
       "size": 140,
       "contentType": "image/png",
@@ -3065,7 +3065,7 @@
     {
       "fileName": "tile_0040.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0040.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0040.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0040.png",
       "sha256": "7541f8325e46dc4d5f0707819c0b6cbf48dab832727c2bca54a4380991b6cf10",
       "size": 128,
       "contentType": "image/png",
@@ -3075,7 +3075,7 @@
     {
       "fileName": "tile_0041.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0041.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0041.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0041.png",
       "sha256": "0fbb63362251a29d741280e59f5d9cf29c80c0fcff0532cc9c8530936d873994",
       "size": 178,
       "contentType": "image/png",
@@ -3085,7 +3085,7 @@
     {
       "fileName": "tile_0042.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0042.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0042.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0042.png",
       "sha256": "8dc63d1b4fc05e9ef0dc5ad22788e49e4b37477d4e85de2c2e420d22fe4cd958",
       "size": 142,
       "contentType": "image/png",
@@ -3095,7 +3095,7 @@
     {
       "fileName": "tile_0043.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0043.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0043.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0043.png",
       "sha256": "77511b6490f69a9f4991ac807a7a53bb946077883d629ae21f935989709067ea",
       "size": 155,
       "contentType": "image/png",
@@ -3105,7 +3105,7 @@
     {
       "fileName": "tile_0044.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0044.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0044.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0044.png",
       "sha256": "e4deaf3ebddc654a8e3d075e41cc78a29fd5e5635b3d6646e6b36da10d63ea20",
       "size": 170,
       "contentType": "image/png",
@@ -3115,7 +3115,7 @@
     {
       "fileName": "tile_0045.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0045.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0045.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0045.png",
       "sha256": "4f5d0fd34c70872b66f2418b6cae9c9c9e3aca133bdec0b0dbf860ce82f9f225",
       "size": 191,
       "contentType": "image/png",
@@ -3125,7 +3125,7 @@
     {
       "fileName": "tile_0046.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0046.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0046.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0046.png",
       "sha256": "acc19c7eee1b0c89dc9bacda260c7678490967389e41cdd8186c2fe82cee78c5",
       "size": 180,
       "contentType": "image/png",
@@ -3135,7 +3135,7 @@
     {
       "fileName": "tile_0047.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0047.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0047.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0047.png",
       "sha256": "ec5c217c482cb5921717c5577049846283f689c993b65ca57a9dff5d245ff635",
       "size": 178,
       "contentType": "image/png",
@@ -3145,7 +3145,7 @@
     {
       "fileName": "tile_0048.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0048.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0048.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0048.png",
       "sha256": "63519065228f5f8af6200d979fa54cd7f00650034ceea10a1609203a34b3ff9b",
       "size": 99,
       "contentType": "image/png",
@@ -3155,7 +3155,7 @@
     {
       "fileName": "tile_0049.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0049.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0049.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0049.png",
       "sha256": "c4257bfa85878e4d293237cd9a50e72b3e883f721e4fe1c48132514bb93668f2",
       "size": 130,
       "contentType": "image/png",
@@ -3165,7 +3165,7 @@
     {
       "fileName": "tile_0050.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0050.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0050.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0050.png",
       "sha256": "af45eaf5658a481cbf5645ed006ea59072e8bcdbe481b15a55204179d291f5c7",
       "size": 109,
       "contentType": "image/png",
@@ -3175,7 +3175,7 @@
     {
       "fileName": "tile_0051.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0051.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0051.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0051.png",
       "sha256": "2c10663f36fbfef2638b018d8ed3c11f1e2e3c62fd63300b13e7aeb39273eb97",
       "size": 133,
       "contentType": "image/png",
@@ -3185,7 +3185,7 @@
     {
       "fileName": "tile_0052.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0052.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0052.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0052.png",
       "sha256": "d380d7941b23178f8a90ff41f977bb459890f3a5f4b29f9c159859221d8f9704",
       "size": 122,
       "contentType": "image/png",
@@ -3195,7 +3195,7 @@
     {
       "fileName": "tile_0053.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0053.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0053.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0053.png",
       "sha256": "e3d67fdc99ebea256141127ccfeb4103821db7dca11d099639de32e60b05b47e",
       "size": 110,
       "contentType": "image/png",
@@ -3205,7 +3205,7 @@
     {
       "fileName": "tile_0054.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0054.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0054.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0054.png",
       "sha256": "1a9ae3a209decf1f4b8df62d354edd7dfa1f7d4101ab14819f181a8e51b5ce20",
       "size": 184,
       "contentType": "image/png",
@@ -3215,7 +3215,7 @@
     {
       "fileName": "tile_0055.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0055.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0055.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0055.png",
       "sha256": "5a17519655807550ae9a90ae9618772d6bb67e856b9920ec090ccddcc3057e2c",
       "size": 182,
       "contentType": "image/png",
@@ -3225,7 +3225,7 @@
     {
       "fileName": "tile_0056.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0056.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0056.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0056.png",
       "sha256": "3dce1fb1d0ab8ecc5b168449b9cac11709a221f53d7dc49d31c4c7c96bd5ea2f",
       "size": 207,
       "contentType": "image/png",
@@ -3235,7 +3235,7 @@
     {
       "fileName": "tile_0057.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0057.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0057.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0057.png",
       "sha256": "2d553978f4663e6fde5d5eb8dce1db9fd9aff9823c04c4ac9b5434625910c6c2",
       "size": 135,
       "contentType": "image/png",
@@ -3245,7 +3245,7 @@
     {
       "fileName": "tile_0058.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0058.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0058.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0058.png",
       "sha256": "d010f83dc263ca1b3b4788ef380c7ef5695a21493c7db10e423c9891e2eac730",
       "size": 140,
       "contentType": "image/png",
@@ -3255,7 +3255,7 @@
     {
       "fileName": "tile_0059.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0059.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0059.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0059.png",
       "sha256": "78d2be3cc11b4dfcd3bdc6f90a34ff564f8d8216aa3ad7abf11bdd349bba02ee",
       "size": 134,
       "contentType": "image/png",
@@ -3265,7 +3265,7 @@
     {
       "fileName": "tile_0060.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0060.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0060.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0060.png",
       "sha256": "c0c9ba7c823d46b2baf1fd4134c36f8e966b840b5f79a95a7585a0b3252a45a8",
       "size": 140,
       "contentType": "image/png",
@@ -3275,7 +3275,7 @@
     {
       "fileName": "tile_0061.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0061.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0061.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0061.png",
       "sha256": "c090e00663c0b81ad5769020fc450f1f0d32fb9420072f41ffcc939cbc25acb8",
       "size": 149,
       "contentType": "image/png",
@@ -3285,7 +3285,7 @@
     {
       "fileName": "tile_0062.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0062.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0062.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0062.png",
       "sha256": "cf66bddd9f4b4ecea0ac26406e487cf2639d373a2d5f21f1efd3cc6992272399",
       "size": 152,
       "contentType": "image/png",
@@ -3295,7 +3295,7 @@
     {
       "fileName": "tile_0063.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0063.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0063.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0063.png",
       "sha256": "2c7d1a1fdf12a6cd37cfb82f9c38e18cfc8fe28963d1c33ab97379671cdd1aa4",
       "size": 167,
       "contentType": "image/png",
@@ -3305,7 +3305,7 @@
     {
       "fileName": "tile_0064.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0064.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0064.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0064.png",
       "sha256": "b2ddf6178c613f3725e1e28830514d378649238e695b0d0b74ca5b471f880fa5",
       "size": 176,
       "contentType": "image/png",
@@ -3315,7 +3315,7 @@
     {
       "fileName": "tile_0065.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0065.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0065.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0065.png",
       "sha256": "cb304f8bfba830e8213f357e0ad9b255e63aed2574cf5a2b3c351490d28dabf3",
       "size": 177,
       "contentType": "image/png",
@@ -3325,7 +3325,7 @@
     {
       "fileName": "tile_0066.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0066.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0066.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0066.png",
       "sha256": "601f7619c0103424fb76a2fe0ef6f086fbc29a404f2bfba2dd16fa6dc141e9d9",
       "size": 192,
       "contentType": "image/png",
@@ -3335,7 +3335,7 @@
     {
       "fileName": "tile_0067.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0067.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0067.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0067.png",
       "sha256": "9cbd5a8a7bf7f43eb6a7429698e99e829c57997c5022018a8b60ba9a70e51ccc",
       "size": 170,
       "contentType": "image/png",
@@ -3345,7 +3345,7 @@
     {
       "fileName": "tile_0068.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0068.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0068.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0068.png",
       "sha256": "f90351394da9efc3b61293c20378f50d30b3dd531a9fd83b4367927e7bf9c144",
       "size": 181,
       "contentType": "image/png",
@@ -3355,7 +3355,7 @@
     {
       "fileName": "tile_0069.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0069.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0069.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0069.png",
       "sha256": "5a09ecf571abb5bb4d2b727b054d7417a0bafc1ac82a4a0ffe7eccc2561ad556",
       "size": 206,
       "contentType": "image/png",
@@ -3365,7 +3365,7 @@
     {
       "fileName": "tile_0070.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0070.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0070.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0070.png",
       "sha256": "56ae1a17ea808d02da78e58b5d6dc58a6ea62287b4addb81b5a6967dc2245a5a",
       "size": 170,
       "contentType": "image/png",
@@ -3375,7 +3375,7 @@
     {
       "fileName": "tile_0071.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0071.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0071.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0071.png",
       "sha256": "33589077ca1518bc453aa63bf2f1810d67422bea07ed5db8f486f8257478d154",
       "size": 201,
       "contentType": "image/png",
@@ -3385,7 +3385,7 @@
     {
       "fileName": "tile_0072.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0072.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0072.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0072.png",
       "sha256": "a977172d74aef292a924c867d7d2744ac1c4720f9a9f7120c0dec4ca1b9e9e00",
       "size": 163,
       "contentType": "image/png",
@@ -3395,7 +3395,7 @@
     {
       "fileName": "tile_0073.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0073.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0073.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0073.png",
       "sha256": "138b74609bc477ca5bacc3c8c2b6d80bfc0362c81f163e7b6dcb063526c97f89",
       "size": 161,
       "contentType": "image/png",
@@ -3405,7 +3405,7 @@
     {
       "fileName": "tile_0074.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0074.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0074.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0074.png",
       "sha256": "cfb675c1dcc7530a41956004471c8ec27cd5ae19a03d8c424074b855395497e8",
       "size": 201,
       "contentType": "image/png",
@@ -3415,7 +3415,7 @@
     {
       "fileName": "tile_0075.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0075.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0075.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0075.png",
       "sha256": "5fd90e49d9be0c155f1e6a5cb08099fda486ea6fbb266be20b6b97614b96ddd1",
       "size": 128,
       "contentType": "image/png",
@@ -3425,7 +3425,7 @@
     {
       "fileName": "tile_0076.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0076.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0076.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0076.png",
       "sha256": "349c56fdf06e20fb6a1ee98e2dea1e70833f4f0cf3a96ace0660d32ee0496631",
       "size": 165,
       "contentType": "image/png",
@@ -3435,7 +3435,7 @@
     {
       "fileName": "tile_0077.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0077.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0077.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0077.png",
       "sha256": "be810b6e4b8cd8dfa9dd06af7a5964648a6683c5a3e8da64bc3233b48a636be7",
       "size": 165,
       "contentType": "image/png",
@@ -3445,7 +3445,7 @@
     {
       "fileName": "tile_0078.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0078.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0078.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0078.png",
       "sha256": "62d47ae44908d577c29ff002a2e73ae1bb07602ff4715a85c9743893ef72546d",
       "size": 165,
       "contentType": "image/png",
@@ -3455,7 +3455,7 @@
     {
       "fileName": "tile_0079.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0079.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0079.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0079.png",
       "sha256": "c8c819b6054e0c231fae5f9f85dc9a34ed828379f5fdb4456ecd360305ca44c6",
       "size": 174,
       "contentType": "image/png",
@@ -3465,7 +3465,7 @@
     {
       "fileName": "tile_0080.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0080.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0080.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0080.png",
       "sha256": "0151695f2890361f16ae4ea585e8f5d80fe0b6c2e82593f5e2ad336fbb7360fe",
       "size": 180,
       "contentType": "image/png",
@@ -3475,7 +3475,7 @@
     {
       "fileName": "tile_0081.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0081.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0081.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0081.png",
       "sha256": "92edb7e7a7b658e00d2c983d9526ffa5f868071b72f98a645f48fac2b33eb377",
       "size": 156,
       "contentType": "image/png",
@@ -3485,7 +3485,7 @@
     {
       "fileName": "tile_0082.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0082.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0082.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0082.png",
       "sha256": "2efb31e30cd6f1527329fe5d7704e41c65a8376d498bf93372f46155600420c9",
       "size": 207,
       "contentType": "image/png",
@@ -3495,7 +3495,7 @@
     {
       "fileName": "tile_0083.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0083.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0083.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0083.png",
       "sha256": "92edb7e7a7b658e00d2c983d9526ffa5f868071b72f98a645f48fac2b33eb377",
       "size": 156,
       "contentType": "image/png",
@@ -3505,7 +3505,7 @@
     {
       "fileName": "tile_0084.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0084.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0084.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0084.png",
       "sha256": "b3909f80a29a0f18729f96a90ebe446ecaf26a195da633f2a6c3dd31f660821e",
       "size": 232,
       "contentType": "image/png",
@@ -3515,7 +3515,7 @@
     {
       "fileName": "tile_0085.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0085.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0085.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0085.png",
       "sha256": "377b35acbce5129e8167df1f5d1d0420805990962a37a30f5784b88b81a40ec2",
       "size": 230,
       "contentType": "image/png",
@@ -3525,7 +3525,7 @@
     {
       "fileName": "tile_0086.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0086.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0086.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0086.png",
       "sha256": "0606653ad07e177c06c9782c9fff4b1388c7b67865b6ab0e202f76e8e6f6bec8",
       "size": 224,
       "contentType": "image/png",
@@ -3535,7 +3535,7 @@
     {
       "fileName": "tile_0087.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0087.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0087.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0087.png",
       "sha256": "321ecd683c4e542e09d368709e75821b8b823b7b98b71bebb39d66cead951315",
       "size": 239,
       "contentType": "image/png",
@@ -3545,7 +3545,7 @@
     {
       "fileName": "tile_0088.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0088.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0088.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0088.png",
       "sha256": "ad6715e9bcab60faed303260a21adfca2de09a7950b98384065bcc5df05634b2",
       "size": 222,
       "contentType": "image/png",
@@ -3555,7 +3555,7 @@
     {
       "fileName": "tile_0089.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0089.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0089.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0089.png",
       "sha256": "0b9fa753068061e816246437466d0c9d3100375ff12b77fe9459a801265c83c1",
       "size": 196,
       "contentType": "image/png",
@@ -3565,7 +3565,7 @@
     {
       "fileName": "tile_0090.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0090.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0090.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0090.png",
       "sha256": "fb4aa142cbbba7d9504ed3ff0d989069e8f1974feb76f25906efd9901d4f9ef4",
       "size": 209,
       "contentType": "image/png",
@@ -3575,7 +3575,7 @@
     {
       "fileName": "tile_0091.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0091.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0091.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0091.png",
       "sha256": "19a75fbb7df761b7373dac310d5e7dd2aa5a65529f81d4ffc80940c89d0538ff",
       "size": 207,
       "contentType": "image/png",
@@ -3585,7 +3585,7 @@
     {
       "fileName": "tile_0092.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0092.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0092.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0092.png",
       "sha256": "357e08bc52b8dc318ce003681196dce6d2de41298b6253bbcc9bd10283785b37",
       "size": 244,
       "contentType": "image/png",
@@ -3595,7 +3595,7 @@
     {
       "fileName": "tile_0093.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0093.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0093.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0093.png",
       "sha256": "0ce7aabd23d9784f67ad64d461b132f8bd59932d9cc7dddb98c66edf60a6671a",
       "size": 205,
       "contentType": "image/png",
@@ -3605,7 +3605,7 @@
     {
       "fileName": "tile_0094.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0094.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0094.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0094.png",
       "sha256": "56ae1a17ea808d02da78e58b5d6dc58a6ea62287b4addb81b5a6967dc2245a5a",
       "size": 170,
       "contentType": "image/png",
@@ -3615,7 +3615,7 @@
     {
       "fileName": "tile_0095.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0095.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0095.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0095.png",
       "sha256": "f5c2ce5b8e9e36580df27e8287472c662b360e97c4b8bef669ad70eceb9fc7b4",
       "size": 203,
       "contentType": "image/png",
@@ -3625,7 +3625,7 @@
     {
       "fileName": "tile_0096.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0096.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0096.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0096.png",
       "sha256": "b8a0a9376c1c3398a059a1e3226e8f8d6839c1d73ac53ea37425340d762055fd",
       "size": 206,
       "contentType": "image/png",
@@ -3635,7 +3635,7 @@
     {
       "fileName": "tile_0097.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0097.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0097.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0097.png",
       "sha256": "20915fde756b990f5b0c86fda557a93a6c306373d7c4fc07a1991f4ace3271b4",
       "size": 225,
       "contentType": "image/png",
@@ -3645,7 +3645,7 @@
     {
       "fileName": "tile_0098.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0098.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0098.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0098.png",
       "sha256": "39b7c35f414e086b9c7e0cd2b34693ae370e5382a05b4dbb9964cef20f9769c8",
       "size": 238,
       "contentType": "image/png",
@@ -3655,7 +3655,7 @@
     {
       "fileName": "tile_0099.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0099.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0099.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0099.png",
       "sha256": "61af4b9f1f67aa761e89e516ac6d60371175875b78b073b7f6a8415517c66181",
       "size": 238,
       "contentType": "image/png",
@@ -3665,7 +3665,7 @@
     {
       "fileName": "tile_0100.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0100.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0100.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0100.png",
       "sha256": "e139ab1d56c599af1cea5a955b705ead18a92d41e8e635b550729383cad9de3c",
       "size": 240,
       "contentType": "image/png",
@@ -3675,7 +3675,7 @@
     {
       "fileName": "tile_0101.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0101.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0101.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0101.png",
       "sha256": "03b7f71be1904c72c71f98d31c5f0f7fd8dceffcd40c19c4232746cbf509f5b1",
       "size": 159,
       "contentType": "image/png",
@@ -3685,7 +3685,7 @@
     {
       "fileName": "tile_0102.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0102.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0102.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0102.png",
       "sha256": "35af44a6fc76a09e7fe625c0becfeac809360774c6a845ec8024dd8db6f5fc3f",
       "size": 154,
       "contentType": "image/png",
@@ -3695,7 +3695,7 @@
     {
       "fileName": "tile_0103.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0103.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0103.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0103.png",
       "sha256": "38a3ab676d73fe4219930bad3d0294e045269fd153587b0e21c60843fc13d281",
       "size": 164,
       "contentType": "image/png",
@@ -3705,7 +3705,7 @@
     {
       "fileName": "tile_0104.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0104.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0104.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0104.png",
       "sha256": "3b38808f0c20a49a9923475022041c46e8a04b47d8621e5186fe153b4bbaed48",
       "size": 166,
       "contentType": "image/png",
@@ -3715,7 +3715,7 @@
     {
       "fileName": "tile_0105.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0105.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0105.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0105.png",
       "sha256": "e6ce715420b033cc4b0eb6b26255996a919ef721c0081388d3fa6a964047630d",
       "size": 181,
       "contentType": "image/png",
@@ -3725,7 +3725,7 @@
     {
       "fileName": "tile_0106.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0106.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0106.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0106.png",
       "sha256": "4958c3b09a0d41b3f21741476274855ab2242b3240e5054657dbc0569c881215",
       "size": 164,
       "contentType": "image/png",
@@ -3735,7 +3735,7 @@
     {
       "fileName": "tile_0107.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0107.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0107.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0107.png",
       "sha256": "66d47c25a72a5be74cb8a15c0e4930ee4c8859f5ba5d04837d953d45649d0873",
       "size": 173,
       "contentType": "image/png",
@@ -3745,7 +3745,7 @@
     {
       "fileName": "tile_0108.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0108.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0108.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0108.png",
       "sha256": "f15c964db469039861f70bdc75cc5b02ba9351eaa5d7421a85d028131eb12f4d",
       "size": 189,
       "contentType": "image/png",
@@ -3755,7 +3755,7 @@
     {
       "fileName": "tile_0109.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0109.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0109.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0109.png",
       "sha256": "f344d22151345f81fe1b95fdb03cf007747042670bda1540192c14853f35b94a",
       "size": 219,
       "contentType": "image/png",
@@ -3765,7 +3765,7 @@
     {
       "fileName": "tile_0110.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0110.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0110.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0110.png",
       "sha256": "ca2d26579be3738be5abfb74cea388634e212fb991b84701deeda65da4780f1c",
       "size": 217,
       "contentType": "image/png",
@@ -3775,7 +3775,7 @@
     {
       "fileName": "tile_0111.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0111.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0111.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0111.png",
       "sha256": "8ecfc9b753e676a3cd1fcf2f8f98cc70c8e814f706f41a7e172508fe15156618",
       "size": 228,
       "contentType": "image/png",
@@ -3785,7 +3785,7 @@
     {
       "fileName": "tile_0112.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0112.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0112.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0112.png",
       "sha256": "1e82481db9d95d0cec64ba0ea95b8fadf1e3675936e93731d0ff0e3bc72470b0",
       "size": 237,
       "contentType": "image/png",
@@ -3795,7 +3795,7 @@
     {
       "fileName": "tile_0113.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0113.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0113.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0113.png",
       "sha256": "d8b00568696dfc79269a8f47ab8e19ecf6f080140176034cbf8124b4b143d49e",
       "size": 176,
       "contentType": "image/png",
@@ -3805,7 +3805,7 @@
     {
       "fileName": "tile_0114.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0114.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0114.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0114.png",
       "sha256": "486bea807469ea50e471bd9a8e5d60424386b81b0bbef0c84f3cda285d8cf088",
       "size": 182,
       "contentType": "image/png",
@@ -3815,7 +3815,7 @@
     {
       "fileName": "tile_0115.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0115.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0115.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0115.png",
       "sha256": "ad27340925ae7e936788c22cbd0f7d1922ef5bdd21377f916f1be9af6be4312d",
       "size": 182,
       "contentType": "image/png",
@@ -3825,7 +3825,7 @@
     {
       "fileName": "tile_0116.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0116.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0116.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0116.png",
       "sha256": "610de03ee2d2a7d452159a885707217ccb17c6c18444418d7f21496d76a65f76",
       "size": 182,
       "contentType": "image/png",
@@ -3835,7 +3835,7 @@
     {
       "fileName": "tile_0117.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0117.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0117.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0117.png",
       "sha256": "4f75a60e03d46523afba3c52f73c1fcbe06a7566a87eea9fb9b82320718182bf",
       "size": 191,
       "contentType": "image/png",
@@ -3845,7 +3845,7 @@
     {
       "fileName": "tile_0118.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0118.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0118.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0118.png",
       "sha256": "43679336db4fca6d7c4b47941f707174cdc4476b75af32e0d9f0bd80677831bd",
       "size": 200,
       "contentType": "image/png",
@@ -3855,7 +3855,7 @@
     {
       "fileName": "tile_0119.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0119.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0119.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0119.png",
       "sha256": "c1a5fcc94e0557e04615186966d5ded2a7b590985f03c4a564de6801aeea4acf",
       "size": 184,
       "contentType": "image/png",
@@ -3865,7 +3865,7 @@
     {
       "fileName": "tile_0120.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0120.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0120.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0120.png",
       "sha256": "2ca96264cc5506bb52a5f7b5d278d0fa8e66e26c4b8242e40db6b46acb9df95e",
       "size": 195,
       "contentType": "image/png",
@@ -3875,7 +3875,7 @@
     {
       "fileName": "tile_0121.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0121.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0121.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0121.png",
       "sha256": "28466ec899a6e0720f40e4f622aee5925d2e5c50b2409856f36ef65c7eedc532",
       "size": 189,
       "contentType": "image/png",
@@ -3885,7 +3885,7 @@
     {
       "fileName": "tile_0122.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0122.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0122.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0122.png",
       "sha256": "2cb76164d899e3a5eb42d7cd23ffe8defae130f6ce702a35926cbf61d2d1b569",
       "size": 232,
       "contentType": "image/png",
@@ -3895,7 +3895,7 @@
     {
       "fileName": "tile_0123.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0123.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0123.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0123.png",
       "sha256": "16d8f777b329a6516f32d790b389fd5072622195152680c298d2caf8d723ef8b",
       "size": 201,
       "contentType": "image/png",
@@ -3905,7 +3905,7 @@
     {
       "fileName": "tile_0124.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0124.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0124.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0124.png",
       "sha256": "cda39a2ba32af6935e106b5c243ba5ca813a8b2566855b94524485463883196a",
       "size": 203,
       "contentType": "image/png",
@@ -3915,7 +3915,7 @@
     {
       "fileName": "tile_0125.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0125.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0125.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0125.png",
       "sha256": "d576af0d95a09721d174c3f57cb51b3c736e3627330a9bfee110e676d37c3cab",
       "size": 165,
       "contentType": "image/png",
@@ -3925,7 +3925,7 @@
     {
       "fileName": "tile_0126.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0126.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0126.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0126.png",
       "sha256": "59dd6e934921a327935f8aa35a24cd949bc04541c0adaed2d0ac46b29fe409c2",
       "size": 171,
       "contentType": "image/png",
@@ -3935,7 +3935,7 @@
     {
       "fileName": "tile_0127.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0127.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0127.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0127.png",
       "sha256": "4ae08fffdd99c4e14a941e664de4cf9ecba0064cd94e5caae9d4a82a10fe120c",
       "size": 171,
       "contentType": "image/png",
@@ -3945,7 +3945,7 @@
     {
       "fileName": "tile_0128.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0128.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0128.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0128.png",
       "sha256": "f9d1c49865855dece38e496cdb68458040facf8256831751f4b0ab695a193be9",
       "size": 171,
       "contentType": "image/png",
@@ -3955,7 +3955,7 @@
     {
       "fileName": "tile_0129.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0129.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0129.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0129.png",
       "sha256": "1b0a4efa97420e011f08151149c662dbc7c91be0e3c72caa3e8f5718789908fb",
       "size": 173,
       "contentType": "image/png",
@@ -3965,7 +3965,7 @@
     {
       "fileName": "tile_0130.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0130.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0130.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0130.png",
       "sha256": "a61e8a3fe7e1e6f192d6b6452852274a02768c20a45ef6afa48ec80908a39185",
       "size": 185,
       "contentType": "image/png",
@@ -3975,7 +3975,7 @@
     {
       "fileName": "tile_0131.png",
       "path": "packs/kenney-tiny-dungeon/sprites/tile_0131.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-tiny-dungeon/sprites/tile_0131.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/bc49bf7297094d9ac32103e09500f5a473aa8bee/packs/kenney-tiny-dungeon/sprites/tile_0131.png",
       "sha256": "0fe7c5448902cef52dd8ed8530eda0a986ad0d2cc0c36c2ee1528fe0c6860262",
       "size": 181,
       "contentType": "image/png",
