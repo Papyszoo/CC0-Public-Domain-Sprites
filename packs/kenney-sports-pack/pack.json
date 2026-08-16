@@ -1,0 +1,20 @@
+{
+  "name": "Sports Pack",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Sports sprites: soccer balls, basketballs, baseball bats, goal posts, helmets, rackets, and trophies by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "Items & Icons",
+    "subcategory": "Tools & Resources",
+    "allowed_categories": [
+      "Items & Icons",
+      "UI"
+    ]
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/sports-pack",
+    "image": "https://kenney.nl/media/pages/assets/sports-pack/571ce55ca5-1677693273/preview.png"
+  }
+}

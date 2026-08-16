@@ -1,0 +1,19 @@
+{
+  "name": "Cursor Pack",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Mouse cursors: pointers, arrows, hand cursors, loading spinners, crosshairs, and grab hands by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "UI",
+    "subcategory": "Cursors & Crosshairs",
+    "allowed_categories": [
+      "UI"
+    ]
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/cursor-pack",
+    "image": "https://kenney.nl/media/pages/assets/cursor-pack/20a4fec3b6-1717599288/preview.png"
+  }
+}

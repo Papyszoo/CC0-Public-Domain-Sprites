@@ -1,0 +1,20 @@
+{
+  "name": "Pirate Pack",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Top-down pirate sprites: pirate ships, cannons, islands, treasure chests, flags, and ocean tiles by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "Tilesets & Environments",
+    "subcategory": "Terrain & Platforms",
+    "allowed_categories": [
+      "Tilesets & Environments",
+      "Items & Icons"
+    ]
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/pirate-pack",
+    "image": "https://kenney.nl/media/pages/assets/pirate-pack/872e1ae7d4-1677579015/sample.png"
+  }
+}

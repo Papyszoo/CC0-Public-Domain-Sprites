@@ -1,0 +1,21 @@
+{
+  "name": "Desert Shooter Pack",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Top-down desert shooter sprites: soldiers, vehicles, terrain tiles, sand dunes, barrels, and military weapons by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "Characters",
+    "subcategory": "Humanoids",
+    "allowed_categories": [
+      "Characters",
+      "Items & Icons",
+      "Tilesets & Environments"
+    ]
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/desert-shooter-pack",
+    "image": "https://kenney.nl/media/pages/assets/desert-shooter-pack/6f8fe895c0-1758814235/preview.png"
+  }
+}

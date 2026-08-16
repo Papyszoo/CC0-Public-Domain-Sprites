@@ -1,0 +1,19 @@
+{
+  "name": "UI Pack (Pixel Adventure)",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Pixel art adventure UI components: dialog boxes, inventory slots, hearts, buttons, health bars, and icons by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "UI",
+    "subcategory": "Buttons & Controls",
+    "allowed_categories": [
+      "UI"
+    ]
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/ui-pack-pixel-adventure",
+    "image": "https://kenney.nl/media/pages/assets/ui-pack-pixel-adventure/07714c9849-1725434429/sample.png"
+  }
+}

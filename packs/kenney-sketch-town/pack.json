@@ -1,0 +1,19 @@
+{
+  "name": "Sketch Town",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Hand-drawn sketchy town sprites: wooden houses, stone walls, carts, chimneys, roofs, and market stalls by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "Tilesets & Environments",
+    "subcategory": "Terrain & Platforms",
+    "allowed_categories": [
+      "Tilesets & Environments"
+    ]
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/sketch-town",
+    "image": "https://kenney.nl/media/pages/assets/sketch-town/98a86a4e69-1677484087/sample.png"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Sokoban",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Sokoban puzzle sprites: warehouse worker, crates, targets, stone walls, floors, and doors by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "Tilesets & Environments",
+    "subcategory": "Terrain & Platforms",
+    "allowed_categories": [
+      "Tilesets & Environments",
+      "Characters",
+      "Items & Icons"
+    ]
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/sokoban",
+    "image": "https://kenney.nl/media/pages/assets/sokoban/8ed55d0eea-1677579116/sample.png"
+  }
+}

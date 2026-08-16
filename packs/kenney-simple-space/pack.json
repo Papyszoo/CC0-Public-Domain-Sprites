@@ -1,0 +1,20 @@
+{
+  "name": "Simple Space",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Top-down space assets: spaceships, lasers, space stations, meteors, shields, and thrusters by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "Items & Icons",
+    "subcategory": "Weapons",
+    "allowed_categories": [
+      "Items & Icons",
+      "Effects"
+    ]
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/simple-space",
+    "image": "https://kenney.nl/media/pages/assets/simple-space/489b432d65-1677578140/sample.png"
+  }
+}

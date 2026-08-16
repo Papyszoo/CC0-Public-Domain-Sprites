@@ -1,0 +1,19 @@
+{
+  "name": "UI Pack (Sci-Fi)",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Sci-Fi user interface elements: futuristic panels, holographic bars, digital buttons, frames, and tech HUD widgets by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "UI",
+    "subcategory": "Buttons & Controls",
+    "allowed_categories": [
+      "UI"
+    ]
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/ui-pack-sci-fi",
+    "image": "https://kenney.nl/media/pages/assets/ui-pack-sci-fi/00227142e5-1724181103/sample.png"
+  }
+}

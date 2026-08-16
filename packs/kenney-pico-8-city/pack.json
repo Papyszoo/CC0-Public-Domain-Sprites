@@ -1,0 +1,20 @@
+{
+  "name": "Pico-8 City",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Retro Pico-8 style top-down city sprites: modular buildings, cars, pedestrians, traffic lights, and roads by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "Tilesets & Environments",
+    "subcategory": "Terrain & Platforms",
+    "allowed_categories": [
+      "Tilesets & Environments",
+      "Items & Icons"
+    ]
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/pico-8-city",
+    "image": "https://kenney.nl/media/pages/assets/pico-8-city/5b5e43e086-1693576588/sample.png"
+  }
+}

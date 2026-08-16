@@ -1,0 +1,20 @@
+{
+  "name": "Space Shooter Extension",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Space shooter sprites extension: alien motherships, fighter ships, laser bolts, and tech modules by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "Items & Icons",
+    "subcategory": "Weapons",
+    "allowed_categories": [
+      "Items & Icons",
+      "Effects"
+    ]
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/space-shooter-extension",
+    "image": "https://kenney.nl/media/pages/assets/space-shooter-extension/9187f6d608-1677693514/sample.png"
+  }
+}

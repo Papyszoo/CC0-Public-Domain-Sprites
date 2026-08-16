@@ -1,0 +1,19 @@
+{
+  "name": "Pixel Vehicle Pack",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Pixel art vehicles: sports cars, sedans, trucks, ambulances, police cars, boats, and motorcycles by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "Items & Icons",
+    "subcategory": "Tools & Resources",
+    "allowed_categories": [
+      "Items & Icons"
+    ]
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/pixel-vehicle-pack",
+    "image": "https://kenney.nl/media/pages/assets/pixel-vehicle-pack/f3918c8717-1677578606/preview.png"
+  }
+}
