@@ -1,0 +1,11 @@
+{
+  "name": "Splat & Impact Pack",
+  "creator": "Kenney",
+  "website": "https://kenney.nl/assets/splat-pack",
+  "license": "CC0",
+  "description": "36 liquid splatters, slime bursts, paint splashes, blood decals, and impact VFX by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "Effects",
+    "allowed_categories": ["Effects"]
+  }
+}

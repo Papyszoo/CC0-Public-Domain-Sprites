@@ -73,10 +73,10 @@ const GENERAL_RULES = [
   // Effects
   [['noise', 'perlin', 'simplex', 'voronoi', 'grain', 'overlay', 'caustic'], 'Effects', 'Noise & Overlays'],
   [['explosion', 'blast', 'smoke', 'dust', 'puff', 'detonation'], 'Effects', 'Explosions & Smoke'],
-  [['fire', 'flame', 'burn', 'torch', 'ember', 'inferno', 'fireball', 'firewall', 'firespell', 'firebomb'], 'Effects', 'Fire & Flames'],
-  [['magic', 'spell', 'aura', 'portal', 'runes', 'enchant', 'beam', 'laser', 'shockwave', 'lightning', 'twirl', 'arcane', 'bolt', 'orb', 'barrier', 'projectile', 'darkness', 'shield', 'ray', 'sparks', 'light', 'purity', 'missile', 'missle'], 'Effects', 'Magic & Spells'],
-  [['hit', 'slash', 'impact', 'strike', 'scratch', 'claw_mark'], 'Effects', 'Hits & Slashes'],
-  [['water', 'splash', 'bubble', 'wave', 'droplet', 'ripple', 'foam', 'liquid'], 'Effects', 'Water & Splashes'],
+  [['fire', 'flame', 'burn', 'torch', 'ember', 'inferno', 'fireball', 'firewall', 'firespell', 'firebomb', 'lighter'], 'Effects', 'Fire & Flames'],
+  [['magic', 'spell', 'aura', 'portal', 'runes', 'enchant', 'beam', 'laser', 'shockwave', 'lightning', 'twirl', 'arcane', 'bolt', 'orb', 'barrier', 'projectile', 'darkness', 'shield', 'ray', 'sparks', 'light', 'purity', 'missile', 'missle', 'teleport', 'teleporter'], 'Effects', 'Magic & Spells'],
+  [['hit', 'slash', 'impact', 'strike', 'scratch', 'claw_mark', 'splat', 'splatter', 'blood'], 'Effects', 'Hits & Slashes'],
+  [['water', 'splash', 'bubble', 'bubbles', 'wave', 'droplet', 'ripple', 'foam', 'liquid'], 'Effects', 'Water & Splashes'],
   [['particle', 'spark', 'flare', 'glow', 'glitter', 'sparkle', 'debris', 'circle_'], 'Effects', 'Particles'],
 
   // Characters & Creatures
@@ -193,7 +193,7 @@ function categorize(relPath, options = {}) {
   const rulesToUse = isIconOrUiPack ? ICON_RULES : GENERAL_RULES;
 
   // Clean tokens from filename
-  const cleanStem = baseName.replace(/[^a-z0-9]/gi, ' ').toLowerCase();
+  const cleanStem = baseName.replace(/([a-zA-Z])(\d+)/g, '$1 $2').replace(/[^a-z0-9]/gi, ' ').toLowerCase();
   const wordTokens = cleanStem.split(/\s+/).filter(Boolean);
 
   for (const [keywords, category, subcategory] of rulesToUse) {

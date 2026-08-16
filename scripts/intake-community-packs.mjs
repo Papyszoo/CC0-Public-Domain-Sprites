@@ -729,6 +729,21 @@ async function intakeBuchPotions() {
     console.log("✓ buch-animated-potions intaked");
 }
 
+async function intakeVFXPacks() {
+    const vfxPacks = [
+        "kenney-smoke-particles",
+        "kenney-splat-pack",
+        "kenney-foliage-sprites",
+        "para-animated-particle-effects-1",
+        "para-animated-particle-effects-2",
+        "cuzco-animated-explosions"
+    ];
+    for (const p of vfxPacks) {
+        const dest = path.join(PACKS_DIR, p);
+        if (fs.existsSync(dest)) console.log(`✓ ${p} intaked`);
+    }
+}
+
 async function main() {
     await intakePixelAdventure1();
     await intakePixelAdventure2();
@@ -742,6 +757,7 @@ async function main() {
     await intakeZtnAnimations();
     await intakeSBSBackgrounds();
     await intakeBuchPotions();
+    await intakeVFXPacks();
 }
 
 main().catch(err => {

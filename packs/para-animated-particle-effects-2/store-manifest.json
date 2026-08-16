@@ -1,0 +1,506 @@
+{
+  "source": "https://github.com/Papyszoo/CC0-Public-Domain-Sprites",
+  "license": "CC0",
+  "name": "Animated Particle Effects #2",
+  "creator": "para",
+  "website": "https://opengameart.org/content/animated-particle-effects-2",
+  "description": "16 animated VFX spritesheets (64-frame and 16-frame 128x128): combat blood hits, flame bursts, lighter fires, air bubbles, and teleporter portals by para. CC0 1.0 Universal.",
+  "folder": "packs/para-animated-particle-effects-2",
+  "pinnedSha": "74dd2512da9a1f55334407b73f8ce5405481c17c",
+  "itemCount": 16,
+  "items": [
+    {
+      "name": "Air Bubbles 01 (128x128)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Water & Splashes\",\"spritesheet\":{\"frameWidth\":128,\"frameHeight\":128,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/para-animated-particle-effects-2/sprites/air_bubbles_01 (128x128).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Air Bubbles 02 (128x128)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Water & Splashes\",\"spritesheet\":{\"frameWidth\":128,\"frameHeight\":128,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/para-animated-particle-effects-2/sprites/air_bubbles_02 (128x128).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Blood Hit 01 (128x128)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Hits & Slashes\",\"spritesheet\":{\"frameWidth\":128,\"frameHeight\":128,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/para-animated-particle-effects-2/sprites/blood_hit_01 (128x128).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Blood Hit 02 (128x128)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Hits & Slashes\",\"spritesheet\":{\"frameWidth\":128,\"frameHeight\":128,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/para-animated-particle-effects-2/sprites/blood_hit_02 (128x128).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Blood Hit 03 (128x128)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Hits & Slashes\",\"spritesheet\":{\"frameWidth\":128,\"frameHeight\":128,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/para-animated-particle-effects-2/sprites/blood_hit_03 (128x128).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Blood Hit 04 (128x128)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Hits & Slashes\",\"spritesheet\":{\"frameWidth\":128,\"frameHeight\":128,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/para-animated-particle-effects-2/sprites/blood_hit_04 (128x128).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Blood Hit 05 (128x128)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Hits & Slashes\",\"spritesheet\":{\"frameWidth\":128,\"frameHeight\":128,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/para-animated-particle-effects-2/sprites/blood_hit_05 (128x128).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Blood Hit 06 (128x128)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Hits & Slashes\",\"spritesheet\":{\"frameWidth\":128,\"frameHeight\":128,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/para-animated-particle-effects-2/sprites/blood_hit_06 (128x128).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Blood Hit 08 (128x128)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Hits & Slashes\",\"spritesheet\":{\"frameWidth\":128,\"frameHeight\":128,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/para-animated-particle-effects-2/sprites/blood_hit_08 (128x128).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Fire 01 (128x128)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Fire & Flames\",\"spritesheet\":{\"frameWidth\":128,\"frameHeight\":128,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/para-animated-particle-effects-2/sprites/fire_01 (128x128).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Fire 01b (128x128)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Fire & Flames\",\"spritesheet\":{\"frameWidth\":128,\"frameHeight\":128,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/para-animated-particle-effects-2/sprites/fire_01b (128x128).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Fire 01c (128x128)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Fire & Flames\",\"spritesheet\":{\"frameWidth\":128,\"frameHeight\":128,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/para-animated-particle-effects-2/sprites/fire_01c (128x128).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Fire 02 (128x128)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Fire & Flames\",\"spritesheet\":{\"frameWidth\":128,\"frameHeight\":128,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/para-animated-particle-effects-2/sprites/fire_02 (128x128).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Lighter Flame 01 (128x128)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Fire & Flames\",\"spritesheet\":{\"frameWidth\":128,\"frameHeight\":128,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/para-animated-particle-effects-2/sprites/lighter_flame_01 (128x128).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Teleporter 01 (128x128)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Magic & Spells\",\"spritesheet\":{\"frameWidth\":128,\"frameHeight\":128,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/para-animated-particle-effects-2/sprites/teleporter_01 (128x128).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Teleporter Hit (128x128)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Magic & Spells\",\"spritesheet\":{\"frameWidth\":128,\"frameHeight\":128,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/para-animated-particle-effects-2/sprites/teleporter_hit (128x128).png",
+          "role": "Image"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "fileName": "air_bubbles_01 (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/air_bubbles_01 (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/air_bubbles_01%20(128x128).png",
+      "sha256": "607ab3c6c0031247989367db717ce8774eb3c2f5d2d3fbd2033508b942b5509a",
+      "size": 408779,
+      "role": "Image"
+    },
+    {
+      "fileName": "air_bubbles_02 (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/air_bubbles_02 (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/air_bubbles_02%20(128x128).png",
+      "sha256": "4fb020e077fa6b0162ed878209c034f23adc3f255468afc5d2bd7dea3e3bcf1f",
+      "size": 591788,
+      "role": "Image"
+    },
+    {
+      "fileName": "blood_hit_01 (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/blood_hit_01 (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/blood_hit_01%20(128x128).png",
+      "sha256": "0947f82ef68ef7d338291961f66ff89710bdbea439d12ec4430dd707f4f8b434",
+      "size": 109054,
+      "role": "Image"
+    },
+    {
+      "fileName": "blood_hit_02 (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/blood_hit_02 (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/blood_hit_02%20(128x128).png",
+      "sha256": "eef5bcd4096e70a1c52a060731108a4bc6e868ae65a7fc0f5467878f65180fc1",
+      "size": 38081,
+      "role": "Image"
+    },
+    {
+      "fileName": "blood_hit_03 (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/blood_hit_03 (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/blood_hit_03%20(128x128).png",
+      "sha256": "772881ae173e39f488e7ef5cbbc60ae70515460c0faa28db4f6236dfdacd3270",
+      "size": 41343,
+      "role": "Image"
+    },
+    {
+      "fileName": "blood_hit_04 (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/blood_hit_04 (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/blood_hit_04%20(128x128).png",
+      "sha256": "472d743c2ce0a4e5e2eca293f50c2430c550e1271768dbca44bac25ef6603f12",
+      "size": 91450,
+      "role": "Image"
+    },
+    {
+      "fileName": "blood_hit_05 (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/blood_hit_05 (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/blood_hit_05%20(128x128).png",
+      "sha256": "cd6f780a59a2ff87b088f0c67dbe1b29a2d57c2bb99b3564e5b1a4b90b36a023",
+      "size": 71750,
+      "role": "Image"
+    },
+    {
+      "fileName": "blood_hit_06 (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/blood_hit_06 (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/blood_hit_06%20(128x128).png",
+      "sha256": "8207e2e3cf9b66bb04b3e7a175ad36a5eb0c63fd65d437bcd02d45d8d433316e",
+      "size": 36776,
+      "role": "Image"
+    },
+    {
+      "fileName": "blood_hit_08 (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/blood_hit_08 (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/blood_hit_08%20(128x128).png",
+      "sha256": "9640627d9e405c9fb3b1126c9363e5e4844cc57557ff5aefce0b8cae1a406cd0",
+      "size": 115643,
+      "role": "Image"
+    },
+    {
+      "fileName": "fire_01 (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/fire_01 (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/fire_01%20(128x128).png",
+      "sha256": "c5972bcf21abde267eaf48b3e1b90a0ca06d7c5b87e49024cf051f4bbc3a4ed0",
+      "size": 481052,
+      "role": "Image"
+    },
+    {
+      "fileName": "fire_01b (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/fire_01b (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/fire_01b%20(128x128).png",
+      "sha256": "f1cb91c382102f1ff66745449aed9aee161c6f69aa5c58a7bb956aa8c87234da",
+      "size": 486590,
+      "role": "Image"
+    },
+    {
+      "fileName": "fire_01c (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/fire_01c (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/fire_01c%20(128x128).png",
+      "sha256": "3a0020f1a8d65938ad92eecf69ab081d08ee0f65564fc5305f47f0ab117b20b5",
+      "size": 471702,
+      "role": "Image"
+    },
+    {
+      "fileName": "fire_02 (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/fire_02 (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/fire_02%20(128x128).png",
+      "sha256": "1b5ca27c4a36df4b04b0ac5ebab53b231b3fecb9e08bde4921f45b65fb9e44c1",
+      "size": 1249777,
+      "role": "Image"
+    },
+    {
+      "fileName": "lighter_flame_01 (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/lighter_flame_01 (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/lighter_flame_01%20(128x128).png",
+      "sha256": "49ffa23a7bd9788f3a1c30a17d9d623a8d6c4e2c0cd9f8ceb1991e7e964e660b",
+      "size": 961501,
+      "role": "Image"
+    },
+    {
+      "fileName": "teleporter_01 (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/teleporter_01 (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/teleporter_01%20(128x128).png",
+      "sha256": "54c84eb05d05dad705d4a99ed2b196d53e9d520546021727afdb1719d420b909",
+      "size": 392544,
+      "role": "Image"
+    },
+    {
+      "fileName": "teleporter_hit (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/teleporter_hit (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/teleporter_hit%20(128x128).png",
+      "sha256": "841f43f5201a6b0436946e47af82e5569ee622bc2625dd68daaada634e17cead",
+      "size": 416053,
+      "role": "Image"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "cover.png",
+      "path": "packs/para-animated-particle-effects-2/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/cover.png",
+      "sha256": "c5972bcf21abde267eaf48b3e1b90a0ca06d7c5b87e49024cf051f4bbc3a4ed0",
+      "size": 481052,
+      "contentType": "image/png",
+      "type": "Thumbnail"
+    },
+    {
+      "fileName": "air_bubbles_01 (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/air_bubbles_01 (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/air_bubbles_01%20(128x128).png",
+      "sha256": "607ab3c6c0031247989367db717ce8774eb3c2f5d2d3fbd2033508b942b5509a",
+      "size": 408779,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Air Bubbles 01 (128x128)"
+    },
+    {
+      "fileName": "air_bubbles_02 (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/air_bubbles_02 (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/air_bubbles_02%20(128x128).png",
+      "sha256": "4fb020e077fa6b0162ed878209c034f23adc3f255468afc5d2bd7dea3e3bcf1f",
+      "size": 591788,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Air Bubbles 02 (128x128)"
+    },
+    {
+      "fileName": "blood_hit_01 (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/blood_hit_01 (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/blood_hit_01%20(128x128).png",
+      "sha256": "0947f82ef68ef7d338291961f66ff89710bdbea439d12ec4430dd707f4f8b434",
+      "size": 109054,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Blood Hit 01 (128x128)"
+    },
+    {
+      "fileName": "blood_hit_02 (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/blood_hit_02 (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/blood_hit_02%20(128x128).png",
+      "sha256": "eef5bcd4096e70a1c52a060731108a4bc6e868ae65a7fc0f5467878f65180fc1",
+      "size": 38081,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Blood Hit 02 (128x128)"
+    },
+    {
+      "fileName": "blood_hit_03 (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/blood_hit_03 (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/blood_hit_03%20(128x128).png",
+      "sha256": "772881ae173e39f488e7ef5cbbc60ae70515460c0faa28db4f6236dfdacd3270",
+      "size": 41343,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Blood Hit 03 (128x128)"
+    },
+    {
+      "fileName": "blood_hit_04 (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/blood_hit_04 (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/blood_hit_04%20(128x128).png",
+      "sha256": "472d743c2ce0a4e5e2eca293f50c2430c550e1271768dbca44bac25ef6603f12",
+      "size": 91450,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Blood Hit 04 (128x128)"
+    },
+    {
+      "fileName": "blood_hit_05 (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/blood_hit_05 (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/blood_hit_05%20(128x128).png",
+      "sha256": "cd6f780a59a2ff87b088f0c67dbe1b29a2d57c2bb99b3564e5b1a4b90b36a023",
+      "size": 71750,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Blood Hit 05 (128x128)"
+    },
+    {
+      "fileName": "blood_hit_06 (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/blood_hit_06 (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/blood_hit_06%20(128x128).png",
+      "sha256": "8207e2e3cf9b66bb04b3e7a175ad36a5eb0c63fd65d437bcd02d45d8d433316e",
+      "size": 36776,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Blood Hit 06 (128x128)"
+    },
+    {
+      "fileName": "blood_hit_08 (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/blood_hit_08 (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/blood_hit_08%20(128x128).png",
+      "sha256": "9640627d9e405c9fb3b1126c9363e5e4844cc57557ff5aefce0b8cae1a406cd0",
+      "size": 115643,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Blood Hit 08 (128x128)"
+    },
+    {
+      "fileName": "fire_01 (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/fire_01 (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/fire_01%20(128x128).png",
+      "sha256": "c5972bcf21abde267eaf48b3e1b90a0ca06d7c5b87e49024cf051f4bbc3a4ed0",
+      "size": 481052,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fire 01 (128x128)"
+    },
+    {
+      "fileName": "fire_01b (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/fire_01b (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/fire_01b%20(128x128).png",
+      "sha256": "f1cb91c382102f1ff66745449aed9aee161c6f69aa5c58a7bb956aa8c87234da",
+      "size": 486590,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fire 01b (128x128)"
+    },
+    {
+      "fileName": "fire_01c (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/fire_01c (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/fire_01c%20(128x128).png",
+      "sha256": "3a0020f1a8d65938ad92eecf69ab081d08ee0f65564fc5305f47f0ab117b20b5",
+      "size": 471702,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fire 01c (128x128)"
+    },
+    {
+      "fileName": "fire_02 (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/fire_02 (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/fire_02%20(128x128).png",
+      "sha256": "1b5ca27c4a36df4b04b0ac5ebab53b231b3fecb9e08bde4921f45b65fb9e44c1",
+      "size": 1249777,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fire 02 (128x128)"
+    },
+    {
+      "fileName": "lighter_flame_01 (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/lighter_flame_01 (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/lighter_flame_01%20(128x128).png",
+      "sha256": "49ffa23a7bd9788f3a1c30a17d9d623a8d6c4e2c0cd9f8ceb1991e7e964e660b",
+      "size": 961501,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Lighter Flame 01 (128x128)"
+    },
+    {
+      "fileName": "teleporter_01 (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/teleporter_01 (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/teleporter_01%20(128x128).png",
+      "sha256": "54c84eb05d05dad705d4a99ed2b196d53e9d520546021727afdb1719d420b909",
+      "size": 392544,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Teleporter 01 (128x128)"
+    },
+    {
+      "fileName": "teleporter_hit (128x128).png",
+      "path": "packs/para-animated-particle-effects-2/sprites/teleporter_hit (128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/para-animated-particle-effects-2/sprites/teleporter_hit%20(128x128).png",
+      "sha256": "841f43f5201a6b0436946e47af82e5569ee622bc2625dd68daaada634e17cead",
+      "size": 416053,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Teleporter Hit (128x128)"
+    }
+  ]
+}

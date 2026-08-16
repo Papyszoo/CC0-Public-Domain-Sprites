@@ -1,0 +1,11 @@
+{
+  "name": "Foliage & Nature Particles",
+  "creator": "Kenney",
+  "website": "https://kenney.nl/assets/foliage-sprites",
+  "license": "CC0",
+  "description": "50 flat vector foliage and nature particle sprites: leaves, petals, shrub flakes, and grass blades for particle systems by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "Effects",
+    "allowed_categories": ["Effects", "Tilesets & Environments"]
+  }
+}

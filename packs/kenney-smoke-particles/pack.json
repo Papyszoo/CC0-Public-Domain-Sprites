@@ -1,0 +1,11 @@
+{
+  "name": "Smoke Particles",
+  "creator": "Kenney",
+  "website": "https://kenney.nl/assets/smoke-particles",
+  "license": "CC0",
+  "description": "70 smoke and explosion VFX sprites: black smoke puffs and white cloud bursts by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "Effects",
+    "allowed_categories": ["Effects"]
+  }
+}

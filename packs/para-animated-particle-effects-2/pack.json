@@ -1,0 +1,11 @@
+{
+  "name": "Animated Particle Effects #2",
+  "creator": "para",
+  "website": "https://opengameart.org/content/animated-particle-effects-2",
+  "license": "CC0",
+  "description": "16 animated VFX spritesheets (64-frame and 16-frame 128x128): combat blood hits, flame bursts, lighter fires, air bubbles, and teleporter portals by para. CC0 1.0 Universal.",
+  "generation": {
+    "category": "Effects",
+    "allowed_categories": ["Effects"]
+  }
+}

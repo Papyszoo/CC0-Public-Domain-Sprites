@@ -1,0 +1,11 @@
+{
+  "name": "Animated Explosions",
+  "creator": "Cuzco",
+  "website": "https://opengameart.org/content/explosion",
+  "license": "CC0",
+  "description": "16-frame 64x64 transparent pixel-art explosion burst animation by Cuzco. CC0 1.0 Universal.",
+  "generation": {
+    "category": "Effects",
+    "allowed_categories": ["Effects"]
+  }
+}
