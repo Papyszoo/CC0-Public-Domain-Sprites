@@ -136,6 +136,7 @@ async function intakeKingsAndPigs() {
 async function intakePirateBomb() {
     const slug = "pixelfrog-pirate-bomb";
     const targetDir = path.join(PACKS_DIR, slug);
+    fs.rmSync(path.join(targetDir, "sprites"), { recursive: true, force: true });
     fs.mkdirSync(path.join(targetDir, "sprites"), { recursive: true });
 
     const zipPath = "/tmp/pixelfrog/pb.zip";
@@ -148,8 +149,64 @@ async function intakePirateBomb() {
         fs.cpSync(path.join(tmpExtract, "Sprites"), path.join(targetDir, "sprites"), { recursive: true });
     }
 
+    // Run spritesheet stitching via Python PIL
+    execSync(`python3 -c '
+import os, shutil, re
+from PIL import Image
+
+pack_dir = "${targetDir}/sprites"
+
+# 1. Stitch multi-frame directories
+for root, dirs, files in list(os.walk(pack_dir)):
+    pngs = [f for f in files if f.endswith(".png")]
+    numeric_pngs = [f for f in pngs if f[:-4].isdigit()]
+    if len(numeric_pngs) >= 2 and len(numeric_pngs) == len(pngs):
+        files_sorted = sorted(numeric_pngs, key=lambda x: int(x[:-4]))
+        imgs = [Image.open(os.path.join(root, f)) for f in files_sorted]
+        w, h = imgs[0].size
+        folder_name = os.path.basename(root)
+        action_name = re.sub(r"^\\d+-\\s*", "", folder_name)
+        parent_dir = os.path.dirname(root)
+        sheet = Image.new("RGBA", (w * len(imgs), h), (0, 0, 0, 0))
+        for i, im in enumerate(imgs):
+            sheet.paste(im, (i * w, 0))
+        out_filename = f"{action_name} ({w}x{h}).png"
+        sheet.save(os.path.join(parent_dir, out_filename))
+        shutil.rmtree(root)
+
+# 2. Clean single frame remaining dirs
+for root, dirs, files in list(os.walk(pack_dir)):
+    if len(files) == 1 and files[0] == "1.png":
+        fpath = os.path.join(root, "1.png")
+        im = Image.open(fpath)
+        w, h = im.size
+        parent = os.path.dirname(root)
+        folder_name = os.path.basename(root)
+        action_name = re.sub(r"^\\d+-\\s*", "", folder_name)
+        new_name = f"{action_name} ({w}x{h}).png"
+        target_path = os.path.join(parent, new_name)
+        shutil.move(fpath, target_path)
+        shutil.rmtree(root)
+
+# 3. Flatten 7-Objects
+objects_dir = os.path.join(pack_dir, "7-Objects")
+if os.path.exists(objects_dir):
+    for root, dirs, files in list(os.walk(objects_dir)):
+        if root == objects_dir: continue
+        for f in files:
+            src = os.path.join(root, f)
+            parent_name = re.sub(r"^\\d+-\\s*", "", os.path.basename(root))
+            if f.startswith(parent_name):
+                dest_name = f
+            else:
+                dest_name = f"{parent_name} - {f}" if not f.startswith("(") else f"{parent_name} {f}"
+            dest = os.path.join(objects_dir, dest_name)
+            shutil.move(src, dest)
+        shutil.rmtree(root, ignore_errors=True)
+'`);
+
     // Find cover
-    const playerIdle = path.join(targetDir, "sprites", "1-Player-Bomb Guy", "1-Idle", "1.png");
+    const playerIdle = path.join(targetDir, "sprites", "1-Player-Bomb Guy", "Idle (58x58).png");
     if (fs.existsSync(playerIdle)) {
         fs.copyFileSync(playerIdle, path.join(targetDir, "cover.png"));
     }
