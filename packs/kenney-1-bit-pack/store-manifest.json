@@ -6,7 +6,7 @@
   "website": "https://kenney.nl",
   "description": "Monochrome retro 1-bit pixel art roguelike sprites: characters, monsters, dungeon tiles, weapons, and items by Kenney (kenney.nl). CC0 1.0 Universal public domain.",
   "folder": "packs/kenney-1-bit-pack",
-  "pinnedSha": null,
+  "pinnedSha": "3bb3e442dffecdbdce7995ee1d8267e4769f5cdd",
   "itemCount": 13,
   "items": [
     {
@@ -170,7 +170,7 @@
     {
       "fileName": "Sample_fantasy.png",
       "path": "packs/kenney-1-bit-pack/sprites/Sample_fantasy.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/kenney-1-bit-pack/sprites/Sample_fantasy.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3bb3e442dffecdbdce7995ee1d8267e4769f5cdd/packs/kenney-1-bit-pack/sprites/Sample_fantasy.png",
       "sha256": "974528ba1ff2b939f94943f1e06fbce5d3d0aeb39ffac944264c85344f41ac70",
       "size": 129343,
       "role": "Image"
@@ -178,7 +178,7 @@
     {
       "fileName": "Sample_interior.png",
       "path": "packs/kenney-1-bit-pack/sprites/Sample_interior.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/kenney-1-bit-pack/sprites/Sample_interior.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3bb3e442dffecdbdce7995ee1d8267e4769f5cdd/packs/kenney-1-bit-pack/sprites/Sample_interior.png",
       "sha256": "e057e68d2c411b89fcb36287e0c9a0cd4843869b0ab79a1c2dcbe2f62aa073ee",
       "size": 58609,
       "role": "Image"
@@ -186,7 +186,7 @@
     {
       "fileName": "Sample_platformer.png",
       "path": "packs/kenney-1-bit-pack/sprites/Sample_platformer.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/kenney-1-bit-pack/sprites/Sample_platformer.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3bb3e442dffecdbdce7995ee1d8267e4769f5cdd/packs/kenney-1-bit-pack/sprites/Sample_platformer.png",
       "sha256": "671ab1ddf98f783f8dc3252ff3ebf6a82d21c288608d69dcb11828832b636128",
       "size": 15489,
       "role": "Image"
@@ -194,7 +194,7 @@
     {
       "fileName": "Sample_urban.png",
       "path": "packs/kenney-1-bit-pack/sprites/Sample_urban.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/kenney-1-bit-pack/sprites/Sample_urban.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3bb3e442dffecdbdce7995ee1d8267e4769f5cdd/packs/kenney-1-bit-pack/sprites/Sample_urban.png",
       "sha256": "bd6aa308061a4ca304399796aaea2022d12a60418984884d56a4121cac6cba4c",
       "size": 145462,
       "role": "Image"
@@ -202,7 +202,7 @@
     {
       "fileName": "tileset_legacy.png",
       "path": "packs/kenney-1-bit-pack/sprites/Tilemap/tileset_legacy.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/kenney-1-bit-pack/sprites/Tilemap/tileset_legacy.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3bb3e442dffecdbdce7995ee1d8267e4769f5cdd/packs/kenney-1-bit-pack/sprites/Tilemap/tileset_legacy.png",
       "sha256": "d55ccfd9b71be7e80dd4b392fe8079bfe622e674303748e9c0065b2fe1278e63",
       "size": 26124,
       "role": "Image"
@@ -210,7 +210,7 @@
     {
       "fileName": "colored-transparent.png",
       "path": "packs/kenney-1-bit-pack/sprites/Tilesheet/colored-transparent.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/kenney-1-bit-pack/sprites/Tilesheet/colored-transparent.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3bb3e442dffecdbdce7995ee1d8267e4769f5cdd/packs/kenney-1-bit-pack/sprites/Tilesheet/colored-transparent.png",
       "sha256": "532cf2ec79419cfabc6a757611737bcba43e24aed61d810aa6dda7ce69307b9b",
       "size": 25199,
       "role": "Image"
@@ -218,7 +218,7 @@
     {
       "fileName": "colored-transparent_packed.png",
       "path": "packs/kenney-1-bit-pack/sprites/Tilesheet/colored-transparent_packed.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/kenney-1-bit-pack/sprites/Tilesheet/colored-transparent_packed.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3bb3e442dffecdbdce7995ee1d8267e4769f5cdd/packs/kenney-1-bit-pack/sprites/Tilesheet/colored-transparent_packed.png",
       "sha256": "801243b8b35bcfde727bd52447bcae5c2abf36b0ae2f3ac7ee54f91791575e74",
       "size": 23516,
       "role": "Image"
@@ -226,7 +226,7 @@
     {
       "fileName": "colored.png",
       "path": "packs/kenney-1-bit-pack/sprites/Tilesheet/colored.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/kenney-1-bit-pack/sprites/Tilesheet/colored.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3bb3e442dffecdbdce7995ee1d8267e4769f5cdd/packs/kenney-1-bit-pack/sprites/Tilesheet/colored.png",
       "sha256": "06f133b865280f0aaa942f963025a85a388c5278ee6be924f2259541cf6abfe7",
       "size": 27443,
       "role": "Image"
@@ -234,7 +234,7 @@
     {
       "fileName": "colored_packed.png",
       "path": "packs/kenney-1-bit-pack/sprites/Tilesheet/colored_packed.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/kenney-1-bit-pack/sprites/Tilesheet/colored_packed.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3bb3e442dffecdbdce7995ee1d8267e4769f5cdd/packs/kenney-1-bit-pack/sprites/Tilesheet/colored_packed.png",
       "sha256": "a170748de557329ed875a88490461e216c12b32e1dc34d41d16ad4803d9c5956",
       "size": 23606,
       "role": "Image"
@@ -242,7 +242,7 @@
     {
       "fileName": "monochrome-transparent.png",
       "path": "packs/kenney-1-bit-pack/sprites/Tilesheet/monochrome-transparent.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/kenney-1-bit-pack/sprites/Tilesheet/monochrome-transparent.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3bb3e442dffecdbdce7995ee1d8267e4769f5cdd/packs/kenney-1-bit-pack/sprites/Tilesheet/monochrome-transparent.png",
       "sha256": "888b96cef0777ce03e9a9f3eb2c7afc02b2eed9c8f4e9e36e9871f8b624d2d00",
       "size": 19451,
       "role": "Image"
@@ -250,7 +250,7 @@
     {
       "fileName": "monochrome-transparent_packed.png",
       "path": "packs/kenney-1-bit-pack/sprites/Tilesheet/monochrome-transparent_packed.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/kenney-1-bit-pack/sprites/Tilesheet/monochrome-transparent_packed.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3bb3e442dffecdbdce7995ee1d8267e4769f5cdd/packs/kenney-1-bit-pack/sprites/Tilesheet/monochrome-transparent_packed.png",
       "sha256": "0d9abf9b812a441e1673bc166d61abb6236c0bc46b3775700bd4d4364ba170e0",
       "size": 17497,
       "role": "Image"
@@ -258,7 +258,7 @@
     {
       "fileName": "monochrome.png",
       "path": "packs/kenney-1-bit-pack/sprites/Tilesheet/monochrome.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/kenney-1-bit-pack/sprites/Tilesheet/monochrome.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3bb3e442dffecdbdce7995ee1d8267e4769f5cdd/packs/kenney-1-bit-pack/sprites/Tilesheet/monochrome.png",
       "sha256": "1f7349ccdd55373ad7d0ab89c6a469c5095c2a0722a4623efaf1365a9f751df8",
       "size": 22467,
       "role": "Image"
@@ -266,7 +266,7 @@
     {
       "fileName": "monochrome_packed.png",
       "path": "packs/kenney-1-bit-pack/sprites/Tilesheet/monochrome_packed.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/kenney-1-bit-pack/sprites/Tilesheet/monochrome_packed.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3bb3e442dffecdbdce7995ee1d8267e4769f5cdd/packs/kenney-1-bit-pack/sprites/Tilesheet/monochrome_packed.png",
       "sha256": "be8d95f7e3da2dcdfd5478e6fcb8115b6d4c19a95fdaf6b14a7ee67df7469e35",
       "size": 17561,
       "role": "Image"
@@ -276,7 +276,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/kenney-1-bit-pack/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/kenney-1-bit-pack/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3bb3e442dffecdbdce7995ee1d8267e4769f5cdd/packs/kenney-1-bit-pack/cover.png",
       "sha256": "54fb9d7ccc07e0451f5734c9df1fe052a6ab0272bad2ba33ff3c350866b2b9cd",
       "size": 99808,
       "contentType": "image/png",
@@ -285,7 +285,7 @@
     {
       "fileName": "Sample_fantasy.png",
       "path": "packs/kenney-1-bit-pack/sprites/Sample_fantasy.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/kenney-1-bit-pack/sprites/Sample_fantasy.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3bb3e442dffecdbdce7995ee1d8267e4769f5cdd/packs/kenney-1-bit-pack/sprites/Sample_fantasy.png",
       "sha256": "974528ba1ff2b939f94943f1e06fbce5d3d0aeb39ffac944264c85344f41ac70",
       "size": 129343,
       "contentType": "image/png",
@@ -295,7 +295,7 @@
     {
       "fileName": "Sample_interior.png",
       "path": "packs/kenney-1-bit-pack/sprites/Sample_interior.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/kenney-1-bit-pack/sprites/Sample_interior.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3bb3e442dffecdbdce7995ee1d8267e4769f5cdd/packs/kenney-1-bit-pack/sprites/Sample_interior.png",
       "sha256": "e057e68d2c411b89fcb36287e0c9a0cd4843869b0ab79a1c2dcbe2f62aa073ee",
       "size": 58609,
       "contentType": "image/png",
@@ -305,7 +305,7 @@
     {
       "fileName": "Sample_platformer.png",
       "path": "packs/kenney-1-bit-pack/sprites/Sample_platformer.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/kenney-1-bit-pack/sprites/Sample_platformer.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3bb3e442dffecdbdce7995ee1d8267e4769f5cdd/packs/kenney-1-bit-pack/sprites/Sample_platformer.png",
       "sha256": "671ab1ddf98f783f8dc3252ff3ebf6a82d21c288608d69dcb11828832b636128",
       "size": 15489,
       "contentType": "image/png",
@@ -315,7 +315,7 @@
     {
       "fileName": "Sample_urban.png",
       "path": "packs/kenney-1-bit-pack/sprites/Sample_urban.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/kenney-1-bit-pack/sprites/Sample_urban.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3bb3e442dffecdbdce7995ee1d8267e4769f5cdd/packs/kenney-1-bit-pack/sprites/Sample_urban.png",
       "sha256": "bd6aa308061a4ca304399796aaea2022d12a60418984884d56a4121cac6cba4c",
       "size": 145462,
       "contentType": "image/png",
@@ -325,7 +325,7 @@
     {
       "fileName": "tileset_legacy.png",
       "path": "packs/kenney-1-bit-pack/sprites/Tilemap/tileset_legacy.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/kenney-1-bit-pack/sprites/Tilemap/tileset_legacy.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3bb3e442dffecdbdce7995ee1d8267e4769f5cdd/packs/kenney-1-bit-pack/sprites/Tilemap/tileset_legacy.png",
       "sha256": "d55ccfd9b71be7e80dd4b392fe8079bfe622e674303748e9c0065b2fe1278e63",
       "size": 26124,
       "contentType": "image/png",
@@ -335,7 +335,7 @@
     {
       "fileName": "colored-transparent.png",
       "path": "packs/kenney-1-bit-pack/sprites/Tilesheet/colored-transparent.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/kenney-1-bit-pack/sprites/Tilesheet/colored-transparent.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3bb3e442dffecdbdce7995ee1d8267e4769f5cdd/packs/kenney-1-bit-pack/sprites/Tilesheet/colored-transparent.png",
       "sha256": "532cf2ec79419cfabc6a757611737bcba43e24aed61d810aa6dda7ce69307b9b",
       "size": 25199,
       "contentType": "image/png",
@@ -345,7 +345,7 @@
     {
       "fileName": "colored-transparent_packed.png",
       "path": "packs/kenney-1-bit-pack/sprites/Tilesheet/colored-transparent_packed.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/kenney-1-bit-pack/sprites/Tilesheet/colored-transparent_packed.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3bb3e442dffecdbdce7995ee1d8267e4769f5cdd/packs/kenney-1-bit-pack/sprites/Tilesheet/colored-transparent_packed.png",
       "sha256": "801243b8b35bcfde727bd52447bcae5c2abf36b0ae2f3ac7ee54f91791575e74",
       "size": 23516,
       "contentType": "image/png",
@@ -355,7 +355,7 @@
     {
       "fileName": "colored.png",
       "path": "packs/kenney-1-bit-pack/sprites/Tilesheet/colored.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/kenney-1-bit-pack/sprites/Tilesheet/colored.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3bb3e442dffecdbdce7995ee1d8267e4769f5cdd/packs/kenney-1-bit-pack/sprites/Tilesheet/colored.png",
       "sha256": "06f133b865280f0aaa942f963025a85a388c5278ee6be924f2259541cf6abfe7",
       "size": 27443,
       "contentType": "image/png",
@@ -365,7 +365,7 @@
     {
       "fileName": "colored_packed.png",
       "path": "packs/kenney-1-bit-pack/sprites/Tilesheet/colored_packed.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/kenney-1-bit-pack/sprites/Tilesheet/colored_packed.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3bb3e442dffecdbdce7995ee1d8267e4769f5cdd/packs/kenney-1-bit-pack/sprites/Tilesheet/colored_packed.png",
       "sha256": "a170748de557329ed875a88490461e216c12b32e1dc34d41d16ad4803d9c5956",
       "size": 23606,
       "contentType": "image/png",
@@ -375,7 +375,7 @@
     {
       "fileName": "monochrome-transparent.png",
       "path": "packs/kenney-1-bit-pack/sprites/Tilesheet/monochrome-transparent.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/kenney-1-bit-pack/sprites/Tilesheet/monochrome-transparent.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3bb3e442dffecdbdce7995ee1d8267e4769f5cdd/packs/kenney-1-bit-pack/sprites/Tilesheet/monochrome-transparent.png",
       "sha256": "888b96cef0777ce03e9a9f3eb2c7afc02b2eed9c8f4e9e36e9871f8b624d2d00",
       "size": 19451,
       "contentType": "image/png",
@@ -385,7 +385,7 @@
     {
       "fileName": "monochrome-transparent_packed.png",
       "path": "packs/kenney-1-bit-pack/sprites/Tilesheet/monochrome-transparent_packed.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/kenney-1-bit-pack/sprites/Tilesheet/monochrome-transparent_packed.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3bb3e442dffecdbdce7995ee1d8267e4769f5cdd/packs/kenney-1-bit-pack/sprites/Tilesheet/monochrome-transparent_packed.png",
       "sha256": "0d9abf9b812a441e1673bc166d61abb6236c0bc46b3775700bd4d4364ba170e0",
       "size": 17497,
       "contentType": "image/png",
@@ -395,7 +395,7 @@
     {
       "fileName": "monochrome.png",
       "path": "packs/kenney-1-bit-pack/sprites/Tilesheet/monochrome.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/kenney-1-bit-pack/sprites/Tilesheet/monochrome.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3bb3e442dffecdbdce7995ee1d8267e4769f5cdd/packs/kenney-1-bit-pack/sprites/Tilesheet/monochrome.png",
       "sha256": "1f7349ccdd55373ad7d0ab89c6a469c5095c2a0722a4623efaf1365a9f751df8",
       "size": 22467,
       "contentType": "image/png",
@@ -405,7 +405,7 @@
     {
       "fileName": "monochrome_packed.png",
       "path": "packs/kenney-1-bit-pack/sprites/Tilesheet/monochrome_packed.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/kenney-1-bit-pack/sprites/Tilesheet/monochrome_packed.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3bb3e442dffecdbdce7995ee1d8267e4769f5cdd/packs/kenney-1-bit-pack/sprites/Tilesheet/monochrome_packed.png",
       "sha256": "be8d95f7e3da2dcdfd5478e6fcb8115b6d4c19a95fdaf6b14a7ee67df7469e35",
       "size": 17561,
       "contentType": "image/png",
