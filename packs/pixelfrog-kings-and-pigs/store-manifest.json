@@ -6,7 +6,7 @@
   "website": "https://pixelfrog-assets.itch.io/kings-and-pigs",
   "description": "Classic 2D pixel platformer asset pack featuring King Human, King Pig, Pig guards with bombs/cannons/boxes, castles, doors, health bars, diamonds, and dialogue boxes by Pixel Frog.",
   "folder": "packs/pixelfrog-kings-and-pigs",
-  "pinnedSha": "6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0",
+  "pinnedSha": "0cc96d965b06bf7afdc89276d78327300a51b498",
   "itemCount": 89,
   "items": [
     {
@@ -1082,7 +1082,7 @@
     {
       "fileName": "Attack (78x58).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/01-King Human/Attack (78x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Attack%20(78x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Attack%20(78x58).png",
       "sha256": "7858b2a5f8abaff498d916c31aa0a8a83b38a3a4c375a31920178c5604720cbd",
       "size": 3524,
       "role": "Image"
@@ -1090,7 +1090,7 @@
     {
       "fileName": "Dead (78x58).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/01-King Human/Dead (78x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Dead%20(78x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Dead%20(78x58).png",
       "sha256": "ffc55752d8e6868d83f75ac6040f771cfcffbc37a9bec685bbd2d0fad6d158ac",
       "size": 2387,
       "role": "Image"
@@ -1098,7 +1098,7 @@
     {
       "fileName": "Door In (78x58).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/01-King Human/Door In (78x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Door%20In%20(78x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Door%20In%20(78x58).png",
       "sha256": "6bc1854a143307ce46cac433165701e73e1d07ab5039aad92087f2b9c6d20236",
       "size": 4389,
       "role": "Image"
@@ -1106,7 +1106,7 @@
     {
       "fileName": "Door Out (78x58).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/01-King Human/Door Out (78x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Door%20Out%20(78x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Door%20Out%20(78x58).png",
       "sha256": "b57359ec7a0858f74eab94f509c5310afbf989aab8aad3ce3150da27ee3d98fd",
       "size": 4503,
       "role": "Image"
@@ -1114,7 +1114,7 @@
     {
       "fileName": "Fall (78x58).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/01-King Human/Fall (78x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Fall%20(78x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Fall%20(78x58).png",
       "sha256": "7e18c3d476cce3eac2eb08cfd83300affd01039cfc06140ebbff8fbd1c6a245a",
       "size": 1220,
       "role": "Image"
@@ -1122,7 +1122,7 @@
     {
       "fileName": "Ground (78x58).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/01-King Human/Ground (78x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Ground%20(78x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Ground%20(78x58).png",
       "sha256": "41a829d5f73ff4982ce7cc08dd781151e33ffbbe7b6ee7a713c3c1a44c6d0e64",
       "size": 1164,
       "role": "Image"
@@ -1130,7 +1130,7 @@
     {
       "fileName": "Hit (78x58).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/01-King Human/Hit (78x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Hit%20(78x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Hit%20(78x58).png",
       "sha256": "6845c22c683d58cce7beb41c38dd0a31a7c5d901857fc3bcbff3ec06fc82d9d7",
       "size": 1491,
       "role": "Image"
@@ -1138,7 +1138,7 @@
     {
       "fileName": "Idle (78x58).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/01-King Human/Idle (78x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Idle%20(78x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Idle%20(78x58).png",
       "sha256": "27fbae994bc49c8db9752e30cc29ca903881618139a51c51e5194b56a661f5c9",
       "size": 2822,
       "role": "Image"
@@ -1146,7 +1146,7 @@
     {
       "fileName": "Jump (78x58).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/01-King Human/Jump (78x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Jump%20(78x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Jump%20(78x58).png",
       "sha256": "dd98c6dcf19a3894db30bc9ff392b252410fb2709407d64cd21aecd07e9cdd7d",
       "size": 1277,
       "role": "Image"
@@ -1154,7 +1154,7 @@
     {
       "fileName": "Run (78x58).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/01-King Human/Run (78x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Run%20(78x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Run%20(78x58).png",
       "sha256": "b9f96a8fcd4ddcdbaf4c50e585e7e8f3d54f87e1f1d139ad14375576e702cb82",
       "size": 3402,
       "role": "Image"
@@ -1162,7 +1162,7 @@
     {
       "fileName": "Attack (38x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/02-King Pig/Attack (38x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Attack%20(38x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Attack%20(38x28).png",
       "sha256": "f8d59ce2d5e25ff32afb1cdd3b781e35f8a7fb3b82497cc5a5fc0a424b22a935",
       "size": 2024,
       "role": "Image"
@@ -1170,7 +1170,7 @@
     {
       "fileName": "Dead (38x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/02-King Pig/Dead (38x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Dead%20(38x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Dead%20(38x28).png",
       "sha256": "077abc213b31a28c7fa2e3295309382b081aaddbc246bca8fb11b8401163b8ff",
       "size": 1574,
       "role": "Image"
@@ -1178,7 +1178,7 @@
     {
       "fileName": "Fall (38x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/02-King Pig/Fall (38x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Fall%20(38x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Fall%20(38x28).png",
       "sha256": "fb5e123709bd304df0c36a31c27b40ed4cf3ed84f3f4f160edd8519c5201731d",
       "size": 757,
       "role": "Image"
@@ -1186,7 +1186,7 @@
     {
       "fileName": "Ground (38x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/02-King Pig/Ground (38x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Ground%20(38x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Ground%20(38x28).png",
       "sha256": "f5defbfd8722cceb2e4b3b37c9ae4a4f35b00af5f53e525174b8149c3150424c",
       "size": 683,
       "role": "Image"
@@ -1194,7 +1194,7 @@
     {
       "fileName": "Hit (38x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/02-King Pig/Hit (38x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Hit%20(38x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Hit%20(38x28).png",
       "sha256": "e99c3bec02425d06a1765761e6b8c8761b503534bd65ba3dfabc3e8d08d64868",
       "size": 962,
       "role": "Image"
@@ -1202,7 +1202,7 @@
     {
       "fileName": "Idle (38x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/02-King Pig/Idle (38x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Idle%20(38x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Idle%20(38x28).png",
       "sha256": "5ef16af7837cc12f91d42020aea40cce1ceaae7fe3cd2a9060a180b916608929",
       "size": 1798,
       "role": "Image"
@@ -1210,7 +1210,7 @@
     {
       "fileName": "Jump (38x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/02-King Pig/Jump (38x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Jump%20(38x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Jump%20(38x28).png",
       "sha256": "da9d4dbb12c342b4de9bb529f13d8a289d7594b4d8fde8e1b9a2087d351a31cf",
       "size": 722,
       "role": "Image"
@@ -1218,7 +1218,7 @@
     {
       "fileName": "Run (38x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/02-King Pig/Run (38x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Run%20(38x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Run%20(38x28).png",
       "sha256": "6a99a7c047d53d9b1d48eb6726776e091b95ac5cf8715bf3482a1c3258eddc4a",
       "size": 1712,
       "role": "Image"
@@ -1226,7 +1226,7 @@
     {
       "fileName": "Attack (34x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Attack (34x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Attack%20(34x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Attack%20(34x28).png",
       "sha256": "13f6ca366ffc13e386d5bf568f73457d424552bf8c2ac4043ad0bfb3061addcd",
       "size": 1726,
       "role": "Image"
@@ -1234,7 +1234,7 @@
     {
       "fileName": "Dead (34x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Dead (34x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Dead%20(34x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Dead%20(34x28).png",
       "sha256": "701f99cd53da30e04d224788af956458ada3d0eef2df946ada08b41a1dae49d1",
       "size": 1329,
       "role": "Image"
@@ -1242,7 +1242,7 @@
     {
       "fileName": "Fall (34x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Fall (34x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Fall%20(34x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Fall%20(34x28).png",
       "sha256": "dcff9e29d59045a97e086ed4a9f8b2dd011b369cc610351cafb4fc3d472047e8",
       "size": 618,
       "role": "Image"
@@ -1250,7 +1250,7 @@
     {
       "fileName": "Ground (34x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Ground (34x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Ground%20(34x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Ground%20(34x28).png",
       "sha256": "ca75cd0985584daa39fc1ed1cfac0cd86be26e3b7f0053daf6e7f810ba00ae49",
       "size": 538,
       "role": "Image"
@@ -1258,7 +1258,7 @@
     {
       "fileName": "Hit (34x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Hit (34x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Hit%20(34x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Hit%20(34x28).png",
       "sha256": "f37d70725795b48f23afa51eb6cda32eab220ae70ec32dc68f89a3711c196d25",
       "size": 746,
       "role": "Image"
@@ -1266,7 +1266,7 @@
     {
       "fileName": "Idle (34x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Idle (34x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Idle%20(34x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Idle%20(34x28).png",
       "sha256": "889dd115e86497a802097cb07d73c5e59f23ffb1226c28c69f7f8dd1d1ce4638",
       "size": 1395,
       "role": "Image"
@@ -1274,7 +1274,7 @@
     {
       "fileName": "Jump (34x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Jump (34x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Jump%20(34x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Jump%20(34x28).png",
       "sha256": "b25058f0d4070664d01e0a677594ccbb32bdb3a7379d6eb3fe3185644dded54f",
       "size": 558,
       "role": "Image"
@@ -1282,7 +1282,7 @@
     {
       "fileName": "Run (34x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Run (34x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Run%20(34x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Run%20(34x28).png",
       "sha256": "1e78e725aca838885c8586787da5f1b020013924aa73f258cc39dc302e029220",
       "size": 1422,
       "role": "Image"
@@ -1290,7 +1290,7 @@
     {
       "fileName": "Idle (26x30).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/04-Pig Throwing a Box/Idle (26x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/04-Pig%20Throwing%20a%20Box/Idle%20(26x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/04-Pig%20Throwing%20a%20Box/Idle%20(26x30).png",
       "sha256": "251d97a5e18b31cab8e9ff9b74d57f9a77243cdd13d691c0e375281adba6e278",
       "size": 1825,
       "role": "Image"
@@ -1298,7 +1298,7 @@
     {
       "fileName": "Picking Box (26x30).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/04-Pig Throwing a Box/Picking Box (26x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/04-Pig%20Throwing%20a%20Box/Picking%20Box%20(26x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/04-Pig%20Throwing%20a%20Box/Picking%20Box%20(26x30).png",
       "sha256": "ee7a252b2b85e0dde8bb563d3df72f519eaf7e45d75963b4e29335185092964b",
       "size": 1627,
       "role": "Image"
@@ -1306,7 +1306,7 @@
     {
       "fileName": "Run (26x30).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/04-Pig Throwing a Box/Run (26x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/04-Pig%20Throwing%20a%20Box/Run%20(26x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/04-Pig%20Throwing%20a%20Box/Run%20(26x30).png",
       "sha256": "ede2bc3e11e953a8a599e3e9fb53719030600601e3a215ee53da74c62d42b918",
       "size": 1650,
       "role": "Image"
@@ -1314,7 +1314,7 @@
     {
       "fileName": "Throwing Box (26x30).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/04-Pig Throwing a Box/Throwing Box (26x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/04-Pig%20Throwing%20a%20Box/Throwing%20Box%20(26x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/04-Pig%20Throwing%20a%20Box/Throwing%20Box%20(26x30).png",
       "sha256": "bd28697d8ddda992bca24cc2528fc2b54429e0735bfd657b509599377e604e70",
       "size": 1713,
       "role": "Image"
@@ -1322,7 +1322,7 @@
     {
       "fileName": "Idle (26x26).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/05-Pig Thowing a Bomb/Idle (26x26).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/05-Pig%20Thowing%20a%20Bomb/Idle%20(26x26).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/05-Pig%20Thowing%20a%20Bomb/Idle%20(26x26).png",
       "sha256": "b84afadfad03485efb33bb1305d5da35bae96f878c51eab43c21c08cb4adca5b",
       "size": 1735,
       "role": "Image"
@@ -1330,7 +1330,7 @@
     {
       "fileName": "Picking Bomb (26x26).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/05-Pig Thowing a Bomb/Picking Bomb (26x26).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/05-Pig%20Thowing%20a%20Bomb/Picking%20Bomb%20(26x26).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/05-Pig%20Thowing%20a%20Bomb/Picking%20Bomb%20(26x26).png",
       "sha256": "1664d5f1abd9080fdc0d2433a2123196e14ef5a8f3552121b5665a2d902c9989",
       "size": 1575,
       "role": "Image"
@@ -1338,7 +1338,7 @@
     {
       "fileName": "Run (26x26).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/05-Pig Thowing a Bomb/Run (26x26).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/05-Pig%20Thowing%20a%20Bomb/Run%20(26x26).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/05-Pig%20Thowing%20a%20Bomb/Run%20(26x26).png",
       "sha256": "90b530aae35206aadd62c41fbfe470b32262596f4ae8bdb863a18e69c1822614",
       "size": 1581,
       "role": "Image"
@@ -1346,7 +1346,7 @@
     {
       "fileName": "Throwing Boom (26x26).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/05-Pig Thowing a Bomb/Throwing Boom (26x26).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/05-Pig%20Thowing%20a%20Bomb/Throwing%20Boom%20(26x26).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/05-Pig%20Thowing%20a%20Bomb/Throwing%20Boom%20(26x26).png",
       "sha256": "e1efc69b4977dd4142c697366604d3fa33149a0a4cb2e2db2f659a84dd70f39b",
       "size": 1731,
       "role": "Image"
@@ -1354,7 +1354,7 @@
     {
       "fileName": "Fall (26x20).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/06-Pig Hide in the Box/Fall (26x20).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/06-Pig%20Hide%20in%20the%20Box/Fall%20(26x20).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/06-Pig%20Hide%20in%20the%20Box/Fall%20(26x20).png",
       "sha256": "9b11125689c518de8fd4ed01261090098c5d49c31125e1306d864f5c4aec1778",
       "size": 508,
       "role": "Image"
@@ -1362,7 +1362,7 @@
     {
       "fileName": "Ground (26x20).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/06-Pig Hide in the Box/Ground (26x20).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/06-Pig%20Hide%20in%20the%20Box/Ground%20(26x20).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/06-Pig%20Hide%20in%20the%20Box/Ground%20(26x20).png",
       "sha256": "c61140edd48b96e2e88f4d2e66b587be8959e0aba688909c9f6cc586ee5a4226",
       "size": 445,
       "role": "Image"
@@ -1370,7 +1370,7 @@
     {
       "fileName": "Jump (26x20).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/06-Pig Hide in the Box/Jump (26x20).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/06-Pig%20Hide%20in%20the%20Box/Jump%20(26x20).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/06-Pig%20Hide%20in%20the%20Box/Jump%20(26x20).png",
       "sha256": "ecf85a55f716dd6ec75b89d9411b73120f31c2d99447854bd7053241783088b6",
       "size": 694,
       "role": "Image"
@@ -1378,7 +1378,7 @@
     {
       "fileName": "Jump Anticipation (26x20).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/06-Pig Hide in the Box/Jump Anticipation (26x20).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/06-Pig%20Hide%20in%20the%20Box/Jump%20Anticipation%20(26x20).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/06-Pig%20Hide%20in%20the%20Box/Jump%20Anticipation%20(26x20).png",
       "sha256": "5a00d9fda8c371db5905c3807f6805ee4c82284723d200b3a8d6e97f50e0c525",
       "size": 626,
       "role": "Image"
@@ -1386,7 +1386,7 @@
     {
       "fileName": "Looking Out (26x20).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/06-Pig Hide in the Box/Looking Out (26x20).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/06-Pig%20Hide%20in%20the%20Box/Looking%20Out%20(26x20).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/06-Pig%20Hide%20in%20the%20Box/Looking%20Out%20(26x20).png",
       "sha256": "9de884d4c1e7912475984c8b2ebe53fcacefa714366aa013d5c7184018a36d1b",
       "size": 705,
       "role": "Image"
@@ -1394,7 +1394,7 @@
     {
       "fileName": "Lighting the Cannon (26x18).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/07-Pig With a Match/Lighting the Cannon (26x18).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/07-Pig%20With%20a%20Match/Lighting%20the%20Cannon%20(26x18).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/07-Pig%20With%20a%20Match/Lighting%20the%20Cannon%20(26x18).png",
       "sha256": "ed2426ca1e9a1865070cea22f4a071dc6b50c882a6790172f9837e8f1e6c2948",
       "size": 926,
       "role": "Image"
@@ -1402,7 +1402,7 @@
     {
       "fileName": "Lighting the Match (26x18).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/07-Pig With a Match/Lighting the Match (26x18).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/07-Pig%20With%20a%20Match/Lighting%20the%20Match%20(26x18).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/07-Pig%20With%20a%20Match/Lighting%20the%20Match%20(26x18).png",
       "sha256": "26d734dc9b971164ba4205f80439bf4f07b35d750f5ade79a3fda122f731850f",
       "size": 976,
       "role": "Image"
@@ -1410,7 +1410,7 @@
     {
       "fileName": "Match On (26x18).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/07-Pig With a Match/Match On (26x18).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/07-Pig%20With%20a%20Match/Match%20On%20(26x18).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/07-Pig%20With%20a%20Match/Match%20On%20(26x18).png",
       "sha256": "2c91dc210ea13d28814049867f42d54ac38936e707489d3e98ae81129e3a6dc9",
       "size": 835,
       "role": "Image"
@@ -1418,7 +1418,7 @@
     {
       "fileName": "Box Pieces 1.png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/08-Box/Box Pieces 1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/08-Box/Box%20Pieces%201.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/08-Box/Box%20Pieces%201.png",
       "sha256": "e4860eecf9a4a942dac56fd304936c47a4eee6b14a6047c56098fa76b3eeabb8",
       "size": 240,
       "role": "Image"
@@ -1426,7 +1426,7 @@
     {
       "fileName": "Box Pieces 2.png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/08-Box/Box Pieces 2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/08-Box/Box%20Pieces%202.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/08-Box/Box%20Pieces%202.png",
       "sha256": "bc68fe9a83ee5fa52f4f152d81f30cacc01f521dd42f6670732ba1ffcc00d997",
       "size": 230,
       "role": "Image"
@@ -1434,7 +1434,7 @@
     {
       "fileName": "Box Pieces 3.png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/08-Box/Box Pieces 3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/08-Box/Box%20Pieces%203.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/08-Box/Box%20Pieces%203.png",
       "sha256": "6f54e5f7c409ec12784fb36406e08b7c276ffec879c5a98f2d5c3fd51078f2fd",
       "size": 224,
       "role": "Image"
@@ -1442,7 +1442,7 @@
     {
       "fileName": "Box Pieces 4.png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/08-Box/Box Pieces 4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/08-Box/Box%20Pieces%204.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/08-Box/Box%20Pieces%204.png",
       "sha256": "e75ca19276e307b693dd6e301b8ae42b7f27e5175663539102fe2f81de4fa6ce",
       "size": 208,
       "role": "Image"
@@ -1450,7 +1450,7 @@
     {
       "fileName": "Hit.png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/08-Box/Hit.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/08-Box/Hit.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/08-Box/Hit.png",
       "sha256": "3e4116cce5ad21d85d243cfcd4fa25141fc04df845008dcd233c18fdc1b7be9f",
       "size": 136,
       "role": "Image"
@@ -1458,7 +1458,7 @@
     {
       "fileName": "Idle.png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/08-Box/Idle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/08-Box/Idle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/08-Box/Idle.png",
       "sha256": "8a09062e218c9339dbe06f206edcdfef7a9e046f3a021afd77d573b5bfd39d63",
       "size": 455,
       "role": "Image"
@@ -1466,7 +1466,7 @@
     {
       "fileName": "Bomb Off.png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/09-Bomb/Bomb Off.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/09-Bomb/Bomb%20Off.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/09-Bomb/Bomb%20Off.png",
       "sha256": "ed25bb64d0116df77c9a07022cd9624787a7230e6580c32f5b9f5c0d33e55c58",
       "size": 442,
       "role": "Image"
@@ -1474,7 +1474,7 @@
     {
       "fileName": "Bomb On (52x56).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/09-Bomb/Bomb On (52x56).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/09-Bomb/Bomb%20On%20(52x56).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/09-Bomb/Bomb%20On%20(52x56).png",
       "sha256": "6d6106de4e0a7c776bdb449fb5dc44b51a45fe01210115c1ce8587637da8dadd",
       "size": 953,
       "role": "Image"
@@ -1482,7 +1482,7 @@
     {
       "fileName": "Boooooom (52x56).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/09-Bomb/Boooooom (52x56).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/09-Bomb/Boooooom%20(52x56).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/09-Bomb/Boooooom%20(52x56).png",
       "sha256": "4241406025e9d72d8d6b36a7152d939a9fea11c8a0410ecc53bcfe4c3fcf438e",
       "size": 2689,
       "role": "Image"
@@ -1490,7 +1490,7 @@
     {
       "fileName": "Cannon Ball.png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/10-Cannon/Cannon Ball.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/10-Cannon/Cannon%20Ball.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/10-Cannon/Cannon%20Ball.png",
       "sha256": "5a62685285811f2e6d0edb1b410846e3cbb2510a7a791700d3186f31b50880ea",
       "size": 339,
       "role": "Image"
@@ -1498,7 +1498,7 @@
     {
       "fileName": "Idle.png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/10-Cannon/Idle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/10-Cannon/Idle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/10-Cannon/Idle.png",
       "sha256": "973dab22f7f0e619481bcaf409a7553c0e2e1a42939314cf51b18e690069bc7b",
       "size": 684,
       "role": "Image"
@@ -1506,7 +1506,7 @@
     {
       "fileName": "Shoot (44x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/10-Cannon/Shoot (44x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/10-Cannon/Shoot%20(44x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/10-Cannon/Shoot%20(44x28).png",
       "sha256": "aeb017a8478a7e67011a90043ed2c6d497d342baab961c72fe681b4c1fd11569",
       "size": 1787,
       "role": "Image"
@@ -1514,7 +1514,7 @@
     {
       "fileName": "Closiong (46x56).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/11-Door/Closiong (46x56).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/11-Door/Closiong%20(46x56).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/11-Door/Closiong%20(46x56).png",
       "sha256": "ce0cd9da10f3871a6d6b940a7eda95523a8eb1fd3eece0e875e83ffe4f2bce0a",
       "size": 2298,
       "role": "Image"
@@ -1522,7 +1522,7 @@
     {
       "fileName": "Idle.png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/11-Door/Idle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/11-Door/Idle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/11-Door/Idle.png",
       "sha256": "63ec7d99ab0eb17b3eba1f4d00cd03d7af6cbc3df950884d50aca396256f265c",
       "size": 1311,
       "role": "Image"
@@ -1530,7 +1530,7 @@
     {
       "fileName": "Opening (46x56).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/11-Door/Opening (46x56).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/11-Door/Opening%20(46x56).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/11-Door/Opening%20(46x56).png",
       "sha256": "74be0982bde3d558929603ca0357a215d22e788a9373d7f78ca81149f2b1abc9",
       "size": 2853,
       "role": "Image"
@@ -1538,7 +1538,7 @@
     {
       "fileName": "Big Diamond Hit (18x14).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/12-Live and Coins/Big Diamond Hit (18x14).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Big%20Diamond%20Hit%20(18x14).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Big%20Diamond%20Hit%20(18x14).png",
       "sha256": "c4a75aace4467fafb8f37c96e19776ffa8e8b4457b7660f966177bac98fbe5dd",
       "size": 167,
       "role": "Image"
@@ -1546,7 +1546,7 @@
     {
       "fileName": "Big Diamond Idle (18x14).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/12-Live and Coins/Big Diamond Idle (18x14).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Big%20Diamond%20Idle%20(18x14).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Big%20Diamond%20Idle%20(18x14).png",
       "sha256": "7f57247e15731a8bf3627ea6b428dc48b46286a698e6a9729958dafc6be6eb1b",
       "size": 503,
       "role": "Image"
@@ -1554,7 +1554,7 @@
     {
       "fileName": "Big Heart Hit (18x14).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/12-Live and Coins/Big Heart Hit (18x14).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Big%20Heart%20Hit%20(18x14).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Big%20Heart%20Hit%20(18x14).png",
       "sha256": "40a2cd33999d1b118eb2efb9fca79f8b535dc9387adaf260250bdbc373432ea8",
       "size": 171,
       "role": "Image"
@@ -1562,7 +1562,7 @@
     {
       "fileName": "Big Heart Idle (18x14).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/12-Live and Coins/Big Heart Idle (18x14).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Big%20Heart%20Idle%20(18x14).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Big%20Heart%20Idle%20(18x14).png",
       "sha256": "6b34cd10a73b8111269c7d281e08fc6e9ca5f78f350a04703bc1f91795e16f31",
       "size": 546,
       "role": "Image"
@@ -1570,7 +1570,7 @@
     {
       "fileName": "Live Bar.png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/12-Live and Coins/Live Bar.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Live%20Bar.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Live%20Bar.png",
       "sha256": "8b41712557410046255536a926a502df6e2669d717995ae233cf191231bdfc20",
       "size": 749,
       "role": "Image"
@@ -1578,7 +1578,7 @@
     {
       "fileName": "Numbers (6x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/12-Live and Coins/Numbers (6x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Numbers%20(6x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Numbers%20(6x8).png",
       "sha256": "2fd8696cee5af4872b68e90fee1a7fce5373ad863c567edc235b577d4897a610",
       "size": 278,
       "role": "Image"
@@ -1586,7 +1586,7 @@
     {
       "fileName": "Small Diamond (18x14).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/12-Live and Coins/Small Diamond (18x14).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Small%20Diamond%20(18x14).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Small%20Diamond%20(18x14).png",
       "sha256": "44bd29bb0636a09604debd3b7594e272b8fd8edc2b5db13874f4b5917bf2f9e7",
       "size": 419,
       "role": "Image"
@@ -1594,7 +1594,7 @@
     {
       "fileName": "Small Heart Hit (18x14).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/12-Live and Coins/Small Heart Hit (18x14).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Small%20Heart%20Hit%20(18x14).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Small%20Heart%20Hit%20(18x14).png",
       "sha256": "65f650fd5ceb353ae3cc3bbc30c3dc94cedd611de0ee2a8e4a90f626e411e24e",
       "size": 175,
       "role": "Image"
@@ -1602,7 +1602,7 @@
     {
       "fileName": "Small Heart Idle (18x14).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/12-Live and Coins/Small Heart Idle (18x14).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Small%20Heart%20Idle%20(18x14).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Small%20Heart%20Idle%20(18x14).png",
       "sha256": "1a03ae7289690f17d1c2d116564d56f7e851dbcd33854123b577941d21588524",
       "size": 297,
       "role": "Image"
@@ -1610,7 +1610,7 @@
     {
       "fileName": "!!! In (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/!!! In (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/!!!%20In%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/!!!%20In%20(24x8).png",
       "sha256": "5d7c542a7264b38ce4b969b6076111c78fef4f4dd13c8e3b346a09d96e6fdb45",
       "size": 478,
       "role": "Image"
@@ -1618,7 +1618,7 @@
     {
       "fileName": "!!! Out (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/!!! Out (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/!!!%20Out%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/!!!%20Out%20(24x8).png",
       "sha256": "529c1c6b1e1ac0e18b42e03467388e24739f27623d4fa4286469616db7f4d461",
       "size": 400,
       "role": "Image"
@@ -1626,7 +1626,7 @@
     {
       "fileName": "Attack In (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Attack In (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Attack%20In%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Attack%20In%20(24x8).png",
       "sha256": "9de693ee386970a1a5a0911144671c8f41eb8925402aef7f7a0b1314c059ff97",
       "size": 542,
       "role": "Image"
@@ -1634,7 +1634,7 @@
     {
       "fileName": "Attack Out (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Attack Out (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Attack%20Out%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Attack%20Out%20(24x8).png",
       "sha256": "1426869976d3d929a7913765c7f8c38100087f625a2088a4bf0279505d3e582f",
       "size": 471,
       "role": "Image"
@@ -1642,7 +1642,7 @@
     {
       "fileName": "Boom In (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Boom In (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Boom%20In%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Boom%20In%20(24x8).png",
       "sha256": "868c99c678557897de15769e7f2795a594e4cd8f20355005393b5b1eacc440ef",
       "size": 534,
       "role": "Image"
@@ -1650,7 +1650,7 @@
     {
       "fileName": "Boom Out (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Boom Out (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Boom%20Out%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Boom%20Out%20(24x8).png",
       "sha256": "70a9f9361376ce4a647303796dcaccc3b75806d2094f1fe62f081cfebaa30124",
       "size": 483,
       "role": "Image"
@@ -1658,7 +1658,7 @@
     {
       "fileName": "Dead In (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Dead In (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Dead%20In%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Dead%20In%20(24x8).png",
       "sha256": "88f6162fd91ec7da4d4dcad95b4049808234a1c6bb14c3bd3517d987d03eba5e",
       "size": 544,
       "role": "Image"
@@ -1666,7 +1666,7 @@
     {
       "fileName": "Dead Out (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Dead Out (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Dead%20Out%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Dead%20Out%20(24x8).png",
       "sha256": "670ef1d9b803859df772b71232ad1ce23cb4b55fa6de2adb3257252285665bcb",
       "size": 471,
       "role": "Image"
@@ -1674,7 +1674,7 @@
     {
       "fileName": "Hello In (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Hello In (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Hello%20In%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Hello%20In%20(24x8).png",
       "sha256": "f9e7e3c676d2387849808ae4e444ca0d45ec1aa3e486c512d1f700eb186da4c0",
       "size": 555,
       "role": "Image"
@@ -1682,7 +1682,7 @@
     {
       "fileName": "Hello Out (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Hello Out (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Hello%20Out%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Hello%20Out%20(24x8).png",
       "sha256": "35868a97b2185565cfcd32a66266e2237842b6434178b8670f4f6483c6bbbc78",
       "size": 474,
       "role": "Image"
@@ -1690,7 +1690,7 @@
     {
       "fileName": "Hi In (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Hi In (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Hi%20In%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Hi%20In%20(24x8).png",
       "sha256": "c4a9a5df2e36b5022c37cfd756af216391eb6183721fae25cdbba25bc4244864",
       "size": 516,
       "role": "Image"
@@ -1698,7 +1698,7 @@
     {
       "fileName": "Hi Out (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Hi Out (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Hi%20Out%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Hi%20Out%20(24x8).png",
       "sha256": "206710e72660efbf9c853be29d605abef5d3a89875a2dfe81bd23d882cbf20b0",
       "size": 445,
       "role": "Image"
@@ -1706,7 +1706,7 @@
     {
       "fileName": "Interrogation In (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Interrogation In (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Interrogation%20In%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Interrogation%20In%20(24x8).png",
       "sha256": "eea29af2054efc0b3f5f9f6dcd800151216a1ed27514331005cce822cb9b3cd8",
       "size": 519,
       "role": "Image"
@@ -1714,7 +1714,7 @@
     {
       "fileName": "Interrogation Out (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Interrogation Out (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Interrogation%20Out%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Interrogation%20Out%20(24x8).png",
       "sha256": "c2ad6cad9169903290e27463da61765c637b2e0b7647d227308a006f87bb7e19",
       "size": 439,
       "role": "Image"
@@ -1722,7 +1722,7 @@
     {
       "fileName": "Loser In (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Loser In (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Loser%20In%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Loser%20In%20(24x8).png",
       "sha256": "d305facbb6eed50c1ec2bf2db8d2dfa2094f9dc6a97179808180493ff3024575",
       "size": 541,
       "role": "Image"
@@ -1730,7 +1730,7 @@
     {
       "fileName": "Loser Out (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Loser Out (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Loser%20Out%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Loser%20Out%20(24x8).png",
       "sha256": "7497598315c3b32321d31150d61dff8a8ceeffffe5f9a0b419f52b27403230f3",
       "size": 487,
       "role": "Image"
@@ -1738,7 +1738,7 @@
     {
       "fileName": "No In (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/No In (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/No%20In%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/No%20In%20(24x8).png",
       "sha256": "968b19268e5bff3d513b5e91c1a75cda2d4f5a387569cf6f15970525b5f97c2b",
       "size": 522,
       "role": "Image"
@@ -1746,7 +1746,7 @@
     {
       "fileName": "No Out (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/No Out (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/No%20Out%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/No%20Out%20(24x8).png",
       "sha256": "a6c92cf34ad0f62597e716bbe890aa46d8130435c61ab3aaf811684430e15038",
       "size": 454,
       "role": "Image"
@@ -1754,7 +1754,7 @@
     {
       "fileName": "WTF In (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/WTF In (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/WTF%20In%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/WTF%20In%20(24x8).png",
       "sha256": "31f6a7280e0bd3be302f7964975f1138132faa86eccfb7386ef1c51a9a8c6fe7",
       "size": 566,
       "role": "Image"
@@ -1762,7 +1762,7 @@
     {
       "fileName": "WTF Out (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/WTF Out (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/WTF%20Out%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/WTF%20Out%20(24x8).png",
       "sha256": "d8d04f40577216e44c91e51204d97d13c25d0b694b5de11bc789c5e9041f758f",
       "size": 480,
       "role": "Image"
@@ -1770,7 +1770,7 @@
     {
       "fileName": "Decorations (32x32).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/14-TileSets/Decorations (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/14-TileSets/Decorations%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/14-TileSets/Decorations%20(32x32).png",
       "sha256": "522102a2f392fcd0685f1359df10774ab2b28e110ebfae5934c9e7da382efe0e",
       "size": 4929,
       "role": "Image"
@@ -1778,7 +1778,7 @@
     {
       "fileName": "Terrain (32x32).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/14-TileSets/Terrain (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/14-TileSets/Terrain%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/14-TileSets/Terrain%20(32x32).png",
       "sha256": "5cda6d4ee56a93dd5095941a37d178e4d117ea0cd38e567e190b6701c6bdcf68",
       "size": 22886,
       "role": "Image"
@@ -1786,7 +1786,7 @@
     {
       "fileName": "Kings and Pigs.png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/Kings and Pigs.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/Kings%20and%20Pigs.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/Kings%20and%20Pigs.png",
       "sha256": "00c7100036cc1293018fe76cd943b005df8470d2ab8dce71a686aa24f3a2dff8",
       "size": 909,
       "role": "Image"
@@ -1796,7 +1796,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/pixelfrog-kings-and-pigs/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/cover.png",
       "sha256": "27fbae994bc49c8db9752e30cc29ca903881618139a51c51e5194b56a661f5c9",
       "size": 2822,
       "contentType": "image/png",
@@ -1805,7 +1805,7 @@
     {
       "fileName": "Attack (78x58).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/01-King Human/Attack (78x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Attack%20(78x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Attack%20(78x58).png",
       "sha256": "7858b2a5f8abaff498d916c31aa0a8a83b38a3a4c375a31920178c5604720cbd",
       "size": 3524,
       "contentType": "image/png",
@@ -1815,7 +1815,7 @@
     {
       "fileName": "Dead (78x58).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/01-King Human/Dead (78x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Dead%20(78x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Dead%20(78x58).png",
       "sha256": "ffc55752d8e6868d83f75ac6040f771cfcffbc37a9bec685bbd2d0fad6d158ac",
       "size": 2387,
       "contentType": "image/png",
@@ -1825,7 +1825,7 @@
     {
       "fileName": "Door In (78x58).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/01-King Human/Door In (78x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Door%20In%20(78x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Door%20In%20(78x58).png",
       "sha256": "6bc1854a143307ce46cac433165701e73e1d07ab5039aad92087f2b9c6d20236",
       "size": 4389,
       "contentType": "image/png",
@@ -1835,7 +1835,7 @@
     {
       "fileName": "Door Out (78x58).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/01-King Human/Door Out (78x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Door%20Out%20(78x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Door%20Out%20(78x58).png",
       "sha256": "b57359ec7a0858f74eab94f509c5310afbf989aab8aad3ce3150da27ee3d98fd",
       "size": 4503,
       "contentType": "image/png",
@@ -1845,7 +1845,7 @@
     {
       "fileName": "Fall (78x58).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/01-King Human/Fall (78x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Fall%20(78x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Fall%20(78x58).png",
       "sha256": "7e18c3d476cce3eac2eb08cfd83300affd01039cfc06140ebbff8fbd1c6a245a",
       "size": 1220,
       "contentType": "image/png",
@@ -1855,7 +1855,7 @@
     {
       "fileName": "Ground (78x58).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/01-King Human/Ground (78x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Ground%20(78x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Ground%20(78x58).png",
       "sha256": "41a829d5f73ff4982ce7cc08dd781151e33ffbbe7b6ee7a713c3c1a44c6d0e64",
       "size": 1164,
       "contentType": "image/png",
@@ -1865,7 +1865,7 @@
     {
       "fileName": "Hit (78x58).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/01-King Human/Hit (78x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Hit%20(78x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Hit%20(78x58).png",
       "sha256": "6845c22c683d58cce7beb41c38dd0a31a7c5d901857fc3bcbff3ec06fc82d9d7",
       "size": 1491,
       "contentType": "image/png",
@@ -1875,7 +1875,7 @@
     {
       "fileName": "Idle (78x58).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/01-King Human/Idle (78x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Idle%20(78x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Idle%20(78x58).png",
       "sha256": "27fbae994bc49c8db9752e30cc29ca903881618139a51c51e5194b56a661f5c9",
       "size": 2822,
       "contentType": "image/png",
@@ -1885,7 +1885,7 @@
     {
       "fileName": "Jump (78x58).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/01-King Human/Jump (78x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Jump%20(78x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Jump%20(78x58).png",
       "sha256": "dd98c6dcf19a3894db30bc9ff392b252410fb2709407d64cd21aecd07e9cdd7d",
       "size": 1277,
       "contentType": "image/png",
@@ -1895,7 +1895,7 @@
     {
       "fileName": "Run (78x58).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/01-King Human/Run (78x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Run%20(78x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/01-King%20Human/Run%20(78x58).png",
       "sha256": "b9f96a8fcd4ddcdbaf4c50e585e7e8f3d54f87e1f1d139ad14375576e702cb82",
       "size": 3402,
       "contentType": "image/png",
@@ -1905,7 +1905,7 @@
     {
       "fileName": "Attack (38x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/02-King Pig/Attack (38x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Attack%20(38x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Attack%20(38x28).png",
       "sha256": "f8d59ce2d5e25ff32afb1cdd3b781e35f8a7fb3b82497cc5a5fc0a424b22a935",
       "size": 2024,
       "contentType": "image/png",
@@ -1915,7 +1915,7 @@
     {
       "fileName": "Dead (38x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/02-King Pig/Dead (38x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Dead%20(38x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Dead%20(38x28).png",
       "sha256": "077abc213b31a28c7fa2e3295309382b081aaddbc246bca8fb11b8401163b8ff",
       "size": 1574,
       "contentType": "image/png",
@@ -1925,7 +1925,7 @@
     {
       "fileName": "Fall (38x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/02-King Pig/Fall (38x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Fall%20(38x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Fall%20(38x28).png",
       "sha256": "fb5e123709bd304df0c36a31c27b40ed4cf3ed84f3f4f160edd8519c5201731d",
       "size": 757,
       "contentType": "image/png",
@@ -1935,7 +1935,7 @@
     {
       "fileName": "Ground (38x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/02-King Pig/Ground (38x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Ground%20(38x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Ground%20(38x28).png",
       "sha256": "f5defbfd8722cceb2e4b3b37c9ae4a4f35b00af5f53e525174b8149c3150424c",
       "size": 683,
       "contentType": "image/png",
@@ -1945,7 +1945,7 @@
     {
       "fileName": "Hit (38x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/02-King Pig/Hit (38x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Hit%20(38x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Hit%20(38x28).png",
       "sha256": "e99c3bec02425d06a1765761e6b8c8761b503534bd65ba3dfabc3e8d08d64868",
       "size": 962,
       "contentType": "image/png",
@@ -1955,7 +1955,7 @@
     {
       "fileName": "Idle (38x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/02-King Pig/Idle (38x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Idle%20(38x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Idle%20(38x28).png",
       "sha256": "5ef16af7837cc12f91d42020aea40cce1ceaae7fe3cd2a9060a180b916608929",
       "size": 1798,
       "contentType": "image/png",
@@ -1965,7 +1965,7 @@
     {
       "fileName": "Jump (38x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/02-King Pig/Jump (38x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Jump%20(38x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Jump%20(38x28).png",
       "sha256": "da9d4dbb12c342b4de9bb529f13d8a289d7594b4d8fde8e1b9a2087d351a31cf",
       "size": 722,
       "contentType": "image/png",
@@ -1975,7 +1975,7 @@
     {
       "fileName": "Run (38x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/02-King Pig/Run (38x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Run%20(38x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/02-King%20Pig/Run%20(38x28).png",
       "sha256": "6a99a7c047d53d9b1d48eb6726776e091b95ac5cf8715bf3482a1c3258eddc4a",
       "size": 1712,
       "contentType": "image/png",
@@ -1985,7 +1985,7 @@
     {
       "fileName": "Attack (34x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Attack (34x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Attack%20(34x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Attack%20(34x28).png",
       "sha256": "13f6ca366ffc13e386d5bf568f73457d424552bf8c2ac4043ad0bfb3061addcd",
       "size": 1726,
       "contentType": "image/png",
@@ -1995,7 +1995,7 @@
     {
       "fileName": "Dead (34x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Dead (34x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Dead%20(34x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Dead%20(34x28).png",
       "sha256": "701f99cd53da30e04d224788af956458ada3d0eef2df946ada08b41a1dae49d1",
       "size": 1329,
       "contentType": "image/png",
@@ -2005,7 +2005,7 @@
     {
       "fileName": "Fall (34x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Fall (34x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Fall%20(34x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Fall%20(34x28).png",
       "sha256": "dcff9e29d59045a97e086ed4a9f8b2dd011b369cc610351cafb4fc3d472047e8",
       "size": 618,
       "contentType": "image/png",
@@ -2015,7 +2015,7 @@
     {
       "fileName": "Ground (34x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Ground (34x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Ground%20(34x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Ground%20(34x28).png",
       "sha256": "ca75cd0985584daa39fc1ed1cfac0cd86be26e3b7f0053daf6e7f810ba00ae49",
       "size": 538,
       "contentType": "image/png",
@@ -2025,7 +2025,7 @@
     {
       "fileName": "Hit (34x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Hit (34x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Hit%20(34x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Hit%20(34x28).png",
       "sha256": "f37d70725795b48f23afa51eb6cda32eab220ae70ec32dc68f89a3711c196d25",
       "size": 746,
       "contentType": "image/png",
@@ -2035,7 +2035,7 @@
     {
       "fileName": "Idle (34x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Idle (34x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Idle%20(34x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Idle%20(34x28).png",
       "sha256": "889dd115e86497a802097cb07d73c5e59f23ffb1226c28c69f7f8dd1d1ce4638",
       "size": 1395,
       "contentType": "image/png",
@@ -2045,7 +2045,7 @@
     {
       "fileName": "Jump (34x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Jump (34x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Jump%20(34x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Jump%20(34x28).png",
       "sha256": "b25058f0d4070664d01e0a677594ccbb32bdb3a7379d6eb3fe3185644dded54f",
       "size": 558,
       "contentType": "image/png",
@@ -2055,7 +2055,7 @@
     {
       "fileName": "Run (34x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Run (34x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Run%20(34x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/03-Pig/Run%20(34x28).png",
       "sha256": "1e78e725aca838885c8586787da5f1b020013924aa73f258cc39dc302e029220",
       "size": 1422,
       "contentType": "image/png",
@@ -2065,7 +2065,7 @@
     {
       "fileName": "Idle (26x30).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/04-Pig Throwing a Box/Idle (26x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/04-Pig%20Throwing%20a%20Box/Idle%20(26x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/04-Pig%20Throwing%20a%20Box/Idle%20(26x30).png",
       "sha256": "251d97a5e18b31cab8e9ff9b74d57f9a77243cdd13d691c0e375281adba6e278",
       "size": 1825,
       "contentType": "image/png",
@@ -2075,7 +2075,7 @@
     {
       "fileName": "Picking Box (26x30).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/04-Pig Throwing a Box/Picking Box (26x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/04-Pig%20Throwing%20a%20Box/Picking%20Box%20(26x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/04-Pig%20Throwing%20a%20Box/Picking%20Box%20(26x30).png",
       "sha256": "ee7a252b2b85e0dde8bb563d3df72f519eaf7e45d75963b4e29335185092964b",
       "size": 1627,
       "contentType": "image/png",
@@ -2085,7 +2085,7 @@
     {
       "fileName": "Run (26x30).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/04-Pig Throwing a Box/Run (26x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/04-Pig%20Throwing%20a%20Box/Run%20(26x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/04-Pig%20Throwing%20a%20Box/Run%20(26x30).png",
       "sha256": "ede2bc3e11e953a8a599e3e9fb53719030600601e3a215ee53da74c62d42b918",
       "size": 1650,
       "contentType": "image/png",
@@ -2095,7 +2095,7 @@
     {
       "fileName": "Throwing Box (26x30).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/04-Pig Throwing a Box/Throwing Box (26x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/04-Pig%20Throwing%20a%20Box/Throwing%20Box%20(26x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/04-Pig%20Throwing%20a%20Box/Throwing%20Box%20(26x30).png",
       "sha256": "bd28697d8ddda992bca24cc2528fc2b54429e0735bfd657b509599377e604e70",
       "size": 1713,
       "contentType": "image/png",
@@ -2105,7 +2105,7 @@
     {
       "fileName": "Idle (26x26).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/05-Pig Thowing a Bomb/Idle (26x26).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/05-Pig%20Thowing%20a%20Bomb/Idle%20(26x26).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/05-Pig%20Thowing%20a%20Bomb/Idle%20(26x26).png",
       "sha256": "b84afadfad03485efb33bb1305d5da35bae96f878c51eab43c21c08cb4adca5b",
       "size": 1735,
       "contentType": "image/png",
@@ -2115,7 +2115,7 @@
     {
       "fileName": "Picking Bomb (26x26).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/05-Pig Thowing a Bomb/Picking Bomb (26x26).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/05-Pig%20Thowing%20a%20Bomb/Picking%20Bomb%20(26x26).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/05-Pig%20Thowing%20a%20Bomb/Picking%20Bomb%20(26x26).png",
       "sha256": "1664d5f1abd9080fdc0d2433a2123196e14ef5a8f3552121b5665a2d902c9989",
       "size": 1575,
       "contentType": "image/png",
@@ -2125,7 +2125,7 @@
     {
       "fileName": "Run (26x26).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/05-Pig Thowing a Bomb/Run (26x26).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/05-Pig%20Thowing%20a%20Bomb/Run%20(26x26).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/05-Pig%20Thowing%20a%20Bomb/Run%20(26x26).png",
       "sha256": "90b530aae35206aadd62c41fbfe470b32262596f4ae8bdb863a18e69c1822614",
       "size": 1581,
       "contentType": "image/png",
@@ -2135,7 +2135,7 @@
     {
       "fileName": "Throwing Boom (26x26).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/05-Pig Thowing a Bomb/Throwing Boom (26x26).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/05-Pig%20Thowing%20a%20Bomb/Throwing%20Boom%20(26x26).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/05-Pig%20Thowing%20a%20Bomb/Throwing%20Boom%20(26x26).png",
       "sha256": "e1efc69b4977dd4142c697366604d3fa33149a0a4cb2e2db2f659a84dd70f39b",
       "size": 1731,
       "contentType": "image/png",
@@ -2145,7 +2145,7 @@
     {
       "fileName": "Fall (26x20).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/06-Pig Hide in the Box/Fall (26x20).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/06-Pig%20Hide%20in%20the%20Box/Fall%20(26x20).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/06-Pig%20Hide%20in%20the%20Box/Fall%20(26x20).png",
       "sha256": "9b11125689c518de8fd4ed01261090098c5d49c31125e1306d864f5c4aec1778",
       "size": 508,
       "contentType": "image/png",
@@ -2155,7 +2155,7 @@
     {
       "fileName": "Ground (26x20).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/06-Pig Hide in the Box/Ground (26x20).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/06-Pig%20Hide%20in%20the%20Box/Ground%20(26x20).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/06-Pig%20Hide%20in%20the%20Box/Ground%20(26x20).png",
       "sha256": "c61140edd48b96e2e88f4d2e66b587be8959e0aba688909c9f6cc586ee5a4226",
       "size": 445,
       "contentType": "image/png",
@@ -2165,7 +2165,7 @@
     {
       "fileName": "Jump (26x20).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/06-Pig Hide in the Box/Jump (26x20).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/06-Pig%20Hide%20in%20the%20Box/Jump%20(26x20).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/06-Pig%20Hide%20in%20the%20Box/Jump%20(26x20).png",
       "sha256": "ecf85a55f716dd6ec75b89d9411b73120f31c2d99447854bd7053241783088b6",
       "size": 694,
       "contentType": "image/png",
@@ -2175,7 +2175,7 @@
     {
       "fileName": "Jump Anticipation (26x20).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/06-Pig Hide in the Box/Jump Anticipation (26x20).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/06-Pig%20Hide%20in%20the%20Box/Jump%20Anticipation%20(26x20).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/06-Pig%20Hide%20in%20the%20Box/Jump%20Anticipation%20(26x20).png",
       "sha256": "5a00d9fda8c371db5905c3807f6805ee4c82284723d200b3a8d6e97f50e0c525",
       "size": 626,
       "contentType": "image/png",
@@ -2185,7 +2185,7 @@
     {
       "fileName": "Looking Out (26x20).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/06-Pig Hide in the Box/Looking Out (26x20).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/06-Pig%20Hide%20in%20the%20Box/Looking%20Out%20(26x20).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/06-Pig%20Hide%20in%20the%20Box/Looking%20Out%20(26x20).png",
       "sha256": "9de884d4c1e7912475984c8b2ebe53fcacefa714366aa013d5c7184018a36d1b",
       "size": 705,
       "contentType": "image/png",
@@ -2195,7 +2195,7 @@
     {
       "fileName": "Lighting the Cannon (26x18).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/07-Pig With a Match/Lighting the Cannon (26x18).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/07-Pig%20With%20a%20Match/Lighting%20the%20Cannon%20(26x18).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/07-Pig%20With%20a%20Match/Lighting%20the%20Cannon%20(26x18).png",
       "sha256": "ed2426ca1e9a1865070cea22f4a071dc6b50c882a6790172f9837e8f1e6c2948",
       "size": 926,
       "contentType": "image/png",
@@ -2205,7 +2205,7 @@
     {
       "fileName": "Lighting the Match (26x18).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/07-Pig With a Match/Lighting the Match (26x18).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/07-Pig%20With%20a%20Match/Lighting%20the%20Match%20(26x18).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/07-Pig%20With%20a%20Match/Lighting%20the%20Match%20(26x18).png",
       "sha256": "26d734dc9b971164ba4205f80439bf4f07b35d750f5ade79a3fda122f731850f",
       "size": 976,
       "contentType": "image/png",
@@ -2215,7 +2215,7 @@
     {
       "fileName": "Match On (26x18).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/07-Pig With a Match/Match On (26x18).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/07-Pig%20With%20a%20Match/Match%20On%20(26x18).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/07-Pig%20With%20a%20Match/Match%20On%20(26x18).png",
       "sha256": "2c91dc210ea13d28814049867f42d54ac38936e707489d3e98ae81129e3a6dc9",
       "size": 835,
       "contentType": "image/png",
@@ -2225,7 +2225,7 @@
     {
       "fileName": "Box Pieces 1.png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/08-Box/Box Pieces 1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/08-Box/Box%20Pieces%201.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/08-Box/Box%20Pieces%201.png",
       "sha256": "e4860eecf9a4a942dac56fd304936c47a4eee6b14a6047c56098fa76b3eeabb8",
       "size": 240,
       "contentType": "image/png",
@@ -2235,7 +2235,7 @@
     {
       "fileName": "Box Pieces 2.png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/08-Box/Box Pieces 2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/08-Box/Box%20Pieces%202.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/08-Box/Box%20Pieces%202.png",
       "sha256": "bc68fe9a83ee5fa52f4f152d81f30cacc01f521dd42f6670732ba1ffcc00d997",
       "size": 230,
       "contentType": "image/png",
@@ -2245,7 +2245,7 @@
     {
       "fileName": "Box Pieces 3.png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/08-Box/Box Pieces 3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/08-Box/Box%20Pieces%203.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/08-Box/Box%20Pieces%203.png",
       "sha256": "6f54e5f7c409ec12784fb36406e08b7c276ffec879c5a98f2d5c3fd51078f2fd",
       "size": 224,
       "contentType": "image/png",
@@ -2255,7 +2255,7 @@
     {
       "fileName": "Box Pieces 4.png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/08-Box/Box Pieces 4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/08-Box/Box%20Pieces%204.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/08-Box/Box%20Pieces%204.png",
       "sha256": "e75ca19276e307b693dd6e301b8ae42b7f27e5175663539102fe2f81de4fa6ce",
       "size": 208,
       "contentType": "image/png",
@@ -2265,7 +2265,7 @@
     {
       "fileName": "Hit.png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/08-Box/Hit.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/08-Box/Hit.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/08-Box/Hit.png",
       "sha256": "3e4116cce5ad21d85d243cfcd4fa25141fc04df845008dcd233c18fdc1b7be9f",
       "size": 136,
       "contentType": "image/png",
@@ -2275,7 +2275,7 @@
     {
       "fileName": "Idle.png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/08-Box/Idle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/08-Box/Idle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/08-Box/Idle.png",
       "sha256": "8a09062e218c9339dbe06f206edcdfef7a9e046f3a021afd77d573b5bfd39d63",
       "size": 455,
       "contentType": "image/png",
@@ -2285,7 +2285,7 @@
     {
       "fileName": "Bomb Off.png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/09-Bomb/Bomb Off.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/09-Bomb/Bomb%20Off.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/09-Bomb/Bomb%20Off.png",
       "sha256": "ed25bb64d0116df77c9a07022cd9624787a7230e6580c32f5b9f5c0d33e55c58",
       "size": 442,
       "contentType": "image/png",
@@ -2295,7 +2295,7 @@
     {
       "fileName": "Bomb On (52x56).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/09-Bomb/Bomb On (52x56).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/09-Bomb/Bomb%20On%20(52x56).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/09-Bomb/Bomb%20On%20(52x56).png",
       "sha256": "6d6106de4e0a7c776bdb449fb5dc44b51a45fe01210115c1ce8587637da8dadd",
       "size": 953,
       "contentType": "image/png",
@@ -2305,7 +2305,7 @@
     {
       "fileName": "Boooooom (52x56).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/09-Bomb/Boooooom (52x56).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/09-Bomb/Boooooom%20(52x56).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/09-Bomb/Boooooom%20(52x56).png",
       "sha256": "4241406025e9d72d8d6b36a7152d939a9fea11c8a0410ecc53bcfe4c3fcf438e",
       "size": 2689,
       "contentType": "image/png",
@@ -2315,7 +2315,7 @@
     {
       "fileName": "Cannon Ball.png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/10-Cannon/Cannon Ball.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/10-Cannon/Cannon%20Ball.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/10-Cannon/Cannon%20Ball.png",
       "sha256": "5a62685285811f2e6d0edb1b410846e3cbb2510a7a791700d3186f31b50880ea",
       "size": 339,
       "contentType": "image/png",
@@ -2325,7 +2325,7 @@
     {
       "fileName": "Idle.png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/10-Cannon/Idle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/10-Cannon/Idle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/10-Cannon/Idle.png",
       "sha256": "973dab22f7f0e619481bcaf409a7553c0e2e1a42939314cf51b18e690069bc7b",
       "size": 684,
       "contentType": "image/png",
@@ -2335,7 +2335,7 @@
     {
       "fileName": "Shoot (44x28).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/10-Cannon/Shoot (44x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/10-Cannon/Shoot%20(44x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/10-Cannon/Shoot%20(44x28).png",
       "sha256": "aeb017a8478a7e67011a90043ed2c6d497d342baab961c72fe681b4c1fd11569",
       "size": 1787,
       "contentType": "image/png",
@@ -2345,7 +2345,7 @@
     {
       "fileName": "Closiong (46x56).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/11-Door/Closiong (46x56).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/11-Door/Closiong%20(46x56).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/11-Door/Closiong%20(46x56).png",
       "sha256": "ce0cd9da10f3871a6d6b940a7eda95523a8eb1fd3eece0e875e83ffe4f2bce0a",
       "size": 2298,
       "contentType": "image/png",
@@ -2355,7 +2355,7 @@
     {
       "fileName": "Idle.png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/11-Door/Idle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/11-Door/Idle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/11-Door/Idle.png",
       "sha256": "63ec7d99ab0eb17b3eba1f4d00cd03d7af6cbc3df950884d50aca396256f265c",
       "size": 1311,
       "contentType": "image/png",
@@ -2365,7 +2365,7 @@
     {
       "fileName": "Opening (46x56).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/11-Door/Opening (46x56).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/11-Door/Opening%20(46x56).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/11-Door/Opening%20(46x56).png",
       "sha256": "74be0982bde3d558929603ca0357a215d22e788a9373d7f78ca81149f2b1abc9",
       "size": 2853,
       "contentType": "image/png",
@@ -2375,7 +2375,7 @@
     {
       "fileName": "Big Diamond Hit (18x14).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/12-Live and Coins/Big Diamond Hit (18x14).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Big%20Diamond%20Hit%20(18x14).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Big%20Diamond%20Hit%20(18x14).png",
       "sha256": "c4a75aace4467fafb8f37c96e19776ffa8e8b4457b7660f966177bac98fbe5dd",
       "size": 167,
       "contentType": "image/png",
@@ -2385,7 +2385,7 @@
     {
       "fileName": "Big Diamond Idle (18x14).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/12-Live and Coins/Big Diamond Idle (18x14).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Big%20Diamond%20Idle%20(18x14).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Big%20Diamond%20Idle%20(18x14).png",
       "sha256": "7f57247e15731a8bf3627ea6b428dc48b46286a698e6a9729958dafc6be6eb1b",
       "size": 503,
       "contentType": "image/png",
@@ -2395,7 +2395,7 @@
     {
       "fileName": "Big Heart Hit (18x14).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/12-Live and Coins/Big Heart Hit (18x14).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Big%20Heart%20Hit%20(18x14).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Big%20Heart%20Hit%20(18x14).png",
       "sha256": "40a2cd33999d1b118eb2efb9fca79f8b535dc9387adaf260250bdbc373432ea8",
       "size": 171,
       "contentType": "image/png",
@@ -2405,7 +2405,7 @@
     {
       "fileName": "Big Heart Idle (18x14).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/12-Live and Coins/Big Heart Idle (18x14).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Big%20Heart%20Idle%20(18x14).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Big%20Heart%20Idle%20(18x14).png",
       "sha256": "6b34cd10a73b8111269c7d281e08fc6e9ca5f78f350a04703bc1f91795e16f31",
       "size": 546,
       "contentType": "image/png",
@@ -2415,7 +2415,7 @@
     {
       "fileName": "Live Bar.png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/12-Live and Coins/Live Bar.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Live%20Bar.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Live%20Bar.png",
       "sha256": "8b41712557410046255536a926a502df6e2669d717995ae233cf191231bdfc20",
       "size": 749,
       "contentType": "image/png",
@@ -2425,7 +2425,7 @@
     {
       "fileName": "Numbers (6x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/12-Live and Coins/Numbers (6x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Numbers%20(6x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Numbers%20(6x8).png",
       "sha256": "2fd8696cee5af4872b68e90fee1a7fce5373ad863c567edc235b577d4897a610",
       "size": 278,
       "contentType": "image/png",
@@ -2435,7 +2435,7 @@
     {
       "fileName": "Small Diamond (18x14).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/12-Live and Coins/Small Diamond (18x14).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Small%20Diamond%20(18x14).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Small%20Diamond%20(18x14).png",
       "sha256": "44bd29bb0636a09604debd3b7594e272b8fd8edc2b5db13874f4b5917bf2f9e7",
       "size": 419,
       "contentType": "image/png",
@@ -2445,7 +2445,7 @@
     {
       "fileName": "Small Heart Hit (18x14).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/12-Live and Coins/Small Heart Hit (18x14).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Small%20Heart%20Hit%20(18x14).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Small%20Heart%20Hit%20(18x14).png",
       "sha256": "65f650fd5ceb353ae3cc3bbc30c3dc94cedd611de0ee2a8e4a90f626e411e24e",
       "size": 175,
       "contentType": "image/png",
@@ -2455,7 +2455,7 @@
     {
       "fileName": "Small Heart Idle (18x14).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/12-Live and Coins/Small Heart Idle (18x14).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Small%20Heart%20Idle%20(18x14).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/12-Live%20and%20Coins/Small%20Heart%20Idle%20(18x14).png",
       "sha256": "1a03ae7289690f17d1c2d116564d56f7e851dbcd33854123b577941d21588524",
       "size": 297,
       "contentType": "image/png",
@@ -2465,7 +2465,7 @@
     {
       "fileName": "!!! In (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/!!! In (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/!!!%20In%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/!!!%20In%20(24x8).png",
       "sha256": "5d7c542a7264b38ce4b969b6076111c78fef4f4dd13c8e3b346a09d96e6fdb45",
       "size": 478,
       "contentType": "image/png",
@@ -2475,7 +2475,7 @@
     {
       "fileName": "!!! Out (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/!!! Out (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/!!!%20Out%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/!!!%20Out%20(24x8).png",
       "sha256": "529c1c6b1e1ac0e18b42e03467388e24739f27623d4fa4286469616db7f4d461",
       "size": 400,
       "contentType": "image/png",
@@ -2485,7 +2485,7 @@
     {
       "fileName": "Attack In (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Attack In (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Attack%20In%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Attack%20In%20(24x8).png",
       "sha256": "9de693ee386970a1a5a0911144671c8f41eb8925402aef7f7a0b1314c059ff97",
       "size": 542,
       "contentType": "image/png",
@@ -2495,7 +2495,7 @@
     {
       "fileName": "Attack Out (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Attack Out (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Attack%20Out%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Attack%20Out%20(24x8).png",
       "sha256": "1426869976d3d929a7913765c7f8c38100087f625a2088a4bf0279505d3e582f",
       "size": 471,
       "contentType": "image/png",
@@ -2505,7 +2505,7 @@
     {
       "fileName": "Boom In (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Boom In (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Boom%20In%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Boom%20In%20(24x8).png",
       "sha256": "868c99c678557897de15769e7f2795a594e4cd8f20355005393b5b1eacc440ef",
       "size": 534,
       "contentType": "image/png",
@@ -2515,7 +2515,7 @@
     {
       "fileName": "Boom Out (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Boom Out (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Boom%20Out%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Boom%20Out%20(24x8).png",
       "sha256": "70a9f9361376ce4a647303796dcaccc3b75806d2094f1fe62f081cfebaa30124",
       "size": 483,
       "contentType": "image/png",
@@ -2525,7 +2525,7 @@
     {
       "fileName": "Dead In (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Dead In (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Dead%20In%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Dead%20In%20(24x8).png",
       "sha256": "88f6162fd91ec7da4d4dcad95b4049808234a1c6bb14c3bd3517d987d03eba5e",
       "size": 544,
       "contentType": "image/png",
@@ -2535,7 +2535,7 @@
     {
       "fileName": "Dead Out (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Dead Out (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Dead%20Out%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Dead%20Out%20(24x8).png",
       "sha256": "670ef1d9b803859df772b71232ad1ce23cb4b55fa6de2adb3257252285665bcb",
       "size": 471,
       "contentType": "image/png",
@@ -2545,7 +2545,7 @@
     {
       "fileName": "Hello In (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Hello In (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Hello%20In%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Hello%20In%20(24x8).png",
       "sha256": "f9e7e3c676d2387849808ae4e444ca0d45ec1aa3e486c512d1f700eb186da4c0",
       "size": 555,
       "contentType": "image/png",
@@ -2555,7 +2555,7 @@
     {
       "fileName": "Hello Out (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Hello Out (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Hello%20Out%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Hello%20Out%20(24x8).png",
       "sha256": "35868a97b2185565cfcd32a66266e2237842b6434178b8670f4f6483c6bbbc78",
       "size": 474,
       "contentType": "image/png",
@@ -2565,7 +2565,7 @@
     {
       "fileName": "Hi In (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Hi In (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Hi%20In%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Hi%20In%20(24x8).png",
       "sha256": "c4a9a5df2e36b5022c37cfd756af216391eb6183721fae25cdbba25bc4244864",
       "size": 516,
       "contentType": "image/png",
@@ -2575,7 +2575,7 @@
     {
       "fileName": "Hi Out (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Hi Out (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Hi%20Out%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Hi%20Out%20(24x8).png",
       "sha256": "206710e72660efbf9c853be29d605abef5d3a89875a2dfe81bd23d882cbf20b0",
       "size": 445,
       "contentType": "image/png",
@@ -2585,7 +2585,7 @@
     {
       "fileName": "Interrogation In (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Interrogation In (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Interrogation%20In%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Interrogation%20In%20(24x8).png",
       "sha256": "eea29af2054efc0b3f5f9f6dcd800151216a1ed27514331005cce822cb9b3cd8",
       "size": 519,
       "contentType": "image/png",
@@ -2595,7 +2595,7 @@
     {
       "fileName": "Interrogation Out (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Interrogation Out (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Interrogation%20Out%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Interrogation%20Out%20(24x8).png",
       "sha256": "c2ad6cad9169903290e27463da61765c637b2e0b7647d227308a006f87bb7e19",
       "size": 439,
       "contentType": "image/png",
@@ -2605,7 +2605,7 @@
     {
       "fileName": "Loser In (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Loser In (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Loser%20In%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Loser%20In%20(24x8).png",
       "sha256": "d305facbb6eed50c1ec2bf2db8d2dfa2094f9dc6a97179808180493ff3024575",
       "size": 541,
       "contentType": "image/png",
@@ -2615,7 +2615,7 @@
     {
       "fileName": "Loser Out (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/Loser Out (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Loser%20Out%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/Loser%20Out%20(24x8).png",
       "sha256": "7497598315c3b32321d31150d61dff8a8ceeffffe5f9a0b419f52b27403230f3",
       "size": 487,
       "contentType": "image/png",
@@ -2625,7 +2625,7 @@
     {
       "fileName": "No In (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/No In (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/No%20In%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/No%20In%20(24x8).png",
       "sha256": "968b19268e5bff3d513b5e91c1a75cda2d4f5a387569cf6f15970525b5f97c2b",
       "size": 522,
       "contentType": "image/png",
@@ -2635,7 +2635,7 @@
     {
       "fileName": "No Out (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/No Out (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/No%20Out%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/No%20Out%20(24x8).png",
       "sha256": "a6c92cf34ad0f62597e716bbe890aa46d8130435c61ab3aaf811684430e15038",
       "size": 454,
       "contentType": "image/png",
@@ -2645,7 +2645,7 @@
     {
       "fileName": "WTF In (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/WTF In (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/WTF%20In%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/WTF%20In%20(24x8).png",
       "sha256": "31f6a7280e0bd3be302f7964975f1138132faa86eccfb7386ef1c51a9a8c6fe7",
       "size": 566,
       "contentType": "image/png",
@@ -2655,7 +2655,7 @@
     {
       "fileName": "WTF Out (24x8).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue Boxes/WTF Out (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/WTF%20Out%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/13-Dialogue%20Boxes/WTF%20Out%20(24x8).png",
       "sha256": "d8d04f40577216e44c91e51204d97d13c25d0b694b5de11bc789c5e9041f758f",
       "size": 480,
       "contentType": "image/png",
@@ -2665,7 +2665,7 @@
     {
       "fileName": "Decorations (32x32).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/14-TileSets/Decorations (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/14-TileSets/Decorations%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/14-TileSets/Decorations%20(32x32).png",
       "sha256": "522102a2f392fcd0685f1359df10774ab2b28e110ebfae5934c9e7da382efe0e",
       "size": 4929,
       "contentType": "image/png",
@@ -2675,7 +2675,7 @@
     {
       "fileName": "Terrain (32x32).png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/14-TileSets/Terrain (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/14-TileSets/Terrain%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/14-TileSets/Terrain%20(32x32).png",
       "sha256": "5cda6d4ee56a93dd5095941a37d178e4d117ea0cd38e567e190b6701c6bdcf68",
       "size": 22886,
       "contentType": "image/png",
@@ -2685,7 +2685,7 @@
     {
       "fileName": "Kings and Pigs.png",
       "path": "packs/pixelfrog-kings-and-pigs/sprites/Kings and Pigs.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/6654c6f1ec4acb6feaf02eb373d38bd9cb9fd8a0/packs/pixelfrog-kings-and-pigs/sprites/Kings%20and%20Pigs.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/0cc96d965b06bf7afdc89276d78327300a51b498/packs/pixelfrog-kings-and-pigs/sprites/Kings%20and%20Pigs.png",
       "sha256": "00c7100036cc1293018fe76cd943b005df8470d2ab8dce71a686aa24f3a2dff8",
       "size": 909,
       "contentType": "image/png",
