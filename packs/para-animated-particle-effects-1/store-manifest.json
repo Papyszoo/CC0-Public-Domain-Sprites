@@ -6,7 +6,7 @@
   "website": "https://opengameart.org/content/animated-particle-effects-1",
   "description": "14 high-quality 64-frame 128x128 animated particle burst and magic blast spritesheets by para. CC0 1.0 Universal.",
   "folder": "packs/para-animated-particle-effects-1",
-  "pinnedSha": "fa6432a09ee34a7d146a3684afa9337d5b38259c",
+  "pinnedSha": "54f2a542e652b1f708a375897885a238893ab2d0",
   "itemCount": 14,
   "items": [
     {
@@ -182,7 +182,7 @@
     {
       "fileName": "particlefx_01 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_01 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_01%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_01%20(128x128).png",
       "sha256": "7203aa49f548f0f94f4e711168c08edf375869161aef7d38ef01715bf7dc643d",
       "size": 953126,
       "role": "Image"
@@ -190,7 +190,7 @@
     {
       "fileName": "particlefx_02 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_02 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_02%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_02%20(128x128).png",
       "sha256": "23ab2574ff5c2c470737152abf850a215ce4add96b6d2d00ef3297f2d11cff4c",
       "size": 1033357,
       "role": "Image"
@@ -198,7 +198,7 @@
     {
       "fileName": "particlefx_03 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_03 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_03%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_03%20(128x128).png",
       "sha256": "368f7f30504337feb8377756e46eb43629498989983f56915dd1c94e141ed030",
       "size": 1007041,
       "role": "Image"
@@ -206,7 +206,7 @@
     {
       "fileName": "particlefx_04 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_04 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_04%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_04%20(128x128).png",
       "sha256": "da7fcf03bd7687371a565c98e71d172af2440e023cca6b28b0bbb7df6b675601",
       "size": 855180,
       "role": "Image"
@@ -214,7 +214,7 @@
     {
       "fileName": "particlefx_05 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_05 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_05%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_05%20(128x128).png",
       "sha256": "e52697f96f8721bd6bf9e4f7afdf657b06c5ee05c6d3cf3ac291e7c04fb24121",
       "size": 564429,
       "role": "Image"
@@ -222,7 +222,7 @@
     {
       "fileName": "particlefx_06 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_06 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_06%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_06%20(128x128).png",
       "sha256": "bab1b3470ba98c86b9515cf68c09c53f8c12c7dd322c8d8bf4fc1bc3ecd2ed17",
       "size": 1102488,
       "role": "Image"
@@ -230,7 +230,7 @@
     {
       "fileName": "particlefx_07 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_07 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_07%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_07%20(128x128).png",
       "sha256": "79dc019c619ec970fd427e259e4638c82c34d91bb6ba611643ea9650e5190342",
       "size": 919479,
       "role": "Image"
@@ -238,7 +238,7 @@
     {
       "fileName": "particlefx_08 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_08 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_08%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_08%20(128x128).png",
       "sha256": "b4c824d73b48c135270c8daa38a8b8aafcb91b335ca6624f7ba09c20a877b42f",
       "size": 680871,
       "role": "Image"
@@ -246,7 +246,7 @@
     {
       "fileName": "particlefx_09 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_09 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_09%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_09%20(128x128).png",
       "sha256": "3bd88c1df20578bc1bac390cc03eed4b5bd9d04048fee91d9e8a7ec47b81c4c3",
       "size": 1407337,
       "role": "Image"
@@ -254,7 +254,7 @@
     {
       "fileName": "particlefx_10 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_10 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_10%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_10%20(128x128).png",
       "sha256": "5823a717719f3a820d8cdab4387a1587725faaa025da02c1b1cf99fe07517be3",
       "size": 1987949,
       "role": "Image"
@@ -262,7 +262,7 @@
     {
       "fileName": "particlefx_11 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_11 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_11%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_11%20(128x128).png",
       "sha256": "d11d20e88681fc7188604b1b6b6a38896293f831c7eda219701b2bd73be85dbd",
       "size": 2099169,
       "role": "Image"
@@ -270,7 +270,7 @@
     {
       "fileName": "particlefx_12 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_12 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_12%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_12%20(128x128).png",
       "sha256": "ac1fa6db7a06e10a8cefa0df7905cc7bea9d3e8c64db8868d832a34c73542ea1",
       "size": 652116,
       "role": "Image"
@@ -278,7 +278,7 @@
     {
       "fileName": "particlefx_13 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_13 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_13%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_13%20(128x128).png",
       "sha256": "9f22edce17fd6970b6eba53e476afc504efe6f45a3791d7b4517673111c8d8ee",
       "size": 1287107,
       "role": "Image"
@@ -286,7 +286,7 @@
     {
       "fileName": "particlefx_14 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_14 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_14%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_14%20(128x128).png",
       "sha256": "4b345c469aeb3f4eb39d10721763d337ed58338db5ed84dad36a36ee40a50f64",
       "size": 1029249,
       "role": "Image"
@@ -296,7 +296,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/para-animated-particle-effects-1/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/cover.png",
       "sha256": "7203aa49f548f0f94f4e711168c08edf375869161aef7d38ef01715bf7dc643d",
       "size": 953126,
       "contentType": "image/png",
@@ -305,7 +305,7 @@
     {
       "fileName": "particlefx_01 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_01 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_01%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_01%20(128x128).png",
       "sha256": "7203aa49f548f0f94f4e711168c08edf375869161aef7d38ef01715bf7dc643d",
       "size": 953126,
       "contentType": "image/png",
@@ -315,7 +315,7 @@
     {
       "fileName": "particlefx_02 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_02 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_02%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_02%20(128x128).png",
       "sha256": "23ab2574ff5c2c470737152abf850a215ce4add96b6d2d00ef3297f2d11cff4c",
       "size": 1033357,
       "contentType": "image/png",
@@ -325,7 +325,7 @@
     {
       "fileName": "particlefx_03 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_03 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_03%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_03%20(128x128).png",
       "sha256": "368f7f30504337feb8377756e46eb43629498989983f56915dd1c94e141ed030",
       "size": 1007041,
       "contentType": "image/png",
@@ -335,7 +335,7 @@
     {
       "fileName": "particlefx_04 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_04 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_04%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_04%20(128x128).png",
       "sha256": "da7fcf03bd7687371a565c98e71d172af2440e023cca6b28b0bbb7df6b675601",
       "size": 855180,
       "contentType": "image/png",
@@ -345,7 +345,7 @@
     {
       "fileName": "particlefx_05 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_05 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_05%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_05%20(128x128).png",
       "sha256": "e52697f96f8721bd6bf9e4f7afdf657b06c5ee05c6d3cf3ac291e7c04fb24121",
       "size": 564429,
       "contentType": "image/png",
@@ -355,7 +355,7 @@
     {
       "fileName": "particlefx_06 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_06 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_06%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_06%20(128x128).png",
       "sha256": "bab1b3470ba98c86b9515cf68c09c53f8c12c7dd322c8d8bf4fc1bc3ecd2ed17",
       "size": 1102488,
       "contentType": "image/png",
@@ -365,7 +365,7 @@
     {
       "fileName": "particlefx_07 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_07 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_07%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_07%20(128x128).png",
       "sha256": "79dc019c619ec970fd427e259e4638c82c34d91bb6ba611643ea9650e5190342",
       "size": 919479,
       "contentType": "image/png",
@@ -375,7 +375,7 @@
     {
       "fileName": "particlefx_08 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_08 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_08%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_08%20(128x128).png",
       "sha256": "b4c824d73b48c135270c8daa38a8b8aafcb91b335ca6624f7ba09c20a877b42f",
       "size": 680871,
       "contentType": "image/png",
@@ -385,7 +385,7 @@
     {
       "fileName": "particlefx_09 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_09 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_09%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_09%20(128x128).png",
       "sha256": "3bd88c1df20578bc1bac390cc03eed4b5bd9d04048fee91d9e8a7ec47b81c4c3",
       "size": 1407337,
       "contentType": "image/png",
@@ -395,7 +395,7 @@
     {
       "fileName": "particlefx_10 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_10 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_10%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_10%20(128x128).png",
       "sha256": "5823a717719f3a820d8cdab4387a1587725faaa025da02c1b1cf99fe07517be3",
       "size": 1987949,
       "contentType": "image/png",
@@ -405,7 +405,7 @@
     {
       "fileName": "particlefx_11 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_11 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_11%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_11%20(128x128).png",
       "sha256": "d11d20e88681fc7188604b1b6b6a38896293f831c7eda219701b2bd73be85dbd",
       "size": 2099169,
       "contentType": "image/png",
@@ -415,7 +415,7 @@
     {
       "fileName": "particlefx_12 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_12 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_12%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_12%20(128x128).png",
       "sha256": "ac1fa6db7a06e10a8cefa0df7905cc7bea9d3e8c64db8868d832a34c73542ea1",
       "size": 652116,
       "contentType": "image/png",
@@ -425,7 +425,7 @@
     {
       "fileName": "particlefx_13 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_13 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_13%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_13%20(128x128).png",
       "sha256": "9f22edce17fd6970b6eba53e476afc504efe6f45a3791d7b4517673111c8d8ee",
       "size": 1287107,
       "contentType": "image/png",
@@ -435,7 +435,7 @@
     {
       "fileName": "particlefx_14 (128x128).png",
       "path": "packs/para-animated-particle-effects-1/sprites/particlefx_14 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/para-animated-particle-effects-1/sprites/particlefx_14%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/para-animated-particle-effects-1/sprites/particlefx_14%20(128x128).png",
       "sha256": "4b345c469aeb3f4eb39d10721763d337ed58338db5ed84dad36a36ee40a50f64",
       "size": 1029249,
       "contentType": "image/png",

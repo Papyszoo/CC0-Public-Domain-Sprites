@@ -6,7 +6,7 @@
   "website": "https://opengameart.org/content/pixel-art-spells",
   "description": "22 animated pixel-art magic projectile & spell VFX spritesheets: fireballs, arcane bolts, magic orbs, ice lances, shields, dark energy, and water blasts by DevWizard. CC0 1.0 Universal.",
   "folder": "packs/devwizard-pixel-art-spells",
-  "pinnedSha": "fa6432a09ee34a7d146a3684afa9337d5b38259c",
+  "pinnedSha": "54f2a542e652b1f708a375897885a238893ab2d0",
   "itemCount": 22,
   "items": [
     {
@@ -278,7 +278,7 @@
     {
       "fileName": "arcane-bolt (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/arcane-bolt (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/arcane-bolt%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/arcane-bolt%20(16x16).png",
       "sha256": "1ef5fd0b85ad134db664dade0774a7554e8d55fabba016ed95d8afa12b9ac1c3",
       "size": 458,
       "role": "Image"
@@ -286,7 +286,7 @@
     {
       "fileName": "black-and-white-ray (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/black-and-white-ray (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/black-and-white-ray%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/black-and-white-ray%20(16x16).png",
       "sha256": "6ab0677048b69c6420ea5eba09aba9eb0de5bf0a6f8b6c522f1ea193cfa0ce8d",
       "size": 310,
       "role": "Image"
@@ -294,7 +294,7 @@
     {
       "fileName": "black-and-white-sparks (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/black-and-white-sparks (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/black-and-white-sparks%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/black-and-white-sparks%20(16x16).png",
       "sha256": "ef82cfa6f84a9b441356023d5ae0181ed55f473d35f39b83222234415bc30bac",
       "size": 242,
       "role": "Image"
@@ -302,7 +302,7 @@
     {
       "fileName": "bolt-of-purity (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/bolt-of-purity (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/bolt-of-purity%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/bolt-of-purity%20(16x16).png",
       "sha256": "70c9cba7a44e72f7719b1db61fdbe7a6a04ce12763afa0f12e8378aa907eaee5",
       "size": 359,
       "role": "Image"
@@ -310,7 +310,7 @@
     {
       "fileName": "darkness-bolt (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/darkness-bolt (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/darkness-bolt%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/darkness-bolt%20(16x16).png",
       "sha256": "98f42005d9e3daf837986cc8a9939e4f585687bd1889ee55e5abd2c10d893d94",
       "size": 422,
       "role": "Image"
@@ -318,7 +318,7 @@
     {
       "fileName": "darkness-orb (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/darkness-orb (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/darkness-orb%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/darkness-orb%20(16x16).png",
       "sha256": "1c0841abd3c22972fd6d3fb82210214ad7d3a0526276d88aa8e45b62af1c4f64",
       "size": 282,
       "role": "Image"
@@ -326,7 +326,7 @@
     {
       "fileName": "fireball (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/fireball (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/fireball%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/fireball%20(16x16).png",
       "sha256": "35f2ccc7e23ad18103ce6a48d515c4316c170e05eaa388189d8576793da0edf2",
       "size": 436,
       "role": "Image"
@@ -334,7 +334,7 @@
     {
       "fileName": "firebomb (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/firebomb (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/firebomb%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/firebomb%20(16x16).png",
       "sha256": "a59b3e5e80dea2572c72b11dd84ed9bf17578cf584f4d32719f67e215372e18b",
       "size": 423,
       "role": "Image"
@@ -342,7 +342,7 @@
     {
       "fileName": "ice-lance (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/ice-lance (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/ice-lance%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/ice-lance%20(16x16).png",
       "sha256": "96368e4f3845fea74c5439c634f04bb13db660c9508b9948d6f39285b35c188a",
       "size": 173,
       "role": "Image"
@@ -350,7 +350,7 @@
     {
       "fileName": "light-bolt (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/light-bolt (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/light-bolt%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/light-bolt%20(16x16).png",
       "sha256": "38fe63a44f7e96694fb66217a42190539bc1ee4fe1f3b2792804bfe9196043ea",
       "size": 362,
       "role": "Image"
@@ -358,7 +358,7 @@
     {
       "fileName": "magic-orb (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/magic-orb (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/magic-orb%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/magic-orb%20(16x16).png",
       "sha256": "a7b6f0efc91b6625a428854d1436305f4583947bee399a8cf5e833aad772a95d",
       "size": 373,
       "role": "Image"
@@ -366,7 +366,7 @@
     {
       "fileName": "magic-ray (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/magic-ray (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/magic-ray%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/magic-ray%20(16x16).png",
       "sha256": "c497d50d1287d2ff7f6c9ffae616e7856e8a9147a4931c3d6d50383220faa988",
       "size": 323,
       "role": "Image"
@@ -374,7 +374,7 @@
     {
       "fileName": "magic-sparks (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/magic-sparks (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/magic-sparks%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/magic-sparks%20(16x16).png",
       "sha256": "203c795346f695308371eb85ac57689be95e3b14bda1d0ddb17d79916bc51a49",
       "size": 216,
       "role": "Image"
@@ -382,7 +382,7 @@
     {
       "fileName": "pixelart-shield (48x48).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/pixelart-shield (48x48).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/pixelart-shield%20(48x48).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/pixelart-shield%20(48x48).png",
       "sha256": "da035602b6bf9a185ce89663e917a2309ffe61016d9e22c84e671dd81feecbc2",
       "size": 1355,
       "role": "Image"
@@ -390,7 +390,7 @@
     {
       "fileName": "plant-missle (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/plant-missle (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/plant-missle%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/plant-missle%20(16x16).png",
       "sha256": "4dd2bba0e660329d08559924442e54232e79f00fb2d7215c2d9f6f726545bf2f",
       "size": 325,
       "role": "Image"
@@ -398,7 +398,7 @@
     {
       "fileName": "pure-bolt-2 (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/pure-bolt-2 (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/pure-bolt-2%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/pure-bolt-2%20(16x16).png",
       "sha256": "6dcdaabe18378531ed70b7874f354d3cb6ce4c0fd7a422a0feaa3b9ddbd2a989",
       "size": 332,
       "role": "Image"
@@ -406,7 +406,7 @@
     {
       "fileName": "rock-sling.png",
       "path": "packs/devwizard-pixel-art-spells/sprites/rock-sling.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/rock-sling.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/rock-sling.png",
       "sha256": "19d858b0cd1bc38efbcfe63cf259ca297dd5ca28f91e3373ead42bb9b3685aae",
       "size": 224,
       "role": "Image"
@@ -414,7 +414,7 @@
     {
       "fileName": "splash (32x32).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/splash (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/splash%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/splash%20(32x32).png",
       "sha256": "cfd6a007dbbf15c9fdebc2fd347d5e3f71b73cc3839a8a428392008cbc151ddc",
       "size": 848,
       "role": "Image"
@@ -422,7 +422,7 @@
     {
       "fileName": "water-blast (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/water-blast (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/water-blast%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/water-blast%20(16x16).png",
       "sha256": "e41b86748ef386fd0a164b9952c2d0fdce94541633d080a6a320f75e3cd07238",
       "size": 494,
       "role": "Image"
@@ -430,7 +430,7 @@
     {
       "fileName": "water-bolt (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/water-bolt (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/water-bolt%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/water-bolt%20(16x16).png",
       "sha256": "efc5ba0d9a2142e7ac109bdf8d1e16eb8ceb9a660cecf3ede652c36970754058",
       "size": 517,
       "role": "Image"
@@ -438,7 +438,7 @@
     {
       "fileName": "water-orb (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/water-orb (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/water-orb%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/water-orb%20(16x16).png",
       "sha256": "b705ff3b3cd41bfb3ab8e537060b063feb9b4875e314b2e5c4297ffac16e33d6",
       "size": 308,
       "role": "Image"
@@ -446,7 +446,7 @@
     {
       "fileName": "wind-bolt (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/wind-bolt (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/wind-bolt%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/wind-bolt%20(16x16).png",
       "sha256": "19adb7e77df6c94eef4c23ba8c7713296a5ab08378a1406f4ba30a0b93692522",
       "size": 447,
       "role": "Image"
@@ -456,7 +456,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/devwizard-pixel-art-spells/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/cover.png",
       "sha256": "35f2ccc7e23ad18103ce6a48d515c4316c170e05eaa388189d8576793da0edf2",
       "size": 436,
       "contentType": "image/png",
@@ -465,7 +465,7 @@
     {
       "fileName": "arcane-bolt (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/arcane-bolt (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/arcane-bolt%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/arcane-bolt%20(16x16).png",
       "sha256": "1ef5fd0b85ad134db664dade0774a7554e8d55fabba016ed95d8afa12b9ac1c3",
       "size": 458,
       "contentType": "image/png",
@@ -475,7 +475,7 @@
     {
       "fileName": "black-and-white-ray (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/black-and-white-ray (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/black-and-white-ray%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/black-and-white-ray%20(16x16).png",
       "sha256": "6ab0677048b69c6420ea5eba09aba9eb0de5bf0a6f8b6c522f1ea193cfa0ce8d",
       "size": 310,
       "contentType": "image/png",
@@ -485,7 +485,7 @@
     {
       "fileName": "black-and-white-sparks (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/black-and-white-sparks (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/black-and-white-sparks%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/black-and-white-sparks%20(16x16).png",
       "sha256": "ef82cfa6f84a9b441356023d5ae0181ed55f473d35f39b83222234415bc30bac",
       "size": 242,
       "contentType": "image/png",
@@ -495,7 +495,7 @@
     {
       "fileName": "bolt-of-purity (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/bolt-of-purity (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/bolt-of-purity%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/bolt-of-purity%20(16x16).png",
       "sha256": "70c9cba7a44e72f7719b1db61fdbe7a6a04ce12763afa0f12e8378aa907eaee5",
       "size": 359,
       "contentType": "image/png",
@@ -505,7 +505,7 @@
     {
       "fileName": "darkness-bolt (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/darkness-bolt (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/darkness-bolt%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/darkness-bolt%20(16x16).png",
       "sha256": "98f42005d9e3daf837986cc8a9939e4f585687bd1889ee55e5abd2c10d893d94",
       "size": 422,
       "contentType": "image/png",
@@ -515,7 +515,7 @@
     {
       "fileName": "darkness-orb (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/darkness-orb (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/darkness-orb%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/darkness-orb%20(16x16).png",
       "sha256": "1c0841abd3c22972fd6d3fb82210214ad7d3a0526276d88aa8e45b62af1c4f64",
       "size": 282,
       "contentType": "image/png",
@@ -525,7 +525,7 @@
     {
       "fileName": "fireball (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/fireball (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/fireball%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/fireball%20(16x16).png",
       "sha256": "35f2ccc7e23ad18103ce6a48d515c4316c170e05eaa388189d8576793da0edf2",
       "size": 436,
       "contentType": "image/png",
@@ -535,7 +535,7 @@
     {
       "fileName": "firebomb (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/firebomb (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/firebomb%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/firebomb%20(16x16).png",
       "sha256": "a59b3e5e80dea2572c72b11dd84ed9bf17578cf584f4d32719f67e215372e18b",
       "size": 423,
       "contentType": "image/png",
@@ -545,7 +545,7 @@
     {
       "fileName": "ice-lance (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/ice-lance (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/ice-lance%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/ice-lance%20(16x16).png",
       "sha256": "96368e4f3845fea74c5439c634f04bb13db660c9508b9948d6f39285b35c188a",
       "size": 173,
       "contentType": "image/png",
@@ -555,7 +555,7 @@
     {
       "fileName": "light-bolt (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/light-bolt (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/light-bolt%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/light-bolt%20(16x16).png",
       "sha256": "38fe63a44f7e96694fb66217a42190539bc1ee4fe1f3b2792804bfe9196043ea",
       "size": 362,
       "contentType": "image/png",
@@ -565,7 +565,7 @@
     {
       "fileName": "magic-orb (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/magic-orb (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/magic-orb%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/magic-orb%20(16x16).png",
       "sha256": "a7b6f0efc91b6625a428854d1436305f4583947bee399a8cf5e833aad772a95d",
       "size": 373,
       "contentType": "image/png",
@@ -575,7 +575,7 @@
     {
       "fileName": "magic-ray (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/magic-ray (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/magic-ray%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/magic-ray%20(16x16).png",
       "sha256": "c497d50d1287d2ff7f6c9ffae616e7856e8a9147a4931c3d6d50383220faa988",
       "size": 323,
       "contentType": "image/png",
@@ -585,7 +585,7 @@
     {
       "fileName": "magic-sparks (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/magic-sparks (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/magic-sparks%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/magic-sparks%20(16x16).png",
       "sha256": "203c795346f695308371eb85ac57689be95e3b14bda1d0ddb17d79916bc51a49",
       "size": 216,
       "contentType": "image/png",
@@ -595,7 +595,7 @@
     {
       "fileName": "pixelart-shield (48x48).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/pixelart-shield (48x48).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/pixelart-shield%20(48x48).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/pixelart-shield%20(48x48).png",
       "sha256": "da035602b6bf9a185ce89663e917a2309ffe61016d9e22c84e671dd81feecbc2",
       "size": 1355,
       "contentType": "image/png",
@@ -605,7 +605,7 @@
     {
       "fileName": "plant-missle (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/plant-missle (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/plant-missle%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/plant-missle%20(16x16).png",
       "sha256": "4dd2bba0e660329d08559924442e54232e79f00fb2d7215c2d9f6f726545bf2f",
       "size": 325,
       "contentType": "image/png",
@@ -615,7 +615,7 @@
     {
       "fileName": "pure-bolt-2 (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/pure-bolt-2 (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/pure-bolt-2%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/pure-bolt-2%20(16x16).png",
       "sha256": "6dcdaabe18378531ed70b7874f354d3cb6ce4c0fd7a422a0feaa3b9ddbd2a989",
       "size": 332,
       "contentType": "image/png",
@@ -625,7 +625,7 @@
     {
       "fileName": "rock-sling.png",
       "path": "packs/devwizard-pixel-art-spells/sprites/rock-sling.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/rock-sling.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/rock-sling.png",
       "sha256": "19d858b0cd1bc38efbcfe63cf259ca297dd5ca28f91e3373ead42bb9b3685aae",
       "size": 224,
       "contentType": "image/png",
@@ -635,7 +635,7 @@
     {
       "fileName": "splash (32x32).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/splash (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/splash%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/splash%20(32x32).png",
       "sha256": "cfd6a007dbbf15c9fdebc2fd347d5e3f71b73cc3839a8a428392008cbc151ddc",
       "size": 848,
       "contentType": "image/png",
@@ -645,7 +645,7 @@
     {
       "fileName": "water-blast (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/water-blast (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/water-blast%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/water-blast%20(16x16).png",
       "sha256": "e41b86748ef386fd0a164b9952c2d0fdce94541633d080a6a320f75e3cd07238",
       "size": 494,
       "contentType": "image/png",
@@ -655,7 +655,7 @@
     {
       "fileName": "water-bolt (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/water-bolt (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/water-bolt%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/water-bolt%20(16x16).png",
       "sha256": "efc5ba0d9a2142e7ac109bdf8d1e16eb8ceb9a660cecf3ede652c36970754058",
       "size": 517,
       "contentType": "image/png",
@@ -665,7 +665,7 @@
     {
       "fileName": "water-orb (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/water-orb (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/water-orb%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/water-orb%20(16x16).png",
       "sha256": "b705ff3b3cd41bfb3ab8e537060b063feb9b4875e314b2e5c4297ffac16e33d6",
       "size": 308,
       "contentType": "image/png",
@@ -675,7 +675,7 @@
     {
       "fileName": "wind-bolt (16x16).png",
       "path": "packs/devwizard-pixel-art-spells/sprites/wind-bolt (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/devwizard-pixel-art-spells/sprites/wind-bolt%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/devwizard-pixel-art-spells/sprites/wind-bolt%20(16x16).png",
       "sha256": "19adb7e77df6c94eef4c23ba8c7713296a5ab08378a1406f4ba30a0b93692522",
       "size": 447,
       "contentType": "image/png",

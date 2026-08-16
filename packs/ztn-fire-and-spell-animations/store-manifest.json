@@ -6,7 +6,7 @@
   "website": "https://opengameart.org/content/fire-and-spell-animations",
   "description": "High-resolution transparent animated magic and fire spritesheets (64-frame 128x128 & 64x64 grids): barriers, fireballs, fire walls, fire spells, and torches by ztn & Spiney. CC0 1.0 Universal.",
   "folder": "packs/ztn-fire-and-spell-animations",
-  "pinnedSha": "fa6432a09ee34a7d146a3684afa9337d5b38259c",
+  "pinnedSha": "54f2a542e652b1f708a375897885a238893ab2d0",
   "itemCount": 7,
   "items": [
     {
@@ -98,7 +98,7 @@
     {
       "fileName": "barrier (128x128).png",
       "path": "packs/ztn-fire-and-spell-animations/sprites/barrier (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/ztn-fire-and-spell-animations/sprites/barrier%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/ztn-fire-and-spell-animations/sprites/barrier%20(128x128).png",
       "sha256": "ec864f10567c7786d11f07cf0acd760146bdae28d09e7cdc703cb044043736cc",
       "size": 1639036,
       "role": "Image"
@@ -106,7 +106,7 @@
     {
       "fileName": "fireball (64x64).png",
       "path": "packs/ztn-fire-and-spell-animations/sprites/fireball (64x64).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/ztn-fire-and-spell-animations/sprites/fireball%20(64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/ztn-fire-and-spell-animations/sprites/fireball%20(64x64).png",
       "sha256": "699385d429f9b84d0acab2f7a43c6e9b1b64709ab99e959e02050459494b3942",
       "size": 254848,
       "role": "Image"
@@ -114,7 +114,7 @@
     {
       "fileName": "fireball2 (128x128).png",
       "path": "packs/ztn-fire-and-spell-animations/sprites/fireball2 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/ztn-fire-and-spell-animations/sprites/fireball2%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/ztn-fire-and-spell-animations/sprites/fireball2%20(128x128).png",
       "sha256": "976bf7e8a8b2451a13b9cc1cd6829c171b246011e57f774a991a5ec3560e2c21",
       "size": 708092,
       "role": "Image"
@@ -122,7 +122,7 @@
     {
       "fileName": "firespell1 (128x128).png",
       "path": "packs/ztn-fire-and-spell-animations/sprites/firespell1 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/ztn-fire-and-spell-animations/sprites/firespell1%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/ztn-fire-and-spell-animations/sprites/firespell1%20(128x128).png",
       "sha256": "3ac89abd5cb8ee1a3286a6bb39c30b62acd33fce4bbe6851c9a8779639e64393",
       "size": 775912,
       "role": "Image"
@@ -130,7 +130,7 @@
     {
       "fileName": "firespell2 (128x128).png",
       "path": "packs/ztn-fire-and-spell-animations/sprites/firespell2 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/ztn-fire-and-spell-animations/sprites/firespell2%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/ztn-fire-and-spell-animations/sprites/firespell2%20(128x128).png",
       "sha256": "396b5fa506315ea9f38d1f618c9749ae36c7bb8936f052be376d975eb8fbf1a2",
       "size": 179617,
       "role": "Image"
@@ -138,7 +138,7 @@
     {
       "fileName": "firewall (128x128).png",
       "path": "packs/ztn-fire-and-spell-animations/sprites/firewall (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/ztn-fire-and-spell-animations/sprites/firewall%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/ztn-fire-and-spell-animations/sprites/firewall%20(128x128).png",
       "sha256": "8bd78e1cb9e3a3107d352442412a1e50aec266fd7680c828a27dd84f8beef916",
       "size": 681880,
       "role": "Image"
@@ -146,7 +146,7 @@
     {
       "fileName": "torch (128x128).png",
       "path": "packs/ztn-fire-and-spell-animations/sprites/torch (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/ztn-fire-and-spell-animations/sprites/torch%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/ztn-fire-and-spell-animations/sprites/torch%20(128x128).png",
       "sha256": "0e1cdc6478277602eac852d3e3cac5f41087b8647f011d479154419cdb8e1b41",
       "size": 534009,
       "role": "Image"
@@ -156,7 +156,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/ztn-fire-and-spell-animations/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/ztn-fire-and-spell-animations/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/ztn-fire-and-spell-animations/cover.png",
       "sha256": "699385d429f9b84d0acab2f7a43c6e9b1b64709ab99e959e02050459494b3942",
       "size": 254848,
       "contentType": "image/png",
@@ -165,7 +165,7 @@
     {
       "fileName": "barrier (128x128).png",
       "path": "packs/ztn-fire-and-spell-animations/sprites/barrier (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/ztn-fire-and-spell-animations/sprites/barrier%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/ztn-fire-and-spell-animations/sprites/barrier%20(128x128).png",
       "sha256": "ec864f10567c7786d11f07cf0acd760146bdae28d09e7cdc703cb044043736cc",
       "size": 1639036,
       "contentType": "image/png",
@@ -175,7 +175,7 @@
     {
       "fileName": "fireball (64x64).png",
       "path": "packs/ztn-fire-and-spell-animations/sprites/fireball (64x64).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/ztn-fire-and-spell-animations/sprites/fireball%20(64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/ztn-fire-and-spell-animations/sprites/fireball%20(64x64).png",
       "sha256": "699385d429f9b84d0acab2f7a43c6e9b1b64709ab99e959e02050459494b3942",
       "size": 254848,
       "contentType": "image/png",
@@ -185,7 +185,7 @@
     {
       "fileName": "fireball2 (128x128).png",
       "path": "packs/ztn-fire-and-spell-animations/sprites/fireball2 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/ztn-fire-and-spell-animations/sprites/fireball2%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/ztn-fire-and-spell-animations/sprites/fireball2%20(128x128).png",
       "sha256": "976bf7e8a8b2451a13b9cc1cd6829c171b246011e57f774a991a5ec3560e2c21",
       "size": 708092,
       "contentType": "image/png",
@@ -195,7 +195,7 @@
     {
       "fileName": "firespell1 (128x128).png",
       "path": "packs/ztn-fire-and-spell-animations/sprites/firespell1 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/ztn-fire-and-spell-animations/sprites/firespell1%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/ztn-fire-and-spell-animations/sprites/firespell1%20(128x128).png",
       "sha256": "3ac89abd5cb8ee1a3286a6bb39c30b62acd33fce4bbe6851c9a8779639e64393",
       "size": 775912,
       "contentType": "image/png",
@@ -205,7 +205,7 @@
     {
       "fileName": "firespell2 (128x128).png",
       "path": "packs/ztn-fire-and-spell-animations/sprites/firespell2 (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/ztn-fire-and-spell-animations/sprites/firespell2%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/ztn-fire-and-spell-animations/sprites/firespell2%20(128x128).png",
       "sha256": "396b5fa506315ea9f38d1f618c9749ae36c7bb8936f052be376d975eb8fbf1a2",
       "size": 179617,
       "contentType": "image/png",
@@ -215,7 +215,7 @@
     {
       "fileName": "firewall (128x128).png",
       "path": "packs/ztn-fire-and-spell-animations/sprites/firewall (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/ztn-fire-and-spell-animations/sprites/firewall%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/ztn-fire-and-spell-animations/sprites/firewall%20(128x128).png",
       "sha256": "8bd78e1cb9e3a3107d352442412a1e50aec266fd7680c828a27dd84f8beef916",
       "size": 681880,
       "contentType": "image/png",
@@ -225,7 +225,7 @@
     {
       "fileName": "torch (128x128).png",
       "path": "packs/ztn-fire-and-spell-animations/sprites/torch (128x128).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/ztn-fire-and-spell-animations/sprites/torch%20(128x128).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/54f2a542e652b1f708a375897885a238893ab2d0/packs/ztn-fire-and-spell-animations/sprites/torch%20(128x128).png",
       "sha256": "0e1cdc6478277602eac852d3e3cac5f41087b8647f011d479154419cdb8e1b41",
       "size": 534009,
       "contentType": "image/png",
