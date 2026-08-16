@@ -1,0 +1,13 @@
+{
+  "name": "Hard Vacuum: Terrain & Ground",
+  "creator": "Daniel Cook",
+  "website": "https://lostgarden.home.blog/",
+  "license": "CC0",
+  "description": "Over 580 modular pixel-art RTS terrain tiles: grass, dirt, concrete roads, cliffs, shorelines, water, and alien terrain by Daniel Cook (Lostgarden). CC0 1.0 Universal.",
+  "generation": {
+    "category": "Tilesets & Environments",
+    "allowed_categories": [
+      "Tilesets & Environments"
+    ]
+  }
+}

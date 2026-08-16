@@ -1,0 +1,14 @@
+{
+  "name": "Hard Vacuum: Structures & Base",
+  "creator": "Daniel Cook",
+  "website": "https://lostgarden.home.blog/",
+  "license": "CC0",
+  "description": "Over 300 Sci-Fi base structures, headquarters, radar dishes, power plants, turrets, refineries, craters, and explosions by Daniel Cook (Lostgarden). CC0 1.0 Universal.",
+  "generation": {
+    "category": "Tilesets & Environments",
+    "allowed_categories": [
+      "Tilesets & Environments",
+      "Effects"
+    ]
+  }
+}

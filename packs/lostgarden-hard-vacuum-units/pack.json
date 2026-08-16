@@ -1,0 +1,15 @@
+{
+  "name": "Hard Vacuum: Units & Vehicles",
+  "creator": "Daniel Cook",
+  "website": "https://lostgarden.home.blog/",
+  "license": "CC0",
+  "description": "Over 200 classic pixel-art Sci-Fi RTS units: tanks, buggies, aircraft, naval gunboats, mech walkers, and infantry by Daniel Cook (Lostgarden). CC0 1.0 Universal public domain.",
+  "generation": {
+    "category": "Items & Icons",
+    "allowed_categories": [
+      "Items & Icons",
+      "Characters",
+      "Creatures"
+    ]
+  }
+}

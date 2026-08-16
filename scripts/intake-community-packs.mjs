@@ -352,6 +352,129 @@ async function intakeDCSS() {
     }
 }
 
+async function intakeHardVacuum() {
+    const srcBase = "/tmp/openhv/mods/hv/bits/sprites";
+    if (!fs.existsSync(srcBase)) return;
+
+    // 1. Hard Vacuum: Units & Vehicles
+    {
+        const slug = "lostgarden-hard-vacuum-units";
+        const targetDir = path.join(PACKS_DIR, slug);
+        fs.mkdirSync(path.join(targetDir, "sprites"), { recursive: true });
+
+        const unitDirs = ["aircraft", "infantry", "ships", "vehicles", "animals"];
+        for (const d of unitDirs) {
+            const s = path.join(srcBase, d);
+            if (fs.existsSync(s)) {
+                // Copy only PNG files
+                for (const file of fs.readdirSync(s)) {
+                    if (file.endsWith(".png")) {
+                        fs.copyFileSync(path.join(s, file), path.join(targetDir, "sprites", `${d}_${file}`));
+                    }
+                }
+            }
+        }
+
+        // Cover
+        const tank = path.join(targetDir, "sprites", "vehicles_tank-idle.png");
+        if (fs.existsSync(tank)) fs.copyFileSync(tank, path.join(targetDir, "cover.png"));
+
+        const packJson = {
+            name: "Hard Vacuum: Units & Vehicles",
+            creator: "Daniel Cook",
+            website: "https://lostgarden.home.blog/",
+            license: "CC0",
+            description: "Over 200 classic pixel-art Sci-Fi RTS units: tanks, buggies, aircraft, naval gunboats, mech walkers, and infantry by Daniel Cook (Lostgarden). CC0 1.0 Universal public domain.",
+            generation: {
+                category: "Items & Icons",
+                allowed_categories: [
+                    "Items & Icons",
+                    "Characters",
+                    "Creatures"
+                ]
+            }
+        };
+        fs.writeFileSync(path.join(targetDir, "pack.json"), JSON.stringify(packJson, null, 2) + "\n");
+        console.log(`✓ ${slug} intaked`);
+    }
+
+    // 2. Hard Vacuum: Structures & Base
+    {
+        const slug = "lostgarden-hard-vacuum-structures";
+        const targetDir = path.join(PACKS_DIR, slug);
+        fs.mkdirSync(path.join(targetDir, "sprites"), { recursive: true });
+
+        const structDirs = ["buildings", "props", "effects"];
+        for (const d of structDirs) {
+            const s = path.join(srcBase, d);
+            if (fs.existsSync(s)) {
+                for (const file of fs.readdirSync(s)) {
+                    if (file.endsWith(".png")) {
+                        fs.copyFileSync(path.join(s, file), path.join(targetDir, "sprites", `${d}_${file}`));
+                    }
+                }
+            }
+        }
+
+        // Cover
+        const bldg = path.join(targetDir, "sprites", "buildings_hq-idle.png");
+        if (fs.existsSync(bldg)) fs.copyFileSync(bldg, path.join(targetDir, "cover.png"));
+
+        const packJson = {
+            name: "Hard Vacuum: Structures & Base",
+            creator: "Daniel Cook",
+            website: "https://lostgarden.home.blog/",
+            license: "CC0",
+            description: "Over 300 Sci-Fi base structures, headquarters, radar dishes, power plants, turrets, refineries, craters, and explosions by Daniel Cook (Lostgarden). CC0 1.0 Universal.",
+            generation: {
+                category: "Tilesets & Environments",
+                allowed_categories: [
+                    "Tilesets & Environments",
+                    "Effects"
+                ]
+            }
+        };
+        fs.writeFileSync(path.join(targetDir, "pack.json"), JSON.stringify(packJson, null, 2) + "\n");
+        console.log(`✓ ${slug} intaked`);
+    }
+
+    // 3. Hard Vacuum: Terrain
+    {
+        const slug = "lostgarden-hard-vacuum-terrain";
+        const targetDir = path.join(PACKS_DIR, slug);
+        fs.mkdirSync(path.join(targetDir, "sprites"), { recursive: true });
+
+        const s = path.join(srcBase, "terrain");
+        if (fs.existsSync(s)) {
+            for (const file of fs.readdirSync(s)) {
+                if (file.endsWith(".png")) {
+                    fs.copyFileSync(path.join(s, file), path.join(targetDir, "sprites", file));
+                }
+            }
+        }
+
+        // Cover
+        const tCover = path.join(targetDir, "sprites", "grass-clear.png");
+        if (fs.existsSync(tCover)) fs.copyFileSync(tCover, path.join(targetDir, "cover.png"));
+
+        const packJson = {
+            name: "Hard Vacuum: Terrain & Ground",
+            creator: "Daniel Cook",
+            website: "https://lostgarden.home.blog/",
+            license: "CC0",
+            description: "Over 580 modular pixel-art RTS terrain tiles: grass, dirt, concrete roads, cliffs, shorelines, water, and alien terrain by Daniel Cook (Lostgarden). CC0 1.0 Universal.",
+            generation: {
+                category: "Tilesets & Environments",
+                allowed_categories: [
+                    "Tilesets & Environments"
+                ]
+            }
+        };
+        fs.writeFileSync(path.join(targetDir, "pack.json"), JSON.stringify(packJson, null, 2) + "\n");
+        console.log(`✓ ${slug} intaked`);
+    }
+}
+
 async function main() {
     await intakePixelAdventure1();
     await intakePixelAdventure2();
@@ -359,6 +482,7 @@ async function main() {
     await intakePirateBomb();
     await intakePlanetCute();
     await intakeDCSS();
+    await intakeHardVacuum();
 }
 
 main().catch(err => {

@@ -137,22 +137,23 @@ function categorize(relPath, options = {}) {
     }
   }
 
-  // 2. Directory segment mapping
+  // 2. Directory segment & prefix mapping
   const segments = normalized.split('/').filter(Boolean);
   for (const seg of segments) {
-    if ((seg === 'characters' || seg === 'character' || seg.includes('main characters') || seg.includes('-player-')) && (!allowedCategories || allowedCategories.has('Characters'))) {
+    if ((seg === 'characters' || seg === 'character' || seg.includes('main characters') || seg.includes('-player-') || baseName.startsWith('infantry_')) && (!allowedCategories || allowedCategories.has('Characters'))) {
       return { category: 'Characters', subcategory: 'Humanoids' };
     }
-    if ((seg === 'creatures' || seg === 'monsters' || seg === 'enemies' || seg.includes('-enemy-') || seg.includes('pig')) && (!allowedCategories || allowedCategories.has('Creatures'))) {
-      if (seg.includes('whale') || seg.includes('bird') || seg.includes('duck') || seg.includes('turtle')) {
+    if ((seg === 'creatures' || seg === 'monsters' || seg === 'enemies' || seg.includes('-enemy-') || seg.includes('pig') || baseName.startsWith('animals_')) && (!allowedCategories || allowedCategories.has('Creatures'))) {
+      if (seg.includes('whale') || seg.includes('bird') || seg.includes('duck') || seg.includes('turtle') || baseName.startsWith('animals_')) {
         return { category: 'Creatures', subcategory: 'Animals' };
       }
       return { category: 'Creatures', subcategory: 'Monsters' };
     }
-    if ((seg === 'tilesets' || seg === 'tiles' || seg === 'environments' || seg === 'terrain' || seg.includes('tile-set') || seg.includes('tileset')) && (!allowedCategories || allowedCategories.has('Tilesets & Environments'))) {
+    if ((seg === 'tilesets' || seg === 'tiles' || seg === 'environments' || seg === 'terrain' || seg.includes('tile-set') || seg.includes('tileset') || baseName.startsWith('buildings_')) && (!allowedCategories || allowedCategories.has('Tilesets & Environments'))) {
+      if (baseName.startsWith('buildings_')) return { category: 'Tilesets & Environments', subcategory: 'Architecture' };
       return { category: 'Tilesets & Environments', subcategory: 'Terrain & Platforms' };
     }
-    if ((seg === 'items' || seg === 'icons' || seg.includes('objects')) && (!allowedCategories || allowedCategories.has('Items & Icons'))) {
+    if ((seg === 'items' || seg === 'icons' || seg.includes('objects') || baseName.startsWith('vehicles_') || baseName.startsWith('aircraft_') || baseName.startsWith('ships_')) && (!allowedCategories || allowedCategories.has('Items & Icons'))) {
       if (baseName.includes('bomb') || baseName.includes('cannon')) return { category: 'Items & Icons', subcategory: 'Weapons' };
       if (baseName.includes('coin') || baseName.includes('diamond') || baseName.includes('heart') || baseName.includes('live')) return { category: 'Items & Icons', subcategory: 'Loot & Coins' };
       if (baseName.includes('potion') || baseName.includes('fruit')) return { category: 'Items & Icons', subcategory: 'Consumables' };
@@ -162,7 +163,7 @@ function categorize(relPath, options = {}) {
       if (seg.includes('dialogue')) return { category: 'UI', subcategory: 'Panels & Windows' };
       return { category: 'UI', subcategory: 'Buttons & Controls' };
     }
-    if ((seg === 'effects' || seg === 'fx' || seg === 'particles' || seg.includes('traps') || seg.includes('effect')) && (!allowedCategories || allowedCategories.has('Effects'))) {
+    if ((seg === 'effects' || seg === 'fx' || seg === 'particles' || seg.includes('traps') || seg.includes('effect') || baseName.startsWith('effects_')) && (!allowedCategories || allowedCategories.has('Effects'))) {
       return { category: 'Effects', subcategory: 'Particles' };
     }
     if ((seg === 'backgrounds' || seg === 'background' || seg === 'parallax') && (!allowedCategories || allowedCategories.has('Backgrounds'))) {
