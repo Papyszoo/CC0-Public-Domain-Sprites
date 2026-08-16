@@ -6,7 +6,7 @@
   "website": "https://kenney.nl",
   "description": "Top-down space assets: spaceships, lasers, space stations, meteors, shields, and thrusters by Kenney (kenney.nl). CC0 1.0 Universal.",
   "folder": "packs/kenney-simple-space",
-  "pinnedSha": "74d14212345ddbfa9d77286224ef4b51ce9eab85",
+  "pinnedSha": "61204c972b02beaa10273e05cef4d215f80b0ca1",
   "itemCount": 96,
   "items": [
     {
@@ -1166,7 +1166,7 @@
     {
       "fileName": "effect_purple.png",
       "path": "packs/kenney-simple-space/sprites/Default/effect_purple.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/effect_purple.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/effect_purple.png",
       "sha256": "1b61fe54acc96f928a7cf2bdcc864a0c263471c2f26edc2c3956f39a37781375",
       "size": 1010,
       "role": "Image"
@@ -1174,7 +1174,7 @@
     {
       "fileName": "effect_yellow.png",
       "path": "packs/kenney-simple-space/sprites/Default/effect_yellow.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/effect_yellow.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/effect_yellow.png",
       "sha256": "989688b5be214d1dc41de25953e5b91312ee67f9eaaff3b55d1623dda8d74e0f",
       "size": 1019,
       "role": "Image"
@@ -1182,7 +1182,7 @@
     {
       "fileName": "enemy_A.png",
       "path": "packs/kenney-simple-space/sprites/Default/enemy_A.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/enemy_A.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/enemy_A.png",
       "sha256": "3c90ed538ccc3e4c7aa2f6c553b0d4c379d47066ca020ae2af37d22e07e1da6e",
       "size": 1151,
       "role": "Image"
@@ -1190,7 +1190,7 @@
     {
       "fileName": "enemy_B.png",
       "path": "packs/kenney-simple-space/sprites/Default/enemy_B.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/enemy_B.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/enemy_B.png",
       "sha256": "7986aa0290f348ae6bc1c283f872cf4c7b0f0e3710ff2bfc3b1788769aeddb76",
       "size": 1095,
       "role": "Image"
@@ -1198,7 +1198,7 @@
     {
       "fileName": "enemy_C.png",
       "path": "packs/kenney-simple-space/sprites/Default/enemy_C.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/enemy_C.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/enemy_C.png",
       "sha256": "e163a6efb459c197b1d89cdb85ebc3bcaf5472d1d9f5eb54bd26bcd1d2019dca",
       "size": 1184,
       "role": "Image"
@@ -1206,7 +1206,7 @@
     {
       "fileName": "enemy_D.png",
       "path": "packs/kenney-simple-space/sprites/Default/enemy_D.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/enemy_D.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/enemy_D.png",
       "sha256": "c56a3c872393398a2c0059b5ae28bf860f96edcde22bc198adf094c38715c570",
       "size": 1246,
       "role": "Image"
@@ -1214,7 +1214,7 @@
     {
       "fileName": "enemy_E.png",
       "path": "packs/kenney-simple-space/sprites/Default/enemy_E.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/enemy_E.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/enemy_E.png",
       "sha256": "ffc5a3ac2128a19bec7da3dab2ba0be411d0e18a4ceec23e661fd7b3bd76ff96",
       "size": 1146,
       "role": "Image"
@@ -1222,7 +1222,7 @@
     {
       "fileName": "icon_crossLarge.png",
       "path": "packs/kenney-simple-space/sprites/Default/icon_crossLarge.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/icon_crossLarge.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/icon_crossLarge.png",
       "sha256": "18c898702417a733b815d99a93b4b303c543eb031fd2bca45fe9d0c33d7e4ce9",
       "size": 448,
       "role": "Image"
@@ -1230,7 +1230,7 @@
     {
       "fileName": "icon_crossSmall.png",
       "path": "packs/kenney-simple-space/sprites/Default/icon_crossSmall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/icon_crossSmall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/icon_crossSmall.png",
       "sha256": "18b76a15049b82422a0c05221ce85d753c9732cb36d072713664192931ab4648",
       "size": 358,
       "role": "Image"
@@ -1238,7 +1238,7 @@
     {
       "fileName": "icon_exclamationLarge.png",
       "path": "packs/kenney-simple-space/sprites/Default/icon_exclamationLarge.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/icon_exclamationLarge.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/icon_exclamationLarge.png",
       "sha256": "e7cee0954602027ff9b3b561eeb342679d71b4ac14c54e37b2097a67be15261f",
       "size": 618,
       "role": "Image"
@@ -1246,7 +1246,7 @@
     {
       "fileName": "icon_exclamationSmall.png",
       "path": "packs/kenney-simple-space/sprites/Default/icon_exclamationSmall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/icon_exclamationSmall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/icon_exclamationSmall.png",
       "sha256": "8aad47d59fdb65a0c8c541317b65e6d4e48353d7f0cde4587a2c4925a50278e5",
       "size": 476,
       "role": "Image"
@@ -1254,7 +1254,7 @@
     {
       "fileName": "icon_plusLarge.png",
       "path": "packs/kenney-simple-space/sprites/Default/icon_plusLarge.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/icon_plusLarge.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/icon_plusLarge.png",
       "sha256": "3ba13584bc951f2d4b66dea1ae147e736d7e4ea0f9522610cbd3866410338505",
       "size": 578,
       "role": "Image"
@@ -1262,7 +1262,7 @@
     {
       "fileName": "icon_plusSmall.png",
       "path": "packs/kenney-simple-space/sprites/Default/icon_plusSmall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/icon_plusSmall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/icon_plusSmall.png",
       "sha256": "5e87ea77209ae6c63fba68e339e82adf007492d0d542c8b598367275292382cf",
       "size": 456,
       "role": "Image"
@@ -1270,7 +1270,7 @@
     {
       "fileName": "meteor_detailedLarge.png",
       "path": "packs/kenney-simple-space/sprites/Default/meteor_detailedLarge.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/meteor_detailedLarge.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/meteor_detailedLarge.png",
       "sha256": "ed1e487e77cdcd40bd37e43cf1392df31177a99c37f2f36e20bfafc4225ed9db",
       "size": 629,
       "role": "Image"
@@ -1278,7 +1278,7 @@
     {
       "fileName": "meteor_detailedSmall.png",
       "path": "packs/kenney-simple-space/sprites/Default/meteor_detailedSmall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/meteor_detailedSmall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/meteor_detailedSmall.png",
       "sha256": "6f5419c5db7c5671837f0d35ab2d55b7cbc0dc4114187a2dccf486ce41a9af63",
       "size": 478,
       "role": "Image"
@@ -1286,7 +1286,7 @@
     {
       "fileName": "meteor_large.png",
       "path": "packs/kenney-simple-space/sprites/Default/meteor_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/meteor_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/meteor_large.png",
       "sha256": "313628288bf69ee2f2a03c0d9d32f0985ab85a61041176563cca43db396ab841",
       "size": 538,
       "role": "Image"
@@ -1294,7 +1294,7 @@
     {
       "fileName": "meteor_small.png",
       "path": "packs/kenney-simple-space/sprites/Default/meteor_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/meteor_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/meteor_small.png",
       "sha256": "aafafabeece8bbf634dd8b984b44a9edf120e362276cc4fb28af02f960d756e0",
       "size": 454,
       "role": "Image"
@@ -1302,7 +1302,7 @@
     {
       "fileName": "meteor_squareDetailedLarge.png",
       "path": "packs/kenney-simple-space/sprites/Default/meteor_squareDetailedLarge.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/meteor_squareDetailedLarge.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/meteor_squareDetailedLarge.png",
       "sha256": "cb47d38df241d2ac15a0588e8f495043cc3060f80dd58a71653d410657b3eb75",
       "size": 674,
       "role": "Image"
@@ -1310,7 +1310,7 @@
     {
       "fileName": "meteor_squareDetailedSmall.png",
       "path": "packs/kenney-simple-space/sprites/Default/meteor_squareDetailedSmall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/meteor_squareDetailedSmall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/meteor_squareDetailedSmall.png",
       "sha256": "fdeabe96287af8f8fd3a7758887ea4f9fd3b81760f2cff6bb44f9ccc4ae2a309",
       "size": 440,
       "role": "Image"
@@ -1318,7 +1318,7 @@
     {
       "fileName": "meteor_squareLarge.png",
       "path": "packs/kenney-simple-space/sprites/Default/meteor_squareLarge.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/meteor_squareLarge.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/meteor_squareLarge.png",
       "sha256": "41ad1af5b420e05d1b27f1e9f6a1e1765e975261a0c3d1456c994e46113de4cd",
       "size": 627,
       "role": "Image"
@@ -1326,7 +1326,7 @@
     {
       "fileName": "meteor_squareSmall.png",
       "path": "packs/kenney-simple-space/sprites/Default/meteor_squareSmall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/meteor_squareSmall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/meteor_squareSmall.png",
       "sha256": "4001dc1a5ac5e5b1f4fecd02ba30c5668dff4f0b162c3bb90d874f3f17275b01",
       "size": 415,
       "role": "Image"
@@ -1334,7 +1334,7 @@
     {
       "fileName": "satellite_A.png",
       "path": "packs/kenney-simple-space/sprites/Default/satellite_A.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/satellite_A.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/satellite_A.png",
       "sha256": "fbf860acee1660bac80840ad40a0f44cf374a87ea5affd99a3a5c6ad4bf5c29a",
       "size": 251,
       "role": "Image"
@@ -1342,7 +1342,7 @@
     {
       "fileName": "satellite_B.png",
       "path": "packs/kenney-simple-space/sprites/Default/satellite_B.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/satellite_B.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/satellite_B.png",
       "sha256": "8d604d1911fd221fbc777447e34e7ef11a2a2d8b9ab46ce8f7e0dab0f00fa5ef",
       "size": 736,
       "role": "Image"
@@ -1350,7 +1350,7 @@
     {
       "fileName": "satellite_C.png",
       "path": "packs/kenney-simple-space/sprites/Default/satellite_C.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/satellite_C.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/satellite_C.png",
       "sha256": "f827e0168560768cb900afbad362dfcce36988256f08830a9406e3fe02ca7094",
       "size": 564,
       "role": "Image"
@@ -1358,7 +1358,7 @@
     {
       "fileName": "satellite_D.png",
       "path": "packs/kenney-simple-space/sprites/Default/satellite_D.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/satellite_D.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/satellite_D.png",
       "sha256": "53b9b47881f1d8f7e04cb9572f72fa8043900287dd371dadf25afb9dd823cbc9",
       "size": 668,
       "role": "Image"
@@ -1366,7 +1366,7 @@
     {
       "fileName": "ship_A.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_A.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_A.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_A.png",
       "sha256": "33b658ae8001716cec7917aa97acfe39c1c60694e9fcbabfb6148af47b67a381",
       "size": 505,
       "role": "Image"
@@ -1374,7 +1374,7 @@
     {
       "fileName": "ship_B.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_B.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_B.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_B.png",
       "sha256": "44792ccc54ecf815e0d999a7832637c2210fc34b2e1fb5704df3650ad4a649c0",
       "size": 579,
       "role": "Image"
@@ -1382,7 +1382,7 @@
     {
       "fileName": "ship_C.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_C.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_C.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_C.png",
       "sha256": "1ae65bbee63d655f14129c86b44275cff4539b0fe3dc030a694737d97e775901",
       "size": 615,
       "role": "Image"
@@ -1390,7 +1390,7 @@
     {
       "fileName": "ship_D.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_D.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_D.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_D.png",
       "sha256": "5698fa165938f3286a97c3f7dbe8f0eeb85585a1845ccdd1fc9265d03a1c20c4",
       "size": 673,
       "role": "Image"
@@ -1398,7 +1398,7 @@
     {
       "fileName": "ship_E.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_E.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_E.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_E.png",
       "sha256": "ecfc26b0b5bf00c8ed141ef5ca567ab9b9da8d750b5038f92681d3ea0e18a65e",
       "size": 948,
       "role": "Image"
@@ -1406,7 +1406,7 @@
     {
       "fileName": "ship_F.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_F.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_F.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_F.png",
       "sha256": "57b20ae0ab595da7055490eafb93635c6666a03a90a88979607b626fea195818",
       "size": 1002,
       "role": "Image"
@@ -1414,7 +1414,7 @@
     {
       "fileName": "ship_G.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_G.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_G.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_G.png",
       "sha256": "ecd2c9205c1cab154e802737e54e7ed4eef10c29bb3ccff7025cc17280f0b1a0",
       "size": 894,
       "role": "Image"
@@ -1422,7 +1422,7 @@
     {
       "fileName": "ship_H.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_H.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_H.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_H.png",
       "sha256": "e6919436e3b528e2664739e3013dd431c39acf1d82e1378b777fe0c5b4e1c5e3",
       "size": 1024,
       "role": "Image"
@@ -1430,7 +1430,7 @@
     {
       "fileName": "ship_I.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_I.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_I.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_I.png",
       "sha256": "27f19a0461b7a228b147e26506b732c33d8852f16f06b517fc035aa421050120",
       "size": 928,
       "role": "Image"
@@ -1438,7 +1438,7 @@
     {
       "fileName": "ship_J.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_J.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_J.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_J.png",
       "sha256": "f1e0c195119ee1bb43b078ad62e9a1b377fb5f985f77280d9c4f2c855198367c",
       "size": 924,
       "role": "Image"
@@ -1446,7 +1446,7 @@
     {
       "fileName": "ship_K.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_K.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_K.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_K.png",
       "sha256": "71a4e04708aa2fa56e39546ac8c1de75f002613a1afa8604043ea13975259be9",
       "size": 769,
       "role": "Image"
@@ -1454,7 +1454,7 @@
     {
       "fileName": "ship_L.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_L.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_L.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_L.png",
       "sha256": "c1cd362906c0ae1713e64ecea04a501fac788c5b23a208f67ef977ee98ff2dfb",
       "size": 695,
       "role": "Image"
@@ -1462,7 +1462,7 @@
     {
       "fileName": "ship_sidesA.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_sidesA.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_sidesA.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_sidesA.png",
       "sha256": "2e43ae954c5c81468327a421c953384e3d8404f303fa52452ccdfc8df7fe3c47",
       "size": 1130,
       "role": "Image"
@@ -1470,7 +1470,7 @@
     {
       "fileName": "ship_sidesB.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_sidesB.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_sidesB.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_sidesB.png",
       "sha256": "21bdb5fb5c55b65d46ec4b66f10b934a31693d7705b8bc83a9746f36d7557ca7",
       "size": 1099,
       "role": "Image"
@@ -1478,7 +1478,7 @@
     {
       "fileName": "ship_sidesC.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_sidesC.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_sidesC.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_sidesC.png",
       "sha256": "f1cf5203a729409333294c7d1f6c78ee8cbb9c709956c9a1c8897f00d4bde7ea",
       "size": 955,
       "role": "Image"
@@ -1486,7 +1486,7 @@
     {
       "fileName": "ship_sidesD.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_sidesD.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_sidesD.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_sidesD.png",
       "sha256": "3d1010a3bb75d464bdb9db1dbbd7e824f722e33adf1d2258213d75ee9d9bddd5",
       "size": 681,
       "role": "Image"
@@ -1494,7 +1494,7 @@
     {
       "fileName": "star_large.png",
       "path": "packs/kenney-simple-space/sprites/Default/star_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/star_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/star_large.png",
       "sha256": "69d6c0b159da6ed07f72445caaabe2c687f0a839912bd03b4e4a2e00abc0f190",
       "size": 395,
       "role": "Image"
@@ -1502,7 +1502,7 @@
     {
       "fileName": "star_medium.png",
       "path": "packs/kenney-simple-space/sprites/Default/star_medium.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/star_medium.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/star_medium.png",
       "sha256": "85fe55113e18c92b860332c93a87812c2da09d739305f2d68d46cf0ba4924e60",
       "size": 434,
       "role": "Image"
@@ -1510,7 +1510,7 @@
     {
       "fileName": "star_small.png",
       "path": "packs/kenney-simple-space/sprites/Default/star_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/star_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/star_small.png",
       "sha256": "4262ba185046c6b574417714a3509cc605057259a7111763410b3dc5ad8c24a4",
       "size": 270,
       "role": "Image"
@@ -1518,7 +1518,7 @@
     {
       "fileName": "star_tiny.png",
       "path": "packs/kenney-simple-space/sprites/Default/star_tiny.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/star_tiny.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/star_tiny.png",
       "sha256": "84b230997ea7adcee07c0e2de0c7dc00cb537f2cdefea22654a5559546533b3f",
       "size": 208,
       "role": "Image"
@@ -1526,7 +1526,7 @@
     {
       "fileName": "station_A.png",
       "path": "packs/kenney-simple-space/sprites/Default/station_A.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/station_A.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/station_A.png",
       "sha256": "447f18df97eb7d1d351aa94d3d1ff111e69dfdd0db5d09b7e162cc294a40e05e",
       "size": 1282,
       "role": "Image"
@@ -1534,7 +1534,7 @@
     {
       "fileName": "station_B.png",
       "path": "packs/kenney-simple-space/sprites/Default/station_B.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/station_B.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/station_B.png",
       "sha256": "8220eff34ae3ce50dedb91c0b2b60b85f8ca9eebe44e89b17a03a50c07fc1a1d",
       "size": 1207,
       "role": "Image"
@@ -1542,7 +1542,7 @@
     {
       "fileName": "station_C.png",
       "path": "packs/kenney-simple-space/sprites/Default/station_C.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/station_C.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/station_C.png",
       "sha256": "dbc9a1f637236b3ba72d75074f7b9763b5c3d560f118ffdba5c59f31c8fce86a",
       "size": 1378,
       "role": "Image"
@@ -1550,7 +1550,7 @@
     {
       "fileName": "effect_purple.png",
       "path": "packs/kenney-simple-space/sprites/Retina/effect_purple.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/effect_purple.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/effect_purple.png",
       "sha256": "6caaed1b2d5db3fab27893b83f122dad48baba22f7fabb729b89364f49c0f6ad",
       "size": 1924,
       "role": "Image"
@@ -1558,7 +1558,7 @@
     {
       "fileName": "effect_yellow.png",
       "path": "packs/kenney-simple-space/sprites/Retina/effect_yellow.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/effect_yellow.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/effect_yellow.png",
       "sha256": "85de5a2a7dea3dfcc2b391b6dac1393a77a5b44ffca0f30e187eec3fcd35eaee",
       "size": 1812,
       "role": "Image"
@@ -1566,7 +1566,7 @@
     {
       "fileName": "enemy_A.png",
       "path": "packs/kenney-simple-space/sprites/Retina/enemy_A.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/enemy_A.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/enemy_A.png",
       "sha256": "8d013ecc22e18d45c451990cde354045e7b26f20c2796f3e8376550fd977a657",
       "size": 2041,
       "role": "Image"
@@ -1574,7 +1574,7 @@
     {
       "fileName": "enemy_B.png",
       "path": "packs/kenney-simple-space/sprites/Retina/enemy_B.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/enemy_B.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/enemy_B.png",
       "sha256": "2b71bd1bec2af8306729d9d08ce679a26e8f346083c58047be75812f36ead5f0",
       "size": 2007,
       "role": "Image"
@@ -1582,7 +1582,7 @@
     {
       "fileName": "enemy_C.png",
       "path": "packs/kenney-simple-space/sprites/Retina/enemy_C.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/enemy_C.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/enemy_C.png",
       "sha256": "5b40ecab44426199d327cdb3b1b85b73ab667da1e5f1b5fa25d5f467da70b5ba",
       "size": 2172,
       "role": "Image"
@@ -1590,7 +1590,7 @@
     {
       "fileName": "enemy_D.png",
       "path": "packs/kenney-simple-space/sprites/Retina/enemy_D.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/enemy_D.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/enemy_D.png",
       "sha256": "4268eaa29d85a750c5d0261a64755ad31fad040c4a1f42b97c7cb4b9bf6f4ec8",
       "size": 2316,
       "role": "Image"
@@ -1598,7 +1598,7 @@
     {
       "fileName": "enemy_E.png",
       "path": "packs/kenney-simple-space/sprites/Retina/enemy_E.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/enemy_E.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/enemy_E.png",
       "sha256": "b7204b8bbb7d01a56fae61e4bf8088c99e88caf155844e9cb9d4d6433a7e8332",
       "size": 2078,
       "role": "Image"
@@ -1606,7 +1606,7 @@
     {
       "fileName": "icon_crossLarge.png",
       "path": "packs/kenney-simple-space/sprites/Retina/icon_crossLarge.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/icon_crossLarge.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/icon_crossLarge.png",
       "sha256": "3597b689598697d116e1b634b527a6f9df7aee89ab655328cb7cecf1914b6f49",
       "size": 761,
       "role": "Image"
@@ -1614,7 +1614,7 @@
     {
       "fileName": "icon_crossSmall.png",
       "path": "packs/kenney-simple-space/sprites/Retina/icon_crossSmall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/icon_crossSmall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/icon_crossSmall.png",
       "sha256": "f47bfb7386a670de416415814613740c42fe7d364a39c2dea48924ba742baee6",
       "size": 583,
       "role": "Image"
@@ -1622,7 +1622,7 @@
     {
       "fileName": "icon_exclamationLarge.png",
       "path": "packs/kenney-simple-space/sprites/Retina/icon_exclamationLarge.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/icon_exclamationLarge.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/icon_exclamationLarge.png",
       "sha256": "bbb04b973d248a32aae3f785a5a13e824d2b533bedcfc9a4019586c3b8f69ecf",
       "size": 1158,
       "role": "Image"
@@ -1630,7 +1630,7 @@
     {
       "fileName": "icon_exclamationSmall.png",
       "path": "packs/kenney-simple-space/sprites/Retina/icon_exclamationSmall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/icon_exclamationSmall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/icon_exclamationSmall.png",
       "sha256": "bc3d8b1f4ee0a9bcddea9b6651fef9278e6fa190f9fbd2b13d40ab3f4b66f966",
       "size": 834,
       "role": "Image"
@@ -1638,7 +1638,7 @@
     {
       "fileName": "icon_plusLarge.png",
       "path": "packs/kenney-simple-space/sprites/Retina/icon_plusLarge.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/icon_plusLarge.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/icon_plusLarge.png",
       "sha256": "6da61b7f3e1a4ee99e4d18e00ea5c4042ebee9875a3f0157a90d931981806d24",
       "size": 1067,
       "role": "Image"
@@ -1646,7 +1646,7 @@
     {
       "fileName": "icon_plusSmall.png",
       "path": "packs/kenney-simple-space/sprites/Retina/icon_plusSmall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/icon_plusSmall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/icon_plusSmall.png",
       "sha256": "59a2ba7635f9b376815435ca2c148ded5d47e76812ca83af875a240336953cf2",
       "size": 815,
       "role": "Image"
@@ -1654,7 +1654,7 @@
     {
       "fileName": "meteor_detailedLarge.png",
       "path": "packs/kenney-simple-space/sprites/Retina/meteor_detailedLarge.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/meteor_detailedLarge.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/meteor_detailedLarge.png",
       "sha256": "9ccffc49ccfef51af5a0a71c2e30a4a10b1b4e14600b8a5eaa1cab61e50c37cc",
       "size": 1147,
       "role": "Image"
@@ -1662,7 +1662,7 @@
     {
       "fileName": "meteor_detailedSmall.png",
       "path": "packs/kenney-simple-space/sprites/Retina/meteor_detailedSmall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/meteor_detailedSmall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/meteor_detailedSmall.png",
       "sha256": "e05babf9daf4a0f9a6ad0cd3b6b53bc959171a9ebf249ab5f9ee7ad7aebb501b",
       "size": 804,
       "role": "Image"
@@ -1670,7 +1670,7 @@
     {
       "fileName": "meteor_large.png",
       "path": "packs/kenney-simple-space/sprites/Retina/meteor_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/meteor_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/meteor_large.png",
       "sha256": "04eb3dd491ad46aa74a946a32675bb63386040f9fac6b133f74ada595c4c7fc6",
       "size": 982,
       "role": "Image"
@@ -1678,7 +1678,7 @@
     {
       "fileName": "meteor_small.png",
       "path": "packs/kenney-simple-space/sprites/Retina/meteor_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/meteor_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/meteor_small.png",
       "sha256": "106475cca8b52ddacfc5f266ef92c19c813eca3183158351b141f41221fcfdcd",
       "size": 768,
       "role": "Image"
@@ -1686,7 +1686,7 @@
     {
       "fileName": "meteor_squareDetailedLarge.png",
       "path": "packs/kenney-simple-space/sprites/Retina/meteor_squareDetailedLarge.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/meteor_squareDetailedLarge.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/meteor_squareDetailedLarge.png",
       "sha256": "70657d06c722893ad3644730ba92568a036422d7c8ef583739b22e6f6c97f1e3",
       "size": 1215,
       "role": "Image"
@@ -1694,7 +1694,7 @@
     {
       "fileName": "meteor_squareDetailedSmall.png",
       "path": "packs/kenney-simple-space/sprites/Retina/meteor_squareDetailedSmall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/meteor_squareDetailedSmall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/meteor_squareDetailedSmall.png",
       "sha256": "9439918bd4bf619f2646a95f5168ceb065ea18e6ca43cd45f83834e129fee41f",
       "size": 762,
       "role": "Image"
@@ -1702,7 +1702,7 @@
     {
       "fileName": "meteor_squareLarge.png",
       "path": "packs/kenney-simple-space/sprites/Retina/meteor_squareLarge.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/meteor_squareLarge.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/meteor_squareLarge.png",
       "sha256": "633879630f3df7ddf88e603b8c80bc1cb833a9ccbc36ce3fbde7672ff64f44dd",
       "size": 1129,
       "role": "Image"
@@ -1710,7 +1710,7 @@
     {
       "fileName": "meteor_squareSmall.png",
       "path": "packs/kenney-simple-space/sprites/Retina/meteor_squareSmall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/meteor_squareSmall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/meteor_squareSmall.png",
       "sha256": "690289588905681fdcb8bb1b24e6cffc4185b8e73a3ec3c5e18667914ec06cc5",
       "size": 721,
       "role": "Image"
@@ -1718,7 +1718,7 @@
     {
       "fileName": "satellite_A.png",
       "path": "packs/kenney-simple-space/sprites/Retina/satellite_A.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/satellite_A.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/satellite_A.png",
       "sha256": "07f1ab3048d190b1f6657890ed52328e73d24af212144f76ca76d5dff79f8b8a",
       "size": 351,
       "role": "Image"
@@ -1726,7 +1726,7 @@
     {
       "fileName": "satellite_B.png",
       "path": "packs/kenney-simple-space/sprites/Retina/satellite_B.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/satellite_B.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/satellite_B.png",
       "sha256": "a1cf7f01093d772171f2acb7c3b035e60e67946ef4848cff74dc4b7af27a07d5",
       "size": 1241,
       "role": "Image"
@@ -1734,7 +1734,7 @@
     {
       "fileName": "satellite_C.png",
       "path": "packs/kenney-simple-space/sprites/Retina/satellite_C.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/satellite_C.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/satellite_C.png",
       "sha256": "017181956e2046d4eb96dd9d6767dcb28abef8950408f2d52cf00599fdda3732",
       "size": 936,
       "role": "Image"
@@ -1742,7 +1742,7 @@
     {
       "fileName": "satellite_D.png",
       "path": "packs/kenney-simple-space/sprites/Retina/satellite_D.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/satellite_D.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/satellite_D.png",
       "sha256": "445ac4bdc02fc3296c023d84bdd7737626dda6673ba18619394406e2f2da151c",
       "size": 1148,
       "role": "Image"
@@ -1750,7 +1750,7 @@
     {
       "fileName": "ship_A.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_A.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_A.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_A.png",
       "sha256": "8a11b1421afe6dbf1a5079669d578424a60c38aced8aa69bd33f1a96b36f4119",
       "size": 855,
       "role": "Image"
@@ -1758,7 +1758,7 @@
     {
       "fileName": "ship_B.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_B.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_B.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_B.png",
       "sha256": "6e4a1dde2912ded553c633610021df3cfbe3c09b031693a8b70b419f16881288",
       "size": 1044,
       "role": "Image"
@@ -1766,7 +1766,7 @@
     {
       "fileName": "ship_C.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_C.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_C.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_C.png",
       "sha256": "e4bc4109948b85534541805a61c4698a659490c8292a1555a2124176c778ef40",
       "size": 1068,
       "role": "Image"
@@ -1774,7 +1774,7 @@
     {
       "fileName": "ship_D.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_D.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_D.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_D.png",
       "sha256": "dd42db5bc4a72887792b77aabeb668d4d1ce12de1fc8f19d91854dac1380980f",
       "size": 1120,
       "role": "Image"
@@ -1782,7 +1782,7 @@
     {
       "fileName": "ship_E.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_E.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_E.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_E.png",
       "sha256": "7ef22e94ca085d595a5ff046933f22fe920fa40c5c10e958bf741c8cbb8914fa",
       "size": 1609,
       "role": "Image"
@@ -1790,7 +1790,7 @@
     {
       "fileName": "ship_F.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_F.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_F.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_F.png",
       "sha256": "896bf53fdde208358fbc5699b7147a7a950f697d79c37c8bf3f64a7022789327",
       "size": 1710,
       "role": "Image"
@@ -1798,7 +1798,7 @@
     {
       "fileName": "ship_G.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_G.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_G.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_G.png",
       "sha256": "3ed7b88143e7bb5abf63bf0ac088594853873e835deb416cd2c1c9be4943669f",
       "size": 1586,
       "role": "Image"
@@ -1806,7 +1806,7 @@
     {
       "fileName": "ship_H.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_H.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_H.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_H.png",
       "sha256": "0da72b41f1e902f25af990dd7a7d8bd3c1c7f7817143182185e1bce82364a50e",
       "size": 1765,
       "role": "Image"
@@ -1814,7 +1814,7 @@
     {
       "fileName": "ship_I.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_I.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_I.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_I.png",
       "sha256": "dbde3857b9a4053247e6210a06ae6efb92ddb7e30ac5b05ebb635062dcb39d58",
       "size": 1639,
       "role": "Image"
@@ -1822,7 +1822,7 @@
     {
       "fileName": "ship_J.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_J.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_J.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_J.png",
       "sha256": "a20d3bd660f4b02ca8e024bb98046be06e25a46359bd0f0ed5de154abc8434b1",
       "size": 1625,
       "role": "Image"
@@ -1830,7 +1830,7 @@
     {
       "fileName": "ship_K.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_K.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_K.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_K.png",
       "sha256": "8f113d565e755f14a85250bf1fcd424f251c24883c7134b1b07d90aada0c72bb",
       "size": 1339,
       "role": "Image"
@@ -1838,7 +1838,7 @@
     {
       "fileName": "ship_L.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_L.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_L.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_L.png",
       "sha256": "297927fe049b242208cad8b4074c2de4f5b2146d4b2d2fac3fb68d7953c2cdf9",
       "size": 1233,
       "role": "Image"
@@ -1846,7 +1846,7 @@
     {
       "fileName": "ship_sidesA.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_sidesA.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_sidesA.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_sidesA.png",
       "sha256": "03e6d16f4326b8d182810815e717b4ee8ae204811801a9cb3e3eaad8ec2e5cad",
       "size": 2003,
       "role": "Image"
@@ -1854,7 +1854,7 @@
     {
       "fileName": "ship_sidesB.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_sidesB.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_sidesB.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_sidesB.png",
       "sha256": "2bdecc7f3d6fd3e7a8522e58a88c8a70c2dee26204cde156fb2ef09d757e9082",
       "size": 1974,
       "role": "Image"
@@ -1862,7 +1862,7 @@
     {
       "fileName": "ship_sidesC.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_sidesC.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_sidesC.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_sidesC.png",
       "sha256": "bcac7679b2f3688016e48873fc37fabe67fef3cd2c90647bc1a0a5630f9f660f",
       "size": 1757,
       "role": "Image"
@@ -1870,7 +1870,7 @@
     {
       "fileName": "ship_sidesD.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_sidesD.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_sidesD.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_sidesD.png",
       "sha256": "b9d7e186a6e2c5a9fb640e1223d744317a76c384c9f7ccd62fe73cb626484f3d",
       "size": 1195,
       "role": "Image"
@@ -1878,7 +1878,7 @@
     {
       "fileName": "star_large.png",
       "path": "packs/kenney-simple-space/sprites/Retina/star_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/star_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/star_large.png",
       "sha256": "6b556dc548f9edd1d255ef149e8292aa9222935a0e3059f6c9a696f7b1974c84",
       "size": 641,
       "role": "Image"
@@ -1886,7 +1886,7 @@
     {
       "fileName": "star_medium.png",
       "path": "packs/kenney-simple-space/sprites/Retina/star_medium.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/star_medium.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/star_medium.png",
       "sha256": "bd7559de78a8b693dcd08d700f63a08c89d469831f868940ff1bb23cf1d83953",
       "size": 707,
       "role": "Image"
@@ -1894,7 +1894,7 @@
     {
       "fileName": "star_small.png",
       "path": "packs/kenney-simple-space/sprites/Retina/star_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/star_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/star_small.png",
       "sha256": "9f9d3aac91120dac9c9433c59c4daf8684a85732154e798c4b6941d05b61badb",
       "size": 386,
       "role": "Image"
@@ -1902,7 +1902,7 @@
     {
       "fileName": "star_tiny.png",
       "path": "packs/kenney-simple-space/sprites/Retina/star_tiny.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/star_tiny.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/star_tiny.png",
       "sha256": "6b2324446cbca758289d8dcd60a79be91f661518c9fcf51add352c08eb373fc6",
       "size": 294,
       "role": "Image"
@@ -1910,7 +1910,7 @@
     {
       "fileName": "station_A.png",
       "path": "packs/kenney-simple-space/sprites/Retina/station_A.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/station_A.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/station_A.png",
       "sha256": "05a74c82d5642881e9de3ddc4a5082fd9f6325f69941afd96c9d3d4f6a994f83",
       "size": 2458,
       "role": "Image"
@@ -1918,7 +1918,7 @@
     {
       "fileName": "station_B.png",
       "path": "packs/kenney-simple-space/sprites/Retina/station_B.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/station_B.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/station_B.png",
       "sha256": "65c90d905e364fde0e4a102211c1f6340267628bdb28195c8edd4c17c6d9a6ac",
       "size": 2215,
       "role": "Image"
@@ -1926,7 +1926,7 @@
     {
       "fileName": "station_C.png",
       "path": "packs/kenney-simple-space/sprites/Retina/station_C.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/station_C.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/station_C.png",
       "sha256": "53e495f74b87ca667edd5619a4171a193f691ae114ed1fb49672f0e9d570997c",
       "size": 2580,
       "role": "Image"
@@ -1936,7 +1936,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/kenney-simple-space/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/cover.png",
       "sha256": "d4459c6ccc1f1e2e24458b09ed122e1f368de66a2e8412f4d5dca1998a2d0eda",
       "size": 37007,
       "contentType": "image/png",
@@ -1945,7 +1945,7 @@
     {
       "fileName": "effect_purple.png",
       "path": "packs/kenney-simple-space/sprites/Default/effect_purple.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/effect_purple.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/effect_purple.png",
       "sha256": "1b61fe54acc96f928a7cf2bdcc864a0c263471c2f26edc2c3956f39a37781375",
       "size": 1010,
       "contentType": "image/png",
@@ -1955,7 +1955,7 @@
     {
       "fileName": "effect_yellow.png",
       "path": "packs/kenney-simple-space/sprites/Default/effect_yellow.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/effect_yellow.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/effect_yellow.png",
       "sha256": "989688b5be214d1dc41de25953e5b91312ee67f9eaaff3b55d1623dda8d74e0f",
       "size": 1019,
       "contentType": "image/png",
@@ -1965,7 +1965,7 @@
     {
       "fileName": "enemy_A.png",
       "path": "packs/kenney-simple-space/sprites/Default/enemy_A.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/enemy_A.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/enemy_A.png",
       "sha256": "3c90ed538ccc3e4c7aa2f6c553b0d4c379d47066ca020ae2af37d22e07e1da6e",
       "size": 1151,
       "contentType": "image/png",
@@ -1975,7 +1975,7 @@
     {
       "fileName": "enemy_B.png",
       "path": "packs/kenney-simple-space/sprites/Default/enemy_B.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/enemy_B.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/enemy_B.png",
       "sha256": "7986aa0290f348ae6bc1c283f872cf4c7b0f0e3710ff2bfc3b1788769aeddb76",
       "size": 1095,
       "contentType": "image/png",
@@ -1985,7 +1985,7 @@
     {
       "fileName": "enemy_C.png",
       "path": "packs/kenney-simple-space/sprites/Default/enemy_C.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/enemy_C.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/enemy_C.png",
       "sha256": "e163a6efb459c197b1d89cdb85ebc3bcaf5472d1d9f5eb54bd26bcd1d2019dca",
       "size": 1184,
       "contentType": "image/png",
@@ -1995,7 +1995,7 @@
     {
       "fileName": "enemy_D.png",
       "path": "packs/kenney-simple-space/sprites/Default/enemy_D.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/enemy_D.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/enemy_D.png",
       "sha256": "c56a3c872393398a2c0059b5ae28bf860f96edcde22bc198adf094c38715c570",
       "size": 1246,
       "contentType": "image/png",
@@ -2005,7 +2005,7 @@
     {
       "fileName": "enemy_E.png",
       "path": "packs/kenney-simple-space/sprites/Default/enemy_E.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/enemy_E.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/enemy_E.png",
       "sha256": "ffc5a3ac2128a19bec7da3dab2ba0be411d0e18a4ceec23e661fd7b3bd76ff96",
       "size": 1146,
       "contentType": "image/png",
@@ -2015,7 +2015,7 @@
     {
       "fileName": "icon_crossLarge.png",
       "path": "packs/kenney-simple-space/sprites/Default/icon_crossLarge.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/icon_crossLarge.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/icon_crossLarge.png",
       "sha256": "18c898702417a733b815d99a93b4b303c543eb031fd2bca45fe9d0c33d7e4ce9",
       "size": 448,
       "contentType": "image/png",
@@ -2025,7 +2025,7 @@
     {
       "fileName": "icon_crossSmall.png",
       "path": "packs/kenney-simple-space/sprites/Default/icon_crossSmall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/icon_crossSmall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/icon_crossSmall.png",
       "sha256": "18b76a15049b82422a0c05221ce85d753c9732cb36d072713664192931ab4648",
       "size": 358,
       "contentType": "image/png",
@@ -2035,7 +2035,7 @@
     {
       "fileName": "icon_exclamationLarge.png",
       "path": "packs/kenney-simple-space/sprites/Default/icon_exclamationLarge.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/icon_exclamationLarge.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/icon_exclamationLarge.png",
       "sha256": "e7cee0954602027ff9b3b561eeb342679d71b4ac14c54e37b2097a67be15261f",
       "size": 618,
       "contentType": "image/png",
@@ -2045,7 +2045,7 @@
     {
       "fileName": "icon_exclamationSmall.png",
       "path": "packs/kenney-simple-space/sprites/Default/icon_exclamationSmall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/icon_exclamationSmall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/icon_exclamationSmall.png",
       "sha256": "8aad47d59fdb65a0c8c541317b65e6d4e48353d7f0cde4587a2c4925a50278e5",
       "size": 476,
       "contentType": "image/png",
@@ -2055,7 +2055,7 @@
     {
       "fileName": "icon_plusLarge.png",
       "path": "packs/kenney-simple-space/sprites/Default/icon_plusLarge.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/icon_plusLarge.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/icon_plusLarge.png",
       "sha256": "3ba13584bc951f2d4b66dea1ae147e736d7e4ea0f9522610cbd3866410338505",
       "size": 578,
       "contentType": "image/png",
@@ -2065,7 +2065,7 @@
     {
       "fileName": "icon_plusSmall.png",
       "path": "packs/kenney-simple-space/sprites/Default/icon_plusSmall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/icon_plusSmall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/icon_plusSmall.png",
       "sha256": "5e87ea77209ae6c63fba68e339e82adf007492d0d542c8b598367275292382cf",
       "size": 456,
       "contentType": "image/png",
@@ -2075,7 +2075,7 @@
     {
       "fileName": "meteor_detailedLarge.png",
       "path": "packs/kenney-simple-space/sprites/Default/meteor_detailedLarge.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/meteor_detailedLarge.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/meteor_detailedLarge.png",
       "sha256": "ed1e487e77cdcd40bd37e43cf1392df31177a99c37f2f36e20bfafc4225ed9db",
       "size": 629,
       "contentType": "image/png",
@@ -2085,7 +2085,7 @@
     {
       "fileName": "meteor_detailedSmall.png",
       "path": "packs/kenney-simple-space/sprites/Default/meteor_detailedSmall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/meteor_detailedSmall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/meteor_detailedSmall.png",
       "sha256": "6f5419c5db7c5671837f0d35ab2d55b7cbc0dc4114187a2dccf486ce41a9af63",
       "size": 478,
       "contentType": "image/png",
@@ -2095,7 +2095,7 @@
     {
       "fileName": "meteor_large.png",
       "path": "packs/kenney-simple-space/sprites/Default/meteor_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/meteor_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/meteor_large.png",
       "sha256": "313628288bf69ee2f2a03c0d9d32f0985ab85a61041176563cca43db396ab841",
       "size": 538,
       "contentType": "image/png",
@@ -2105,7 +2105,7 @@
     {
       "fileName": "meteor_small.png",
       "path": "packs/kenney-simple-space/sprites/Default/meteor_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/meteor_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/meteor_small.png",
       "sha256": "aafafabeece8bbf634dd8b984b44a9edf120e362276cc4fb28af02f960d756e0",
       "size": 454,
       "contentType": "image/png",
@@ -2115,7 +2115,7 @@
     {
       "fileName": "meteor_squareDetailedLarge.png",
       "path": "packs/kenney-simple-space/sprites/Default/meteor_squareDetailedLarge.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/meteor_squareDetailedLarge.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/meteor_squareDetailedLarge.png",
       "sha256": "cb47d38df241d2ac15a0588e8f495043cc3060f80dd58a71653d410657b3eb75",
       "size": 674,
       "contentType": "image/png",
@@ -2125,7 +2125,7 @@
     {
       "fileName": "meteor_squareDetailedSmall.png",
       "path": "packs/kenney-simple-space/sprites/Default/meteor_squareDetailedSmall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/meteor_squareDetailedSmall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/meteor_squareDetailedSmall.png",
       "sha256": "fdeabe96287af8f8fd3a7758887ea4f9fd3b81760f2cff6bb44f9ccc4ae2a309",
       "size": 440,
       "contentType": "image/png",
@@ -2135,7 +2135,7 @@
     {
       "fileName": "meteor_squareLarge.png",
       "path": "packs/kenney-simple-space/sprites/Default/meteor_squareLarge.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/meteor_squareLarge.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/meteor_squareLarge.png",
       "sha256": "41ad1af5b420e05d1b27f1e9f6a1e1765e975261a0c3d1456c994e46113de4cd",
       "size": 627,
       "contentType": "image/png",
@@ -2145,7 +2145,7 @@
     {
       "fileName": "meteor_squareSmall.png",
       "path": "packs/kenney-simple-space/sprites/Default/meteor_squareSmall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/meteor_squareSmall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/meteor_squareSmall.png",
       "sha256": "4001dc1a5ac5e5b1f4fecd02ba30c5668dff4f0b162c3bb90d874f3f17275b01",
       "size": 415,
       "contentType": "image/png",
@@ -2155,7 +2155,7 @@
     {
       "fileName": "satellite_A.png",
       "path": "packs/kenney-simple-space/sprites/Default/satellite_A.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/satellite_A.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/satellite_A.png",
       "sha256": "fbf860acee1660bac80840ad40a0f44cf374a87ea5affd99a3a5c6ad4bf5c29a",
       "size": 251,
       "contentType": "image/png",
@@ -2165,7 +2165,7 @@
     {
       "fileName": "satellite_B.png",
       "path": "packs/kenney-simple-space/sprites/Default/satellite_B.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/satellite_B.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/satellite_B.png",
       "sha256": "8d604d1911fd221fbc777447e34e7ef11a2a2d8b9ab46ce8f7e0dab0f00fa5ef",
       "size": 736,
       "contentType": "image/png",
@@ -2175,7 +2175,7 @@
     {
       "fileName": "satellite_C.png",
       "path": "packs/kenney-simple-space/sprites/Default/satellite_C.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/satellite_C.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/satellite_C.png",
       "sha256": "f827e0168560768cb900afbad362dfcce36988256f08830a9406e3fe02ca7094",
       "size": 564,
       "contentType": "image/png",
@@ -2185,7 +2185,7 @@
     {
       "fileName": "satellite_D.png",
       "path": "packs/kenney-simple-space/sprites/Default/satellite_D.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/satellite_D.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/satellite_D.png",
       "sha256": "53b9b47881f1d8f7e04cb9572f72fa8043900287dd371dadf25afb9dd823cbc9",
       "size": 668,
       "contentType": "image/png",
@@ -2195,7 +2195,7 @@
     {
       "fileName": "ship_A.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_A.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_A.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_A.png",
       "sha256": "33b658ae8001716cec7917aa97acfe39c1c60694e9fcbabfb6148af47b67a381",
       "size": 505,
       "contentType": "image/png",
@@ -2205,7 +2205,7 @@
     {
       "fileName": "ship_B.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_B.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_B.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_B.png",
       "sha256": "44792ccc54ecf815e0d999a7832637c2210fc34b2e1fb5704df3650ad4a649c0",
       "size": 579,
       "contentType": "image/png",
@@ -2215,7 +2215,7 @@
     {
       "fileName": "ship_C.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_C.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_C.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_C.png",
       "sha256": "1ae65bbee63d655f14129c86b44275cff4539b0fe3dc030a694737d97e775901",
       "size": 615,
       "contentType": "image/png",
@@ -2225,7 +2225,7 @@
     {
       "fileName": "ship_D.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_D.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_D.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_D.png",
       "sha256": "5698fa165938f3286a97c3f7dbe8f0eeb85585a1845ccdd1fc9265d03a1c20c4",
       "size": 673,
       "contentType": "image/png",
@@ -2235,7 +2235,7 @@
     {
       "fileName": "ship_E.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_E.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_E.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_E.png",
       "sha256": "ecfc26b0b5bf00c8ed141ef5ca567ab9b9da8d750b5038f92681d3ea0e18a65e",
       "size": 948,
       "contentType": "image/png",
@@ -2245,7 +2245,7 @@
     {
       "fileName": "ship_F.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_F.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_F.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_F.png",
       "sha256": "57b20ae0ab595da7055490eafb93635c6666a03a90a88979607b626fea195818",
       "size": 1002,
       "contentType": "image/png",
@@ -2255,7 +2255,7 @@
     {
       "fileName": "ship_G.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_G.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_G.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_G.png",
       "sha256": "ecd2c9205c1cab154e802737e54e7ed4eef10c29bb3ccff7025cc17280f0b1a0",
       "size": 894,
       "contentType": "image/png",
@@ -2265,7 +2265,7 @@
     {
       "fileName": "ship_H.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_H.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_H.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_H.png",
       "sha256": "e6919436e3b528e2664739e3013dd431c39acf1d82e1378b777fe0c5b4e1c5e3",
       "size": 1024,
       "contentType": "image/png",
@@ -2275,7 +2275,7 @@
     {
       "fileName": "ship_I.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_I.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_I.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_I.png",
       "sha256": "27f19a0461b7a228b147e26506b732c33d8852f16f06b517fc035aa421050120",
       "size": 928,
       "contentType": "image/png",
@@ -2285,7 +2285,7 @@
     {
       "fileName": "ship_J.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_J.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_J.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_J.png",
       "sha256": "f1e0c195119ee1bb43b078ad62e9a1b377fb5f985f77280d9c4f2c855198367c",
       "size": 924,
       "contentType": "image/png",
@@ -2295,7 +2295,7 @@
     {
       "fileName": "ship_K.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_K.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_K.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_K.png",
       "sha256": "71a4e04708aa2fa56e39546ac8c1de75f002613a1afa8604043ea13975259be9",
       "size": 769,
       "contentType": "image/png",
@@ -2305,7 +2305,7 @@
     {
       "fileName": "ship_L.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_L.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_L.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_L.png",
       "sha256": "c1cd362906c0ae1713e64ecea04a501fac788c5b23a208f67ef977ee98ff2dfb",
       "size": 695,
       "contentType": "image/png",
@@ -2315,7 +2315,7 @@
     {
       "fileName": "ship_sidesA.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_sidesA.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_sidesA.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_sidesA.png",
       "sha256": "2e43ae954c5c81468327a421c953384e3d8404f303fa52452ccdfc8df7fe3c47",
       "size": 1130,
       "contentType": "image/png",
@@ -2325,7 +2325,7 @@
     {
       "fileName": "ship_sidesB.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_sidesB.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_sidesB.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_sidesB.png",
       "sha256": "21bdb5fb5c55b65d46ec4b66f10b934a31693d7705b8bc83a9746f36d7557ca7",
       "size": 1099,
       "contentType": "image/png",
@@ -2335,7 +2335,7 @@
     {
       "fileName": "ship_sidesC.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_sidesC.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_sidesC.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_sidesC.png",
       "sha256": "f1cf5203a729409333294c7d1f6c78ee8cbb9c709956c9a1c8897f00d4bde7ea",
       "size": 955,
       "contentType": "image/png",
@@ -2345,7 +2345,7 @@
     {
       "fileName": "ship_sidesD.png",
       "path": "packs/kenney-simple-space/sprites/Default/ship_sidesD.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/ship_sidesD.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/ship_sidesD.png",
       "sha256": "3d1010a3bb75d464bdb9db1dbbd7e824f722e33adf1d2258213d75ee9d9bddd5",
       "size": 681,
       "contentType": "image/png",
@@ -2355,7 +2355,7 @@
     {
       "fileName": "star_large.png",
       "path": "packs/kenney-simple-space/sprites/Default/star_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/star_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/star_large.png",
       "sha256": "69d6c0b159da6ed07f72445caaabe2c687f0a839912bd03b4e4a2e00abc0f190",
       "size": 395,
       "contentType": "image/png",
@@ -2365,7 +2365,7 @@
     {
       "fileName": "star_medium.png",
       "path": "packs/kenney-simple-space/sprites/Default/star_medium.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/star_medium.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/star_medium.png",
       "sha256": "85fe55113e18c92b860332c93a87812c2da09d739305f2d68d46cf0ba4924e60",
       "size": 434,
       "contentType": "image/png",
@@ -2375,7 +2375,7 @@
     {
       "fileName": "star_small.png",
       "path": "packs/kenney-simple-space/sprites/Default/star_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/star_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/star_small.png",
       "sha256": "4262ba185046c6b574417714a3509cc605057259a7111763410b3dc5ad8c24a4",
       "size": 270,
       "contentType": "image/png",
@@ -2385,7 +2385,7 @@
     {
       "fileName": "star_tiny.png",
       "path": "packs/kenney-simple-space/sprites/Default/star_tiny.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/star_tiny.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/star_tiny.png",
       "sha256": "84b230997ea7adcee07c0e2de0c7dc00cb537f2cdefea22654a5559546533b3f",
       "size": 208,
       "contentType": "image/png",
@@ -2395,7 +2395,7 @@
     {
       "fileName": "station_A.png",
       "path": "packs/kenney-simple-space/sprites/Default/station_A.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/station_A.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/station_A.png",
       "sha256": "447f18df97eb7d1d351aa94d3d1ff111e69dfdd0db5d09b7e162cc294a40e05e",
       "size": 1282,
       "contentType": "image/png",
@@ -2405,7 +2405,7 @@
     {
       "fileName": "station_B.png",
       "path": "packs/kenney-simple-space/sprites/Default/station_B.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/station_B.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/station_B.png",
       "sha256": "8220eff34ae3ce50dedb91c0b2b60b85f8ca9eebe44e89b17a03a50c07fc1a1d",
       "size": 1207,
       "contentType": "image/png",
@@ -2415,7 +2415,7 @@
     {
       "fileName": "station_C.png",
       "path": "packs/kenney-simple-space/sprites/Default/station_C.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Default/station_C.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Default/station_C.png",
       "sha256": "dbc9a1f637236b3ba72d75074f7b9763b5c3d560f118ffdba5c59f31c8fce86a",
       "size": 1378,
       "contentType": "image/png",
@@ -2425,7 +2425,7 @@
     {
       "fileName": "effect_purple.png",
       "path": "packs/kenney-simple-space/sprites/Retina/effect_purple.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/effect_purple.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/effect_purple.png",
       "sha256": "6caaed1b2d5db3fab27893b83f122dad48baba22f7fabb729b89364f49c0f6ad",
       "size": 1924,
       "contentType": "image/png",
@@ -2435,7 +2435,7 @@
     {
       "fileName": "effect_yellow.png",
       "path": "packs/kenney-simple-space/sprites/Retina/effect_yellow.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/effect_yellow.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/effect_yellow.png",
       "sha256": "85de5a2a7dea3dfcc2b391b6dac1393a77a5b44ffca0f30e187eec3fcd35eaee",
       "size": 1812,
       "contentType": "image/png",
@@ -2445,7 +2445,7 @@
     {
       "fileName": "enemy_A.png",
       "path": "packs/kenney-simple-space/sprites/Retina/enemy_A.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/enemy_A.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/enemy_A.png",
       "sha256": "8d013ecc22e18d45c451990cde354045e7b26f20c2796f3e8376550fd977a657",
       "size": 2041,
       "contentType": "image/png",
@@ -2455,7 +2455,7 @@
     {
       "fileName": "enemy_B.png",
       "path": "packs/kenney-simple-space/sprites/Retina/enemy_B.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/enemy_B.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/enemy_B.png",
       "sha256": "2b71bd1bec2af8306729d9d08ce679a26e8f346083c58047be75812f36ead5f0",
       "size": 2007,
       "contentType": "image/png",
@@ -2465,7 +2465,7 @@
     {
       "fileName": "enemy_C.png",
       "path": "packs/kenney-simple-space/sprites/Retina/enemy_C.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/enemy_C.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/enemy_C.png",
       "sha256": "5b40ecab44426199d327cdb3b1b85b73ab667da1e5f1b5fa25d5f467da70b5ba",
       "size": 2172,
       "contentType": "image/png",
@@ -2475,7 +2475,7 @@
     {
       "fileName": "enemy_D.png",
       "path": "packs/kenney-simple-space/sprites/Retina/enemy_D.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/enemy_D.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/enemy_D.png",
       "sha256": "4268eaa29d85a750c5d0261a64755ad31fad040c4a1f42b97c7cb4b9bf6f4ec8",
       "size": 2316,
       "contentType": "image/png",
@@ -2485,7 +2485,7 @@
     {
       "fileName": "enemy_E.png",
       "path": "packs/kenney-simple-space/sprites/Retina/enemy_E.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/enemy_E.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/enemy_E.png",
       "sha256": "b7204b8bbb7d01a56fae61e4bf8088c99e88caf155844e9cb9d4d6433a7e8332",
       "size": 2078,
       "contentType": "image/png",
@@ -2495,7 +2495,7 @@
     {
       "fileName": "icon_crossLarge.png",
       "path": "packs/kenney-simple-space/sprites/Retina/icon_crossLarge.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/icon_crossLarge.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/icon_crossLarge.png",
       "sha256": "3597b689598697d116e1b634b527a6f9df7aee89ab655328cb7cecf1914b6f49",
       "size": 761,
       "contentType": "image/png",
@@ -2505,7 +2505,7 @@
     {
       "fileName": "icon_crossSmall.png",
       "path": "packs/kenney-simple-space/sprites/Retina/icon_crossSmall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/icon_crossSmall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/icon_crossSmall.png",
       "sha256": "f47bfb7386a670de416415814613740c42fe7d364a39c2dea48924ba742baee6",
       "size": 583,
       "contentType": "image/png",
@@ -2515,7 +2515,7 @@
     {
       "fileName": "icon_exclamationLarge.png",
       "path": "packs/kenney-simple-space/sprites/Retina/icon_exclamationLarge.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/icon_exclamationLarge.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/icon_exclamationLarge.png",
       "sha256": "bbb04b973d248a32aae3f785a5a13e824d2b533bedcfc9a4019586c3b8f69ecf",
       "size": 1158,
       "contentType": "image/png",
@@ -2525,7 +2525,7 @@
     {
       "fileName": "icon_exclamationSmall.png",
       "path": "packs/kenney-simple-space/sprites/Retina/icon_exclamationSmall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/icon_exclamationSmall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/icon_exclamationSmall.png",
       "sha256": "bc3d8b1f4ee0a9bcddea9b6651fef9278e6fa190f9fbd2b13d40ab3f4b66f966",
       "size": 834,
       "contentType": "image/png",
@@ -2535,7 +2535,7 @@
     {
       "fileName": "icon_plusLarge.png",
       "path": "packs/kenney-simple-space/sprites/Retina/icon_plusLarge.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/icon_plusLarge.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/icon_plusLarge.png",
       "sha256": "6da61b7f3e1a4ee99e4d18e00ea5c4042ebee9875a3f0157a90d931981806d24",
       "size": 1067,
       "contentType": "image/png",
@@ -2545,7 +2545,7 @@
     {
       "fileName": "icon_plusSmall.png",
       "path": "packs/kenney-simple-space/sprites/Retina/icon_plusSmall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/icon_plusSmall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/icon_plusSmall.png",
       "sha256": "59a2ba7635f9b376815435ca2c148ded5d47e76812ca83af875a240336953cf2",
       "size": 815,
       "contentType": "image/png",
@@ -2555,7 +2555,7 @@
     {
       "fileName": "meteor_detailedLarge.png",
       "path": "packs/kenney-simple-space/sprites/Retina/meteor_detailedLarge.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/meteor_detailedLarge.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/meteor_detailedLarge.png",
       "sha256": "9ccffc49ccfef51af5a0a71c2e30a4a10b1b4e14600b8a5eaa1cab61e50c37cc",
       "size": 1147,
       "contentType": "image/png",
@@ -2565,7 +2565,7 @@
     {
       "fileName": "meteor_detailedSmall.png",
       "path": "packs/kenney-simple-space/sprites/Retina/meteor_detailedSmall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/meteor_detailedSmall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/meteor_detailedSmall.png",
       "sha256": "e05babf9daf4a0f9a6ad0cd3b6b53bc959171a9ebf249ab5f9ee7ad7aebb501b",
       "size": 804,
       "contentType": "image/png",
@@ -2575,7 +2575,7 @@
     {
       "fileName": "meteor_large.png",
       "path": "packs/kenney-simple-space/sprites/Retina/meteor_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/meteor_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/meteor_large.png",
       "sha256": "04eb3dd491ad46aa74a946a32675bb63386040f9fac6b133f74ada595c4c7fc6",
       "size": 982,
       "contentType": "image/png",
@@ -2585,7 +2585,7 @@
     {
       "fileName": "meteor_small.png",
       "path": "packs/kenney-simple-space/sprites/Retina/meteor_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/meteor_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/meteor_small.png",
       "sha256": "106475cca8b52ddacfc5f266ef92c19c813eca3183158351b141f41221fcfdcd",
       "size": 768,
       "contentType": "image/png",
@@ -2595,7 +2595,7 @@
     {
       "fileName": "meteor_squareDetailedLarge.png",
       "path": "packs/kenney-simple-space/sprites/Retina/meteor_squareDetailedLarge.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/meteor_squareDetailedLarge.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/meteor_squareDetailedLarge.png",
       "sha256": "70657d06c722893ad3644730ba92568a036422d7c8ef583739b22e6f6c97f1e3",
       "size": 1215,
       "contentType": "image/png",
@@ -2605,7 +2605,7 @@
     {
       "fileName": "meteor_squareDetailedSmall.png",
       "path": "packs/kenney-simple-space/sprites/Retina/meteor_squareDetailedSmall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/meteor_squareDetailedSmall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/meteor_squareDetailedSmall.png",
       "sha256": "9439918bd4bf619f2646a95f5168ceb065ea18e6ca43cd45f83834e129fee41f",
       "size": 762,
       "contentType": "image/png",
@@ -2615,7 +2615,7 @@
     {
       "fileName": "meteor_squareLarge.png",
       "path": "packs/kenney-simple-space/sprites/Retina/meteor_squareLarge.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/meteor_squareLarge.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/meteor_squareLarge.png",
       "sha256": "633879630f3df7ddf88e603b8c80bc1cb833a9ccbc36ce3fbde7672ff64f44dd",
       "size": 1129,
       "contentType": "image/png",
@@ -2625,7 +2625,7 @@
     {
       "fileName": "meteor_squareSmall.png",
       "path": "packs/kenney-simple-space/sprites/Retina/meteor_squareSmall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/meteor_squareSmall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/meteor_squareSmall.png",
       "sha256": "690289588905681fdcb8bb1b24e6cffc4185b8e73a3ec3c5e18667914ec06cc5",
       "size": 721,
       "contentType": "image/png",
@@ -2635,7 +2635,7 @@
     {
       "fileName": "satellite_A.png",
       "path": "packs/kenney-simple-space/sprites/Retina/satellite_A.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/satellite_A.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/satellite_A.png",
       "sha256": "07f1ab3048d190b1f6657890ed52328e73d24af212144f76ca76d5dff79f8b8a",
       "size": 351,
       "contentType": "image/png",
@@ -2645,7 +2645,7 @@
     {
       "fileName": "satellite_B.png",
       "path": "packs/kenney-simple-space/sprites/Retina/satellite_B.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/satellite_B.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/satellite_B.png",
       "sha256": "a1cf7f01093d772171f2acb7c3b035e60e67946ef4848cff74dc4b7af27a07d5",
       "size": 1241,
       "contentType": "image/png",
@@ -2655,7 +2655,7 @@
     {
       "fileName": "satellite_C.png",
       "path": "packs/kenney-simple-space/sprites/Retina/satellite_C.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/satellite_C.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/satellite_C.png",
       "sha256": "017181956e2046d4eb96dd9d6767dcb28abef8950408f2d52cf00599fdda3732",
       "size": 936,
       "contentType": "image/png",
@@ -2665,7 +2665,7 @@
     {
       "fileName": "satellite_D.png",
       "path": "packs/kenney-simple-space/sprites/Retina/satellite_D.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/satellite_D.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/satellite_D.png",
       "sha256": "445ac4bdc02fc3296c023d84bdd7737626dda6673ba18619394406e2f2da151c",
       "size": 1148,
       "contentType": "image/png",
@@ -2675,7 +2675,7 @@
     {
       "fileName": "ship_A.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_A.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_A.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_A.png",
       "sha256": "8a11b1421afe6dbf1a5079669d578424a60c38aced8aa69bd33f1a96b36f4119",
       "size": 855,
       "contentType": "image/png",
@@ -2685,7 +2685,7 @@
     {
       "fileName": "ship_B.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_B.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_B.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_B.png",
       "sha256": "6e4a1dde2912ded553c633610021df3cfbe3c09b031693a8b70b419f16881288",
       "size": 1044,
       "contentType": "image/png",
@@ -2695,7 +2695,7 @@
     {
       "fileName": "ship_C.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_C.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_C.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_C.png",
       "sha256": "e4bc4109948b85534541805a61c4698a659490c8292a1555a2124176c778ef40",
       "size": 1068,
       "contentType": "image/png",
@@ -2705,7 +2705,7 @@
     {
       "fileName": "ship_D.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_D.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_D.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_D.png",
       "sha256": "dd42db5bc4a72887792b77aabeb668d4d1ce12de1fc8f19d91854dac1380980f",
       "size": 1120,
       "contentType": "image/png",
@@ -2715,7 +2715,7 @@
     {
       "fileName": "ship_E.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_E.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_E.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_E.png",
       "sha256": "7ef22e94ca085d595a5ff046933f22fe920fa40c5c10e958bf741c8cbb8914fa",
       "size": 1609,
       "contentType": "image/png",
@@ -2725,7 +2725,7 @@
     {
       "fileName": "ship_F.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_F.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_F.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_F.png",
       "sha256": "896bf53fdde208358fbc5699b7147a7a950f697d79c37c8bf3f64a7022789327",
       "size": 1710,
       "contentType": "image/png",
@@ -2735,7 +2735,7 @@
     {
       "fileName": "ship_G.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_G.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_G.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_G.png",
       "sha256": "3ed7b88143e7bb5abf63bf0ac088594853873e835deb416cd2c1c9be4943669f",
       "size": 1586,
       "contentType": "image/png",
@@ -2745,7 +2745,7 @@
     {
       "fileName": "ship_H.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_H.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_H.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_H.png",
       "sha256": "0da72b41f1e902f25af990dd7a7d8bd3c1c7f7817143182185e1bce82364a50e",
       "size": 1765,
       "contentType": "image/png",
@@ -2755,7 +2755,7 @@
     {
       "fileName": "ship_I.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_I.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_I.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_I.png",
       "sha256": "dbde3857b9a4053247e6210a06ae6efb92ddb7e30ac5b05ebb635062dcb39d58",
       "size": 1639,
       "contentType": "image/png",
@@ -2765,7 +2765,7 @@
     {
       "fileName": "ship_J.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_J.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_J.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_J.png",
       "sha256": "a20d3bd660f4b02ca8e024bb98046be06e25a46359bd0f0ed5de154abc8434b1",
       "size": 1625,
       "contentType": "image/png",
@@ -2775,7 +2775,7 @@
     {
       "fileName": "ship_K.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_K.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_K.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_K.png",
       "sha256": "8f113d565e755f14a85250bf1fcd424f251c24883c7134b1b07d90aada0c72bb",
       "size": 1339,
       "contentType": "image/png",
@@ -2785,7 +2785,7 @@
     {
       "fileName": "ship_L.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_L.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_L.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_L.png",
       "sha256": "297927fe049b242208cad8b4074c2de4f5b2146d4b2d2fac3fb68d7953c2cdf9",
       "size": 1233,
       "contentType": "image/png",
@@ -2795,7 +2795,7 @@
     {
       "fileName": "ship_sidesA.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_sidesA.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_sidesA.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_sidesA.png",
       "sha256": "03e6d16f4326b8d182810815e717b4ee8ae204811801a9cb3e3eaad8ec2e5cad",
       "size": 2003,
       "contentType": "image/png",
@@ -2805,7 +2805,7 @@
     {
       "fileName": "ship_sidesB.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_sidesB.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_sidesB.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_sidesB.png",
       "sha256": "2bdecc7f3d6fd3e7a8522e58a88c8a70c2dee26204cde156fb2ef09d757e9082",
       "size": 1974,
       "contentType": "image/png",
@@ -2815,7 +2815,7 @@
     {
       "fileName": "ship_sidesC.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_sidesC.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_sidesC.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_sidesC.png",
       "sha256": "bcac7679b2f3688016e48873fc37fabe67fef3cd2c90647bc1a0a5630f9f660f",
       "size": 1757,
       "contentType": "image/png",
@@ -2825,7 +2825,7 @@
     {
       "fileName": "ship_sidesD.png",
       "path": "packs/kenney-simple-space/sprites/Retina/ship_sidesD.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/ship_sidesD.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/ship_sidesD.png",
       "sha256": "b9d7e186a6e2c5a9fb640e1223d744317a76c384c9f7ccd62fe73cb626484f3d",
       "size": 1195,
       "contentType": "image/png",
@@ -2835,7 +2835,7 @@
     {
       "fileName": "star_large.png",
       "path": "packs/kenney-simple-space/sprites/Retina/star_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/star_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/star_large.png",
       "sha256": "6b556dc548f9edd1d255ef149e8292aa9222935a0e3059f6c9a696f7b1974c84",
       "size": 641,
       "contentType": "image/png",
@@ -2845,7 +2845,7 @@
     {
       "fileName": "star_medium.png",
       "path": "packs/kenney-simple-space/sprites/Retina/star_medium.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/star_medium.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/star_medium.png",
       "sha256": "bd7559de78a8b693dcd08d700f63a08c89d469831f868940ff1bb23cf1d83953",
       "size": 707,
       "contentType": "image/png",
@@ -2855,7 +2855,7 @@
     {
       "fileName": "star_small.png",
       "path": "packs/kenney-simple-space/sprites/Retina/star_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/star_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/star_small.png",
       "sha256": "9f9d3aac91120dac9c9433c59c4daf8684a85732154e798c4b6941d05b61badb",
       "size": 386,
       "contentType": "image/png",
@@ -2865,7 +2865,7 @@
     {
       "fileName": "star_tiny.png",
       "path": "packs/kenney-simple-space/sprites/Retina/star_tiny.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/star_tiny.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/star_tiny.png",
       "sha256": "6b2324446cbca758289d8dcd60a79be91f661518c9fcf51add352c08eb373fc6",
       "size": 294,
       "contentType": "image/png",
@@ -2875,7 +2875,7 @@
     {
       "fileName": "station_A.png",
       "path": "packs/kenney-simple-space/sprites/Retina/station_A.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/station_A.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/station_A.png",
       "sha256": "05a74c82d5642881e9de3ddc4a5082fd9f6325f69941afd96c9d3d4f6a994f83",
       "size": 2458,
       "contentType": "image/png",
@@ -2885,7 +2885,7 @@
     {
       "fileName": "station_B.png",
       "path": "packs/kenney-simple-space/sprites/Retina/station_B.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/station_B.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/station_B.png",
       "sha256": "65c90d905e364fde0e4a102211c1f6340267628bdb28195c8edd4c17c6d9a6ac",
       "size": 2215,
       "contentType": "image/png",
@@ -2895,7 +2895,7 @@
     {
       "fileName": "station_C.png",
       "path": "packs/kenney-simple-space/sprites/Retina/station_C.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-simple-space/sprites/Retina/station_C.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-simple-space/sprites/Retina/station_C.png",
       "sha256": "53e495f74b87ca667edd5619a4171a193f691ae114ed1fb49672f0e9d570997c",
       "size": 2580,
       "contentType": "image/png",

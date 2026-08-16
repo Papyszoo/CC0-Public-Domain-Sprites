@@ -6,7 +6,7 @@
   "website": "https://kenney.nl",
   "description": "Minimap and radar navigation icons: compass points, quest waypoints, player markers, skull flags, and area pins by Kenney (kenney.nl). CC0 1.0 Universal.",
   "folder": "packs/kenney-minimap-pack",
-  "pinnedSha": "74d14212345ddbfa9d77286224ef4b51ce9eab85",
+  "pinnedSha": "61204c972b02beaa10273e05cef4d215f80b0ca1",
   "itemCount": 150,
   "items": [
     {
@@ -1814,7 +1814,7 @@
     {
       "fileName": "tile_0000.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0000.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0000.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0000.png",
       "sha256": "2cb6de866371d7d9eba5a055eccb37747862740a1a07a5cb47e72311a144c21e",
       "size": 124,
       "role": "Image"
@@ -1822,7 +1822,7 @@
     {
       "fileName": "tile_0001.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0001.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0001.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0001.png",
       "sha256": "b920e6c856d1166f7e3cc785a81c8818cf2d6d8259a6b6aafb528daea4eeb76b",
       "size": 106,
       "role": "Image"
@@ -1830,7 +1830,7 @@
     {
       "fileName": "tile_0002.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0002.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0002.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0002.png",
       "sha256": "2fd04b754a229b0589c8fc5e85a81addd07e090a994eb024f24f5ae3fe347330",
       "size": 122,
       "role": "Image"
@@ -1838,7 +1838,7 @@
     {
       "fileName": "tile_0003.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0003.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0003.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0003.png",
       "sha256": "a759d63d4af86b7be4a90fc0bfdee9dc96db3611a4c207099406121a695bd7e8",
       "size": 112,
       "role": "Image"
@@ -1846,7 +1846,7 @@
     {
       "fileName": "tile_0004.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0004.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0004.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0004.png",
       "sha256": "a106f17ea8f010f225db17a1a7d262bee98f3cfa624926bfa5791d957a55dd4c",
       "size": 112,
       "role": "Image"
@@ -1854,7 +1854,7 @@
     {
       "fileName": "tile_0005.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0005.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0005.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0005.png",
       "sha256": "ecc7c6c196320586071ac0c6926525d37d66622c12981b4527122b8fcf03b0fb",
       "size": 103,
       "role": "Image"
@@ -1862,7 +1862,7 @@
     {
       "fileName": "tile_0006.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0006.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0006.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0006.png",
       "sha256": "dbc1021f20af6bc86d777e38670216d78b71e103a68faa291ebd845b7917b5d7",
       "size": 118,
       "role": "Image"
@@ -1870,7 +1870,7 @@
     {
       "fileName": "tile_0007.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0007.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0007.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0007.png",
       "sha256": "ecc7c6c196320586071ac0c6926525d37d66622c12981b4527122b8fcf03b0fb",
       "size": 103,
       "role": "Image"
@@ -1878,7 +1878,7 @@
     {
       "fileName": "tile_0008.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0008.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0008.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0008.png",
       "sha256": "b198b270a87925320a199b03806a1a504e9256b66220ec9e88616708eb14a013",
       "size": 116,
       "role": "Image"
@@ -1886,7 +1886,7 @@
     {
       "fileName": "tile_0009.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0009.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0009.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0009.png",
       "sha256": "d79f37b439344e79bda36883bb021dc545ffbae0b2603f24cbd6bd6cc94f18f8",
       "size": 116,
       "role": "Image"
@@ -1894,7 +1894,7 @@
     {
       "fileName": "tile_0010.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0010.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0010.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0010.png",
       "sha256": "d4fa79d8ad2ea80fab6154df5a44b453a051fa4f083ab12e7ac17854072ed416",
       "size": 122,
       "role": "Image"
@@ -1902,7 +1902,7 @@
     {
       "fileName": "tile_0011.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0011.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0011.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0011.png",
       "sha256": "b920e6c856d1166f7e3cc785a81c8818cf2d6d8259a6b6aafb528daea4eeb76b",
       "size": 106,
       "role": "Image"
@@ -1910,7 +1910,7 @@
     {
       "fileName": "tile_0012.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0012.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0012.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0012.png",
       "sha256": "799711cb1375b4d28c7d487ab8e451adfaf8ab492763d607dd3f725455a72ab5",
       "size": 123,
       "role": "Image"
@@ -1918,7 +1918,7 @@
     {
       "fileName": "tile_0013.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0013.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0013.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0013.png",
       "sha256": "c87d52e688caed8f303d5f6f686a3a04f58f7be70e1f409266e678726dd0deb7",
       "size": 108,
       "role": "Image"
@@ -1926,7 +1926,7 @@
     {
       "fileName": "tile_0014.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0014.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0014.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0014.png",
       "sha256": "f1dbfd3e86defab264b56ff3fe6e38eb749919b38e1e409108f155e343fc0a5a",
       "size": 91,
       "role": "Image"
@@ -1934,7 +1934,7 @@
     {
       "fileName": "tile_0015.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0015.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0015.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0015.png",
       "sha256": "36ab7348c2eda7955f7cf302c9c84ba1115193e910d10fd29cec367dcbb6e38b",
       "size": 92,
       "role": "Image"
@@ -1942,7 +1942,7 @@
     {
       "fileName": "tile_0016.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0016.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0016.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0016.png",
       "sha256": "f369cb52dc1cd6a9b2cc398304ecfa46159d8ac21aba41cccfbe88a51b987f0d",
       "size": 108,
       "role": "Image"
@@ -1950,7 +1950,7 @@
     {
       "fileName": "tile_0017.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0017.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0017.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0017.png",
       "sha256": "b6eb42ad6064d5de739c7b813bd4e60df2c08f745f00ce0825d64db5575c222f",
       "size": 108,
       "role": "Image"
@@ -1958,7 +1958,7 @@
     {
       "fileName": "tile_0018.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0018.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0018.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0018.png",
       "sha256": "ed41881ade572f573a73ab9835c9ffd94842146bfc36618f4e0d84c89ff56f03",
       "size": 124,
       "role": "Image"
@@ -1966,7 +1966,7 @@
     {
       "fileName": "tile_0019.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0019.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0019.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0019.png",
       "sha256": "132ab59f1a86e1227692bb02807029e07aebb429a6a56f70e72f989de21f1280",
       "size": 124,
       "role": "Image"
@@ -1974,7 +1974,7 @@
     {
       "fileName": "tile_0020.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0020.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0020.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0020.png",
       "sha256": "231b0b112695b542bd500c03fe5386f79eccc9eda998b3fa7be4b95e20d04bbd",
       "size": 92,
       "role": "Image"
@@ -1982,7 +1982,7 @@
     {
       "fileName": "tile_0021.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0021.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0021.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0021.png",
       "sha256": "4c7604f8420c90ebdbb3f7a27e8f17baa14beb2b8b7b542461832cda952b36bd",
       "size": 113,
       "role": "Image"
@@ -1990,7 +1990,7 @@
     {
       "fileName": "tile_0022.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0022.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0022.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0022.png",
       "sha256": "d8fe5ff8dd9d22b3dea35578aabd57395cbfe077ea3883fa39911339cac180d0",
       "size": 113,
       "role": "Image"
@@ -1998,7 +1998,7 @@
     {
       "fileName": "tile_0023.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0023.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0023.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0023.png",
       "sha256": "d624f9b1bd641363403a0a720f26366924dc57aba38f01de33c90c4cb7eb60d4",
       "size": 112,
       "role": "Image"
@@ -2006,7 +2006,7 @@
     {
       "fileName": "tile_0024.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0024.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0024.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0024.png",
       "sha256": "4e83846c7c6749c4f271ea86e7fe3cdf8c47d25d5bc4a4edb0bc6d51ce2017dd",
       "size": 122,
       "role": "Image"
@@ -2014,7 +2014,7 @@
     {
       "fileName": "tile_0000.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0000.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0000.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0000.png",
       "sha256": "895cee2fcc3d8f92773466b55842f66a16df3c138531222a62f1035470578750",
       "size": 108,
       "role": "Image"
@@ -2022,7 +2022,7 @@
     {
       "fileName": "tile_0001.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0001.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0001.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0001.png",
       "sha256": "cb1f47b7c86b5806b6da213788e67608f0045801baf1fc472965b7eaff4b6c5d",
       "size": 106,
       "role": "Image"
@@ -2030,7 +2030,7 @@
     {
       "fileName": "tile_0002.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0002.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0002.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0002.png",
       "sha256": "99f782837e083f5e663bc610aa260ccdee1054330de6218b122c99ccc7f1f01e",
       "size": 108,
       "role": "Image"
@@ -2038,7 +2038,7 @@
     {
       "fileName": "tile_0003.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0003.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0003.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0003.png",
       "sha256": "a82919b6f149113d8649afd6542709db50b61a63b671cef64efc4be083044776",
       "size": 108,
       "role": "Image"
@@ -2046,7 +2046,7 @@
     {
       "fileName": "tile_0004.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0004.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0004.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0004.png",
       "sha256": "f2a03d8a6c413392f2415434ca598021069cea1debc2154b4ba199b278e9739f",
       "size": 108,
       "role": "Image"
@@ -2054,7 +2054,7 @@
     {
       "fileName": "tile_0005.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0005.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0005.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0005.png",
       "sha256": "ed921dcb50d0c6f4cf6fe96566dd20dbd201fb23d4b897b022883eb8675b8b20",
       "size": 103,
       "role": "Image"
@@ -2062,7 +2062,7 @@
     {
       "fileName": "tile_0006.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0006.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0006.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0006.png",
       "sha256": "c84563170e137303a9809e4568f1028d74ae2e9183a28a3ec2b17589339663ad",
       "size": 108,
       "role": "Image"
@@ -2070,7 +2070,7 @@
     {
       "fileName": "tile_0007.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0007.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0007.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0007.png",
       "sha256": "ed921dcb50d0c6f4cf6fe96566dd20dbd201fb23d4b897b022883eb8675b8b20",
       "size": 103,
       "role": "Image"
@@ -2078,7 +2078,7 @@
     {
       "fileName": "tile_0008.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0008.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0008.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0008.png",
       "sha256": "40b7ccea90883d1ff875641c147e31ad2668fb193446d99fef12160a42c915b3",
       "size": 108,
       "role": "Image"
@@ -2086,7 +2086,7 @@
     {
       "fileName": "tile_0009.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0009.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0009.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0009.png",
       "sha256": "891fa38ef19b754b9f90607ce207d10cdd4edc96fb7805d7257d3db23067b7f8",
       "size": 108,
       "role": "Image"
@@ -2094,7 +2094,7 @@
     {
       "fileName": "tile_0010.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0010.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0010.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0010.png",
       "sha256": "7f5be1ce3bde0da71f92093cceb6f716905bc1b39c748f0d5e65eb8928597ef2",
       "size": 108,
       "role": "Image"
@@ -2102,7 +2102,7 @@
     {
       "fileName": "tile_0011.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0011.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0011.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0011.png",
       "sha256": "cb1f47b7c86b5806b6da213788e67608f0045801baf1fc472965b7eaff4b6c5d",
       "size": 106,
       "role": "Image"
@@ -2110,7 +2110,7 @@
     {
       "fileName": "tile_0012.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0012.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0012.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0012.png",
       "sha256": "2fa5f4b62bab7035e6b9263dc9774b14898c870585e9c39da413ed7dbd4471cb",
       "size": 108,
       "role": "Image"
@@ -2118,7 +2118,7 @@
     {
       "fileName": "tile_0013.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0013.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0013.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0013.png",
       "sha256": "c6ebfc4fbbf79d8487e60a0048e74de12a70c1935b2684020cd76341edac7d8a",
       "size": 108,
       "role": "Image"
@@ -2126,7 +2126,7 @@
     {
       "fileName": "tile_0014.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0014.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0014.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0014.png",
       "sha256": "2f160daa0d7d10cab296de95516ba3295b296588296e1b5a31df47e61067ddce",
       "size": 91,
       "role": "Image"
@@ -2134,7 +2134,7 @@
     {
       "fileName": "tile_0015.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0015.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0015.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0015.png",
       "sha256": "a75809859ecffe0e858e601c94844198d70975280f4121410e735ab7d16f5117",
       "size": 101,
       "role": "Image"
@@ -2142,7 +2142,7 @@
     {
       "fileName": "tile_0016.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0016.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0016.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0016.png",
       "sha256": "ef4e9583ee76b52336376927b5283c9861eb21b81c438b8625a34d2d3ba21190",
       "size": 108,
       "role": "Image"
@@ -2150,7 +2150,7 @@
     {
       "fileName": "tile_0017.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0017.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0017.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0017.png",
       "sha256": "6b6f39924a37f5a8129dfddd4d9fe4fdc20926c4f21f343561a74904f6c01220",
       "size": 108,
       "role": "Image"
@@ -2158,7 +2158,7 @@
     {
       "fileName": "tile_0018.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0018.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0018.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0018.png",
       "sha256": "c6d81fded510cdede45de4e8a9a52dc8feaf21f4f6608bd614c823bb58d89826",
       "size": 112,
       "role": "Image"
@@ -2166,7 +2166,7 @@
     {
       "fileName": "tile_0019.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0019.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0019.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0019.png",
       "sha256": "68f3117af53f76c1b0b7bfbf4842ff85219c3cd79b616af6b3a1b79598e07686",
       "size": 114,
       "role": "Image"
@@ -2174,7 +2174,7 @@
     {
       "fileName": "tile_0020.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0020.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0020.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0020.png",
       "sha256": "d88bcfaeab3e5ae50d42a322a177d8c2b99961e57704e0e3d9521ea78fd78314",
       "size": 115,
       "role": "Image"
@@ -2182,7 +2182,7 @@
     {
       "fileName": "tile_0021.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0021.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0021.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0021.png",
       "sha256": "c8481647c1fd87d861a3a260384a37b13bc33bf698b5f9a740f1580e64557bfa",
       "size": 112,
       "role": "Image"
@@ -2190,7 +2190,7 @@
     {
       "fileName": "tile_0022.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0022.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0022.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0022.png",
       "sha256": "a15066158f080d64af27128b11707d0ebcb8925f5a34a642ba7af8b2bfa60928",
       "size": 110,
       "role": "Image"
@@ -2198,7 +2198,7 @@
     {
       "fileName": "tile_0023.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0023.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0023.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0023.png",
       "sha256": "466f4e5ea1f9537b3c557477d48d5e323f40cf5dae4d9497b56c1432ec91c311",
       "size": 112,
       "role": "Image"
@@ -2206,7 +2206,7 @@
     {
       "fileName": "tile_0024.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0024.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0024.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0024.png",
       "sha256": "b554882c384f0978802e97e2570da6639989efc44747ce76923dfbf4a402832b",
       "size": 112,
       "role": "Image"
@@ -2214,7 +2214,7 @@
     {
       "fileName": "tile_0000.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0000.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0000.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0000.png",
       "sha256": "22d5ea8da79da7dc53ca4d7119c0c87606315764610133fa269dfddcf3006498",
       "size": 109,
       "role": "Image"
@@ -2222,7 +2222,7 @@
     {
       "fileName": "tile_0001.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0001.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0001.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0001.png",
       "sha256": "2ee3ca7bae38302c2d59680096cf604b0e040a928e512d8f0757cf1651f975b1",
       "size": 104,
       "role": "Image"
@@ -2230,7 +2230,7 @@
     {
       "fileName": "tile_0002.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0002.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0002.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0002.png",
       "sha256": "838438746a9e3080a1473432317905a2e5b6172db19decb12117fc04f373e0df",
       "size": 108,
       "role": "Image"
@@ -2238,7 +2238,7 @@
     {
       "fileName": "tile_0003.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0003.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0003.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0003.png",
       "sha256": "97ff1581f07cafa7c9cc539085b676dd20fbcfd2615c0edff2d040e9df590061",
       "size": 108,
       "role": "Image"
@@ -2246,7 +2246,7 @@
     {
       "fileName": "tile_0004.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0004.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0004.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0004.png",
       "sha256": "53127e4b435efd55d2ce34826e0cf2272fdf7565c8c53d938692e3748b77c2d2",
       "size": 108,
       "role": "Image"
@@ -2254,7 +2254,7 @@
     {
       "fileName": "tile_0005.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0005.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0005.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0005.png",
       "sha256": "111d59a3620ba9dc5037368ce08d2be303ba7ebf4d45f909ef312c70d3dc5026",
       "size": 102,
       "role": "Image"
@@ -2262,7 +2262,7 @@
     {
       "fileName": "tile_0006.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0006.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0006.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0006.png",
       "sha256": "f32c779675bc543f81b178292379d56ea9ef76a40c7929ae48f8360d35f4f51f",
       "size": 107,
       "role": "Image"
@@ -2270,7 +2270,7 @@
     {
       "fileName": "tile_0007.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0007.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0007.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0007.png",
       "sha256": "111d59a3620ba9dc5037368ce08d2be303ba7ebf4d45f909ef312c70d3dc5026",
       "size": 102,
       "role": "Image"
@@ -2278,7 +2278,7 @@
     {
       "fileName": "tile_0008.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0008.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0008.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0008.png",
       "sha256": "dd37dc115d414d6793f8ef03eda9ab060557cc904c1b934e6cd37cff913932ad",
       "size": 107,
       "role": "Image"
@@ -2286,7 +2286,7 @@
     {
       "fileName": "tile_0009.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0009.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0009.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0009.png",
       "sha256": "2257a3e5ff0a7981522df099bda343835cdda5a33a313878ef589353f043c47d",
       "size": 107,
       "role": "Image"
@@ -2294,7 +2294,7 @@
     {
       "fileName": "tile_0010.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0010.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0010.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0010.png",
       "sha256": "8769bc5d6d21cdfb95c10d4a37b6fcc02c8ac5adb1d25cd991a6ac557061eaa2",
       "size": 109,
       "role": "Image"
@@ -2302,7 +2302,7 @@
     {
       "fileName": "tile_0011.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0011.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0011.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0011.png",
       "sha256": "2ee3ca7bae38302c2d59680096cf604b0e040a928e512d8f0757cf1651f975b1",
       "size": 104,
       "role": "Image"
@@ -2310,7 +2310,7 @@
     {
       "fileName": "tile_0012.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0012.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0012.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0012.png",
       "sha256": "f9e6f741e7239c7b20700964b64f72f2bf7645e64a3be2ac869c2e933ce0206e",
       "size": 108,
       "role": "Image"
@@ -2318,7 +2318,7 @@
     {
       "fileName": "tile_0013.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0013.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0013.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0013.png",
       "sha256": "fb70104bc16b9fd824264377d5b28cf95236f65f29ba24f742b90f16f29eef24",
       "size": 108,
       "role": "Image"
@@ -2326,7 +2326,7 @@
     {
       "fileName": "tile_0014.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0014.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0014.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0014.png",
       "sha256": "72622a1da25b684f226872415b3dc1dce9cf56b4f6f1be538965d1a95b9a000a",
       "size": 91,
       "role": "Image"
@@ -2334,7 +2334,7 @@
     {
       "fileName": "tile_0015.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0015.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0015.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0015.png",
       "sha256": "02283bd38cc0380cd13ba9de174427d553d89c62a42412541ff7d88b7b0dcae6",
       "size": 101,
       "role": "Image"
@@ -2342,7 +2342,7 @@
     {
       "fileName": "tile_0016.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0016.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0016.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0016.png",
       "sha256": "04e78ebeee99e261fc5996b1a54dce725c1e3ec03e15c479306ead080aa2f1bc",
       "size": 108,
       "role": "Image"
@@ -2350,7 +2350,7 @@
     {
       "fileName": "tile_0017.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0017.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0017.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0017.png",
       "sha256": "5cf4b8c11d6b02dda12e35d21115237bc8f0e0beded959d9af30491478c44e37",
       "size": 108,
       "role": "Image"
@@ -2358,7 +2358,7 @@
     {
       "fileName": "tile_0018.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0018.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0018.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0018.png",
       "sha256": "ac54a457e675eddc0d4e23c684aca58862287787a2f05e95f0069228f6816602",
       "size": 125,
       "role": "Image"
@@ -2366,7 +2366,7 @@
     {
       "fileName": "tile_0019.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0019.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0019.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0019.png",
       "sha256": "412af542e25e94f51895ace36a0206db63fd2f3953756a72e8796f3ebffd7493",
       "size": 127,
       "role": "Image"
@@ -2374,7 +2374,7 @@
     {
       "fileName": "tile_0020.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0020.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0020.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0020.png",
       "sha256": "65e7c661a0c7fc898c37e0eab980aa75e5baae090532accdda74e0e812712b36",
       "size": 115,
       "role": "Image"
@@ -2382,7 +2382,7 @@
     {
       "fileName": "tile_0021.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0021.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0021.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0021.png",
       "sha256": "e2c159f20b9ab41bf44380f5d9f074cc661956286891e8b1646156109ef9c68a",
       "size": 108,
       "role": "Image"
@@ -2390,7 +2390,7 @@
     {
       "fileName": "tile_0022.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0022.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0022.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0022.png",
       "sha256": "ff2566e739783706237d527f7db88d3b704591a70ee927c99a4d77b4051df657",
       "size": 108,
       "role": "Image"
@@ -2398,7 +2398,7 @@
     {
       "fileName": "tile_0023.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0023.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0023.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0023.png",
       "sha256": "c6e1826bfcabdadb4bee61cc813318626833c251310654a853a4b9e2701cdaec",
       "size": 125,
       "role": "Image"
@@ -2406,7 +2406,7 @@
     {
       "fileName": "tile_0024.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0024.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0024.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0024.png",
       "sha256": "64d3acc7d499837a05dc264a14dba15598997587632bbfba9ad562dc70243735",
       "size": 125,
       "role": "Image"
@@ -2414,7 +2414,7 @@
     {
       "fileName": "tile_0000.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0000.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0000.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0000.png",
       "sha256": "97e905c993680f2ecccce7881cf3cf5d927594a9fd3a0df93431d779f736983b",
       "size": 122,
       "role": "Image"
@@ -2422,7 +2422,7 @@
     {
       "fileName": "tile_0001.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0001.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0001.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0001.png",
       "sha256": "a95c82e0bf475cf0ca199cc7e5975a2f03d3742999245deb88e5141b9ce0086a",
       "size": 116,
       "role": "Image"
@@ -2430,7 +2430,7 @@
     {
       "fileName": "tile_0002.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0002.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0002.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0002.png",
       "sha256": "f0815283f22e10e0647cbb8f666a094cfd4e63106d8e3f2378d60e2bc728786f",
       "size": 122,
       "role": "Image"
@@ -2438,7 +2438,7 @@
     {
       "fileName": "tile_0003.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0003.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0003.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0003.png",
       "sha256": "7715505e5e3c62c03bab7a79c7af68cc94912f649234ff6650a6a47d37c2c3ee",
       "size": 117,
       "role": "Image"
@@ -2446,7 +2446,7 @@
     {
       "fileName": "tile_0004.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0004.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0004.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0004.png",
       "sha256": "f434673298967e8177b0314810440efccee10abb912e3eea1a936b5686763671",
       "size": 118,
       "role": "Image"
@@ -2454,7 +2454,7 @@
     {
       "fileName": "tile_0005.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0005.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0005.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0005.png",
       "sha256": "06a926d4ec74f4de105981747aff7d2d126ae018d547a90353374687cb90138d",
       "size": 108,
       "role": "Image"
@@ -2462,7 +2462,7 @@
     {
       "fileName": "tile_0006.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0006.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0006.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0006.png",
       "sha256": "6f2a24b237df56e62b5745bfc00f29d610253bea2688daf9e468b91eada7c11e",
       "size": 118,
       "role": "Image"
@@ -2470,7 +2470,7 @@
     {
       "fileName": "tile_0007.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0007.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0007.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0007.png",
       "sha256": "06a926d4ec74f4de105981747aff7d2d126ae018d547a90353374687cb90138d",
       "size": 108,
       "role": "Image"
@@ -2478,7 +2478,7 @@
     {
       "fileName": "tile_0008.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0008.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0008.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0008.png",
       "sha256": "e712e425391e73ee1f473b76ac93308f3e23a6f93b8f788957f9deebf35ded78",
       "size": 119,
       "role": "Image"
@@ -2486,7 +2486,7 @@
     {
       "fileName": "tile_0009.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0009.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0009.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0009.png",
       "sha256": "0591323a136f464344796d8dd5a1c10b1804e85d5cd8785aa598804aa6eaf888",
       "size": 119,
       "role": "Image"
@@ -2494,7 +2494,7 @@
     {
       "fileName": "tile_0010.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0010.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0010.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0010.png",
       "sha256": "25b1f449738ec510ae163df206b7ace25187eabb4b51b442b5166ee4588e378e",
       "size": 122,
       "role": "Image"
@@ -2502,7 +2502,7 @@
     {
       "fileName": "tile_0011.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0011.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0011.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0011.png",
       "sha256": "a95c82e0bf475cf0ca199cc7e5975a2f03d3742999245deb88e5141b9ce0086a",
       "size": 116,
       "role": "Image"
@@ -2510,7 +2510,7 @@
     {
       "fileName": "tile_0012.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0012.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0012.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0012.png",
       "sha256": "558e49d7c8c8fcfa645d90baad2dade2ed2ef920f023f2a2387a89ab44e1e506",
       "size": 122,
       "role": "Image"
@@ -2518,7 +2518,7 @@
     {
       "fileName": "tile_0013.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0013.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0013.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0013.png",
       "sha256": "d7750824e71747d7bd19b0f17805600e91ef1705c0a92c8f5b4a5a5435a4783f",
       "size": 118,
       "role": "Image"
@@ -2526,7 +2526,7 @@
     {
       "fileName": "tile_0014.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0014.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0014.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0014.png",
       "sha256": "3811edbac6b3ccfcf562e886be263324280d3bf8fb03b4c93e65a743c139911f",
       "size": 91,
       "role": "Image"
@@ -2534,7 +2534,7 @@
     {
       "fileName": "tile_0015.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0015.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0015.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0015.png",
       "sha256": "36ab7348c2eda7955f7cf302c9c84ba1115193e910d10fd29cec367dcbb6e38b",
       "size": 92,
       "role": "Image"
@@ -2542,7 +2542,7 @@
     {
       "fileName": "tile_0016.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0016.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0016.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0016.png",
       "sha256": "03c8ce32f6c7360f56b3998be1dfa09df2fc8610c3e4ab75356a80858b8c02a2",
       "size": 118,
       "role": "Image"
@@ -2550,7 +2550,7 @@
     {
       "fileName": "tile_0017.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0017.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0017.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0017.png",
       "sha256": "a4f46c215e2696b486d5c110661dce05c9063e69a4ce1b57dae31e55f4b4b3bf",
       "size": 117,
       "role": "Image"
@@ -2558,7 +2558,7 @@
     {
       "fileName": "tile_0018.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0018.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0018.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0018.png",
       "sha256": "ae8cb7589900e11dea6f61f90476ff13330a653211f21321c89260331872b6f4",
       "size": 124,
       "role": "Image"
@@ -2566,7 +2566,7 @@
     {
       "fileName": "tile_0019.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0019.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0019.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0019.png",
       "sha256": "da92c7aff6afea12d7c37ae0befcd080c67a0d494d312ada4da5cf0aab851938",
       "size": 124,
       "role": "Image"
@@ -2574,7 +2574,7 @@
     {
       "fileName": "tile_0020.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0020.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0020.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0020.png",
       "sha256": "231b0b112695b542bd500c03fe5386f79eccc9eda998b3fa7be4b95e20d04bbd",
       "size": 92,
       "role": "Image"
@@ -2582,7 +2582,7 @@
     {
       "fileName": "tile_0021.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0021.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0021.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0021.png",
       "sha256": "3786b569cf4b2cc507b038a8ad8174ebb29bb4a36cdf194ba8ae6d6e5fcdd8d2",
       "size": 125,
       "role": "Image"
@@ -2590,7 +2590,7 @@
     {
       "fileName": "tile_0022.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0022.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0022.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0022.png",
       "sha256": "686cfe98de829a7c53fed9eacf03fa76d5a5293658d44a7255d5e575f0df47f1",
       "size": 119,
       "role": "Image"
@@ -2598,7 +2598,7 @@
     {
       "fileName": "tile_0023.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0023.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0023.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0023.png",
       "sha256": "704fc8509e74a8c9c40aaf669417022c214b3336ff17569ce2e2e73b20f82abb",
       "size": 122,
       "role": "Image"
@@ -2606,7 +2606,7 @@
     {
       "fileName": "tile_0024.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0024.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0024.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0024.png",
       "sha256": "e1186208548de72c56f8371b9ad3331c2f349cc8051f276525d43d91b0e7e222",
       "size": 125,
       "role": "Image"
@@ -2614,7 +2614,7 @@
     {
       "fileName": "tile_0000.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0000.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0000.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0000.png",
       "sha256": "7ae37c27817f28b6dd6c6477f3f5b52f801c406241e1e5bc330570d410d2d062",
       "size": 129,
       "role": "Image"
@@ -2622,7 +2622,7 @@
     {
       "fileName": "tile_0001.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0001.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0001.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0001.png",
       "sha256": "c2a44cd89eb32bffebf63ff68b1ed1ffdc49267841b00b89f60bea5b2ad57077",
       "size": 102,
       "role": "Image"
@@ -2630,7 +2630,7 @@
     {
       "fileName": "tile_0002.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0002.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0002.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0002.png",
       "sha256": "c3cc5366b0ee404c9dad3fbf5d6221ca89bc21735a1e768b8e590aca2129ea89",
       "size": 129,
       "role": "Image"
@@ -2638,7 +2638,7 @@
     {
       "fileName": "tile_0003.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0003.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0003.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0003.png",
       "sha256": "5dbaf2922c034bbea6c6a5b7b0792398566af284dc73ecd9667fd40bda8570e1",
       "size": 117,
       "role": "Image"
@@ -2646,7 +2646,7 @@
     {
       "fileName": "tile_0004.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0004.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0004.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0004.png",
       "sha256": "7edfb3a06d3bd8b7348485b4e790196e0edfc1f0887e4f8e3fbcea08d6aa0a5f",
       "size": 119,
       "role": "Image"
@@ -2654,7 +2654,7 @@
     {
       "fileName": "tile_0005.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0005.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0005.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0005.png",
       "sha256": "1e85f550b8d2e50e213f4d22f4a00b7eb8556631d3ad286fb04b4ce840467e75",
       "size": 103,
       "role": "Image"
@@ -2662,7 +2662,7 @@
     {
       "fileName": "tile_0006.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0006.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0006.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0006.png",
       "sha256": "76c008a501a18d4653d90f8711e0a0e17554388f2b13c01ac709b37658bd8957",
       "size": 121,
       "role": "Image"
@@ -2670,7 +2670,7 @@
     {
       "fileName": "tile_0007.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0007.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0007.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0007.png",
       "sha256": "1e85f550b8d2e50e213f4d22f4a00b7eb8556631d3ad286fb04b4ce840467e75",
       "size": 103,
       "role": "Image"
@@ -2678,7 +2678,7 @@
     {
       "fileName": "tile_0008.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0008.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0008.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0008.png",
       "sha256": "0cbac5e5d7839067c1991282e358ad55196cd98092bfef039ac7eea483a24cb2",
       "size": 120,
       "role": "Image"
@@ -2686,7 +2686,7 @@
     {
       "fileName": "tile_0009.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0009.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0009.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0009.png",
       "sha256": "7e09264056c6d652c6afcf9b2175b436a2a786c81512390666998e4d9a2ac4eb",
       "size": 120,
       "role": "Image"
@@ -2694,7 +2694,7 @@
     {
       "fileName": "tile_0010.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0010.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0010.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0010.png",
       "sha256": "e13ecc1db6f63716743f83062024b008df5d49cc8037e3b45a7c4afe116e002f",
       "size": 129,
       "role": "Image"
@@ -2702,7 +2702,7 @@
     {
       "fileName": "tile_0011.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0011.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0011.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0011.png",
       "sha256": "c2a44cd89eb32bffebf63ff68b1ed1ffdc49267841b00b89f60bea5b2ad57077",
       "size": 102,
       "role": "Image"
@@ -2710,7 +2710,7 @@
     {
       "fileName": "tile_0012.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0012.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0012.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0012.png",
       "sha256": "232ef4f7f86986bca40abbbbfdf93920619686bbdb46c8fcaabc3fdc554e650b",
       "size": 129,
       "role": "Image"
@@ -2718,7 +2718,7 @@
     {
       "fileName": "tile_0013.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0013.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0013.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0013.png",
       "sha256": "c34d5baada8b28c585c09f3989c7dbfd115135dfeaf0667c159f926f48787d6f",
       "size": 105,
       "role": "Image"
@@ -2726,7 +2726,7 @@
     {
       "fileName": "tile_0014.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0014.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0014.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0014.png",
       "sha256": "0bfbdeb4eb43dd7fece114e7ea3711bab5b995fabfc9bdae65e5e8be11025985",
       "size": 91,
       "role": "Image"
@@ -2734,7 +2734,7 @@
     {
       "fileName": "tile_0015.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0015.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0015.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0015.png",
       "sha256": "36ab7348c2eda7955f7cf302c9c84ba1115193e910d10fd29cec367dcbb6e38b",
       "size": 92,
       "role": "Image"
@@ -2742,7 +2742,7 @@
     {
       "fileName": "tile_0016.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0016.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0016.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0016.png",
       "sha256": "5f685a04949186dba00f0a39f51b989c738fcb41b43c445a848a4e987c8c9c44",
       "size": 118,
       "role": "Image"
@@ -2750,7 +2750,7 @@
     {
       "fileName": "tile_0017.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0017.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0017.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0017.png",
       "sha256": "4a44a13d045acbab9cb309af4600ff60f99e50671be05adc8622ff6f3106d235",
       "size": 117,
       "role": "Image"
@@ -2758,7 +2758,7 @@
     {
       "fileName": "tile_0018.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0018.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0018.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0018.png",
       "sha256": "05a931808fb6c30685de413a2985f28ef97873dc5c5607311ac3d0ff4ad8ce77",
       "size": 127,
       "role": "Image"
@@ -2766,7 +2766,7 @@
     {
       "fileName": "tile_0019.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0019.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0019.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0019.png",
       "sha256": "36020892b0fc5e5a9536e8bdb6832312b0426fcfc0da3c7bcba3a34745f20ce4",
       "size": 124,
       "role": "Image"
@@ -2774,7 +2774,7 @@
     {
       "fileName": "tile_0020.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0020.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0020.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0020.png",
       "sha256": "231b0b112695b542bd500c03fe5386f79eccc9eda998b3fa7be4b95e20d04bbd",
       "size": 92,
       "role": "Image"
@@ -2782,7 +2782,7 @@
     {
       "fileName": "tile_0021.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0021.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0021.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0021.png",
       "sha256": "073cfe970dd2b43495d1b37f102c63f3845f6c6436da8122eaf50bf1cc27a757",
       "size": 121,
       "role": "Image"
@@ -2790,7 +2790,7 @@
     {
       "fileName": "tile_0022.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0022.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0022.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0022.png",
       "sha256": "dd44cdbca8038f25203bfa4112c57b22fca958319f746c76d1f918b30101ac84",
       "size": 120,
       "role": "Image"
@@ -2798,7 +2798,7 @@
     {
       "fileName": "tile_0023.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0023.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0023.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0023.png",
       "sha256": "055e780d22ca3f9ccaad37ffaa6c34383f7f6efc518a7e92331e912fd8f47752",
       "size": 125,
       "role": "Image"
@@ -2806,7 +2806,7 @@
     {
       "fileName": "tile_0024.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0024.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0024.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0024.png",
       "sha256": "195068287b46cb78ff668add45dae9bce4640300c7cd07b14957d06e3f1db107",
       "size": 125,
       "role": "Image"
@@ -2814,7 +2814,7 @@
     {
       "fileName": "tile_0000.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0000.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0000.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0000.png",
       "sha256": "2b90aef68dbdb5d34f9e50cfff226e1bb1100ec470f7d89b9264e535ce18b1b4",
       "size": 116,
       "role": "Image"
@@ -2822,7 +2822,7 @@
     {
       "fileName": "tile_0001.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0001.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0001.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0001.png",
       "sha256": "c332b7ca54092eabf71853e6b41f0b721e997c19ba70f113fc1681200deaf39f",
       "size": 115,
       "role": "Image"
@@ -2830,7 +2830,7 @@
     {
       "fileName": "tile_0002.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0002.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0002.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0002.png",
       "sha256": "5a8d78de4754e7d486c3d6bad1376c65f219224ef78c29cb92ec3ae7a199399c",
       "size": 115,
       "role": "Image"
@@ -2838,7 +2838,7 @@
     {
       "fileName": "tile_0003.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0003.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0003.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0003.png",
       "sha256": "6592834e3544c1832e88f1bbe7e0f6dcb5d866b44b1d99418c355f646287bb68",
       "size": 113,
       "role": "Image"
@@ -2846,7 +2846,7 @@
     {
       "fileName": "tile_0004.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0004.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0004.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0004.png",
       "sha256": "aebf975f414efd337ebd53588563dca7ac26ab5f85f6c325c6d9be93c4efa988",
       "size": 112,
       "role": "Image"
@@ -2854,7 +2854,7 @@
     {
       "fileName": "tile_0005.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0005.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0005.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0005.png",
       "sha256": "2c3f968ff531971be02423de5a8c4c4d13cd0f83576cc2d87fb02c725e4a7dbf",
       "size": 112,
       "role": "Image"
@@ -2862,7 +2862,7 @@
     {
       "fileName": "tile_0006.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0006.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0006.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0006.png",
       "sha256": "959b3517fd1a65b1d99299119dac7a22c85f7226aaad6f2b4e249bb5773c2db9",
       "size": 113,
       "role": "Image"
@@ -2870,7 +2870,7 @@
     {
       "fileName": "tile_0007.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0007.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0007.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0007.png",
       "sha256": "5679bfe49bbf9101167a7f0fdb9283ff75738720baa727d903fd2fa13d302fcf",
       "size": 112,
       "role": "Image"
@@ -2878,7 +2878,7 @@
     {
       "fileName": "tile_0008.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0008.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0008.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0008.png",
       "sha256": "2085fe462a28186623a581d324560b2b27cc338a3fb0c7c1d70c86410301481a",
       "size": 115,
       "role": "Image"
@@ -2886,7 +2886,7 @@
     {
       "fileName": "tile_0009.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0009.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0009.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0009.png",
       "sha256": "4dafb4cbc3707c4ad6a32c91cc2600b696b5032e33fbd4547b1dbee419286688",
       "size": 113,
       "role": "Image"
@@ -2894,7 +2894,7 @@
     {
       "fileName": "tile_0010.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0010.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0010.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0010.png",
       "sha256": "97c3d03e11571e108f40549629522e3cc905b64e90a2922d39d64fcaddd77156",
       "size": 116,
       "role": "Image"
@@ -2902,7 +2902,7 @@
     {
       "fileName": "tile_0011.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0011.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0011.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0011.png",
       "sha256": "6c045f30f5764fa3999575334d51488fd77a4527bf226e71c8336d24e24005ff",
       "size": 115,
       "role": "Image"
@@ -2910,7 +2910,7 @@
     {
       "fileName": "tile_0012.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0012.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0012.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0012.png",
       "sha256": "69ea961c66a37357b1bf3a80806cbdddda479c43cf8f672be623cbc4649d4204",
       "size": 115,
       "role": "Image"
@@ -2918,7 +2918,7 @@
     {
       "fileName": "tile_0013.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0013.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0013.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0013.png",
       "sha256": "5e455c21b7c97e2ed5a63410547becb83665610093878af3ea0353ccdfc46caf",
       "size": 105,
       "role": "Image"
@@ -2926,7 +2926,7 @@
     {
       "fileName": "tile_0014.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0014.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0014.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0014.png",
       "sha256": "2f160daa0d7d10cab296de95516ba3295b296588296e1b5a31df47e61067ddce",
       "size": 91,
       "role": "Image"
@@ -2934,7 +2934,7 @@
     {
       "fileName": "tile_0015.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0015.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0015.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0015.png",
       "sha256": "36ab7348c2eda7955f7cf302c9c84ba1115193e910d10fd29cec367dcbb6e38b",
       "size": 92,
       "role": "Image"
@@ -2942,7 +2942,7 @@
     {
       "fileName": "tile_0016.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0016.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0016.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0016.png",
       "sha256": "994e289c650c3abac1c8731ebf21d479b9d91f6ad49e97cdae4787ec92a3253a",
       "size": 118,
       "role": "Image"
@@ -2950,7 +2950,7 @@
     {
       "fileName": "tile_0017.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0017.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0017.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0017.png",
       "sha256": "995ccb1a1ac559b7dc010bef7655a4d11d5650e7c57409ebb61480b0a3a2d596",
       "size": 117,
       "role": "Image"
@@ -2958,7 +2958,7 @@
     {
       "fileName": "tile_0018.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0018.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0018.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0018.png",
       "sha256": "5582379949d23711e0f094449c469a6358bdeed80c39283021c0086fb2e1385c",
       "size": 127,
       "role": "Image"
@@ -2966,7 +2966,7 @@
     {
       "fileName": "tile_0019.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0019.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0019.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0019.png",
       "sha256": "49df101d8402d977f6a2bbd30e5a262dadb0fe668ee2fe47cd408468c15692d2",
       "size": 124,
       "role": "Image"
@@ -2974,7 +2974,7 @@
     {
       "fileName": "tile_0020.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0020.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0020.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0020.png",
       "sha256": "231b0b112695b542bd500c03fe5386f79eccc9eda998b3fa7be4b95e20d04bbd",
       "size": 92,
       "role": "Image"
@@ -2982,7 +2982,7 @@
     {
       "fileName": "tile_0021.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0021.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0021.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0021.png",
       "sha256": "8e2552688615c2488c1a42ca23ca707dcc3ae5359f05e1023fd69c4000662c61",
       "size": 121,
       "role": "Image"
@@ -2990,7 +2990,7 @@
     {
       "fileName": "tile_0022.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0022.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0022.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0022.png",
       "sha256": "58dc8bfb4473045fcec65f8acf95e44edd0479f63b6c2fc7ba8946dcf7fbc7d0",
       "size": 120,
       "role": "Image"
@@ -2998,7 +2998,7 @@
     {
       "fileName": "tile_0023.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0023.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0023.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0023.png",
       "sha256": "d4e943baed7b56ee4046ef02340ad9301398ce97b4cb7f87204802cd976c7731",
       "size": 125,
       "role": "Image"
@@ -3006,7 +3006,7 @@
     {
       "fileName": "tile_0024.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0024.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0024.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0024.png",
       "sha256": "6848782564636deb96e08e6a3be8796318db6550344cb59800bf6435e48c8974",
       "size": 125,
       "role": "Image"
@@ -3016,7 +3016,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/kenney-minimap-pack/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/cover.png",
       "sha256": "5641dcbfa6cab7b19f4fe8cc2555c41bf611e8cf7d97262fc8acf22333d331fa",
       "size": 12593,
       "contentType": "image/png",
@@ -3025,7 +3025,7 @@
     {
       "fileName": "tile_0000.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0000.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0000.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0000.png",
       "sha256": "2cb6de866371d7d9eba5a055eccb37747862740a1a07a5cb47e72311a144c21e",
       "size": 124,
       "contentType": "image/png",
@@ -3035,7 +3035,7 @@
     {
       "fileName": "tile_0001.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0001.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0001.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0001.png",
       "sha256": "b920e6c856d1166f7e3cc785a81c8818cf2d6d8259a6b6aafb528daea4eeb76b",
       "size": 106,
       "contentType": "image/png",
@@ -3045,7 +3045,7 @@
     {
       "fileName": "tile_0002.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0002.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0002.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0002.png",
       "sha256": "2fd04b754a229b0589c8fc5e85a81addd07e090a994eb024f24f5ae3fe347330",
       "size": 122,
       "contentType": "image/png",
@@ -3055,7 +3055,7 @@
     {
       "fileName": "tile_0003.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0003.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0003.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0003.png",
       "sha256": "a759d63d4af86b7be4a90fc0bfdee9dc96db3611a4c207099406121a695bd7e8",
       "size": 112,
       "contentType": "image/png",
@@ -3065,7 +3065,7 @@
     {
       "fileName": "tile_0004.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0004.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0004.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0004.png",
       "sha256": "a106f17ea8f010f225db17a1a7d262bee98f3cfa624926bfa5791d957a55dd4c",
       "size": 112,
       "contentType": "image/png",
@@ -3075,7 +3075,7 @@
     {
       "fileName": "tile_0005.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0005.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0005.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0005.png",
       "sha256": "ecc7c6c196320586071ac0c6926525d37d66622c12981b4527122b8fcf03b0fb",
       "size": 103,
       "contentType": "image/png",
@@ -3085,7 +3085,7 @@
     {
       "fileName": "tile_0006.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0006.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0006.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0006.png",
       "sha256": "dbc1021f20af6bc86d777e38670216d78b71e103a68faa291ebd845b7917b5d7",
       "size": 118,
       "contentType": "image/png",
@@ -3095,7 +3095,7 @@
     {
       "fileName": "tile_0007.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0007.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0007.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0007.png",
       "sha256": "ecc7c6c196320586071ac0c6926525d37d66622c12981b4527122b8fcf03b0fb",
       "size": 103,
       "contentType": "image/png",
@@ -3105,7 +3105,7 @@
     {
       "fileName": "tile_0008.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0008.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0008.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0008.png",
       "sha256": "b198b270a87925320a199b03806a1a504e9256b66220ec9e88616708eb14a013",
       "size": 116,
       "contentType": "image/png",
@@ -3115,7 +3115,7 @@
     {
       "fileName": "tile_0009.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0009.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0009.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0009.png",
       "sha256": "d79f37b439344e79bda36883bb021dc545ffbae0b2603f24cbd6bd6cc94f18f8",
       "size": 116,
       "contentType": "image/png",
@@ -3125,7 +3125,7 @@
     {
       "fileName": "tile_0010.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0010.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0010.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0010.png",
       "sha256": "d4fa79d8ad2ea80fab6154df5a44b453a051fa4f083ab12e7ac17854072ed416",
       "size": 122,
       "contentType": "image/png",
@@ -3135,7 +3135,7 @@
     {
       "fileName": "tile_0011.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0011.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0011.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0011.png",
       "sha256": "b920e6c856d1166f7e3cc785a81c8818cf2d6d8259a6b6aafb528daea4eeb76b",
       "size": 106,
       "contentType": "image/png",
@@ -3145,7 +3145,7 @@
     {
       "fileName": "tile_0012.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0012.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0012.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0012.png",
       "sha256": "799711cb1375b4d28c7d487ab8e451adfaf8ab492763d607dd3f725455a72ab5",
       "size": 123,
       "contentType": "image/png",
@@ -3155,7 +3155,7 @@
     {
       "fileName": "tile_0013.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0013.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0013.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0013.png",
       "sha256": "c87d52e688caed8f303d5f6f686a3a04f58f7be70e1f409266e678726dd0deb7",
       "size": 108,
       "contentType": "image/png",
@@ -3165,7 +3165,7 @@
     {
       "fileName": "tile_0014.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0014.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0014.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0014.png",
       "sha256": "f1dbfd3e86defab264b56ff3fe6e38eb749919b38e1e409108f155e343fc0a5a",
       "size": 91,
       "contentType": "image/png",
@@ -3175,7 +3175,7 @@
     {
       "fileName": "tile_0015.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0015.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0015.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0015.png",
       "sha256": "36ab7348c2eda7955f7cf302c9c84ba1115193e910d10fd29cec367dcbb6e38b",
       "size": 92,
       "contentType": "image/png",
@@ -3185,7 +3185,7 @@
     {
       "fileName": "tile_0016.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0016.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0016.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0016.png",
       "sha256": "f369cb52dc1cd6a9b2cc398304ecfa46159d8ac21aba41cccfbe88a51b987f0d",
       "size": 108,
       "contentType": "image/png",
@@ -3195,7 +3195,7 @@
     {
       "fileName": "tile_0017.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0017.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0017.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0017.png",
       "sha256": "b6eb42ad6064d5de739c7b813bd4e60df2c08f745f00ce0825d64db5575c222f",
       "size": 108,
       "contentType": "image/png",
@@ -3205,7 +3205,7 @@
     {
       "fileName": "tile_0018.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0018.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0018.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0018.png",
       "sha256": "ed41881ade572f573a73ab9835c9ffd94842146bfc36618f4e0d84c89ff56f03",
       "size": 124,
       "contentType": "image/png",
@@ -3215,7 +3215,7 @@
     {
       "fileName": "tile_0019.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0019.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0019.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0019.png",
       "sha256": "132ab59f1a86e1227692bb02807029e07aebb429a6a56f70e72f989de21f1280",
       "size": 124,
       "contentType": "image/png",
@@ -3225,7 +3225,7 @@
     {
       "fileName": "tile_0020.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0020.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0020.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0020.png",
       "sha256": "231b0b112695b542bd500c03fe5386f79eccc9eda998b3fa7be4b95e20d04bbd",
       "size": 92,
       "contentType": "image/png",
@@ -3235,7 +3235,7 @@
     {
       "fileName": "tile_0021.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0021.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0021.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0021.png",
       "sha256": "4c7604f8420c90ebdbb3f7a27e8f17baa14beb2b8b7b542461832cda952b36bd",
       "size": 113,
       "contentType": "image/png",
@@ -3245,7 +3245,7 @@
     {
       "fileName": "tile_0022.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0022.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0022.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0022.png",
       "sha256": "d8fe5ff8dd9d22b3dea35578aabd57395cbfe077ea3883fa39911339cac180d0",
       "size": 113,
       "contentType": "image/png",
@@ -3255,7 +3255,7 @@
     {
       "fileName": "tile_0023.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0023.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0023.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0023.png",
       "sha256": "d624f9b1bd641363403a0a720f26366924dc57aba38f01de33c90c4cb7eb60d4",
       "size": 112,
       "contentType": "image/png",
@@ -3265,7 +3265,7 @@
     {
       "fileName": "tile_0024.png",
       "path": "packs/kenney-minimap-pack/sprites/Style A/tile_0024.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20A/tile_0024.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20A/tile_0024.png",
       "sha256": "4e83846c7c6749c4f271ea86e7fe3cdf8c47d25d5bc4a4edb0bc6d51ce2017dd",
       "size": 122,
       "contentType": "image/png",
@@ -3275,7 +3275,7 @@
     {
       "fileName": "tile_0000.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0000.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0000.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0000.png",
       "sha256": "895cee2fcc3d8f92773466b55842f66a16df3c138531222a62f1035470578750",
       "size": 108,
       "contentType": "image/png",
@@ -3285,7 +3285,7 @@
     {
       "fileName": "tile_0001.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0001.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0001.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0001.png",
       "sha256": "cb1f47b7c86b5806b6da213788e67608f0045801baf1fc472965b7eaff4b6c5d",
       "size": 106,
       "contentType": "image/png",
@@ -3295,7 +3295,7 @@
     {
       "fileName": "tile_0002.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0002.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0002.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0002.png",
       "sha256": "99f782837e083f5e663bc610aa260ccdee1054330de6218b122c99ccc7f1f01e",
       "size": 108,
       "contentType": "image/png",
@@ -3305,7 +3305,7 @@
     {
       "fileName": "tile_0003.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0003.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0003.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0003.png",
       "sha256": "a82919b6f149113d8649afd6542709db50b61a63b671cef64efc4be083044776",
       "size": 108,
       "contentType": "image/png",
@@ -3315,7 +3315,7 @@
     {
       "fileName": "tile_0004.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0004.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0004.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0004.png",
       "sha256": "f2a03d8a6c413392f2415434ca598021069cea1debc2154b4ba199b278e9739f",
       "size": 108,
       "contentType": "image/png",
@@ -3325,7 +3325,7 @@
     {
       "fileName": "tile_0005.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0005.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0005.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0005.png",
       "sha256": "ed921dcb50d0c6f4cf6fe96566dd20dbd201fb23d4b897b022883eb8675b8b20",
       "size": 103,
       "contentType": "image/png",
@@ -3335,7 +3335,7 @@
     {
       "fileName": "tile_0006.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0006.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0006.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0006.png",
       "sha256": "c84563170e137303a9809e4568f1028d74ae2e9183a28a3ec2b17589339663ad",
       "size": 108,
       "contentType": "image/png",
@@ -3345,7 +3345,7 @@
     {
       "fileName": "tile_0007.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0007.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0007.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0007.png",
       "sha256": "ed921dcb50d0c6f4cf6fe96566dd20dbd201fb23d4b897b022883eb8675b8b20",
       "size": 103,
       "contentType": "image/png",
@@ -3355,7 +3355,7 @@
     {
       "fileName": "tile_0008.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0008.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0008.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0008.png",
       "sha256": "40b7ccea90883d1ff875641c147e31ad2668fb193446d99fef12160a42c915b3",
       "size": 108,
       "contentType": "image/png",
@@ -3365,7 +3365,7 @@
     {
       "fileName": "tile_0009.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0009.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0009.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0009.png",
       "sha256": "891fa38ef19b754b9f90607ce207d10cdd4edc96fb7805d7257d3db23067b7f8",
       "size": 108,
       "contentType": "image/png",
@@ -3375,7 +3375,7 @@
     {
       "fileName": "tile_0010.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0010.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0010.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0010.png",
       "sha256": "7f5be1ce3bde0da71f92093cceb6f716905bc1b39c748f0d5e65eb8928597ef2",
       "size": 108,
       "contentType": "image/png",
@@ -3385,7 +3385,7 @@
     {
       "fileName": "tile_0011.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0011.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0011.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0011.png",
       "sha256": "cb1f47b7c86b5806b6da213788e67608f0045801baf1fc472965b7eaff4b6c5d",
       "size": 106,
       "contentType": "image/png",
@@ -3395,7 +3395,7 @@
     {
       "fileName": "tile_0012.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0012.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0012.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0012.png",
       "sha256": "2fa5f4b62bab7035e6b9263dc9774b14898c870585e9c39da413ed7dbd4471cb",
       "size": 108,
       "contentType": "image/png",
@@ -3405,7 +3405,7 @@
     {
       "fileName": "tile_0013.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0013.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0013.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0013.png",
       "sha256": "c6ebfc4fbbf79d8487e60a0048e74de12a70c1935b2684020cd76341edac7d8a",
       "size": 108,
       "contentType": "image/png",
@@ -3415,7 +3415,7 @@
     {
       "fileName": "tile_0014.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0014.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0014.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0014.png",
       "sha256": "2f160daa0d7d10cab296de95516ba3295b296588296e1b5a31df47e61067ddce",
       "size": 91,
       "contentType": "image/png",
@@ -3425,7 +3425,7 @@
     {
       "fileName": "tile_0015.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0015.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0015.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0015.png",
       "sha256": "a75809859ecffe0e858e601c94844198d70975280f4121410e735ab7d16f5117",
       "size": 101,
       "contentType": "image/png",
@@ -3435,7 +3435,7 @@
     {
       "fileName": "tile_0016.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0016.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0016.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0016.png",
       "sha256": "ef4e9583ee76b52336376927b5283c9861eb21b81c438b8625a34d2d3ba21190",
       "size": 108,
       "contentType": "image/png",
@@ -3445,7 +3445,7 @@
     {
       "fileName": "tile_0017.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0017.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0017.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0017.png",
       "sha256": "6b6f39924a37f5a8129dfddd4d9fe4fdc20926c4f21f343561a74904f6c01220",
       "size": 108,
       "contentType": "image/png",
@@ -3455,7 +3455,7 @@
     {
       "fileName": "tile_0018.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0018.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0018.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0018.png",
       "sha256": "c6d81fded510cdede45de4e8a9a52dc8feaf21f4f6608bd614c823bb58d89826",
       "size": 112,
       "contentType": "image/png",
@@ -3465,7 +3465,7 @@
     {
       "fileName": "tile_0019.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0019.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0019.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0019.png",
       "sha256": "68f3117af53f76c1b0b7bfbf4842ff85219c3cd79b616af6b3a1b79598e07686",
       "size": 114,
       "contentType": "image/png",
@@ -3475,7 +3475,7 @@
     {
       "fileName": "tile_0020.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0020.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0020.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0020.png",
       "sha256": "d88bcfaeab3e5ae50d42a322a177d8c2b99961e57704e0e3d9521ea78fd78314",
       "size": 115,
       "contentType": "image/png",
@@ -3485,7 +3485,7 @@
     {
       "fileName": "tile_0021.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0021.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0021.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0021.png",
       "sha256": "c8481647c1fd87d861a3a260384a37b13bc33bf698b5f9a740f1580e64557bfa",
       "size": 112,
       "contentType": "image/png",
@@ -3495,7 +3495,7 @@
     {
       "fileName": "tile_0022.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0022.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0022.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0022.png",
       "sha256": "a15066158f080d64af27128b11707d0ebcb8925f5a34a642ba7af8b2bfa60928",
       "size": 110,
       "contentType": "image/png",
@@ -3505,7 +3505,7 @@
     {
       "fileName": "tile_0023.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0023.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0023.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0023.png",
       "sha256": "466f4e5ea1f9537b3c557477d48d5e323f40cf5dae4d9497b56c1432ec91c311",
       "size": 112,
       "contentType": "image/png",
@@ -3515,7 +3515,7 @@
     {
       "fileName": "tile_0024.png",
       "path": "packs/kenney-minimap-pack/sprites/Style B/tile_0024.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20B/tile_0024.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20B/tile_0024.png",
       "sha256": "b554882c384f0978802e97e2570da6639989efc44747ce76923dfbf4a402832b",
       "size": 112,
       "contentType": "image/png",
@@ -3525,7 +3525,7 @@
     {
       "fileName": "tile_0000.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0000.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0000.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0000.png",
       "sha256": "22d5ea8da79da7dc53ca4d7119c0c87606315764610133fa269dfddcf3006498",
       "size": 109,
       "contentType": "image/png",
@@ -3535,7 +3535,7 @@
     {
       "fileName": "tile_0001.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0001.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0001.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0001.png",
       "sha256": "2ee3ca7bae38302c2d59680096cf604b0e040a928e512d8f0757cf1651f975b1",
       "size": 104,
       "contentType": "image/png",
@@ -3545,7 +3545,7 @@
     {
       "fileName": "tile_0002.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0002.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0002.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0002.png",
       "sha256": "838438746a9e3080a1473432317905a2e5b6172db19decb12117fc04f373e0df",
       "size": 108,
       "contentType": "image/png",
@@ -3555,7 +3555,7 @@
     {
       "fileName": "tile_0003.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0003.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0003.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0003.png",
       "sha256": "97ff1581f07cafa7c9cc539085b676dd20fbcfd2615c0edff2d040e9df590061",
       "size": 108,
       "contentType": "image/png",
@@ -3565,7 +3565,7 @@
     {
       "fileName": "tile_0004.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0004.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0004.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0004.png",
       "sha256": "53127e4b435efd55d2ce34826e0cf2272fdf7565c8c53d938692e3748b77c2d2",
       "size": 108,
       "contentType": "image/png",
@@ -3575,7 +3575,7 @@
     {
       "fileName": "tile_0005.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0005.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0005.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0005.png",
       "sha256": "111d59a3620ba9dc5037368ce08d2be303ba7ebf4d45f909ef312c70d3dc5026",
       "size": 102,
       "contentType": "image/png",
@@ -3585,7 +3585,7 @@
     {
       "fileName": "tile_0006.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0006.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0006.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0006.png",
       "sha256": "f32c779675bc543f81b178292379d56ea9ef76a40c7929ae48f8360d35f4f51f",
       "size": 107,
       "contentType": "image/png",
@@ -3595,7 +3595,7 @@
     {
       "fileName": "tile_0007.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0007.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0007.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0007.png",
       "sha256": "111d59a3620ba9dc5037368ce08d2be303ba7ebf4d45f909ef312c70d3dc5026",
       "size": 102,
       "contentType": "image/png",
@@ -3605,7 +3605,7 @@
     {
       "fileName": "tile_0008.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0008.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0008.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0008.png",
       "sha256": "dd37dc115d414d6793f8ef03eda9ab060557cc904c1b934e6cd37cff913932ad",
       "size": 107,
       "contentType": "image/png",
@@ -3615,7 +3615,7 @@
     {
       "fileName": "tile_0009.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0009.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0009.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0009.png",
       "sha256": "2257a3e5ff0a7981522df099bda343835cdda5a33a313878ef589353f043c47d",
       "size": 107,
       "contentType": "image/png",
@@ -3625,7 +3625,7 @@
     {
       "fileName": "tile_0010.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0010.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0010.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0010.png",
       "sha256": "8769bc5d6d21cdfb95c10d4a37b6fcc02c8ac5adb1d25cd991a6ac557061eaa2",
       "size": 109,
       "contentType": "image/png",
@@ -3635,7 +3635,7 @@
     {
       "fileName": "tile_0011.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0011.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0011.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0011.png",
       "sha256": "2ee3ca7bae38302c2d59680096cf604b0e040a928e512d8f0757cf1651f975b1",
       "size": 104,
       "contentType": "image/png",
@@ -3645,7 +3645,7 @@
     {
       "fileName": "tile_0012.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0012.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0012.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0012.png",
       "sha256": "f9e6f741e7239c7b20700964b64f72f2bf7645e64a3be2ac869c2e933ce0206e",
       "size": 108,
       "contentType": "image/png",
@@ -3655,7 +3655,7 @@
     {
       "fileName": "tile_0013.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0013.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0013.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0013.png",
       "sha256": "fb70104bc16b9fd824264377d5b28cf95236f65f29ba24f742b90f16f29eef24",
       "size": 108,
       "contentType": "image/png",
@@ -3665,7 +3665,7 @@
     {
       "fileName": "tile_0014.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0014.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0014.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0014.png",
       "sha256": "72622a1da25b684f226872415b3dc1dce9cf56b4f6f1be538965d1a95b9a000a",
       "size": 91,
       "contentType": "image/png",
@@ -3675,7 +3675,7 @@
     {
       "fileName": "tile_0015.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0015.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0015.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0015.png",
       "sha256": "02283bd38cc0380cd13ba9de174427d553d89c62a42412541ff7d88b7b0dcae6",
       "size": 101,
       "contentType": "image/png",
@@ -3685,7 +3685,7 @@
     {
       "fileName": "tile_0016.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0016.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0016.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0016.png",
       "sha256": "04e78ebeee99e261fc5996b1a54dce725c1e3ec03e15c479306ead080aa2f1bc",
       "size": 108,
       "contentType": "image/png",
@@ -3695,7 +3695,7 @@
     {
       "fileName": "tile_0017.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0017.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0017.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0017.png",
       "sha256": "5cf4b8c11d6b02dda12e35d21115237bc8f0e0beded959d9af30491478c44e37",
       "size": 108,
       "contentType": "image/png",
@@ -3705,7 +3705,7 @@
     {
       "fileName": "tile_0018.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0018.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0018.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0018.png",
       "sha256": "ac54a457e675eddc0d4e23c684aca58862287787a2f05e95f0069228f6816602",
       "size": 125,
       "contentType": "image/png",
@@ -3715,7 +3715,7 @@
     {
       "fileName": "tile_0019.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0019.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0019.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0019.png",
       "sha256": "412af542e25e94f51895ace36a0206db63fd2f3953756a72e8796f3ebffd7493",
       "size": 127,
       "contentType": "image/png",
@@ -3725,7 +3725,7 @@
     {
       "fileName": "tile_0020.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0020.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0020.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0020.png",
       "sha256": "65e7c661a0c7fc898c37e0eab980aa75e5baae090532accdda74e0e812712b36",
       "size": 115,
       "contentType": "image/png",
@@ -3735,7 +3735,7 @@
     {
       "fileName": "tile_0021.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0021.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0021.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0021.png",
       "sha256": "e2c159f20b9ab41bf44380f5d9f074cc661956286891e8b1646156109ef9c68a",
       "size": 108,
       "contentType": "image/png",
@@ -3745,7 +3745,7 @@
     {
       "fileName": "tile_0022.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0022.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0022.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0022.png",
       "sha256": "ff2566e739783706237d527f7db88d3b704591a70ee927c99a4d77b4051df657",
       "size": 108,
       "contentType": "image/png",
@@ -3755,7 +3755,7 @@
     {
       "fileName": "tile_0023.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0023.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0023.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0023.png",
       "sha256": "c6e1826bfcabdadb4bee61cc813318626833c251310654a853a4b9e2701cdaec",
       "size": 125,
       "contentType": "image/png",
@@ -3765,7 +3765,7 @@
     {
       "fileName": "tile_0024.png",
       "path": "packs/kenney-minimap-pack/sprites/Style C/tile_0024.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20C/tile_0024.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20C/tile_0024.png",
       "sha256": "64d3acc7d499837a05dc264a14dba15598997587632bbfba9ad562dc70243735",
       "size": 125,
       "contentType": "image/png",
@@ -3775,7 +3775,7 @@
     {
       "fileName": "tile_0000.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0000.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0000.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0000.png",
       "sha256": "97e905c993680f2ecccce7881cf3cf5d927594a9fd3a0df93431d779f736983b",
       "size": 122,
       "contentType": "image/png",
@@ -3785,7 +3785,7 @@
     {
       "fileName": "tile_0001.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0001.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0001.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0001.png",
       "sha256": "a95c82e0bf475cf0ca199cc7e5975a2f03d3742999245deb88e5141b9ce0086a",
       "size": 116,
       "contentType": "image/png",
@@ -3795,7 +3795,7 @@
     {
       "fileName": "tile_0002.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0002.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0002.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0002.png",
       "sha256": "f0815283f22e10e0647cbb8f666a094cfd4e63106d8e3f2378d60e2bc728786f",
       "size": 122,
       "contentType": "image/png",
@@ -3805,7 +3805,7 @@
     {
       "fileName": "tile_0003.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0003.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0003.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0003.png",
       "sha256": "7715505e5e3c62c03bab7a79c7af68cc94912f649234ff6650a6a47d37c2c3ee",
       "size": 117,
       "contentType": "image/png",
@@ -3815,7 +3815,7 @@
     {
       "fileName": "tile_0004.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0004.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0004.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0004.png",
       "sha256": "f434673298967e8177b0314810440efccee10abb912e3eea1a936b5686763671",
       "size": 118,
       "contentType": "image/png",
@@ -3825,7 +3825,7 @@
     {
       "fileName": "tile_0005.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0005.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0005.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0005.png",
       "sha256": "06a926d4ec74f4de105981747aff7d2d126ae018d547a90353374687cb90138d",
       "size": 108,
       "contentType": "image/png",
@@ -3835,7 +3835,7 @@
     {
       "fileName": "tile_0006.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0006.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0006.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0006.png",
       "sha256": "6f2a24b237df56e62b5745bfc00f29d610253bea2688daf9e468b91eada7c11e",
       "size": 118,
       "contentType": "image/png",
@@ -3845,7 +3845,7 @@
     {
       "fileName": "tile_0007.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0007.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0007.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0007.png",
       "sha256": "06a926d4ec74f4de105981747aff7d2d126ae018d547a90353374687cb90138d",
       "size": 108,
       "contentType": "image/png",
@@ -3855,7 +3855,7 @@
     {
       "fileName": "tile_0008.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0008.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0008.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0008.png",
       "sha256": "e712e425391e73ee1f473b76ac93308f3e23a6f93b8f788957f9deebf35ded78",
       "size": 119,
       "contentType": "image/png",
@@ -3865,7 +3865,7 @@
     {
       "fileName": "tile_0009.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0009.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0009.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0009.png",
       "sha256": "0591323a136f464344796d8dd5a1c10b1804e85d5cd8785aa598804aa6eaf888",
       "size": 119,
       "contentType": "image/png",
@@ -3875,7 +3875,7 @@
     {
       "fileName": "tile_0010.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0010.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0010.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0010.png",
       "sha256": "25b1f449738ec510ae163df206b7ace25187eabb4b51b442b5166ee4588e378e",
       "size": 122,
       "contentType": "image/png",
@@ -3885,7 +3885,7 @@
     {
       "fileName": "tile_0011.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0011.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0011.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0011.png",
       "sha256": "a95c82e0bf475cf0ca199cc7e5975a2f03d3742999245deb88e5141b9ce0086a",
       "size": 116,
       "contentType": "image/png",
@@ -3895,7 +3895,7 @@
     {
       "fileName": "tile_0012.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0012.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0012.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0012.png",
       "sha256": "558e49d7c8c8fcfa645d90baad2dade2ed2ef920f023f2a2387a89ab44e1e506",
       "size": 122,
       "contentType": "image/png",
@@ -3905,7 +3905,7 @@
     {
       "fileName": "tile_0013.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0013.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0013.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0013.png",
       "sha256": "d7750824e71747d7bd19b0f17805600e91ef1705c0a92c8f5b4a5a5435a4783f",
       "size": 118,
       "contentType": "image/png",
@@ -3915,7 +3915,7 @@
     {
       "fileName": "tile_0014.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0014.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0014.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0014.png",
       "sha256": "3811edbac6b3ccfcf562e886be263324280d3bf8fb03b4c93e65a743c139911f",
       "size": 91,
       "contentType": "image/png",
@@ -3925,7 +3925,7 @@
     {
       "fileName": "tile_0015.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0015.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0015.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0015.png",
       "sha256": "36ab7348c2eda7955f7cf302c9c84ba1115193e910d10fd29cec367dcbb6e38b",
       "size": 92,
       "contentType": "image/png",
@@ -3935,7 +3935,7 @@
     {
       "fileName": "tile_0016.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0016.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0016.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0016.png",
       "sha256": "03c8ce32f6c7360f56b3998be1dfa09df2fc8610c3e4ab75356a80858b8c02a2",
       "size": 118,
       "contentType": "image/png",
@@ -3945,7 +3945,7 @@
     {
       "fileName": "tile_0017.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0017.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0017.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0017.png",
       "sha256": "a4f46c215e2696b486d5c110661dce05c9063e69a4ce1b57dae31e55f4b4b3bf",
       "size": 117,
       "contentType": "image/png",
@@ -3955,7 +3955,7 @@
     {
       "fileName": "tile_0018.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0018.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0018.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0018.png",
       "sha256": "ae8cb7589900e11dea6f61f90476ff13330a653211f21321c89260331872b6f4",
       "size": 124,
       "contentType": "image/png",
@@ -3965,7 +3965,7 @@
     {
       "fileName": "tile_0019.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0019.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0019.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0019.png",
       "sha256": "da92c7aff6afea12d7c37ae0befcd080c67a0d494d312ada4da5cf0aab851938",
       "size": 124,
       "contentType": "image/png",
@@ -3975,7 +3975,7 @@
     {
       "fileName": "tile_0020.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0020.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0020.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0020.png",
       "sha256": "231b0b112695b542bd500c03fe5386f79eccc9eda998b3fa7be4b95e20d04bbd",
       "size": 92,
       "contentType": "image/png",
@@ -3985,7 +3985,7 @@
     {
       "fileName": "tile_0021.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0021.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0021.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0021.png",
       "sha256": "3786b569cf4b2cc507b038a8ad8174ebb29bb4a36cdf194ba8ae6d6e5fcdd8d2",
       "size": 125,
       "contentType": "image/png",
@@ -3995,7 +3995,7 @@
     {
       "fileName": "tile_0022.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0022.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0022.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0022.png",
       "sha256": "686cfe98de829a7c53fed9eacf03fa76d5a5293658d44a7255d5e575f0df47f1",
       "size": 119,
       "contentType": "image/png",
@@ -4005,7 +4005,7 @@
     {
       "fileName": "tile_0023.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0023.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0023.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0023.png",
       "sha256": "704fc8509e74a8c9c40aaf669417022c214b3336ff17569ce2e2e73b20f82abb",
       "size": 122,
       "contentType": "image/png",
@@ -4015,7 +4015,7 @@
     {
       "fileName": "tile_0024.png",
       "path": "packs/kenney-minimap-pack/sprites/Style D/tile_0024.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20D/tile_0024.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20D/tile_0024.png",
       "sha256": "e1186208548de72c56f8371b9ad3331c2f349cc8051f276525d43d91b0e7e222",
       "size": 125,
       "contentType": "image/png",
@@ -4025,7 +4025,7 @@
     {
       "fileName": "tile_0000.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0000.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0000.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0000.png",
       "sha256": "7ae37c27817f28b6dd6c6477f3f5b52f801c406241e1e5bc330570d410d2d062",
       "size": 129,
       "contentType": "image/png",
@@ -4035,7 +4035,7 @@
     {
       "fileName": "tile_0001.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0001.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0001.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0001.png",
       "sha256": "c2a44cd89eb32bffebf63ff68b1ed1ffdc49267841b00b89f60bea5b2ad57077",
       "size": 102,
       "contentType": "image/png",
@@ -4045,7 +4045,7 @@
     {
       "fileName": "tile_0002.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0002.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0002.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0002.png",
       "sha256": "c3cc5366b0ee404c9dad3fbf5d6221ca89bc21735a1e768b8e590aca2129ea89",
       "size": 129,
       "contentType": "image/png",
@@ -4055,7 +4055,7 @@
     {
       "fileName": "tile_0003.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0003.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0003.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0003.png",
       "sha256": "5dbaf2922c034bbea6c6a5b7b0792398566af284dc73ecd9667fd40bda8570e1",
       "size": 117,
       "contentType": "image/png",
@@ -4065,7 +4065,7 @@
     {
       "fileName": "tile_0004.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0004.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0004.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0004.png",
       "sha256": "7edfb3a06d3bd8b7348485b4e790196e0edfc1f0887e4f8e3fbcea08d6aa0a5f",
       "size": 119,
       "contentType": "image/png",
@@ -4075,7 +4075,7 @@
     {
       "fileName": "tile_0005.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0005.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0005.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0005.png",
       "sha256": "1e85f550b8d2e50e213f4d22f4a00b7eb8556631d3ad286fb04b4ce840467e75",
       "size": 103,
       "contentType": "image/png",
@@ -4085,7 +4085,7 @@
     {
       "fileName": "tile_0006.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0006.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0006.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0006.png",
       "sha256": "76c008a501a18d4653d90f8711e0a0e17554388f2b13c01ac709b37658bd8957",
       "size": 121,
       "contentType": "image/png",
@@ -4095,7 +4095,7 @@
     {
       "fileName": "tile_0007.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0007.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0007.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0007.png",
       "sha256": "1e85f550b8d2e50e213f4d22f4a00b7eb8556631d3ad286fb04b4ce840467e75",
       "size": 103,
       "contentType": "image/png",
@@ -4105,7 +4105,7 @@
     {
       "fileName": "tile_0008.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0008.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0008.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0008.png",
       "sha256": "0cbac5e5d7839067c1991282e358ad55196cd98092bfef039ac7eea483a24cb2",
       "size": 120,
       "contentType": "image/png",
@@ -4115,7 +4115,7 @@
     {
       "fileName": "tile_0009.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0009.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0009.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0009.png",
       "sha256": "7e09264056c6d652c6afcf9b2175b436a2a786c81512390666998e4d9a2ac4eb",
       "size": 120,
       "contentType": "image/png",
@@ -4125,7 +4125,7 @@
     {
       "fileName": "tile_0010.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0010.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0010.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0010.png",
       "sha256": "e13ecc1db6f63716743f83062024b008df5d49cc8037e3b45a7c4afe116e002f",
       "size": 129,
       "contentType": "image/png",
@@ -4135,7 +4135,7 @@
     {
       "fileName": "tile_0011.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0011.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0011.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0011.png",
       "sha256": "c2a44cd89eb32bffebf63ff68b1ed1ffdc49267841b00b89f60bea5b2ad57077",
       "size": 102,
       "contentType": "image/png",
@@ -4145,7 +4145,7 @@
     {
       "fileName": "tile_0012.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0012.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0012.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0012.png",
       "sha256": "232ef4f7f86986bca40abbbbfdf93920619686bbdb46c8fcaabc3fdc554e650b",
       "size": 129,
       "contentType": "image/png",
@@ -4155,7 +4155,7 @@
     {
       "fileName": "tile_0013.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0013.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0013.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0013.png",
       "sha256": "c34d5baada8b28c585c09f3989c7dbfd115135dfeaf0667c159f926f48787d6f",
       "size": 105,
       "contentType": "image/png",
@@ -4165,7 +4165,7 @@
     {
       "fileName": "tile_0014.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0014.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0014.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0014.png",
       "sha256": "0bfbdeb4eb43dd7fece114e7ea3711bab5b995fabfc9bdae65e5e8be11025985",
       "size": 91,
       "contentType": "image/png",
@@ -4175,7 +4175,7 @@
     {
       "fileName": "tile_0015.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0015.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0015.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0015.png",
       "sha256": "36ab7348c2eda7955f7cf302c9c84ba1115193e910d10fd29cec367dcbb6e38b",
       "size": 92,
       "contentType": "image/png",
@@ -4185,7 +4185,7 @@
     {
       "fileName": "tile_0016.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0016.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0016.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0016.png",
       "sha256": "5f685a04949186dba00f0a39f51b989c738fcb41b43c445a848a4e987c8c9c44",
       "size": 118,
       "contentType": "image/png",
@@ -4195,7 +4195,7 @@
     {
       "fileName": "tile_0017.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0017.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0017.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0017.png",
       "sha256": "4a44a13d045acbab9cb309af4600ff60f99e50671be05adc8622ff6f3106d235",
       "size": 117,
       "contentType": "image/png",
@@ -4205,7 +4205,7 @@
     {
       "fileName": "tile_0018.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0018.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0018.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0018.png",
       "sha256": "05a931808fb6c30685de413a2985f28ef97873dc5c5607311ac3d0ff4ad8ce77",
       "size": 127,
       "contentType": "image/png",
@@ -4215,7 +4215,7 @@
     {
       "fileName": "tile_0019.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0019.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0019.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0019.png",
       "sha256": "36020892b0fc5e5a9536e8bdb6832312b0426fcfc0da3c7bcba3a34745f20ce4",
       "size": 124,
       "contentType": "image/png",
@@ -4225,7 +4225,7 @@
     {
       "fileName": "tile_0020.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0020.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0020.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0020.png",
       "sha256": "231b0b112695b542bd500c03fe5386f79eccc9eda998b3fa7be4b95e20d04bbd",
       "size": 92,
       "contentType": "image/png",
@@ -4235,7 +4235,7 @@
     {
       "fileName": "tile_0021.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0021.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0021.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0021.png",
       "sha256": "073cfe970dd2b43495d1b37f102c63f3845f6c6436da8122eaf50bf1cc27a757",
       "size": 121,
       "contentType": "image/png",
@@ -4245,7 +4245,7 @@
     {
       "fileName": "tile_0022.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0022.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0022.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0022.png",
       "sha256": "dd44cdbca8038f25203bfa4112c57b22fca958319f746c76d1f918b30101ac84",
       "size": 120,
       "contentType": "image/png",
@@ -4255,7 +4255,7 @@
     {
       "fileName": "tile_0023.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0023.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0023.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0023.png",
       "sha256": "055e780d22ca3f9ccaad37ffaa6c34383f7f6efc518a7e92331e912fd8f47752",
       "size": 125,
       "contentType": "image/png",
@@ -4265,7 +4265,7 @@
     {
       "fileName": "tile_0024.png",
       "path": "packs/kenney-minimap-pack/sprites/Style E/tile_0024.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20E/tile_0024.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20E/tile_0024.png",
       "sha256": "195068287b46cb78ff668add45dae9bce4640300c7cd07b14957d06e3f1db107",
       "size": 125,
       "contentType": "image/png",
@@ -4275,7 +4275,7 @@
     {
       "fileName": "tile_0000.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0000.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0000.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0000.png",
       "sha256": "2b90aef68dbdb5d34f9e50cfff226e1bb1100ec470f7d89b9264e535ce18b1b4",
       "size": 116,
       "contentType": "image/png",
@@ -4285,7 +4285,7 @@
     {
       "fileName": "tile_0001.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0001.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0001.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0001.png",
       "sha256": "c332b7ca54092eabf71853e6b41f0b721e997c19ba70f113fc1681200deaf39f",
       "size": 115,
       "contentType": "image/png",
@@ -4295,7 +4295,7 @@
     {
       "fileName": "tile_0002.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0002.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0002.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0002.png",
       "sha256": "5a8d78de4754e7d486c3d6bad1376c65f219224ef78c29cb92ec3ae7a199399c",
       "size": 115,
       "contentType": "image/png",
@@ -4305,7 +4305,7 @@
     {
       "fileName": "tile_0003.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0003.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0003.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0003.png",
       "sha256": "6592834e3544c1832e88f1bbe7e0f6dcb5d866b44b1d99418c355f646287bb68",
       "size": 113,
       "contentType": "image/png",
@@ -4315,7 +4315,7 @@
     {
       "fileName": "tile_0004.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0004.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0004.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0004.png",
       "sha256": "aebf975f414efd337ebd53588563dca7ac26ab5f85f6c325c6d9be93c4efa988",
       "size": 112,
       "contentType": "image/png",
@@ -4325,7 +4325,7 @@
     {
       "fileName": "tile_0005.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0005.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0005.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0005.png",
       "sha256": "2c3f968ff531971be02423de5a8c4c4d13cd0f83576cc2d87fb02c725e4a7dbf",
       "size": 112,
       "contentType": "image/png",
@@ -4335,7 +4335,7 @@
     {
       "fileName": "tile_0006.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0006.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0006.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0006.png",
       "sha256": "959b3517fd1a65b1d99299119dac7a22c85f7226aaad6f2b4e249bb5773c2db9",
       "size": 113,
       "contentType": "image/png",
@@ -4345,7 +4345,7 @@
     {
       "fileName": "tile_0007.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0007.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0007.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0007.png",
       "sha256": "5679bfe49bbf9101167a7f0fdb9283ff75738720baa727d903fd2fa13d302fcf",
       "size": 112,
       "contentType": "image/png",
@@ -4355,7 +4355,7 @@
     {
       "fileName": "tile_0008.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0008.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0008.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0008.png",
       "sha256": "2085fe462a28186623a581d324560b2b27cc338a3fb0c7c1d70c86410301481a",
       "size": 115,
       "contentType": "image/png",
@@ -4365,7 +4365,7 @@
     {
       "fileName": "tile_0009.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0009.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0009.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0009.png",
       "sha256": "4dafb4cbc3707c4ad6a32c91cc2600b696b5032e33fbd4547b1dbee419286688",
       "size": 113,
       "contentType": "image/png",
@@ -4375,7 +4375,7 @@
     {
       "fileName": "tile_0010.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0010.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0010.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0010.png",
       "sha256": "97c3d03e11571e108f40549629522e3cc905b64e90a2922d39d64fcaddd77156",
       "size": 116,
       "contentType": "image/png",
@@ -4385,7 +4385,7 @@
     {
       "fileName": "tile_0011.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0011.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0011.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0011.png",
       "sha256": "6c045f30f5764fa3999575334d51488fd77a4527bf226e71c8336d24e24005ff",
       "size": 115,
       "contentType": "image/png",
@@ -4395,7 +4395,7 @@
     {
       "fileName": "tile_0012.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0012.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0012.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0012.png",
       "sha256": "69ea961c66a37357b1bf3a80806cbdddda479c43cf8f672be623cbc4649d4204",
       "size": 115,
       "contentType": "image/png",
@@ -4405,7 +4405,7 @@
     {
       "fileName": "tile_0013.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0013.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0013.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0013.png",
       "sha256": "5e455c21b7c97e2ed5a63410547becb83665610093878af3ea0353ccdfc46caf",
       "size": 105,
       "contentType": "image/png",
@@ -4415,7 +4415,7 @@
     {
       "fileName": "tile_0014.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0014.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0014.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0014.png",
       "sha256": "2f160daa0d7d10cab296de95516ba3295b296588296e1b5a31df47e61067ddce",
       "size": 91,
       "contentType": "image/png",
@@ -4425,7 +4425,7 @@
     {
       "fileName": "tile_0015.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0015.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0015.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0015.png",
       "sha256": "36ab7348c2eda7955f7cf302c9c84ba1115193e910d10fd29cec367dcbb6e38b",
       "size": 92,
       "contentType": "image/png",
@@ -4435,7 +4435,7 @@
     {
       "fileName": "tile_0016.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0016.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0016.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0016.png",
       "sha256": "994e289c650c3abac1c8731ebf21d479b9d91f6ad49e97cdae4787ec92a3253a",
       "size": 118,
       "contentType": "image/png",
@@ -4445,7 +4445,7 @@
     {
       "fileName": "tile_0017.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0017.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0017.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0017.png",
       "sha256": "995ccb1a1ac559b7dc010bef7655a4d11d5650e7c57409ebb61480b0a3a2d596",
       "size": 117,
       "contentType": "image/png",
@@ -4455,7 +4455,7 @@
     {
       "fileName": "tile_0018.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0018.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0018.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0018.png",
       "sha256": "5582379949d23711e0f094449c469a6358bdeed80c39283021c0086fb2e1385c",
       "size": 127,
       "contentType": "image/png",
@@ -4465,7 +4465,7 @@
     {
       "fileName": "tile_0019.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0019.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0019.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0019.png",
       "sha256": "49df101d8402d977f6a2bbd30e5a262dadb0fe668ee2fe47cd408468c15692d2",
       "size": 124,
       "contentType": "image/png",
@@ -4475,7 +4475,7 @@
     {
       "fileName": "tile_0020.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0020.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0020.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0020.png",
       "sha256": "231b0b112695b542bd500c03fe5386f79eccc9eda998b3fa7be4b95e20d04bbd",
       "size": 92,
       "contentType": "image/png",
@@ -4485,7 +4485,7 @@
     {
       "fileName": "tile_0021.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0021.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0021.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0021.png",
       "sha256": "8e2552688615c2488c1a42ca23ca707dcc3ae5359f05e1023fd69c4000662c61",
       "size": 121,
       "contentType": "image/png",
@@ -4495,7 +4495,7 @@
     {
       "fileName": "tile_0022.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0022.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0022.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0022.png",
       "sha256": "58dc8bfb4473045fcec65f8acf95e44edd0479f63b6c2fc7ba8946dcf7fbc7d0",
       "size": 120,
       "contentType": "image/png",
@@ -4505,7 +4505,7 @@
     {
       "fileName": "tile_0023.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0023.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0023.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0023.png",
       "sha256": "d4e943baed7b56ee4046ef02340ad9301398ce97b4cb7f87204802cd976c7731",
       "size": 125,
       "contentType": "image/png",
@@ -4515,7 +4515,7 @@
     {
       "fileName": "tile_0024.png",
       "path": "packs/kenney-minimap-pack/sprites/Style F/tile_0024.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74d14212345ddbfa9d77286224ef4b51ce9eab85/packs/kenney-minimap-pack/sprites/Style%20F/tile_0024.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/kenney-minimap-pack/sprites/Style%20F/tile_0024.png",
       "sha256": "6848782564636deb96e08e6a3be8796318db6550344cb59800bf6435e48c8974",
       "size": 125,
       "contentType": "image/png",

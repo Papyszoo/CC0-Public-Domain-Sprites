@@ -6,7 +6,7 @@
   "website": "https://github.com/sparklinlabs/superpowers-asset-packs",
   "description": "Seamless looping multi-layer parallax backgrounds by Pixel-boy: deep space, cloudy skies, snowy mountains, dense forests, desert dunes, and cyberpunk cityscapes.",
   "folder": "packs/pixelboy-parallax-backgrounds",
-  "pinnedSha": "9cd79ad70161d816c6632532edf1f6f82a004e70",
+  "pinnedSha": "61204c972b02beaa10273e05cef4d215f80b0ca1",
   "itemCount": 146,
   "items": [
     {
@@ -1766,7 +1766,7 @@
     {
       "fileName": "backgrounds_1.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_1.png",
       "sha256": "1e780384a39f65975d295ad16f427dda91b8b53f1aff4c6091410044efe757bb",
       "size": 6460,
       "role": "Image"
@@ -1774,7 +1774,7 @@
     {
       "fileName": "backgrounds_10.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_10.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_10.png",
       "sha256": "b00ed053e1817bc08c1f7d219bc7ce452c3c04f5d1f57e67eaea440189e04278",
       "size": 4472,
       "role": "Image"
@@ -1782,7 +1782,7 @@
     {
       "fileName": "backgrounds_11.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_11.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_11.png",
       "sha256": "4e790d05a21457949aa9e73e8e6ade3be059694136ccada224abe6870675a2d8",
       "size": 4370,
       "role": "Image"
@@ -1790,7 +1790,7 @@
     {
       "fileName": "backgrounds_12.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_12.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_12.png",
       "sha256": "d3f8c96a00cc77279ecc69657c76ac05cb940d5db72d462bc885b7282b961345",
       "size": 5966,
       "role": "Image"
@@ -1798,7 +1798,7 @@
     {
       "fileName": "backgrounds_13.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_13.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_13.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_13.png",
       "sha256": "fb6f52560413b10d7f98587264d808bab8752fc7621d91f701789edfeb644106",
       "size": 8070,
       "role": "Image"
@@ -1806,7 +1806,7 @@
     {
       "fileName": "backgrounds_14.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_14.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_14.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_14.png",
       "sha256": "36281c91bf2805b3ded114ccd70f0b013a56f688bf57c905f7abdd273f33f505",
       "size": 5954,
       "role": "Image"
@@ -1814,7 +1814,7 @@
     {
       "fileName": "backgrounds_15.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_15.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_15.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_15.png",
       "sha256": "9148ce791f314ed3958470fdea5272afa2f7a699361a87a44dd902acb3138931",
       "size": 5794,
       "role": "Image"
@@ -1822,7 +1822,7 @@
     {
       "fileName": "backgrounds_16.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_16.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_16.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_16.png",
       "sha256": "898aea6179ababc05044fcecddb14c26b48a3766f229224bcb8eb1e40fae0fdc",
       "size": 4903,
       "role": "Image"
@@ -1830,7 +1830,7 @@
     {
       "fileName": "backgrounds_17.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_17.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_17.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_17.png",
       "sha256": "6d0314bc73c5ec5e4e7fabcbbb8d331eea985fd7be5375fb7e0df4170de5c6b4",
       "size": 4976,
       "role": "Image"
@@ -1838,7 +1838,7 @@
     {
       "fileName": "backgrounds_18.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_18.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_18.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_18.png",
       "sha256": "0a4c6093ab6e120340fbfca3416e96244b2380e3f82f330a03de9f67fbffe6b4",
       "size": 5151,
       "role": "Image"
@@ -1846,7 +1846,7 @@
     {
       "fileName": "backgrounds_19.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_19.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_19.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_19.png",
       "sha256": "baa9c975c4beba003ed40d235e7364d7e4990c9d3c30d033e7651966eea5f916",
       "size": 4661,
       "role": "Image"
@@ -1854,7 +1854,7 @@
     {
       "fileName": "backgrounds_2.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_2.png",
       "sha256": "44e624d3d08ddfc2bc1a6220173b6cd005b675f205ab1ae07c723ff3afee70b8",
       "size": 5461,
       "role": "Image"
@@ -1862,7 +1862,7 @@
     {
       "fileName": "backgrounds_20.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_20.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_20.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_20.png",
       "sha256": "c9ec79ce54965c2ac828a85f385e30abb9e0cd2b6ff30739e8b54a62c700d006",
       "size": 5352,
       "role": "Image"
@@ -1870,7 +1870,7 @@
     {
       "fileName": "backgrounds_21.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_21.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_21.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_21.png",
       "sha256": "e93eb1c613c8ee266b3e7119a050c29404e1966d6b91bb596306ad9d5e03e745",
       "size": 4750,
       "role": "Image"
@@ -1878,7 +1878,7 @@
     {
       "fileName": "backgrounds_22.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_22.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_22.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_22.png",
       "sha256": "49d1632ffea253e2fd0a2b6bf2297ce3baa00cbd8198ef7b8020e6ec2b5e85d7",
       "size": 5323,
       "role": "Image"
@@ -1886,7 +1886,7 @@
     {
       "fileName": "backgrounds_23.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_23.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_23.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_23.png",
       "sha256": "ab654fb9ffe37fc78e049912d629a93b32821b9b3307e48eef2f8d9a1d811052",
       "size": 5683,
       "role": "Image"
@@ -1894,7 +1894,7 @@
     {
       "fileName": "backgrounds_24.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_24.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_24.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_24.png",
       "sha256": "143c2e42c032439da57bc3e4a84e21b76efec181fa742345276d43dbcbff9730",
       "size": 6131,
       "role": "Image"
@@ -1902,7 +1902,7 @@
     {
       "fileName": "backgrounds_25.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_25.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_25.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_25.png",
       "sha256": "c09f90a3fbe94ed782aebec40b71f262e7088786c8d55acf659c9c6828eef46f",
       "size": 5858,
       "role": "Image"
@@ -1910,7 +1910,7 @@
     {
       "fileName": "backgrounds_26.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_26.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_26.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_26.png",
       "sha256": "9d4ce0c0af49fd9eaf9a03ce1662be4072cce27b5f23e9982b495c06f9cb23f8",
       "size": 4880,
       "role": "Image"
@@ -1918,7 +1918,7 @@
     {
       "fileName": "backgrounds_27.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_27.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_27.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_27.png",
       "sha256": "9b7f5469d11ad0ce76b07224e8c4e59767746bedee5938c1bd90141bde83e3df",
       "size": 6120,
       "role": "Image"
@@ -1926,7 +1926,7 @@
     {
       "fileName": "backgrounds_28.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_28.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_28.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_28.png",
       "sha256": "8a5d4ad6324099ae490354305ffa669ed83d6203ccbe075319f3d25c926022a7",
       "size": 5620,
       "role": "Image"
@@ -1934,7 +1934,7 @@
     {
       "fileName": "backgrounds_29.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_29.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_29.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_29.png",
       "sha256": "7c51ee54301ad62ab56a0734382aa8e389553c6e83cff253a41a2694a9f911ff",
       "size": 6078,
       "role": "Image"
@@ -1942,7 +1942,7 @@
     {
       "fileName": "backgrounds_3.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_3.png",
       "sha256": "0f8c348b32680fa9fb2ef5e4ec5200d32984c4cf3735e59eff118c46c8c7e85c",
       "size": 3690,
       "role": "Image"
@@ -1950,7 +1950,7 @@
     {
       "fileName": "backgrounds_30.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_30.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_30.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_30.png",
       "sha256": "6f0c892564b58e894a9f7ab1ba46c83a151a276dad425cd835d752bb79fdc4dd",
       "size": 5304,
       "role": "Image"
@@ -1958,7 +1958,7 @@
     {
       "fileName": "backgrounds_31.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_31.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_31.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_31.png",
       "sha256": "2b2b9273b2c96051fb0f4a4cfa5a24ace490a90f6f3e663d32a2853ce456c04d",
       "size": 5616,
       "role": "Image"
@@ -1966,7 +1966,7 @@
     {
       "fileName": "backgrounds_32.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_32.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_32.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_32.png",
       "sha256": "1ca87a58092d2c5ffa570372fe39ffb8435e532e9608a6d8e2ee657011048b64",
       "size": 4925,
       "role": "Image"
@@ -1974,7 +1974,7 @@
     {
       "fileName": "backgrounds_33.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_33.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_33.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_33.png",
       "sha256": "65e772580b62a93d38f3f1df06f8144ed3660036c257d5e4e891f5b32ef20727",
       "size": 5592,
       "role": "Image"
@@ -1982,7 +1982,7 @@
     {
       "fileName": "backgrounds_34.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_34.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_34.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_34.png",
       "sha256": "8deaf6d80825d8e99dd0a3f41e5ae786b9967ee09b23fe65d3be86daa851a679",
       "size": 4210,
       "role": "Image"
@@ -1990,7 +1990,7 @@
     {
       "fileName": "backgrounds_35.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_35.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_35.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_35.png",
       "sha256": "709298ecb2d90dda8773dfb8270f9b15176d6e20b011467dc9db1c8aa6ce9ba1",
       "size": 5026,
       "role": "Image"
@@ -1998,7 +1998,7 @@
     {
       "fileName": "backgrounds_36.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_36.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_36.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_36.png",
       "sha256": "20569db628e771da915a5e0b019b65de846d6ae5d4bdd9db2de837fca5d95805",
       "size": 4766,
       "role": "Image"
@@ -2006,7 +2006,7 @@
     {
       "fileName": "backgrounds_37.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_37.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_37.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_37.png",
       "sha256": "c7918326151d3d070817bf014308f59a8bc80d488a75cddee1fdbd7289adbc62",
       "size": 5911,
       "role": "Image"
@@ -2014,7 +2014,7 @@
     {
       "fileName": "backgrounds_38.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_38.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_38.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_38.png",
       "sha256": "6593fa6d79c71943fefc5bf66e5e2869dc5c15ddc3cd5e497312eb02f72ef0ae",
       "size": 5351,
       "role": "Image"
@@ -2022,7 +2022,7 @@
     {
       "fileName": "backgrounds_39.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_39.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_39.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_39.png",
       "sha256": "6abe1fc1a8345dac6f34dec5dc4dd22e97db766ab9bc5f99decd6d03c3144468",
       "size": 6959,
       "role": "Image"
@@ -2030,7 +2030,7 @@
     {
       "fileName": "backgrounds_4.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_4.png",
       "sha256": "fae280e37c3b72d185807fb560ef45a993e326871214fddd94a2e090217ce571",
       "size": 4949,
       "role": "Image"
@@ -2038,7 +2038,7 @@
     {
       "fileName": "backgrounds_40.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_40.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_40.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_40.png",
       "sha256": "5fdcef8c67fbade2801d325460a9415b87551c4659f76ec3fc9b115e77eb9041",
       "size": 5317,
       "role": "Image"
@@ -2046,7 +2046,7 @@
     {
       "fileName": "backgrounds_41.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_41.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_41.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_41.png",
       "sha256": "8a28cc967e9be94f3f0f214d82e3237b5059cfed48c508e8b34a97e5e10d01b1",
       "size": 5038,
       "role": "Image"
@@ -2054,7 +2054,7 @@
     {
       "fileName": "backgrounds_5.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_5.png",
       "sha256": "d4ea46c8cb67ab8b7af6537bd81ddb901bc641ec167d083ca104b1c5c005e432",
       "size": 5252,
       "role": "Image"
@@ -2062,7 +2062,7 @@
     {
       "fileName": "backgrounds_6.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_6.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_6.png",
       "sha256": "5831117ea9399634dfd810c738e4bca0d23ccd190c58a9ca6d91cfd597c1cc47",
       "size": 6839,
       "role": "Image"
@@ -2070,7 +2070,7 @@
     {
       "fileName": "backgrounds_7.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_7.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_7.png",
       "sha256": "5ea4c7a1139b1c7cdafe90e6f26917e0f2460648a56fc5cc336ce6b979235d51",
       "size": 5102,
       "role": "Image"
@@ -2078,7 +2078,7 @@
     {
       "fileName": "backgrounds_8.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_8.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_8.png",
       "sha256": "0e9ee41c5088e10633c0b180906d884b89dd7514b452c5ced0a79c6a1a4268c3",
       "size": 4893,
       "role": "Image"
@@ -2086,7 +2086,7 @@
     {
       "fileName": "backgrounds_9.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_9.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_9.png",
       "sha256": "6e5d6e683c7c86b0f4b7d0f8717cecae34b734c7fe7987a6604221e47a1a1301",
       "size": 4132,
       "role": "Image"
@@ -2094,7 +2094,7 @@
     {
       "fileName": "layers_1.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_1.png",
       "sha256": "0a834fd5ceaac2e7662bc60c3948969034c2b9b15bf469f8f09f66d83965a25b",
       "size": 3746,
       "role": "Image"
@@ -2102,7 +2102,7 @@
     {
       "fileName": "layers_10.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_10.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_10.png",
       "sha256": "7745cb2779941c8b61ac111490f310d322488394ce4e299c47101d57c6c260cb",
       "size": 3207,
       "role": "Image"
@@ -2110,7 +2110,7 @@
     {
       "fileName": "layers_100.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_100.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_100.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_100.png",
       "sha256": "8e03a9243f7072b2dd11e49c8015c79bd5d4a9163a3f9844cb25c2756eb27c6d",
       "size": 4934,
       "role": "Image"
@@ -2118,7 +2118,7 @@
     {
       "fileName": "layers_101.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_101.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_101.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_101.png",
       "sha256": "4d523b05cfdbfcefd6cf7cae3cb0149c3bc211578ab847c87983c99a06d823e3",
       "size": 3683,
       "role": "Image"
@@ -2126,7 +2126,7 @@
     {
       "fileName": "layers_102.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_102.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_102.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_102.png",
       "sha256": "fcd9021ea2f02b7d069c0578f746a30876de53c55eb261da5b53bdfae2a11acb",
       "size": 4162,
       "role": "Image"
@@ -2134,7 +2134,7 @@
     {
       "fileName": "layers_103.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_103.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_103.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_103.png",
       "sha256": "79b81c7639e2763585c7bdbce0e841bddc9fc4ae5095b2e0a9de701f110a39cf",
       "size": 3881,
       "role": "Image"
@@ -2142,7 +2142,7 @@
     {
       "fileName": "layers_104.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_104.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_104.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_104.png",
       "sha256": "a5372c51102aef49fa87fb1bfdef2e395e13d96cc140aed3d7adc0719292374f",
       "size": 3992,
       "role": "Image"
@@ -2150,7 +2150,7 @@
     {
       "fileName": "layers_105.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_105.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_105.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_105.png",
       "sha256": "5137b4ca6bf8f0ef313f1d4eb9fa3e2fbe6c9cd4c5b051708b51ce9a5a7348b7",
       "size": 3312,
       "role": "Image"
@@ -2158,7 +2158,7 @@
     {
       "fileName": "layers_11.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_11.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_11.png",
       "sha256": "2c8aeb1fac9754918727df8f8feb1ef5fc0b9d4c7f20b43c96ef8971bfa76d63",
       "size": 3235,
       "role": "Image"
@@ -2166,7 +2166,7 @@
     {
       "fileName": "layers_12.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_12.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_12.png",
       "sha256": "55d4520fe924884d4d398104041f6ab5e3afdcf375387dc55e0bcc170ab553cc",
       "size": 3756,
       "role": "Image"
@@ -2174,7 +2174,7 @@
     {
       "fileName": "layers_13.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_13.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_13.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_13.png",
       "sha256": "723fc9c8bda70912541f11b7caed733e466a45b4311c3dbc342582caf407c3f9",
       "size": 4444,
       "role": "Image"
@@ -2182,7 +2182,7 @@
     {
       "fileName": "layers_14.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_14.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_14.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_14.png",
       "sha256": "dab879810f9f6f065fde717a0e35cf6e469645379f7f18674f64430fc3e388c2",
       "size": 3768,
       "role": "Image"
@@ -2190,7 +2190,7 @@
     {
       "fileName": "layers_15.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_15.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_15.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_15.png",
       "sha256": "8e80195678e1d14e2473cbcd4b7ceb758c4a83219e0d16c67ac7e1fe69e7cda9",
       "size": 6553,
       "role": "Image"
@@ -2198,7 +2198,7 @@
     {
       "fileName": "layers_16.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_16.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_16.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_16.png",
       "sha256": "58675faadc98e43194381c276a147acd26f2bf3e0a676dcab240ea3ca9662222",
       "size": 3560,
       "role": "Image"
@@ -2206,7 +2206,7 @@
     {
       "fileName": "layers_17.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_17.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_17.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_17.png",
       "sha256": "76eaf25b02f841a9a39056687de6496ea046df443fbb38fbdc01666dff1a32d0",
       "size": 4224,
       "role": "Image"
@@ -2214,7 +2214,7 @@
     {
       "fileName": "layers_18.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_18.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_18.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_18.png",
       "sha256": "871a3bcdb0a56bf6ba9eb96d4adbc4ad95fdbc0250e504cadcfe96fa9c7e0be8",
       "size": 4861,
       "role": "Image"
@@ -2222,7 +2222,7 @@
     {
       "fileName": "layers_19.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_19.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_19.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_19.png",
       "sha256": "0b7ce4709ddf8c0eca976bf13fd37da1e644279c335e77dae9c9f3d17d56eed2",
       "size": 3762,
       "role": "Image"
@@ -2230,7 +2230,7 @@
     {
       "fileName": "layers_2.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_2.png",
       "sha256": "3af2e68e0f0edef409a73fd689a13e7dc70193d5d68e57785dcad23af64cd965",
       "size": 3930,
       "role": "Image"
@@ -2238,7 +2238,7 @@
     {
       "fileName": "layers_20.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_20.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_20.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_20.png",
       "sha256": "81fbdd705751555a9fc081ee529ece074a5dc981388dfd1ba9b3a52a7131da46",
       "size": 3507,
       "role": "Image"
@@ -2246,7 +2246,7 @@
     {
       "fileName": "layers_21.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_21.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_21.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_21.png",
       "sha256": "6d1df3018882f37c1775a520e2d967fe34b0ce3e3e7b42dd0462a6e7df02d7ba",
       "size": 3705,
       "role": "Image"
@@ -2254,7 +2254,7 @@
     {
       "fileName": "layers_22.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_22.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_22.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_22.png",
       "sha256": "fb06dfb49a8737bd77f7971967eb6ae8efd0f20a095dab5b316aaa7a70de4655",
       "size": 4360,
       "role": "Image"
@@ -2262,7 +2262,7 @@
     {
       "fileName": "layers_23.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_23.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_23.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_23.png",
       "sha256": "7f1f808b7e164c32cff56fa184399416248e7c9e3b8b046c924f2015ff1cfde6",
       "size": 4110,
       "role": "Image"
@@ -2270,7 +2270,7 @@
     {
       "fileName": "layers_24.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_24.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_24.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_24.png",
       "sha256": "9749dfae5b39bf82ae906924dc1d4cd0d10326c03839cf9a09b72ae2c90e5381",
       "size": 3407,
       "role": "Image"
@@ -2278,7 +2278,7 @@
     {
       "fileName": "layers_25.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_25.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_25.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_25.png",
       "sha256": "16ab047f03290cf6fbfe1d5ad4a7e8b1e8163e6ac294dbf66a0b8553d343f8bc",
       "size": 3288,
       "role": "Image"
@@ -2286,7 +2286,7 @@
     {
       "fileName": "layers_26.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_26.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_26.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_26.png",
       "sha256": "2ecd5af29836e54ae38e9792a053127fc0c7156615d26c80d9adb339b7682ae8",
       "size": 3590,
       "role": "Image"
@@ -2294,7 +2294,7 @@
     {
       "fileName": "layers_27.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_27.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_27.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_27.png",
       "sha256": "c116043c9a5ecc3222258a429e22568173f12e1b0dfdd4ba25a8294a70e78466",
       "size": 3482,
       "role": "Image"
@@ -2302,7 +2302,7 @@
     {
       "fileName": "layers_28.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_28.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_28.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_28.png",
       "sha256": "0f2772c83880570dd6883806394b7a93a95ca0a8e0d80f755046305002f77aaa",
       "size": 3391,
       "role": "Image"
@@ -2310,7 +2310,7 @@
     {
       "fileName": "layers_29.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_29.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_29.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_29.png",
       "sha256": "7fa368ee433cedefe60e0e186b1469699254fa0161a54960d85bdd68b2cf2e5e",
       "size": 3750,
       "role": "Image"
@@ -2318,7 +2318,7 @@
     {
       "fileName": "layers_3.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_3.png",
       "sha256": "dde3e1dc584795263e2ba8b38c555b137c70752de81f31629fe7e590c9cf46c3",
       "size": 6018,
       "role": "Image"
@@ -2326,7 +2326,7 @@
     {
       "fileName": "layers_30.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_30.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_30.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_30.png",
       "sha256": "8f89fc432857c1deeae5df3782a11de8126b14c41dfd46c84aaad17617582eaa",
       "size": 3763,
       "role": "Image"
@@ -2334,7 +2334,7 @@
     {
       "fileName": "layers_31.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_31.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_31.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_31.png",
       "sha256": "68f01b1f90172df18514d78f641b5f1b8d87990a4ea1ee99be7df5a46fc7dfe2",
       "size": 3659,
       "role": "Image"
@@ -2342,7 +2342,7 @@
     {
       "fileName": "layers_32.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_32.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_32.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_32.png",
       "sha256": "cecd8a6f5fb0ee87f34925679bdd917d1ca3c0816ecf6d062e0d4658d2370ed4",
       "size": 3203,
       "role": "Image"
@@ -2350,7 +2350,7 @@
     {
       "fileName": "layers_33.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_33.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_33.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_33.png",
       "sha256": "521da8038746ff7d88e9c51ec324b5dba2772a24d6054e67929a0f53a89028a1",
       "size": 5306,
       "role": "Image"
@@ -2358,7 +2358,7 @@
     {
       "fileName": "layers_34.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_34.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_34.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_34.png",
       "sha256": "25e0ab3228bfe81c8e166ccc134ccd2bcdb199d9f597871640cd557e149501d0",
       "size": 4463,
       "role": "Image"
@@ -2366,7 +2366,7 @@
     {
       "fileName": "layers_35.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_35.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_35.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_35.png",
       "sha256": "74f8f30d77f72ee9aa623870d0e6b6d7491336047dd35877736c73b2688c5844",
       "size": 5995,
       "role": "Image"
@@ -2374,7 +2374,7 @@
     {
       "fileName": "layers_36.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_36.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_36.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_36.png",
       "sha256": "77639eff40d7d8b069747c414aa5dc7475479517990e815796569beeba997ce1",
       "size": 7224,
       "role": "Image"
@@ -2382,7 +2382,7 @@
     {
       "fileName": "layers_37.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_37.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_37.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_37.png",
       "sha256": "b214e14bbafadf1db9f71e2b3ccd4bad233ff5265a754986edcb089f8b1b466c",
       "size": 3996,
       "role": "Image"
@@ -2390,7 +2390,7 @@
     {
       "fileName": "layers_38.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_38.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_38.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_38.png",
       "sha256": "bee5cc06b80a00ba061bdbc8d356d19c8b90afd6b58f2f4d19b0b8d0fb3e0387",
       "size": 5472,
       "role": "Image"
@@ -2398,7 +2398,7 @@
     {
       "fileName": "layers_39.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_39.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_39.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_39.png",
       "sha256": "262e0f97711c7e42fb7ba976894cd09b920242ad1e10f04db357d2343ba5cfdd",
       "size": 3983,
       "role": "Image"
@@ -2406,7 +2406,7 @@
     {
       "fileName": "layers_4.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_4.png",
       "sha256": "5b6f001a80381391ebcb1db064c6c8bac17e9a4e4a0516799179979fe36b93ca",
       "size": 3589,
       "role": "Image"
@@ -2414,7 +2414,7 @@
     {
       "fileName": "layers_40.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_40.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_40.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_40.png",
       "sha256": "c3e26aa0f95b8a956c15219ab64cdb4c6479f6c527dfd6d0b85dd465840840a4",
       "size": 3278,
       "role": "Image"
@@ -2422,7 +2422,7 @@
     {
       "fileName": "layers_41.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_41.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_41.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_41.png",
       "sha256": "ce0dd07d17dced447d3046c2ec60c2b7de94ec6dfabfeed5288bc31de381da05",
       "size": 4357,
       "role": "Image"
@@ -2430,7 +2430,7 @@
     {
       "fileName": "layers_42.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_42.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_42.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_42.png",
       "sha256": "7ebb76f50b904d5e27e03452bbc01673332da02c3de3b86e69afb2cd7059b974",
       "size": 3716,
       "role": "Image"
@@ -2438,7 +2438,7 @@
     {
       "fileName": "layers_43.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_43.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_43.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_43.png",
       "sha256": "7eb0c43985a8a889bb5c232b184e0ef0c336b29990632d505ecdd3ed55ec9fb0",
       "size": 3577,
       "role": "Image"
@@ -2446,7 +2446,7 @@
     {
       "fileName": "layers_44.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_44.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_44.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_44.png",
       "sha256": "1b58046cbec32165792b2c270eafdd559a582945f8809445f5416785b02fbb9b",
       "size": 3778,
       "role": "Image"
@@ -2454,7 +2454,7 @@
     {
       "fileName": "layers_45.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_45.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_45.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_45.png",
       "sha256": "6b2c52fe2b37744327411f69738c41b39b56f5b5231adbeeadbe07197d10f072",
       "size": 4158,
       "role": "Image"
@@ -2462,7 +2462,7 @@
     {
       "fileName": "layers_46.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_46.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_46.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_46.png",
       "sha256": "1ccaa109284dcb71eac02f9883a4bd58974e1503462808a7b49da4c6c7760d8c",
       "size": 3432,
       "role": "Image"
@@ -2470,7 +2470,7 @@
     {
       "fileName": "layers_47.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_47.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_47.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_47.png",
       "sha256": "a358a6388b767d52de3c85e3faf5aa7274501d972078fda3bc6541b68ec46ee0",
       "size": 3480,
       "role": "Image"
@@ -2478,7 +2478,7 @@
     {
       "fileName": "layers_48.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_48.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_48.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_48.png",
       "sha256": "b2d759c903f33c56c772bcaf2443cf880be5e5780458e7ddfb34f4cb52db7deb",
       "size": 3438,
       "role": "Image"
@@ -2486,7 +2486,7 @@
     {
       "fileName": "layers_49.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_49.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_49.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_49.png",
       "sha256": "b712687224ace8cf5aa15a6ebfe58ad3d0a1f0ee4b55728d820623c9126f4a17",
       "size": 3474,
       "role": "Image"
@@ -2494,7 +2494,7 @@
     {
       "fileName": "layers_5.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_5.png",
       "sha256": "7a6070190ee82f87210beed3f46186b0003936e13eb0d3ce48a11364a8acc9f7",
       "size": 4151,
       "role": "Image"
@@ -2502,7 +2502,7 @@
     {
       "fileName": "layers_50.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_50.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_50.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_50.png",
       "sha256": "b2326a82d081ef05100560c0aa4982c85f2df2e7bc43234e1f512eddc752181d",
       "size": 3329,
       "role": "Image"
@@ -2510,7 +2510,7 @@
     {
       "fileName": "layers_51.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_51.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_51.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_51.png",
       "sha256": "8ce1fdc801355737430d1ac1fc01a8d497746d5fada7a7841a3079ebdbe7a246",
       "size": 4130,
       "role": "Image"
@@ -2518,7 +2518,7 @@
     {
       "fileName": "layers_52.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_52.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_52.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_52.png",
       "sha256": "8da2d0356b50efb1b8463d5d624484a82d04d571509d8cd0d6f9e88266fb22be",
       "size": 3345,
       "role": "Image"
@@ -2526,7 +2526,7 @@
     {
       "fileName": "layers_53.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_53.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_53.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_53.png",
       "sha256": "28b915b38bfad48bc740c7b99ae9e8eef2b09d118e88ab96a22b4c31b0c18f3f",
       "size": 4385,
       "role": "Image"
@@ -2534,7 +2534,7 @@
     {
       "fileName": "layers_54.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_54.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_54.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_54.png",
       "sha256": "0e236ae079a872d83a91cc63610dfc31fbf500c67f4a9847692e9881ab88802f",
       "size": 4479,
       "role": "Image"
@@ -2542,7 +2542,7 @@
     {
       "fileName": "layers_55.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_55.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_55.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_55.png",
       "sha256": "202e736c1379fbb956ef69b384b6054a91f28ff576590105adc5108c1952393f",
       "size": 3615,
       "role": "Image"
@@ -2550,7 +2550,7 @@
     {
       "fileName": "layers_56.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_56.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_56.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_56.png",
       "sha256": "35f58ee366632b4f3897e4f9f389b05378a265515ee2c52f7b089df951696cac",
       "size": 4277,
       "role": "Image"
@@ -2558,7 +2558,7 @@
     {
       "fileName": "layers_57.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_57.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_57.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_57.png",
       "sha256": "92dee97f9462be4def4fa7a5f8a584c498b650ad94b127dd7949eaeb1eb05678",
       "size": 3449,
       "role": "Image"
@@ -2566,7 +2566,7 @@
     {
       "fileName": "layers_58.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_58.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_58.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_58.png",
       "sha256": "fd59362e453c348a79c90dd3b937186cac63c2911c9b79a146faac37bc561696",
       "size": 4199,
       "role": "Image"
@@ -2574,7 +2574,7 @@
     {
       "fileName": "layers_59.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_59.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_59.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_59.png",
       "sha256": "4df22005f633b26ad2e6825044149077e02a3b2c7a0e93846ac517a3359bb8ea",
       "size": 3543,
       "role": "Image"
@@ -2582,7 +2582,7 @@
     {
       "fileName": "layers_6.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_6.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_6.png",
       "sha256": "54e5c06c030011e31e3c026654701c6dd5e16cb40328f081885d5789ba5518e8",
       "size": 4049,
       "role": "Image"
@@ -2590,7 +2590,7 @@
     {
       "fileName": "layers_60.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_60.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_60.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_60.png",
       "sha256": "5788e14ba148ccfbe24e67bad6c66bb1a3443b973b2b5b3e1af5795b93ad1b60",
       "size": 3755,
       "role": "Image"
@@ -2598,7 +2598,7 @@
     {
       "fileName": "layers_61.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_61.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_61.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_61.png",
       "sha256": "3f003689271893d882a3825a7cd8d2f3fc1da921550c609aab651e06867c3a83",
       "size": 4164,
       "role": "Image"
@@ -2606,7 +2606,7 @@
     {
       "fileName": "layers_62.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_62.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_62.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_62.png",
       "sha256": "6e540209cc4b7338f6a4bb59060f3724aa855d93bcc7a1a8e9efe17360b5f1f7",
       "size": 4281,
       "role": "Image"
@@ -2614,7 +2614,7 @@
     {
       "fileName": "layers_63.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_63.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_63.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_63.png",
       "sha256": "ab45394dddc7becaa2bf3391d36b6e0d4b242691a138c1da37a3a2ce36b0464f",
       "size": 3635,
       "role": "Image"
@@ -2622,7 +2622,7 @@
     {
       "fileName": "layers_64.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_64.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_64.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_64.png",
       "sha256": "d613718539dfe82b54352ca4ac4923e9ea4b16aa90087019d3095dd32c581627",
       "size": 5946,
       "role": "Image"
@@ -2630,7 +2630,7 @@
     {
       "fileName": "layers_65.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_65.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_65.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_65.png",
       "sha256": "08eb0b92422e18b3ef23af9104321134488ee94a0038a2fd2d29cb7b465da7a1",
       "size": 4130,
       "role": "Image"
@@ -2638,7 +2638,7 @@
     {
       "fileName": "layers_66.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_66.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_66.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_66.png",
       "sha256": "bd2cba7b58ba38fd016b6fdd2b5bc0e568a0bf58ee530ba99c81f90c1961882f",
       "size": 5766,
       "role": "Image"
@@ -2646,7 +2646,7 @@
     {
       "fileName": "layers_67.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_67.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_67.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_67.png",
       "sha256": "4324a6d50261f7c70eb36b9f6de8c502d43dc5a4f590925cc3ab2065d3624294",
       "size": 4052,
       "role": "Image"
@@ -2654,7 +2654,7 @@
     {
       "fileName": "layers_68.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_68.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_68.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_68.png",
       "sha256": "88e4c49ca75902d658f95ac372b5330538173264a2e035d956f1d1b2b67508e6",
       "size": 3388,
       "role": "Image"
@@ -2662,7 +2662,7 @@
     {
       "fileName": "layers_69.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_69.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_69.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_69.png",
       "sha256": "23a52b65ad27009acab9d2c8728ca5ca9f086e5644cfdabc96d2de41a5090637",
       "size": 4194,
       "role": "Image"
@@ -2670,7 +2670,7 @@
     {
       "fileName": "layers_7.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_7.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_7.png",
       "sha256": "b51789ebb3c36e0ba045ec4f8c0d764714df26834842986aeb882c7c3715fd27",
       "size": 3701,
       "role": "Image"
@@ -2678,7 +2678,7 @@
     {
       "fileName": "layers_70.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_70.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_70.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_70.png",
       "sha256": "b5a5acfe967cc236e58502b929c1f56252388775603227fd7e3ea053db1a3803",
       "size": 3755,
       "role": "Image"
@@ -2686,7 +2686,7 @@
     {
       "fileName": "layers_71.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_71.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_71.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_71.png",
       "sha256": "bb9d070b9fd9a8048b310804e028fa26f64d00f90b0192ebac9f0d909937221c",
       "size": 3344,
       "role": "Image"
@@ -2694,7 +2694,7 @@
     {
       "fileName": "layers_72.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_72.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_72.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_72.png",
       "sha256": "192dc005ea84c7a98d16d5190832a5b336db614bc630ba45b15e8646c7e7ee10",
       "size": 5456,
       "role": "Image"
@@ -2702,7 +2702,7 @@
     {
       "fileName": "layers_73.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_73.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_73.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_73.png",
       "sha256": "cee7419ea7b0022dac271cf5a813c6c2896a016b37c92fd8ec048009bed9721e",
       "size": 4166,
       "role": "Image"
@@ -2710,7 +2710,7 @@
     {
       "fileName": "layers_74.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_74.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_74.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_74.png",
       "sha256": "b194be937073d73be8cf9403d7ff4ff4516d4790b0b2e39b22c4c934955d7fba",
       "size": 3269,
       "role": "Image"
@@ -2718,7 +2718,7 @@
     {
       "fileName": "layers_75.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_75.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_75.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_75.png",
       "sha256": "f7d7b5ed6494943a8528e12a7915cae26f4b11b28c945df56e0fab3b45a53444",
       "size": 4127,
       "role": "Image"
@@ -2726,7 +2726,7 @@
     {
       "fileName": "layers_76.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_76.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_76.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_76.png",
       "sha256": "dcd682c66a122b27ba2f5772824ba7b79e2109fc0c9827bdcc42e5bb9c044202",
       "size": 4494,
       "role": "Image"
@@ -2734,7 +2734,7 @@
     {
       "fileName": "layers_77.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_77.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_77.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_77.png",
       "sha256": "cc330f8ba6230c377e890614e5ae17a94ed3e2e0ac1e43f55477abd0ce330ebb",
       "size": 5839,
       "role": "Image"
@@ -2742,7 +2742,7 @@
     {
       "fileName": "layers_78.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_78.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_78.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_78.png",
       "sha256": "3d471e513b3fb44385149a90db13d2fc1f768c118b5004e84122305d8c313d52",
       "size": 4416,
       "role": "Image"
@@ -2750,7 +2750,7 @@
     {
       "fileName": "layers_79.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_79.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_79.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_79.png",
       "sha256": "75795fa13b38cd8d3543b21fa9428b829877bda9d46b8b7215a72d1f0b0bbc9d",
       "size": 3729,
       "role": "Image"
@@ -2758,7 +2758,7 @@
     {
       "fileName": "layers_8.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_8.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_8.png",
       "sha256": "580d3141b52f9ee5bf557d8966fd05fdfacc7dc243b80962481bdb2beb283175",
       "size": 3295,
       "role": "Image"
@@ -2766,7 +2766,7 @@
     {
       "fileName": "layers_80.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_80.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_80.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_80.png",
       "sha256": "34ff392c7687a27ef56aa69d8047971849e54dece9321dab8870539823049120",
       "size": 4992,
       "role": "Image"
@@ -2774,7 +2774,7 @@
     {
       "fileName": "layers_81.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_81.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_81.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_81.png",
       "sha256": "f5a8a676416ec3cc70830ee63bc9ff952295c11f1e0df4d0f1225cb25349f4ba",
       "size": 4552,
       "role": "Image"
@@ -2782,7 +2782,7 @@
     {
       "fileName": "layers_82.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_82.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_82.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_82.png",
       "sha256": "d8acd8722558e9989bcd9d75567bab71bf0b1d04917b201cd2c6a62dceead27a",
       "size": 3450,
       "role": "Image"
@@ -2790,7 +2790,7 @@
     {
       "fileName": "layers_83.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_83.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_83.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_83.png",
       "sha256": "95d83d05186b9f2ceba49609f794b4e662ce9a05390c1217e2f6d8a07c645dc3",
       "size": 5008,
       "role": "Image"
@@ -2798,7 +2798,7 @@
     {
       "fileName": "layers_84.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_84.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_84.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_84.png",
       "sha256": "daf442c86c1dc5de733ada781350127c6850aa40c4653b567778a625afa6c155",
       "size": 3898,
       "role": "Image"
@@ -2806,7 +2806,7 @@
     {
       "fileName": "layers_85.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_85.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_85.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_85.png",
       "sha256": "61bf622875f17f08b08a54b211556eebd71798cf976ed23aef2bbadce9f45f5c",
       "size": 3458,
       "role": "Image"
@@ -2814,7 +2814,7 @@
     {
       "fileName": "layers_86.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_86.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_86.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_86.png",
       "sha256": "eaba887ec026c41f067891dcc73374b9abb2a8c3da00ecb34038cce9d931b242",
       "size": 3849,
       "role": "Image"
@@ -2822,7 +2822,7 @@
     {
       "fileName": "layers_87.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_87.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_87.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_87.png",
       "sha256": "9c1c15ecabf31b8ab909ae34b08dda25b56f04402772d7d5d1f04af53ce9fe3e",
       "size": 3309,
       "role": "Image"
@@ -2830,7 +2830,7 @@
     {
       "fileName": "layers_88.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_88.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_88.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_88.png",
       "sha256": "d1d5b852c1ec09f279ab70d56185de618fa77f28a66ebea00e517339c9a890b7",
       "size": 3935,
       "role": "Image"
@@ -2838,7 +2838,7 @@
     {
       "fileName": "layers_89.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_89.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_89.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_89.png",
       "sha256": "3619c634a0377c58bd98d703f243e9517fe0cd0b4f61b8fbcebad9294ea816c3",
       "size": 4192,
       "role": "Image"
@@ -2846,7 +2846,7 @@
     {
       "fileName": "layers_9.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_9.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_9.png",
       "sha256": "88b22649a7becff8b6ea35f73b2ad79a1dc550e83163c7d362e785b7d9f48074",
       "size": 3331,
       "role": "Image"
@@ -2854,7 +2854,7 @@
     {
       "fileName": "layers_90.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_90.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_90.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_90.png",
       "sha256": "6e8dc1ee38ac488f1ca8efec7cc64e0a5412b539b99bcf9a7e73d266ba21c88a",
       "size": 3330,
       "role": "Image"
@@ -2862,7 +2862,7 @@
     {
       "fileName": "layers_91.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_91.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_91.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_91.png",
       "sha256": "a126dad207b826e7a7d73eb1d1f141d0e29418a825a214f31cea0cc220343539",
       "size": 3342,
       "role": "Image"
@@ -2870,7 +2870,7 @@
     {
       "fileName": "layers_92.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_92.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_92.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_92.png",
       "sha256": "e38a88e92c3c81532c7924d71f7d7c30602bd5d7d869c2ac85bed8f7a5380008",
       "size": 4814,
       "role": "Image"
@@ -2878,7 +2878,7 @@
     {
       "fileName": "layers_93.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_93.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_93.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_93.png",
       "sha256": "62f1cfa7db5bbbebddba7b84f13b99ebc30db25864e100b6704c8c56785be4fe",
       "size": 3747,
       "role": "Image"
@@ -2886,7 +2886,7 @@
     {
       "fileName": "layers_94.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_94.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_94.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_94.png",
       "sha256": "e3e3242d45e14e1852eca65cb7bca8a8b00f289ec6f6242895b898e9d63f908b",
       "size": 4820,
       "role": "Image"
@@ -2894,7 +2894,7 @@
     {
       "fileName": "layers_95.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_95.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_95.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_95.png",
       "sha256": "ea001f4ce6f7ad579ca342357735f208b983f7d36f77367374ec89403569bd3f",
       "size": 3552,
       "role": "Image"
@@ -2902,7 +2902,7 @@
     {
       "fileName": "layers_96.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_96.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_96.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_96.png",
       "sha256": "e93e8feb25abdea91ce0424fd7ff35d6c955f5e2d6e2bf66f0731e9e3e1f27ef",
       "size": 4461,
       "role": "Image"
@@ -2910,7 +2910,7 @@
     {
       "fileName": "layers_97.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_97.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_97.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_97.png",
       "sha256": "d432061bf43d1aa32b18125a82f12174830b59b5fa70dead58a58514952d1ecb",
       "size": 3581,
       "role": "Image"
@@ -2918,7 +2918,7 @@
     {
       "fileName": "layers_98.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_98.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_98.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_98.png",
       "sha256": "fa561624cece903125a0131c7a85861e6ad9babcc1ece6507dcd24300412b4ae",
       "size": 5968,
       "role": "Image"
@@ -2926,7 +2926,7 @@
     {
       "fileName": "layers_99.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_99.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_99.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_99.png",
       "sha256": "c6a472a6368ffc46617e1529f9ab3e51cf369ab64cbd6e635d90e438ddcf2fae",
       "size": 5292,
       "role": "Image"
@@ -2936,7 +2936,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/pixelboy-parallax-backgrounds/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/cover.png",
       "sha256": "ec6a94fd007731ae303e3fd9d40295bfa6dad61ad75b245f24228d2ffbb5ffde",
       "size": 141349,
       "contentType": "image/png",
@@ -2945,7 +2945,7 @@
     {
       "fileName": "backgrounds_1.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_1.png",
       "sha256": "1e780384a39f65975d295ad16f427dda91b8b53f1aff4c6091410044efe757bb",
       "size": 6460,
       "contentType": "image/png",
@@ -2955,7 +2955,7 @@
     {
       "fileName": "backgrounds_10.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_10.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_10.png",
       "sha256": "b00ed053e1817bc08c1f7d219bc7ce452c3c04f5d1f57e67eaea440189e04278",
       "size": 4472,
       "contentType": "image/png",
@@ -2965,7 +2965,7 @@
     {
       "fileName": "backgrounds_11.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_11.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_11.png",
       "sha256": "4e790d05a21457949aa9e73e8e6ade3be059694136ccada224abe6870675a2d8",
       "size": 4370,
       "contentType": "image/png",
@@ -2975,7 +2975,7 @@
     {
       "fileName": "backgrounds_12.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_12.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_12.png",
       "sha256": "d3f8c96a00cc77279ecc69657c76ac05cb940d5db72d462bc885b7282b961345",
       "size": 5966,
       "contentType": "image/png",
@@ -2985,7 +2985,7 @@
     {
       "fileName": "backgrounds_13.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_13.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_13.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_13.png",
       "sha256": "fb6f52560413b10d7f98587264d808bab8752fc7621d91f701789edfeb644106",
       "size": 8070,
       "contentType": "image/png",
@@ -2995,7 +2995,7 @@
     {
       "fileName": "backgrounds_14.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_14.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_14.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_14.png",
       "sha256": "36281c91bf2805b3ded114ccd70f0b013a56f688bf57c905f7abdd273f33f505",
       "size": 5954,
       "contentType": "image/png",
@@ -3005,7 +3005,7 @@
     {
       "fileName": "backgrounds_15.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_15.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_15.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_15.png",
       "sha256": "9148ce791f314ed3958470fdea5272afa2f7a699361a87a44dd902acb3138931",
       "size": 5794,
       "contentType": "image/png",
@@ -3015,7 +3015,7 @@
     {
       "fileName": "backgrounds_16.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_16.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_16.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_16.png",
       "sha256": "898aea6179ababc05044fcecddb14c26b48a3766f229224bcb8eb1e40fae0fdc",
       "size": 4903,
       "contentType": "image/png",
@@ -3025,7 +3025,7 @@
     {
       "fileName": "backgrounds_17.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_17.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_17.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_17.png",
       "sha256": "6d0314bc73c5ec5e4e7fabcbbb8d331eea985fd7be5375fb7e0df4170de5c6b4",
       "size": 4976,
       "contentType": "image/png",
@@ -3035,7 +3035,7 @@
     {
       "fileName": "backgrounds_18.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_18.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_18.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_18.png",
       "sha256": "0a4c6093ab6e120340fbfca3416e96244b2380e3f82f330a03de9f67fbffe6b4",
       "size": 5151,
       "contentType": "image/png",
@@ -3045,7 +3045,7 @@
     {
       "fileName": "backgrounds_19.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_19.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_19.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_19.png",
       "sha256": "baa9c975c4beba003ed40d235e7364d7e4990c9d3c30d033e7651966eea5f916",
       "size": 4661,
       "contentType": "image/png",
@@ -3055,7 +3055,7 @@
     {
       "fileName": "backgrounds_2.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_2.png",
       "sha256": "44e624d3d08ddfc2bc1a6220173b6cd005b675f205ab1ae07c723ff3afee70b8",
       "size": 5461,
       "contentType": "image/png",
@@ -3065,7 +3065,7 @@
     {
       "fileName": "backgrounds_20.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_20.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_20.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_20.png",
       "sha256": "c9ec79ce54965c2ac828a85f385e30abb9e0cd2b6ff30739e8b54a62c700d006",
       "size": 5352,
       "contentType": "image/png",
@@ -3075,7 +3075,7 @@
     {
       "fileName": "backgrounds_21.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_21.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_21.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_21.png",
       "sha256": "e93eb1c613c8ee266b3e7119a050c29404e1966d6b91bb596306ad9d5e03e745",
       "size": 4750,
       "contentType": "image/png",
@@ -3085,7 +3085,7 @@
     {
       "fileName": "backgrounds_22.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_22.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_22.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_22.png",
       "sha256": "49d1632ffea253e2fd0a2b6bf2297ce3baa00cbd8198ef7b8020e6ec2b5e85d7",
       "size": 5323,
       "contentType": "image/png",
@@ -3095,7 +3095,7 @@
     {
       "fileName": "backgrounds_23.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_23.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_23.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_23.png",
       "sha256": "ab654fb9ffe37fc78e049912d629a93b32821b9b3307e48eef2f8d9a1d811052",
       "size": 5683,
       "contentType": "image/png",
@@ -3105,7 +3105,7 @@
     {
       "fileName": "backgrounds_24.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_24.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_24.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_24.png",
       "sha256": "143c2e42c032439da57bc3e4a84e21b76efec181fa742345276d43dbcbff9730",
       "size": 6131,
       "contentType": "image/png",
@@ -3115,7 +3115,7 @@
     {
       "fileName": "backgrounds_25.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_25.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_25.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_25.png",
       "sha256": "c09f90a3fbe94ed782aebec40b71f262e7088786c8d55acf659c9c6828eef46f",
       "size": 5858,
       "contentType": "image/png",
@@ -3125,7 +3125,7 @@
     {
       "fileName": "backgrounds_26.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_26.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_26.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_26.png",
       "sha256": "9d4ce0c0af49fd9eaf9a03ce1662be4072cce27b5f23e9982b495c06f9cb23f8",
       "size": 4880,
       "contentType": "image/png",
@@ -3135,7 +3135,7 @@
     {
       "fileName": "backgrounds_27.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_27.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_27.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_27.png",
       "sha256": "9b7f5469d11ad0ce76b07224e8c4e59767746bedee5938c1bd90141bde83e3df",
       "size": 6120,
       "contentType": "image/png",
@@ -3145,7 +3145,7 @@
     {
       "fileName": "backgrounds_28.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_28.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_28.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_28.png",
       "sha256": "8a5d4ad6324099ae490354305ffa669ed83d6203ccbe075319f3d25c926022a7",
       "size": 5620,
       "contentType": "image/png",
@@ -3155,7 +3155,7 @@
     {
       "fileName": "backgrounds_29.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_29.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_29.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_29.png",
       "sha256": "7c51ee54301ad62ab56a0734382aa8e389553c6e83cff253a41a2694a9f911ff",
       "size": 6078,
       "contentType": "image/png",
@@ -3165,7 +3165,7 @@
     {
       "fileName": "backgrounds_3.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_3.png",
       "sha256": "0f8c348b32680fa9fb2ef5e4ec5200d32984c4cf3735e59eff118c46c8c7e85c",
       "size": 3690,
       "contentType": "image/png",
@@ -3175,7 +3175,7 @@
     {
       "fileName": "backgrounds_30.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_30.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_30.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_30.png",
       "sha256": "6f0c892564b58e894a9f7ab1ba46c83a151a276dad425cd835d752bb79fdc4dd",
       "size": 5304,
       "contentType": "image/png",
@@ -3185,7 +3185,7 @@
     {
       "fileName": "backgrounds_31.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_31.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_31.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_31.png",
       "sha256": "2b2b9273b2c96051fb0f4a4cfa5a24ace490a90f6f3e663d32a2853ce456c04d",
       "size": 5616,
       "contentType": "image/png",
@@ -3195,7 +3195,7 @@
     {
       "fileName": "backgrounds_32.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_32.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_32.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_32.png",
       "sha256": "1ca87a58092d2c5ffa570372fe39ffb8435e532e9608a6d8e2ee657011048b64",
       "size": 4925,
       "contentType": "image/png",
@@ -3205,7 +3205,7 @@
     {
       "fileName": "backgrounds_33.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_33.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_33.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_33.png",
       "sha256": "65e772580b62a93d38f3f1df06f8144ed3660036c257d5e4e891f5b32ef20727",
       "size": 5592,
       "contentType": "image/png",
@@ -3215,7 +3215,7 @@
     {
       "fileName": "backgrounds_34.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_34.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_34.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_34.png",
       "sha256": "8deaf6d80825d8e99dd0a3f41e5ae786b9967ee09b23fe65d3be86daa851a679",
       "size": 4210,
       "contentType": "image/png",
@@ -3225,7 +3225,7 @@
     {
       "fileName": "backgrounds_35.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_35.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_35.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_35.png",
       "sha256": "709298ecb2d90dda8773dfb8270f9b15176d6e20b011467dc9db1c8aa6ce9ba1",
       "size": 5026,
       "contentType": "image/png",
@@ -3235,7 +3235,7 @@
     {
       "fileName": "backgrounds_36.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_36.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_36.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_36.png",
       "sha256": "20569db628e771da915a5e0b019b65de846d6ae5d4bdd9db2de837fca5d95805",
       "size": 4766,
       "contentType": "image/png",
@@ -3245,7 +3245,7 @@
     {
       "fileName": "backgrounds_37.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_37.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_37.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_37.png",
       "sha256": "c7918326151d3d070817bf014308f59a8bc80d488a75cddee1fdbd7289adbc62",
       "size": 5911,
       "contentType": "image/png",
@@ -3255,7 +3255,7 @@
     {
       "fileName": "backgrounds_38.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_38.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_38.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_38.png",
       "sha256": "6593fa6d79c71943fefc5bf66e5e2869dc5c15ddc3cd5e497312eb02f72ef0ae",
       "size": 5351,
       "contentType": "image/png",
@@ -3265,7 +3265,7 @@
     {
       "fileName": "backgrounds_39.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_39.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_39.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_39.png",
       "sha256": "6abe1fc1a8345dac6f34dec5dc4dd22e97db766ab9bc5f99decd6d03c3144468",
       "size": 6959,
       "contentType": "image/png",
@@ -3275,7 +3275,7 @@
     {
       "fileName": "backgrounds_4.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_4.png",
       "sha256": "fae280e37c3b72d185807fb560ef45a993e326871214fddd94a2e090217ce571",
       "size": 4949,
       "contentType": "image/png",
@@ -3285,7 +3285,7 @@
     {
       "fileName": "backgrounds_40.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_40.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_40.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_40.png",
       "sha256": "5fdcef8c67fbade2801d325460a9415b87551c4659f76ec3fc9b115e77eb9041",
       "size": 5317,
       "contentType": "image/png",
@@ -3295,7 +3295,7 @@
     {
       "fileName": "backgrounds_41.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_41.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_41.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_41.png",
       "sha256": "8a28cc967e9be94f3f0f214d82e3237b5059cfed48c508e8b34a97e5e10d01b1",
       "size": 5038,
       "contentType": "image/png",
@@ -3305,7 +3305,7 @@
     {
       "fileName": "backgrounds_5.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_5.png",
       "sha256": "d4ea46c8cb67ab8b7af6537bd81ddb901bc641ec167d083ca104b1c5c005e432",
       "size": 5252,
       "contentType": "image/png",
@@ -3315,7 +3315,7 @@
     {
       "fileName": "backgrounds_6.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_6.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_6.png",
       "sha256": "5831117ea9399634dfd810c738e4bca0d23ccd190c58a9ca6d91cfd597c1cc47",
       "size": 6839,
       "contentType": "image/png",
@@ -3325,7 +3325,7 @@
     {
       "fileName": "backgrounds_7.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_7.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_7.png",
       "sha256": "5ea4c7a1139b1c7cdafe90e6f26917e0f2460648a56fc5cc336ce6b979235d51",
       "size": 5102,
       "contentType": "image/png",
@@ -3335,7 +3335,7 @@
     {
       "fileName": "backgrounds_8.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_8.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_8.png",
       "sha256": "0e9ee41c5088e10633c0b180906d884b89dd7514b452c5ced0a79c6a1a4268c3",
       "size": 4893,
       "contentType": "image/png",
@@ -3345,7 +3345,7 @@
     {
       "fileName": "backgrounds_9.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/backgrounds_9.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/backgrounds_9.png",
       "sha256": "6e5d6e683c7c86b0f4b7d0f8717cecae34b734c7fe7987a6604221e47a1a1301",
       "size": 4132,
       "contentType": "image/png",
@@ -3355,7 +3355,7 @@
     {
       "fileName": "layers_1.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_1.png",
       "sha256": "0a834fd5ceaac2e7662bc60c3948969034c2b9b15bf469f8f09f66d83965a25b",
       "size": 3746,
       "contentType": "image/png",
@@ -3365,7 +3365,7 @@
     {
       "fileName": "layers_10.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_10.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_10.png",
       "sha256": "7745cb2779941c8b61ac111490f310d322488394ce4e299c47101d57c6c260cb",
       "size": 3207,
       "contentType": "image/png",
@@ -3375,7 +3375,7 @@
     {
       "fileName": "layers_100.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_100.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_100.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_100.png",
       "sha256": "8e03a9243f7072b2dd11e49c8015c79bd5d4a9163a3f9844cb25c2756eb27c6d",
       "size": 4934,
       "contentType": "image/png",
@@ -3385,7 +3385,7 @@
     {
       "fileName": "layers_101.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_101.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_101.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_101.png",
       "sha256": "4d523b05cfdbfcefd6cf7cae3cb0149c3bc211578ab847c87983c99a06d823e3",
       "size": 3683,
       "contentType": "image/png",
@@ -3395,7 +3395,7 @@
     {
       "fileName": "layers_102.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_102.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_102.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_102.png",
       "sha256": "fcd9021ea2f02b7d069c0578f746a30876de53c55eb261da5b53bdfae2a11acb",
       "size": 4162,
       "contentType": "image/png",
@@ -3405,7 +3405,7 @@
     {
       "fileName": "layers_103.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_103.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_103.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_103.png",
       "sha256": "79b81c7639e2763585c7bdbce0e841bddc9fc4ae5095b2e0a9de701f110a39cf",
       "size": 3881,
       "contentType": "image/png",
@@ -3415,7 +3415,7 @@
     {
       "fileName": "layers_104.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_104.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_104.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_104.png",
       "sha256": "a5372c51102aef49fa87fb1bfdef2e395e13d96cc140aed3d7adc0719292374f",
       "size": 3992,
       "contentType": "image/png",
@@ -3425,7 +3425,7 @@
     {
       "fileName": "layers_105.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_105.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_105.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_105.png",
       "sha256": "5137b4ca6bf8f0ef313f1d4eb9fa3e2fbe6c9cd4c5b051708b51ce9a5a7348b7",
       "size": 3312,
       "contentType": "image/png",
@@ -3435,7 +3435,7 @@
     {
       "fileName": "layers_11.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_11.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_11.png",
       "sha256": "2c8aeb1fac9754918727df8f8feb1ef5fc0b9d4c7f20b43c96ef8971bfa76d63",
       "size": 3235,
       "contentType": "image/png",
@@ -3445,7 +3445,7 @@
     {
       "fileName": "layers_12.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_12.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_12.png",
       "sha256": "55d4520fe924884d4d398104041f6ab5e3afdcf375387dc55e0bcc170ab553cc",
       "size": 3756,
       "contentType": "image/png",
@@ -3455,7 +3455,7 @@
     {
       "fileName": "layers_13.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_13.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_13.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_13.png",
       "sha256": "723fc9c8bda70912541f11b7caed733e466a45b4311c3dbc342582caf407c3f9",
       "size": 4444,
       "contentType": "image/png",
@@ -3465,7 +3465,7 @@
     {
       "fileName": "layers_14.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_14.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_14.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_14.png",
       "sha256": "dab879810f9f6f065fde717a0e35cf6e469645379f7f18674f64430fc3e388c2",
       "size": 3768,
       "contentType": "image/png",
@@ -3475,7 +3475,7 @@
     {
       "fileName": "layers_15.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_15.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_15.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_15.png",
       "sha256": "8e80195678e1d14e2473cbcd4b7ceb758c4a83219e0d16c67ac7e1fe69e7cda9",
       "size": 6553,
       "contentType": "image/png",
@@ -3485,7 +3485,7 @@
     {
       "fileName": "layers_16.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_16.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_16.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_16.png",
       "sha256": "58675faadc98e43194381c276a147acd26f2bf3e0a676dcab240ea3ca9662222",
       "size": 3560,
       "contentType": "image/png",
@@ -3495,7 +3495,7 @@
     {
       "fileName": "layers_17.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_17.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_17.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_17.png",
       "sha256": "76eaf25b02f841a9a39056687de6496ea046df443fbb38fbdc01666dff1a32d0",
       "size": 4224,
       "contentType": "image/png",
@@ -3505,7 +3505,7 @@
     {
       "fileName": "layers_18.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_18.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_18.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_18.png",
       "sha256": "871a3bcdb0a56bf6ba9eb96d4adbc4ad95fdbc0250e504cadcfe96fa9c7e0be8",
       "size": 4861,
       "contentType": "image/png",
@@ -3515,7 +3515,7 @@
     {
       "fileName": "layers_19.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_19.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_19.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_19.png",
       "sha256": "0b7ce4709ddf8c0eca976bf13fd37da1e644279c335e77dae9c9f3d17d56eed2",
       "size": 3762,
       "contentType": "image/png",
@@ -3525,7 +3525,7 @@
     {
       "fileName": "layers_2.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_2.png",
       "sha256": "3af2e68e0f0edef409a73fd689a13e7dc70193d5d68e57785dcad23af64cd965",
       "size": 3930,
       "contentType": "image/png",
@@ -3535,7 +3535,7 @@
     {
       "fileName": "layers_20.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_20.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_20.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_20.png",
       "sha256": "81fbdd705751555a9fc081ee529ece074a5dc981388dfd1ba9b3a52a7131da46",
       "size": 3507,
       "contentType": "image/png",
@@ -3545,7 +3545,7 @@
     {
       "fileName": "layers_21.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_21.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_21.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_21.png",
       "sha256": "6d1df3018882f37c1775a520e2d967fe34b0ce3e3e7b42dd0462a6e7df02d7ba",
       "size": 3705,
       "contentType": "image/png",
@@ -3555,7 +3555,7 @@
     {
       "fileName": "layers_22.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_22.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_22.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_22.png",
       "sha256": "fb06dfb49a8737bd77f7971967eb6ae8efd0f20a095dab5b316aaa7a70de4655",
       "size": 4360,
       "contentType": "image/png",
@@ -3565,7 +3565,7 @@
     {
       "fileName": "layers_23.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_23.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_23.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_23.png",
       "sha256": "7f1f808b7e164c32cff56fa184399416248e7c9e3b8b046c924f2015ff1cfde6",
       "size": 4110,
       "contentType": "image/png",
@@ -3575,7 +3575,7 @@
     {
       "fileName": "layers_24.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_24.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_24.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_24.png",
       "sha256": "9749dfae5b39bf82ae906924dc1d4cd0d10326c03839cf9a09b72ae2c90e5381",
       "size": 3407,
       "contentType": "image/png",
@@ -3585,7 +3585,7 @@
     {
       "fileName": "layers_25.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_25.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_25.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_25.png",
       "sha256": "16ab047f03290cf6fbfe1d5ad4a7e8b1e8163e6ac294dbf66a0b8553d343f8bc",
       "size": 3288,
       "contentType": "image/png",
@@ -3595,7 +3595,7 @@
     {
       "fileName": "layers_26.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_26.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_26.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_26.png",
       "sha256": "2ecd5af29836e54ae38e9792a053127fc0c7156615d26c80d9adb339b7682ae8",
       "size": 3590,
       "contentType": "image/png",
@@ -3605,7 +3605,7 @@
     {
       "fileName": "layers_27.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_27.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_27.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_27.png",
       "sha256": "c116043c9a5ecc3222258a429e22568173f12e1b0dfdd4ba25a8294a70e78466",
       "size": 3482,
       "contentType": "image/png",
@@ -3615,7 +3615,7 @@
     {
       "fileName": "layers_28.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_28.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_28.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_28.png",
       "sha256": "0f2772c83880570dd6883806394b7a93a95ca0a8e0d80f755046305002f77aaa",
       "size": 3391,
       "contentType": "image/png",
@@ -3625,7 +3625,7 @@
     {
       "fileName": "layers_29.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_29.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_29.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_29.png",
       "sha256": "7fa368ee433cedefe60e0e186b1469699254fa0161a54960d85bdd68b2cf2e5e",
       "size": 3750,
       "contentType": "image/png",
@@ -3635,7 +3635,7 @@
     {
       "fileName": "layers_3.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_3.png",
       "sha256": "dde3e1dc584795263e2ba8b38c555b137c70752de81f31629fe7e590c9cf46c3",
       "size": 6018,
       "contentType": "image/png",
@@ -3645,7 +3645,7 @@
     {
       "fileName": "layers_30.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_30.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_30.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_30.png",
       "sha256": "8f89fc432857c1deeae5df3782a11de8126b14c41dfd46c84aaad17617582eaa",
       "size": 3763,
       "contentType": "image/png",
@@ -3655,7 +3655,7 @@
     {
       "fileName": "layers_31.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_31.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_31.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_31.png",
       "sha256": "68f01b1f90172df18514d78f641b5f1b8d87990a4ea1ee99be7df5a46fc7dfe2",
       "size": 3659,
       "contentType": "image/png",
@@ -3665,7 +3665,7 @@
     {
       "fileName": "layers_32.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_32.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_32.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_32.png",
       "sha256": "cecd8a6f5fb0ee87f34925679bdd917d1ca3c0816ecf6d062e0d4658d2370ed4",
       "size": 3203,
       "contentType": "image/png",
@@ -3675,7 +3675,7 @@
     {
       "fileName": "layers_33.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_33.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_33.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_33.png",
       "sha256": "521da8038746ff7d88e9c51ec324b5dba2772a24d6054e67929a0f53a89028a1",
       "size": 5306,
       "contentType": "image/png",
@@ -3685,7 +3685,7 @@
     {
       "fileName": "layers_34.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_34.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_34.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_34.png",
       "sha256": "25e0ab3228bfe81c8e166ccc134ccd2bcdb199d9f597871640cd557e149501d0",
       "size": 4463,
       "contentType": "image/png",
@@ -3695,7 +3695,7 @@
     {
       "fileName": "layers_35.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_35.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_35.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_35.png",
       "sha256": "74f8f30d77f72ee9aa623870d0e6b6d7491336047dd35877736c73b2688c5844",
       "size": 5995,
       "contentType": "image/png",
@@ -3705,7 +3705,7 @@
     {
       "fileName": "layers_36.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_36.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_36.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_36.png",
       "sha256": "77639eff40d7d8b069747c414aa5dc7475479517990e815796569beeba997ce1",
       "size": 7224,
       "contentType": "image/png",
@@ -3715,7 +3715,7 @@
     {
       "fileName": "layers_37.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_37.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_37.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_37.png",
       "sha256": "b214e14bbafadf1db9f71e2b3ccd4bad233ff5265a754986edcb089f8b1b466c",
       "size": 3996,
       "contentType": "image/png",
@@ -3725,7 +3725,7 @@
     {
       "fileName": "layers_38.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_38.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_38.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_38.png",
       "sha256": "bee5cc06b80a00ba061bdbc8d356d19c8b90afd6b58f2f4d19b0b8d0fb3e0387",
       "size": 5472,
       "contentType": "image/png",
@@ -3735,7 +3735,7 @@
     {
       "fileName": "layers_39.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_39.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_39.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_39.png",
       "sha256": "262e0f97711c7e42fb7ba976894cd09b920242ad1e10f04db357d2343ba5cfdd",
       "size": 3983,
       "contentType": "image/png",
@@ -3745,7 +3745,7 @@
     {
       "fileName": "layers_4.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_4.png",
       "sha256": "5b6f001a80381391ebcb1db064c6c8bac17e9a4e4a0516799179979fe36b93ca",
       "size": 3589,
       "contentType": "image/png",
@@ -3755,7 +3755,7 @@
     {
       "fileName": "layers_40.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_40.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_40.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_40.png",
       "sha256": "c3e26aa0f95b8a956c15219ab64cdb4c6479f6c527dfd6d0b85dd465840840a4",
       "size": 3278,
       "contentType": "image/png",
@@ -3765,7 +3765,7 @@
     {
       "fileName": "layers_41.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_41.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_41.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_41.png",
       "sha256": "ce0dd07d17dced447d3046c2ec60c2b7de94ec6dfabfeed5288bc31de381da05",
       "size": 4357,
       "contentType": "image/png",
@@ -3775,7 +3775,7 @@
     {
       "fileName": "layers_42.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_42.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_42.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_42.png",
       "sha256": "7ebb76f50b904d5e27e03452bbc01673332da02c3de3b86e69afb2cd7059b974",
       "size": 3716,
       "contentType": "image/png",
@@ -3785,7 +3785,7 @@
     {
       "fileName": "layers_43.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_43.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_43.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_43.png",
       "sha256": "7eb0c43985a8a889bb5c232b184e0ef0c336b29990632d505ecdd3ed55ec9fb0",
       "size": 3577,
       "contentType": "image/png",
@@ -3795,7 +3795,7 @@
     {
       "fileName": "layers_44.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_44.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_44.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_44.png",
       "sha256": "1b58046cbec32165792b2c270eafdd559a582945f8809445f5416785b02fbb9b",
       "size": 3778,
       "contentType": "image/png",
@@ -3805,7 +3805,7 @@
     {
       "fileName": "layers_45.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_45.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_45.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_45.png",
       "sha256": "6b2c52fe2b37744327411f69738c41b39b56f5b5231adbeeadbe07197d10f072",
       "size": 4158,
       "contentType": "image/png",
@@ -3815,7 +3815,7 @@
     {
       "fileName": "layers_46.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_46.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_46.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_46.png",
       "sha256": "1ccaa109284dcb71eac02f9883a4bd58974e1503462808a7b49da4c6c7760d8c",
       "size": 3432,
       "contentType": "image/png",
@@ -3825,7 +3825,7 @@
     {
       "fileName": "layers_47.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_47.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_47.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_47.png",
       "sha256": "a358a6388b767d52de3c85e3faf5aa7274501d972078fda3bc6541b68ec46ee0",
       "size": 3480,
       "contentType": "image/png",
@@ -3835,7 +3835,7 @@
     {
       "fileName": "layers_48.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_48.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_48.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_48.png",
       "sha256": "b2d759c903f33c56c772bcaf2443cf880be5e5780458e7ddfb34f4cb52db7deb",
       "size": 3438,
       "contentType": "image/png",
@@ -3845,7 +3845,7 @@
     {
       "fileName": "layers_49.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_49.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_49.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_49.png",
       "sha256": "b712687224ace8cf5aa15a6ebfe58ad3d0a1f0ee4b55728d820623c9126f4a17",
       "size": 3474,
       "contentType": "image/png",
@@ -3855,7 +3855,7 @@
     {
       "fileName": "layers_5.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_5.png",
       "sha256": "7a6070190ee82f87210beed3f46186b0003936e13eb0d3ce48a11364a8acc9f7",
       "size": 4151,
       "contentType": "image/png",
@@ -3865,7 +3865,7 @@
     {
       "fileName": "layers_50.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_50.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_50.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_50.png",
       "sha256": "b2326a82d081ef05100560c0aa4982c85f2df2e7bc43234e1f512eddc752181d",
       "size": 3329,
       "contentType": "image/png",
@@ -3875,7 +3875,7 @@
     {
       "fileName": "layers_51.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_51.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_51.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_51.png",
       "sha256": "8ce1fdc801355737430d1ac1fc01a8d497746d5fada7a7841a3079ebdbe7a246",
       "size": 4130,
       "contentType": "image/png",
@@ -3885,7 +3885,7 @@
     {
       "fileName": "layers_52.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_52.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_52.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_52.png",
       "sha256": "8da2d0356b50efb1b8463d5d624484a82d04d571509d8cd0d6f9e88266fb22be",
       "size": 3345,
       "contentType": "image/png",
@@ -3895,7 +3895,7 @@
     {
       "fileName": "layers_53.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_53.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_53.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_53.png",
       "sha256": "28b915b38bfad48bc740c7b99ae9e8eef2b09d118e88ab96a22b4c31b0c18f3f",
       "size": 4385,
       "contentType": "image/png",
@@ -3905,7 +3905,7 @@
     {
       "fileName": "layers_54.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_54.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_54.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_54.png",
       "sha256": "0e236ae079a872d83a91cc63610dfc31fbf500c67f4a9847692e9881ab88802f",
       "size": 4479,
       "contentType": "image/png",
@@ -3915,7 +3915,7 @@
     {
       "fileName": "layers_55.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_55.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_55.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_55.png",
       "sha256": "202e736c1379fbb956ef69b384b6054a91f28ff576590105adc5108c1952393f",
       "size": 3615,
       "contentType": "image/png",
@@ -3925,7 +3925,7 @@
     {
       "fileName": "layers_56.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_56.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_56.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_56.png",
       "sha256": "35f58ee366632b4f3897e4f9f389b05378a265515ee2c52f7b089df951696cac",
       "size": 4277,
       "contentType": "image/png",
@@ -3935,7 +3935,7 @@
     {
       "fileName": "layers_57.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_57.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_57.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_57.png",
       "sha256": "92dee97f9462be4def4fa7a5f8a584c498b650ad94b127dd7949eaeb1eb05678",
       "size": 3449,
       "contentType": "image/png",
@@ -3945,7 +3945,7 @@
     {
       "fileName": "layers_58.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_58.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_58.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_58.png",
       "sha256": "fd59362e453c348a79c90dd3b937186cac63c2911c9b79a146faac37bc561696",
       "size": 4199,
       "contentType": "image/png",
@@ -3955,7 +3955,7 @@
     {
       "fileName": "layers_59.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_59.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_59.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_59.png",
       "sha256": "4df22005f633b26ad2e6825044149077e02a3b2c7a0e93846ac517a3359bb8ea",
       "size": 3543,
       "contentType": "image/png",
@@ -3965,7 +3965,7 @@
     {
       "fileName": "layers_6.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_6.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_6.png",
       "sha256": "54e5c06c030011e31e3c026654701c6dd5e16cb40328f081885d5789ba5518e8",
       "size": 4049,
       "contentType": "image/png",
@@ -3975,7 +3975,7 @@
     {
       "fileName": "layers_60.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_60.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_60.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_60.png",
       "sha256": "5788e14ba148ccfbe24e67bad6c66bb1a3443b973b2b5b3e1af5795b93ad1b60",
       "size": 3755,
       "contentType": "image/png",
@@ -3985,7 +3985,7 @@
     {
       "fileName": "layers_61.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_61.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_61.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_61.png",
       "sha256": "3f003689271893d882a3825a7cd8d2f3fc1da921550c609aab651e06867c3a83",
       "size": 4164,
       "contentType": "image/png",
@@ -3995,7 +3995,7 @@
     {
       "fileName": "layers_62.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_62.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_62.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_62.png",
       "sha256": "6e540209cc4b7338f6a4bb59060f3724aa855d93bcc7a1a8e9efe17360b5f1f7",
       "size": 4281,
       "contentType": "image/png",
@@ -4005,7 +4005,7 @@
     {
       "fileName": "layers_63.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_63.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_63.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_63.png",
       "sha256": "ab45394dddc7becaa2bf3391d36b6e0d4b242691a138c1da37a3a2ce36b0464f",
       "size": 3635,
       "contentType": "image/png",
@@ -4015,7 +4015,7 @@
     {
       "fileName": "layers_64.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_64.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_64.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_64.png",
       "sha256": "d613718539dfe82b54352ca4ac4923e9ea4b16aa90087019d3095dd32c581627",
       "size": 5946,
       "contentType": "image/png",
@@ -4025,7 +4025,7 @@
     {
       "fileName": "layers_65.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_65.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_65.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_65.png",
       "sha256": "08eb0b92422e18b3ef23af9104321134488ee94a0038a2fd2d29cb7b465da7a1",
       "size": 4130,
       "contentType": "image/png",
@@ -4035,7 +4035,7 @@
     {
       "fileName": "layers_66.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_66.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_66.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_66.png",
       "sha256": "bd2cba7b58ba38fd016b6fdd2b5bc0e568a0bf58ee530ba99c81f90c1961882f",
       "size": 5766,
       "contentType": "image/png",
@@ -4045,7 +4045,7 @@
     {
       "fileName": "layers_67.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_67.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_67.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_67.png",
       "sha256": "4324a6d50261f7c70eb36b9f6de8c502d43dc5a4f590925cc3ab2065d3624294",
       "size": 4052,
       "contentType": "image/png",
@@ -4055,7 +4055,7 @@
     {
       "fileName": "layers_68.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_68.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_68.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_68.png",
       "sha256": "88e4c49ca75902d658f95ac372b5330538173264a2e035d956f1d1b2b67508e6",
       "size": 3388,
       "contentType": "image/png",
@@ -4065,7 +4065,7 @@
     {
       "fileName": "layers_69.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_69.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_69.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_69.png",
       "sha256": "23a52b65ad27009acab9d2c8728ca5ca9f086e5644cfdabc96d2de41a5090637",
       "size": 4194,
       "contentType": "image/png",
@@ -4075,7 +4075,7 @@
     {
       "fileName": "layers_7.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_7.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_7.png",
       "sha256": "b51789ebb3c36e0ba045ec4f8c0d764714df26834842986aeb882c7c3715fd27",
       "size": 3701,
       "contentType": "image/png",
@@ -4085,7 +4085,7 @@
     {
       "fileName": "layers_70.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_70.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_70.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_70.png",
       "sha256": "b5a5acfe967cc236e58502b929c1f56252388775603227fd7e3ea053db1a3803",
       "size": 3755,
       "contentType": "image/png",
@@ -4095,7 +4095,7 @@
     {
       "fileName": "layers_71.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_71.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_71.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_71.png",
       "sha256": "bb9d070b9fd9a8048b310804e028fa26f64d00f90b0192ebac9f0d909937221c",
       "size": 3344,
       "contentType": "image/png",
@@ -4105,7 +4105,7 @@
     {
       "fileName": "layers_72.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_72.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_72.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_72.png",
       "sha256": "192dc005ea84c7a98d16d5190832a5b336db614bc630ba45b15e8646c7e7ee10",
       "size": 5456,
       "contentType": "image/png",
@@ -4115,7 +4115,7 @@
     {
       "fileName": "layers_73.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_73.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_73.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_73.png",
       "sha256": "cee7419ea7b0022dac271cf5a813c6c2896a016b37c92fd8ec048009bed9721e",
       "size": 4166,
       "contentType": "image/png",
@@ -4125,7 +4125,7 @@
     {
       "fileName": "layers_74.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_74.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_74.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_74.png",
       "sha256": "b194be937073d73be8cf9403d7ff4ff4516d4790b0b2e39b22c4c934955d7fba",
       "size": 3269,
       "contentType": "image/png",
@@ -4135,7 +4135,7 @@
     {
       "fileName": "layers_75.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_75.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_75.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_75.png",
       "sha256": "f7d7b5ed6494943a8528e12a7915cae26f4b11b28c945df56e0fab3b45a53444",
       "size": 4127,
       "contentType": "image/png",
@@ -4145,7 +4145,7 @@
     {
       "fileName": "layers_76.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_76.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_76.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_76.png",
       "sha256": "dcd682c66a122b27ba2f5772824ba7b79e2109fc0c9827bdcc42e5bb9c044202",
       "size": 4494,
       "contentType": "image/png",
@@ -4155,7 +4155,7 @@
     {
       "fileName": "layers_77.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_77.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_77.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_77.png",
       "sha256": "cc330f8ba6230c377e890614e5ae17a94ed3e2e0ac1e43f55477abd0ce330ebb",
       "size": 5839,
       "contentType": "image/png",
@@ -4165,7 +4165,7 @@
     {
       "fileName": "layers_78.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_78.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_78.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_78.png",
       "sha256": "3d471e513b3fb44385149a90db13d2fc1f768c118b5004e84122305d8c313d52",
       "size": 4416,
       "contentType": "image/png",
@@ -4175,7 +4175,7 @@
     {
       "fileName": "layers_79.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_79.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_79.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_79.png",
       "sha256": "75795fa13b38cd8d3543b21fa9428b829877bda9d46b8b7215a72d1f0b0bbc9d",
       "size": 3729,
       "contentType": "image/png",
@@ -4185,7 +4185,7 @@
     {
       "fileName": "layers_8.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_8.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_8.png",
       "sha256": "580d3141b52f9ee5bf557d8966fd05fdfacc7dc243b80962481bdb2beb283175",
       "size": 3295,
       "contentType": "image/png",
@@ -4195,7 +4195,7 @@
     {
       "fileName": "layers_80.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_80.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_80.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_80.png",
       "sha256": "34ff392c7687a27ef56aa69d8047971849e54dece9321dab8870539823049120",
       "size": 4992,
       "contentType": "image/png",
@@ -4205,7 +4205,7 @@
     {
       "fileName": "layers_81.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_81.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_81.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_81.png",
       "sha256": "f5a8a676416ec3cc70830ee63bc9ff952295c11f1e0df4d0f1225cb25349f4ba",
       "size": 4552,
       "contentType": "image/png",
@@ -4215,7 +4215,7 @@
     {
       "fileName": "layers_82.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_82.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_82.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_82.png",
       "sha256": "d8acd8722558e9989bcd9d75567bab71bf0b1d04917b201cd2c6a62dceead27a",
       "size": 3450,
       "contentType": "image/png",
@@ -4225,7 +4225,7 @@
     {
       "fileName": "layers_83.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_83.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_83.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_83.png",
       "sha256": "95d83d05186b9f2ceba49609f794b4e662ce9a05390c1217e2f6d8a07c645dc3",
       "size": 5008,
       "contentType": "image/png",
@@ -4235,7 +4235,7 @@
     {
       "fileName": "layers_84.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_84.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_84.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_84.png",
       "sha256": "daf442c86c1dc5de733ada781350127c6850aa40c4653b567778a625afa6c155",
       "size": 3898,
       "contentType": "image/png",
@@ -4245,7 +4245,7 @@
     {
       "fileName": "layers_85.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_85.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_85.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_85.png",
       "sha256": "61bf622875f17f08b08a54b211556eebd71798cf976ed23aef2bbadce9f45f5c",
       "size": 3458,
       "contentType": "image/png",
@@ -4255,7 +4255,7 @@
     {
       "fileName": "layers_86.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_86.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_86.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_86.png",
       "sha256": "eaba887ec026c41f067891dcc73374b9abb2a8c3da00ecb34038cce9d931b242",
       "size": 3849,
       "contentType": "image/png",
@@ -4265,7 +4265,7 @@
     {
       "fileName": "layers_87.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_87.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_87.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_87.png",
       "sha256": "9c1c15ecabf31b8ab909ae34b08dda25b56f04402772d7d5d1f04af53ce9fe3e",
       "size": 3309,
       "contentType": "image/png",
@@ -4275,7 +4275,7 @@
     {
       "fileName": "layers_88.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_88.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_88.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_88.png",
       "sha256": "d1d5b852c1ec09f279ab70d56185de618fa77f28a66ebea00e517339c9a890b7",
       "size": 3935,
       "contentType": "image/png",
@@ -4285,7 +4285,7 @@
     {
       "fileName": "layers_89.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_89.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_89.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_89.png",
       "sha256": "3619c634a0377c58bd98d703f243e9517fe0cd0b4f61b8fbcebad9294ea816c3",
       "size": 4192,
       "contentType": "image/png",
@@ -4295,7 +4295,7 @@
     {
       "fileName": "layers_9.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_9.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_9.png",
       "sha256": "88b22649a7becff8b6ea35f73b2ad79a1dc550e83163c7d362e785b7d9f48074",
       "size": 3331,
       "contentType": "image/png",
@@ -4305,7 +4305,7 @@
     {
       "fileName": "layers_90.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_90.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_90.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_90.png",
       "sha256": "6e8dc1ee38ac488f1ca8efec7cc64e0a5412b539b99bcf9a7e73d266ba21c88a",
       "size": 3330,
       "contentType": "image/png",
@@ -4315,7 +4315,7 @@
     {
       "fileName": "layers_91.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_91.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_91.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_91.png",
       "sha256": "a126dad207b826e7a7d73eb1d1f141d0e29418a825a214f31cea0cc220343539",
       "size": 3342,
       "contentType": "image/png",
@@ -4325,7 +4325,7 @@
     {
       "fileName": "layers_92.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_92.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_92.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_92.png",
       "sha256": "e38a88e92c3c81532c7924d71f7d7c30602bd5d7d869c2ac85bed8f7a5380008",
       "size": 4814,
       "contentType": "image/png",
@@ -4335,7 +4335,7 @@
     {
       "fileName": "layers_93.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_93.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_93.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_93.png",
       "sha256": "62f1cfa7db5bbbebddba7b84f13b99ebc30db25864e100b6704c8c56785be4fe",
       "size": 3747,
       "contentType": "image/png",
@@ -4345,7 +4345,7 @@
     {
       "fileName": "layers_94.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_94.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_94.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_94.png",
       "sha256": "e3e3242d45e14e1852eca65cb7bca8a8b00f289ec6f6242895b898e9d63f908b",
       "size": 4820,
       "contentType": "image/png",
@@ -4355,7 +4355,7 @@
     {
       "fileName": "layers_95.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_95.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_95.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_95.png",
       "sha256": "ea001f4ce6f7ad579ca342357735f208b983f7d36f77367374ec89403569bd3f",
       "size": 3552,
       "contentType": "image/png",
@@ -4365,7 +4365,7 @@
     {
       "fileName": "layers_96.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_96.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_96.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_96.png",
       "sha256": "e93e8feb25abdea91ce0424fd7ff35d6c955f5e2d6e2bf66f0731e9e3e1f27ef",
       "size": 4461,
       "contentType": "image/png",
@@ -4375,7 +4375,7 @@
     {
       "fileName": "layers_97.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_97.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_97.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_97.png",
       "sha256": "d432061bf43d1aa32b18125a82f12174830b59b5fa70dead58a58514952d1ecb",
       "size": 3581,
       "contentType": "image/png",
@@ -4385,7 +4385,7 @@
     {
       "fileName": "layers_98.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_98.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_98.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_98.png",
       "sha256": "fa561624cece903125a0131c7a85861e6ad9babcc1ece6507dcd24300412b4ae",
       "size": 5968,
       "contentType": "image/png",
@@ -4395,7 +4395,7 @@
     {
       "fileName": "layers_99.png",
       "path": "packs/pixelboy-parallax-backgrounds/sprites/layers_99.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/9cd79ad70161d816c6632532edf1f6f82a004e70/packs/pixelboy-parallax-backgrounds/sprites/layers_99.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/61204c972b02beaa10273e05cef4d215f80b0ca1/packs/pixelboy-parallax-backgrounds/sprites/layers_99.png",
       "sha256": "c6a472a6368ffc46617e1529f9ab3e51cf369ab64cbd6e635d90e438ddcf2fae",
       "size": 5292,
       "contentType": "image/png",
