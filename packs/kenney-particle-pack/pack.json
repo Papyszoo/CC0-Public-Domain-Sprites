@@ -1,0 +1,16 @@
+{
+  "name": "Particle Pack",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Over 80 particle sprites, smoke, fire, magic stars, flares, sparks, and burst VFX by Kenney (kenney.nl). CC0 1.0 Universal public domain.",
+  "generation": {
+    "category": "Effects",
+    "subcategory": "Particles"
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/particle-pack",
+    "image": "https://kenney.nl/media/pages/assets/particle-pack/d50c7fc9b6-1677578655/preview.png"
+  }
+}

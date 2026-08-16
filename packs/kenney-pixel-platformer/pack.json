@@ -1,0 +1,15 @@
+{
+  "name": "Pixel Platformer",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Cute pixel-art platformer sprites: characters, enemies, terrain tiles, foliage, keys, coins, and collectibles by Kenney (kenney.nl). CC0 1.0 Universal public domain.",
+  "generation": {
+    "category": "Characters"
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/pixel-platformer",
+    "image": "https://kenney.nl/media/pages/assets/pixel-platformer/9354b2aa6b-1696667871/preview.png"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Input Prompts",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Controller, keyboard, and mouse button prompts across platforms (Xbox, PlayStation, Nintendo Switch, Keyboard/Mouse) by Kenney (kenney.nl). CC0 1.0 Universal public domain.",
+  "generation": {
+    "category": "UI",
+    "subcategory": "Input Prompts"
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/input-prompts",
+    "image": "https://kenney.nl/media/pages/assets/input-prompts/521ca9b941-1744026983/preview-xbox-series.png"
+  }
+}

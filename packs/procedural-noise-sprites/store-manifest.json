@@ -1,0 +1,506 @@
+{
+  "source": "https://github.com/Papyszoo/CC0-Public-Domain-Sprites",
+  "license": "CC0",
+  "name": "Procedural Noise Textures & Overlays",
+  "creator": "Modelibr (Public Domain)",
+  "website": "https://modelibr.com",
+  "description": "Mathematical CC0 procedural noise sprites and textures: Perlin, Simplex, Voronoi/Cellular, FBM, Value noise, and Grain. Ideal for shaders, alpha masks, particle effects, and VFX overlays.",
+  "folder": "packs/procedural-noise-sprites",
+  "pinnedSha": null,
+  "itemCount": 16,
+  "items": [
+    {
+      "name": "Caustic Light Noise",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Noise & Overlays\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/procedural-noise-sprites/sprites/caustic-light-noise.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Fbm Domain Warped",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Noise & Overlays\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/procedural-noise-sprites/sprites/fbm-domain-warped.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Fbm Noise Clouds",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Noise & Overlays\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/procedural-noise-sprites/sprites/fbm-noise-clouds.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Fbm Noise Detailed",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Noise & Overlays\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/procedural-noise-sprites/sprites/fbm-noise-detailed.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Fbm Noise Soft",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Noise & Overlays\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/procedural-noise-sprites/sprites/fbm-noise-soft.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Perlin Noise Billowy",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Noise & Overlays\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/procedural-noise-sprites/sprites/perlin-noise-billowy.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Perlin Noise High Frequency",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Noise & Overlays\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/procedural-noise-sprites/sprites/perlin-noise-high-frequency.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Perlin Noise Low Frequency",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Noise & Overlays\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/procedural-noise-sprites/sprites/perlin-noise-low-frequency.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Perlin Noise Mid Frequency",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Noise & Overlays\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/procedural-noise-sprites/sprites/perlin-noise-mid-frequency.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Perlin Noise Turbulent",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Noise & Overlays\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/procedural-noise-sprites/sprites/perlin-noise-turbulent.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Plasma Wave Noise",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Noise & Overlays\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/procedural-noise-sprites/sprites/plasma-wave-noise.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Value Noise Smooth",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Noise & Overlays\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/procedural-noise-sprites/sprites/value-noise-smooth.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Voronoi Cellular F1",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Noise & Overlays\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/procedural-noise-sprites/sprites/voronoi-cellular-f1.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Voronoi Cracked Edges",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Noise & Overlays\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/procedural-noise-sprites/sprites/voronoi-cracked-edges.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Voronoi Crystal Cells",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Noise & Overlays\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/procedural-noise-sprites/sprites/voronoi-crystal-cells.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "White Noise Grain",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Noise & Overlays\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/procedural-noise-sprites/sprites/white-noise-grain.png",
+          "role": "Image"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "fileName": "caustic-light-noise.png",
+      "path": "packs/procedural-noise-sprites/sprites/caustic-light-noise.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/caustic-light-noise.png",
+      "sha256": "22a298fe9a39ae4e0aec372810dda4c2385fe5d135364a121967d7d92ddd52d9",
+      "size": 48169,
+      "role": "Image"
+    },
+    {
+      "fileName": "fbm-domain-warped.png",
+      "path": "packs/procedural-noise-sprites/sprites/fbm-domain-warped.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/fbm-domain-warped.png",
+      "sha256": "afc4a8573d12c82d78b67cc7eb1a9c4d1def1f8d816fc7fd47764df8b1f29a54",
+      "size": 59392,
+      "role": "Image"
+    },
+    {
+      "fileName": "fbm-noise-clouds.png",
+      "path": "packs/procedural-noise-sprites/sprites/fbm-noise-clouds.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/fbm-noise-clouds.png",
+      "sha256": "c0a14ef41f861c2c456d8bb38e89e4b35661c197e8855155e9668c78ef0d48d0",
+      "size": 54625,
+      "role": "Image"
+    },
+    {
+      "fileName": "fbm-noise-detailed.png",
+      "path": "packs/procedural-noise-sprites/sprites/fbm-noise-detailed.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/fbm-noise-detailed.png",
+      "sha256": "ee82cb1b15135bf01150b2ab94ac4199ba9131b68424f677e7a0d955c544d957",
+      "size": 49927,
+      "role": "Image"
+    },
+    {
+      "fileName": "fbm-noise-soft.png",
+      "path": "packs/procedural-noise-sprites/sprites/fbm-noise-soft.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/fbm-noise-soft.png",
+      "sha256": "ed82a7d72d2d1f55eaff0dbd6e0284b3dafbcb2e8c259bc91b53754173bd602b",
+      "size": 40843,
+      "role": "Image"
+    },
+    {
+      "fileName": "perlin-noise-billowy.png",
+      "path": "packs/procedural-noise-sprites/sprites/perlin-noise-billowy.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/perlin-noise-billowy.png",
+      "sha256": "47d65233579f38a82e2a90bac1d64183fa285e48af72bdf70e9ffe8134723a87",
+      "size": 49397,
+      "role": "Image"
+    },
+    {
+      "fileName": "perlin-noise-high-frequency.png",
+      "path": "packs/procedural-noise-sprites/sprites/perlin-noise-high-frequency.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/perlin-noise-high-frequency.png",
+      "sha256": "bc9d227ff0145bd6af484dd45c1a6d647fb01c9017705189c42ddaeca8c6b4ab",
+      "size": 49449,
+      "role": "Image"
+    },
+    {
+      "fileName": "perlin-noise-low-frequency.png",
+      "path": "packs/procedural-noise-sprites/sprites/perlin-noise-low-frequency.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/perlin-noise-low-frequency.png",
+      "sha256": "7cc6c8bf308038c2fe1fc74c07a7ec163349c8639c9a3281ce78aa9c1495d822",
+      "size": 25950,
+      "role": "Image"
+    },
+    {
+      "fileName": "perlin-noise-mid-frequency.png",
+      "path": "packs/procedural-noise-sprites/sprites/perlin-noise-mid-frequency.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/perlin-noise-mid-frequency.png",
+      "sha256": "2e666ac7b15e2ae8f7adc463a80fc08d6b2a28d1325f44fe84f0b0059ae11c7f",
+      "size": 43289,
+      "role": "Image"
+    },
+    {
+      "fileName": "perlin-noise-turbulent.png",
+      "path": "packs/procedural-noise-sprites/sprites/perlin-noise-turbulent.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/perlin-noise-turbulent.png",
+      "sha256": "dd533335a2343ae9eb3316afdfa67d045daad05218e834dff8d6cff0eb4913a9",
+      "size": 49420,
+      "role": "Image"
+    },
+    {
+      "fileName": "plasma-wave-noise.png",
+      "path": "packs/procedural-noise-sprites/sprites/plasma-wave-noise.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/plasma-wave-noise.png",
+      "sha256": "c53021c6e2804d75d11ff1974ddb2cf16b455189da4125a40394fc822168cf6a",
+      "size": 25967,
+      "role": "Image"
+    },
+    {
+      "fileName": "value-noise-smooth.png",
+      "path": "packs/procedural-noise-sprites/sprites/value-noise-smooth.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/value-noise-smooth.png",
+      "sha256": "a7dfaaba5d9c28349194240a637d26db68cf6c630ff728cac07f70e31cee782d",
+      "size": 36575,
+      "role": "Image"
+    },
+    {
+      "fileName": "voronoi-cellular-f1.png",
+      "path": "packs/procedural-noise-sprites/sprites/voronoi-cellular-f1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/voronoi-cellular-f1.png",
+      "sha256": "52bd059c81e796fa38f67c3a1c1236671d62d0e6a221707f2f5028e87c2a5b08",
+      "size": 32068,
+      "role": "Image"
+    },
+    {
+      "fileName": "voronoi-cracked-edges.png",
+      "path": "packs/procedural-noise-sprites/sprites/voronoi-cracked-edges.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/voronoi-cracked-edges.png",
+      "sha256": "5b625774c1be9d19739fbbac507211c6372300bd143d0736da5cd2aa848b1ebe",
+      "size": 48476,
+      "role": "Image"
+    },
+    {
+      "fileName": "voronoi-crystal-cells.png",
+      "path": "packs/procedural-noise-sprites/sprites/voronoi-crystal-cells.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/voronoi-crystal-cells.png",
+      "sha256": "f8635567da1ba7bb4f2c05972dfa2f5231cfe26f2110c7d3f73c768fc86ac056",
+      "size": 464,
+      "role": "Image"
+    },
+    {
+      "fileName": "white-noise-grain.png",
+      "path": "packs/procedural-noise-sprites/sprites/white-noise-grain.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/white-noise-grain.png",
+      "sha256": "93a4eb4a3ba468874d1c404f32730dceaf2067739122ddf2f31d8284aecf18c3",
+      "size": 65880,
+      "role": "Image"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "cover.png",
+      "path": "packs/procedural-noise-sprites/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/cover.png",
+      "sha256": "41f8dd63a5c8b09fffe30a0a5f895fbcab4b831a2b7131e651ed861502c95053",
+      "size": 216253,
+      "contentType": "image/png",
+      "type": "Thumbnail"
+    },
+    {
+      "fileName": "caustic-light-noise.png",
+      "path": "packs/procedural-noise-sprites/sprites/caustic-light-noise.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/caustic-light-noise.png",
+      "sha256": "22a298fe9a39ae4e0aec372810dda4c2385fe5d135364a121967d7d92ddd52d9",
+      "size": 48169,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Caustic Light Noise"
+    },
+    {
+      "fileName": "fbm-domain-warped.png",
+      "path": "packs/procedural-noise-sprites/sprites/fbm-domain-warped.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/fbm-domain-warped.png",
+      "sha256": "afc4a8573d12c82d78b67cc7eb1a9c4d1def1f8d816fc7fd47764df8b1f29a54",
+      "size": 59392,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fbm Domain Warped"
+    },
+    {
+      "fileName": "fbm-noise-clouds.png",
+      "path": "packs/procedural-noise-sprites/sprites/fbm-noise-clouds.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/fbm-noise-clouds.png",
+      "sha256": "c0a14ef41f861c2c456d8bb38e89e4b35661c197e8855155e9668c78ef0d48d0",
+      "size": 54625,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fbm Noise Clouds"
+    },
+    {
+      "fileName": "fbm-noise-detailed.png",
+      "path": "packs/procedural-noise-sprites/sprites/fbm-noise-detailed.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/fbm-noise-detailed.png",
+      "sha256": "ee82cb1b15135bf01150b2ab94ac4199ba9131b68424f677e7a0d955c544d957",
+      "size": 49927,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fbm Noise Detailed"
+    },
+    {
+      "fileName": "fbm-noise-soft.png",
+      "path": "packs/procedural-noise-sprites/sprites/fbm-noise-soft.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/fbm-noise-soft.png",
+      "sha256": "ed82a7d72d2d1f55eaff0dbd6e0284b3dafbcb2e8c259bc91b53754173bd602b",
+      "size": 40843,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fbm Noise Soft"
+    },
+    {
+      "fileName": "perlin-noise-billowy.png",
+      "path": "packs/procedural-noise-sprites/sprites/perlin-noise-billowy.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/perlin-noise-billowy.png",
+      "sha256": "47d65233579f38a82e2a90bac1d64183fa285e48af72bdf70e9ffe8134723a87",
+      "size": 49397,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Perlin Noise Billowy"
+    },
+    {
+      "fileName": "perlin-noise-high-frequency.png",
+      "path": "packs/procedural-noise-sprites/sprites/perlin-noise-high-frequency.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/perlin-noise-high-frequency.png",
+      "sha256": "bc9d227ff0145bd6af484dd45c1a6d647fb01c9017705189c42ddaeca8c6b4ab",
+      "size": 49449,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Perlin Noise High Frequency"
+    },
+    {
+      "fileName": "perlin-noise-low-frequency.png",
+      "path": "packs/procedural-noise-sprites/sprites/perlin-noise-low-frequency.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/perlin-noise-low-frequency.png",
+      "sha256": "7cc6c8bf308038c2fe1fc74c07a7ec163349c8639c9a3281ce78aa9c1495d822",
+      "size": 25950,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Perlin Noise Low Frequency"
+    },
+    {
+      "fileName": "perlin-noise-mid-frequency.png",
+      "path": "packs/procedural-noise-sprites/sprites/perlin-noise-mid-frequency.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/perlin-noise-mid-frequency.png",
+      "sha256": "2e666ac7b15e2ae8f7adc463a80fc08d6b2a28d1325f44fe84f0b0059ae11c7f",
+      "size": 43289,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Perlin Noise Mid Frequency"
+    },
+    {
+      "fileName": "perlin-noise-turbulent.png",
+      "path": "packs/procedural-noise-sprites/sprites/perlin-noise-turbulent.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/perlin-noise-turbulent.png",
+      "sha256": "dd533335a2343ae9eb3316afdfa67d045daad05218e834dff8d6cff0eb4913a9",
+      "size": 49420,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Perlin Noise Turbulent"
+    },
+    {
+      "fileName": "plasma-wave-noise.png",
+      "path": "packs/procedural-noise-sprites/sprites/plasma-wave-noise.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/plasma-wave-noise.png",
+      "sha256": "c53021c6e2804d75d11ff1974ddb2cf16b455189da4125a40394fc822168cf6a",
+      "size": 25967,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Plasma Wave Noise"
+    },
+    {
+      "fileName": "value-noise-smooth.png",
+      "path": "packs/procedural-noise-sprites/sprites/value-noise-smooth.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/value-noise-smooth.png",
+      "sha256": "a7dfaaba5d9c28349194240a637d26db68cf6c630ff728cac07f70e31cee782d",
+      "size": 36575,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Value Noise Smooth"
+    },
+    {
+      "fileName": "voronoi-cellular-f1.png",
+      "path": "packs/procedural-noise-sprites/sprites/voronoi-cellular-f1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/voronoi-cellular-f1.png",
+      "sha256": "52bd059c81e796fa38f67c3a1c1236671d62d0e6a221707f2f5028e87c2a5b08",
+      "size": 32068,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Voronoi Cellular F1"
+    },
+    {
+      "fileName": "voronoi-cracked-edges.png",
+      "path": "packs/procedural-noise-sprites/sprites/voronoi-cracked-edges.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/voronoi-cracked-edges.png",
+      "sha256": "5b625774c1be9d19739fbbac507211c6372300bd143d0736da5cd2aa848b1ebe",
+      "size": 48476,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Voronoi Cracked Edges"
+    },
+    {
+      "fileName": "voronoi-crystal-cells.png",
+      "path": "packs/procedural-noise-sprites/sprites/voronoi-crystal-cells.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/voronoi-crystal-cells.png",
+      "sha256": "f8635567da1ba7bb4f2c05972dfa2f5231cfe26f2110c7d3f73c768fc86ac056",
+      "size": 464,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Voronoi Crystal Cells"
+    },
+    {
+      "fileName": "white-noise-grain.png",
+      "path": "packs/procedural-noise-sprites/sprites/white-noise-grain.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/main/packs/procedural-noise-sprites/sprites/white-noise-grain.png",
+      "sha256": "93a4eb4a3ba468874d1c404f32730dceaf2067739122ddf2f31d8284aecf18c3",
+      "size": 65880,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "White Noise Grain"
+    }
+  ]
+}

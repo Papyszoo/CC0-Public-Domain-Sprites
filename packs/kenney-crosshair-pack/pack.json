@@ -1,0 +1,16 @@
+{
+  "name": "Crosshair Pack",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Over 100 crosshairs, reticles, and targeting aiming cursors by Kenney (kenney.nl). CC0 1.0 Universal public domain.",
+  "generation": {
+    "category": "UI",
+    "subcategory": "Cursors & Crosshairs"
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/crosshair-pack",
+    "image": "https://kenney.nl/media/pages/assets/crosshair-pack/6aac591d3a-1677697135/preview.png"
+  }
+}

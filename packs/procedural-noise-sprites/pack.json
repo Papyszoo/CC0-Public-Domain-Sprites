@@ -1,0 +1,11 @@
+{
+  "name": "Procedural Noise Textures & Overlays",
+  "creator": "Modelibr (Public Domain)",
+  "website": "https://modelibr.com",
+  "license": "CC0",
+  "description": "Mathematical CC0 procedural noise sprites and textures: Perlin, Simplex, Voronoi/Cellular, FBM, Value noise, and Grain. Ideal for shaders, alpha masks, particle effects, and VFX overlays.",
+  "generation": {
+    "category": "Effects",
+    "subcategory": "Noise & Overlays"
+  }
+}
