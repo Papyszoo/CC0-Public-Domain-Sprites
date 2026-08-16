@@ -5,7 +5,14 @@
   "license": "CC0",
   "description": "Cute pixel-art platformer sprites: characters, enemies, terrain tiles, foliage, keys, coins, and collectibles by Kenney (kenney.nl). CC0 1.0 Universal public domain.",
   "generation": {
-    "category": "Characters"
+    "category": "Tilesets & Environments",
+    "allowed_categories": [
+      "Tilesets & Environments",
+      "Characters",
+      "Creatures",
+      "Backgrounds",
+      "Items & Icons"
+    ]
   },
   "cover": {
     "origin": "original",

@@ -6,7 +6,10 @@
   "description": "Controller, keyboard, and mouse button prompts across platforms (Xbox, PlayStation, Nintendo Switch, Keyboard/Mouse) by Kenney (kenney.nl). CC0 1.0 Universal public domain.",
   "generation": {
     "category": "UI",
-    "subcategory": "Input Prompts"
+    "subcategory": "Input Prompts",
+    "allowed_categories": [
+      "UI"
+    ]
   },
   "cover": {
     "origin": "original",

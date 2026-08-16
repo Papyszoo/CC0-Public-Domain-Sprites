@@ -7,7 +7,7 @@
 //   node scripts/fetch-kenney-pack.mjs <pack-slug>
 
 import { execSync } from 'node:child_process';
-import { existsSync, mkdirSync, readFileSync, writeFileSync, rmSync, readdirSync, statSync, copyFileSync } from 'node:fs';
+import { existsSync, mkdirSync, readFileSync, writeFileSync, rmSync, readdirSync, copyFileSync } from 'node:fs';
 import path from 'node:path';
 
 const REPO = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
@@ -22,7 +22,8 @@ const KENNEY_PACKS = [
     description: 'Over 100 crosshairs, reticles, and targeting aiming cursors by Kenney (kenney.nl). CC0 1.0 Universal public domain.',
     category: 'UI',
     subcategory: 'Cursors & Crosshairs',
-    preferSubdir: 'PNG/Dark', // clean high-contrast raster sprites
+    allowedCategories: ['UI'],
+    preferSubdir: 'PNG/Dark',
   },
   {
     slug: 'kenney-particle-pack',
@@ -31,6 +32,7 @@ const KENNEY_PACKS = [
     description: 'Over 80 particle sprites, smoke, fire, magic stars, flares, sparks, and burst VFX by Kenney (kenney.nl). CC0 1.0 Universal public domain.',
     category: 'Effects',
     subcategory: 'Particles',
+    allowedCategories: ['Effects'],
     preferSubdir: 'PNG (Transparent)',
   },
   {
@@ -39,7 +41,8 @@ const KENNEY_PACKS = [
     pageUrl: 'https://kenney.nl/assets/game-icons',
     description: '500+ game and UI icons: controls, audio, media, inventory, tools, buttons, and status indicators by Kenney (kenney.nl). CC0 1.0 Universal public domain.',
     category: 'Items & Icons',
-    preferSubdir: 'PNG/White/2x', // high-res crisp icons
+    allowedCategories: ['Items & Icons', 'UI'],
+    preferSubdir: 'PNG/White/2x',
   },
   {
     slug: 'kenney-ui-pack',
@@ -47,6 +50,7 @@ const KENNEY_PACKS = [
     pageUrl: 'https://kenney.nl/assets/ui-pack',
     description: 'Classic UI elements: buttons, panels, sliders, checkboxes, progress bars, and dialogue windows by Kenney (kenney.nl). CC0 1.0 Universal public domain.',
     category: 'UI',
+    allowedCategories: ['UI'],
     preferSubdir: 'PNG',
   },
   {
@@ -56,14 +60,17 @@ const KENNEY_PACKS = [
     description: 'Controller, keyboard, and mouse button prompts across platforms (Xbox, PlayStation, Nintendo Switch, Keyboard/Mouse) by Kenney (kenney.nl). CC0 1.0 Universal public domain.',
     category: 'UI',
     subcategory: 'Input Prompts',
+    allowedCategories: ['UI'],
     preferSubdir: 'Keyboard & Mouse/Default',
   },
   {
-    slug: 'kenney-1-bit-pack',
-    name: '1-Bit Pack',
-    pageUrl: 'https://kenney.nl/assets/1-bit-pack',
-    description: 'Monochrome retro 1-bit pixel art roguelike sprites: characters, monsters, dungeon tiles, weapons, and items by Kenney (kenney.nl). CC0 1.0 Universal public domain.',
-    category: 'Characters',
+    slug: 'kenney-tiny-dungeon',
+    name: 'Tiny Dungeon',
+    pageUrl: 'https://kenney.nl/assets/tiny-dungeon',
+    description: '130+ 16x16 pixel-art dungeon sprites: stone walls, floors, doors, chests, potions, skeletons, heroes, and props by Kenney (kenney.nl). CC0 1.0 Universal public domain.',
+    category: 'Tilesets & Environments',
+    subcategory: 'Dungeon & Ruins',
+    allowedCategories: ['Tilesets & Environments', 'Characters', 'Creatures', 'Items & Icons'],
     preferSubdir: 'Tiles',
   },
   {
@@ -71,7 +78,8 @@ const KENNEY_PACKS = [
     name: 'Pixel Platformer',
     pageUrl: 'https://kenney.nl/assets/pixel-platformer',
     description: 'Cute pixel-art platformer sprites: characters, enemies, terrain tiles, foliage, keys, coins, and collectibles by Kenney (kenney.nl). CC0 1.0 Universal public domain.',
-    category: 'Characters',
+    category: 'Tilesets & Environments',
+    allowedCategories: ['Tilesets & Environments', 'Characters', 'Creatures', 'Backgrounds', 'Items & Icons'],
     preferSubdir: 'Tiles',
   },
 ];
@@ -191,6 +199,7 @@ async function processPack(def) {
     generation: {
       category: def.category,
       ...(def.subcategory ? { subcategory: def.subcategory } : {}),
+      ...(def.allowedCategories ? { allowed_categories: def.allowedCategories } : {}),
     },
     cover: {
       origin: 'original',

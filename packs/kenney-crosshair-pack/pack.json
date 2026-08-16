@@ -6,7 +6,10 @@
   "description": "Over 100 crosshairs, reticles, and targeting aiming cursors by Kenney (kenney.nl). CC0 1.0 Universal public domain.",
   "generation": {
     "category": "UI",
-    "subcategory": "Cursors & Crosshairs"
+    "subcategory": "Cursors & Crosshairs",
+    "allowed_categories": [
+      "UI"
+    ]
   },
   "cover": {
     "origin": "original",

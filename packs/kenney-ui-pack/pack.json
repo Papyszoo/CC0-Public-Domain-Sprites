@@ -5,7 +5,10 @@
   "license": "CC0",
   "description": "Classic UI elements: buttons, panels, sliders, checkboxes, progress bars, and dialogue windows by Kenney (kenney.nl). CC0 1.0 Universal public domain.",
   "generation": {
-    "category": "UI"
+    "category": "UI",
+    "allowed_categories": [
+      "UI"
+    ]
   },
   "cover": {
     "origin": "original",

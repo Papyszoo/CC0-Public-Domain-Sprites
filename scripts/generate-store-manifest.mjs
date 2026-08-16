@@ -6,9 +6,6 @@
 //   node scripts/generate-store-manifest.mjs --pack <slug>   # Generate manifest for one pack
 //   node scripts/generate-store-manifest.mjs [--all]        # Generate manifests for all packs
 //   node scripts/generate-store-manifest.mjs --root         # Also write combined root store-manifest.json
-//
-// One pack = one directory under packs/, holding a pack.json (authored
-// metadata), an optional cover.png, sprites/ (images), and store-manifest.json.
 
 import { createHash } from 'node:crypto';
 import { execSync } from 'node:child_process';
@@ -40,58 +37,72 @@ const SPRITE_TAXONOMY = {
 
 const SPRITE_CATEGORIES = new Set(Object.keys(SPRITE_TAXONOMY));
 
-const KEYWORD_RULES = [
-  // UI Subcategories
-  [['button', 'btn', 'checkbox', 'toggle', 'slider', 'switch', 'radio'], 'UI', 'Buttons & Controls'],
-  [['panel', 'frame', 'window', 'dialog', 'box_ui', 'container_ui', 'popup', 'menu'], 'UI', 'Panels & Windows'],
-  [['healthbar', 'hp', 'mana', 'stamina', 'bar', 'gauge', 'progress', 'meter'], 'UI', 'Bars & Gauges'],
-  [['cursor', 'pointer', 'crosshair', 'reticle', 'target_icon'], 'UI', 'Cursors & Crosshairs'],
-  [['keyboard', 'gamepad', 'controller', 'button_prompt', 'key_prompt', 'input_icon'], 'UI', 'Input Prompts'],
-  [['font', 'number', 'digit', 'letter', 'label', 'text_icon'], 'UI', 'Fonts & Numbers'],
-  [['hud', 'minimap', 'compass', 'radar', 'inventory_ui', 'status_icon'], 'UI', 'HUD & Icons'],
+// Context-aware rules for ICON and UI packs
+const ICON_RULES = [
+  // UI - Input Prompts & Controls
+  [['buttona', 'buttonb', 'buttonx', 'buttony', 'buttonl', 'buttonr', 'button1', 'button2', 'button3', 'button4',
+    'arrowup', 'arrowdown', 'arrowleft', 'arrowright', 'dpad', 'stick', 'joystick', 'key', 'keyboard', 'gamepad', 'controller'], 'UI', 'Input Prompts'],
+  [['audioon', 'audiooff', 'musicon', 'musicoff', 'volume', 'sound', 'play', 'pause', 'stop', 'forward', 'backward', 'rewind',
+    'fastforward', 'repeat', 'shuffle', 'previous', 'next', 'checkmark', 'cross', 'plus', 'minus', 'equal', 'menu', 'bars',
+    'gear', 'wrench', 'settings', 'options', 'save', 'trash', 'edit', 'pencil', 'lock', 'unlock', 'home', 'power', 'exit',
+    'search', 'zoom', 'share', 'export', 'import', 'fullscreen', 'minimize', 'maximize', 'return', 'enter'], 'UI', 'Buttons & Controls'],
+  [['singleplayer', 'multiplayer', 'user', 'users', 'profile', 'male', 'female', 'avatar', 'face', 'head', 'trophy', 'medal',
+    'badge', 'star', 'heart', 'signal', 'wifi', 'battery', 'clock', 'time', 'hourglass', 'compass', 'minimap', 'radar', 'target',
+    'warning', 'info', 'question', 'help', 'exclamation', 'shopping', 'cart', 'basket', 'tag', 'price', 'flag'], 'UI', 'HUD & Icons'],
+  [['healthbar', 'bar', 'gauge', 'progress', 'meter', 'slider', 'loading'], 'UI', 'Bars & Gauges'],
 
-  // Effects Subcategories
-  [['noise', 'perlin', 'simplex', 'voronoi', 'grain', 'overlay', 'texture_fx'], 'Effects', 'Noise & Overlays'],
-  [['explosion', 'blast', 'bomb', 'detonation', 'smoke', 'dust', 'puff'], 'Effects', 'Explosions & Smoke'],
-  [['fire', 'flame', 'burn', 'torch', 'ember', 'inferno', 'combustion'], 'Effects', 'Fire & Flames'],
-  [['magic', 'spell', 'aura', 'portal', 'runes', 'enchant', 'beam', 'laser', 'shockwave', 'lightning'], 'Effects', 'Magic & Spells'],
-  [['hit', 'slash', 'impact', 'strike', 'claw_mark', 'cut', 'stab'], 'Effects', 'Hits & Slashes'],
+  // Items & Icons
+  [['sword', 'blade', 'axe', 'spear', 'dagger', 'bow', 'arrow', 'gun', 'pistol', 'rifle', 'bomb', 'mace', 'wand', 'staff', 'shield', 'weapon'], 'Items & Icons', 'Weapons'],
+  [['armor', 'helmet', 'boot', 'boots', 'glove', 'gloves', 'chestplate', 'robe', 'hat', 'cap', 'ring', 'necklace', 'amulet', 'cape', 'cloak'], 'Items & Icons', 'Armor & Clothing'],
+  [['potion', 'flask', 'bottle', 'apple', 'meat', 'bread', 'food', 'drink', 'fruit', 'fish_item', 'cheese', 'health', 'life'], 'Items & Icons', 'Consumables'],
+  [['coin', 'coins', 'gem', 'diamond', 'ruby', 'emerald', 'crystal', 'chest', 'gold', 'money', 'loot', 'treasure', 'bag', 'dollar'], 'Items & Icons', 'Loot & Coins'],
+  [['tool', 'pickaxe', 'hammer', 'crafting', 'anvil', 'scroll', 'book', 'tome', 'paper', 'map', 'resource', 'wood', 'stone_item', 'ore', 'ingot'], 'Items & Icons', 'Tools & Resources'],
+];
+
+// General Rules for full game asset packs (Tilesets, Characters, Effects, etc.)
+const GENERAL_RULES = [
+  // UI
+  [['button', 'btn', 'checkbox', 'toggle', 'slider', 'switch', 'radio', 'slide_'], 'UI', 'Buttons & Controls'],
+  [['panel', 'frame', 'window', 'dialog', 'popup'], 'UI', 'Panels & Windows'],
+  [['healthbar', 'hp_bar', 'mana_bar', 'stamina_bar', 'bar_horizontal', 'bar_vertical', 'gauge'], 'UI', 'Bars & Gauges'],
+  [['cursor', 'pointer', 'crosshair', 'reticle'], 'UI', 'Cursors & Crosshairs'],
+  [['key_prompt', 'button_prompt', 'input_prompt'], 'UI', 'Input Prompts'],
+  [['font', 'number', 'digit', 'letter'], 'UI', 'Fonts & Numbers'],
+  [['hud', 'minimap', 'status_icon'], 'UI', 'HUD & Icons'],
+
+  // Effects
+  [['noise', 'perlin', 'simplex', 'voronoi', 'grain', 'overlay', 'caustic'], 'Effects', 'Noise & Overlays'],
+  [['explosion', 'blast', 'smoke', 'dust', 'puff', 'detonation'], 'Effects', 'Explosions & Smoke'],
+  [['fire', 'flame', 'burn', 'torch', 'ember', 'inferno'], 'Effects', 'Fire & Flames'],
+  [['magic', 'spell', 'aura', 'portal', 'runes', 'enchant', 'beam', 'laser', 'shockwave', 'lightning', 'twirl'], 'Effects', 'Magic & Spells'],
+  [['hit', 'slash', 'impact', 'strike', 'scratch', 'claw_mark'], 'Effects', 'Hits & Slashes'],
   [['water', 'splash', 'bubble', 'wave', 'droplet', 'ripple', 'foam', 'liquid'], 'Effects', 'Water & Splashes'],
-  [['particle', 'spark', 'star', 'glow', 'glitter', 'sparkle', 'debris'], 'Effects', 'Particles'],
+  [['particle', 'spark', 'flare', 'glow', 'glitter', 'sparkle', 'debris', 'circle_'], 'Effects', 'Particles'],
 
-  // Items & Icons Subcategories
-  [['weapon', 'sword', 'blade', 'axe', 'shield', 'bow', 'arrow', 'gun', 'pistol', 'rifle', 'dagger', 'staff', 'wand', 'mace', 'spear'], 'Items & Icons', 'Weapons'],
-  [['armor', 'helmet', 'shield', 'boot', 'boots', 'glove', 'gloves', 'clothing', 'hat', 'cap', 'robe', 'ring', 'amulet', 'cloak', 'necklace'], 'Items & Icons', 'Armor & Clothing'],
-  [['potion', 'bottle', 'flask', 'elixir', 'food', 'apple', 'meat', 'bread', 'cheese', 'fruit', 'drink', 'consumable'], 'Items & Icons', 'Consumables'],
-  [['coin', 'gold', 'money', 'gem', 'crystal', 'diamond', 'ruby', 'chest', 'key', 'loot', 'treasure', 'bag'], 'Items & Icons', 'Loot & Coins'],
-  [['tool', 'pickaxe', 'hammer', 'axe_tool', 'crafting', 'anvil', 'resource', 'ore', 'wood_item', 'scroll', 'book', 'paper', 'map'], 'Items & Icons', 'Tools & Resources'],
+  // Characters & Creatures
+  [['hero', 'knight', 'warrior', 'wizard', 'mage', 'rogue', 'ninja', 'archer', 'paladin'], 'Characters', 'Heroes'],
+  [['npc', 'villager', 'shopkeeper', 'merchant', 'king', 'queen', 'guard', 'civilian'], 'Characters', 'NPCs'],
+  [['char_', 'character_', 'player_', 'human_'], 'Characters', 'Humanoids'],
+  [['monster', 'slime', 'bat', 'skeleton', 'goblin', 'orc', 'ghost', 'zombie', 'demon', 'golem', 'undead'], 'Creatures', 'Monsters'],
+  [['animal', 'dog', 'cat', 'bird', 'snake', 'wolf', 'rat', 'bear', 'horse', 'rabbit', 'fox'], 'Creatures', 'Animals'],
 
-  // Characters Subcategories
-  [['hero', 'knight', 'warrior', 'wizard', 'mage', 'rogue', 'ninja', 'archer', 'paladin', 'hunter'], 'Characters', 'Heroes'],
-  [['npc', 'villager', 'shopkeeper', 'merchant', 'king', 'queen', 'guard', 'civilian', 'innkeeper'], 'Characters', 'NPCs'],
-  [['anim', 'walk', 'run', 'idle', 'jump', 'attack', 'dead', 'hurt', 'sprite_sheet', 'spritesheet', 'motion'], 'Characters', 'Animations'],
-  [['portrait', 'avatar', 'face', 'head', 'icon_char', 'mugshot'], 'Characters', 'Portraits & Avatars'],
-  [['character', 'player', 'human', 'man', 'woman', 'boy', 'girl', 'person', 'body', 'base_mesh'], 'Characters', 'Humanoids'],
-
-  // Creatures Subcategories
-  [['monster', 'slime', 'bat', 'skeleton', 'goblin', 'orc', 'ghost', 'zombie', 'demon', 'golem', 'undead', 'vampire', 'mummy'], 'Creatures', 'Monsters'],
-  [['animal', 'dog', 'cat', 'bird', 'fish', 'snake', 'wolf', 'rat', 'bear', 'horse', 'rabbit', 'fox', 'cow', 'sheep', 'pig'], 'Creatures', 'Animals'],
-  [['boss', 'dragon', 'leviathan', 'hydra', 'titan', 'behemoth'], 'Creatures', 'Bosses'],
-  [['bug', 'spider', 'beetle', 'insect', 'ant', 'wasp', 'scorpion'], 'Creatures', 'Insects'],
-  [['alien', 'myth', 'phoenix', 'griffin', 'pegasus', 'unicorn', 'fairy'], 'Creatures', 'Mythological'],
-
-  // Tilesets & Environments Subcategories
-  [['terrain', 'platform', 'grass', 'dirt', 'sand', 'mud', 'snow', 'ice', 'rock', 'stone', 'cliff', 'water_tile', 'lava_tile'], 'Tilesets & Environments', 'Terrain & Platforms'],
+  // Tilesets & Environments
+  [['tile_', 'tilemap', 'tileset', 'terrain', 'platform', 'grass', 'dirt', 'sand', 'mud', 'snow', 'rock', 'stone', 'cliff'], 'Tilesets & Environments', 'Terrain & Platforms'],
   [['dungeon', 'cave', 'ruins', 'tomb', 'crypt', 'dungeon_wall'], 'Tilesets & Environments', 'Dungeon & Ruins'],
-  [['tree', 'bush', 'plant', 'foliage', 'flower', 'vine', 'mushroom', 'shrub', 'stump', 'flora'], 'Tilesets & Environments', 'Foliage & Props'],
-  [['architecture', 'building', 'house', 'castle', 'wall', 'floor', 'door', 'window', 'road', 'street', 'bridge', 'fence', 'brick_tile'], 'Tilesets & Environments', 'Architecture'],
-  [['autotile', 'rule_tile', '9patch'], 'Tilesets & Environments', 'Autotiles'],
+  [['tree', 'bush', 'plant', 'foliage', 'flower', 'vine', 'mushroom'], 'Tilesets & Environments', 'Foliage & Props'],
+  [['architecture', 'building', 'house', 'castle', 'wall', 'floor', 'door', 'bridge', 'fence'], 'Tilesets & Environments', 'Architecture'],
 
-  // Backgrounds Subcategories
-  [['parallax', 'layer1', 'layer2', 'layer3', 'layer4'], 'Backgrounds', 'Parallax'],
-  [['skybox', 'nightsky', 'stars', 'space_bg', 'galaxy', 'nebula', 'clouds_bg'], 'Backgrounds', 'Skyboxes'],
-  [['landscape', 'mountain_bg', 'horizon', 'vista', 'city_bg', 'forest_bg'], 'Backgrounds', 'Landscapes & Vistas'],
-  [['pattern', 'backdrop', 'seamless_bg', 'tileable_bg', 'wallpaper'], 'Backgrounds', 'Patterns & Backdrops'],
+  // Items & Icons
+  [['sword', 'blade', 'axe', 'shield', 'bow', 'weapon', 'dagger', 'spear'], 'Items & Icons', 'Weapons'],
+  [['armor', 'helmet', 'boot', 'boots', 'glove', 'clothing'], 'Items & Icons', 'Armor & Clothing'],
+  [['potion', 'flask', 'food', 'apple', 'meat', 'bread'], 'Items & Icons', 'Consumables'],
+  [['coin', 'gold', 'gem', 'crystal', 'diamond', 'ruby', 'chest', 'loot'], 'Items & Icons', 'Loot & Coins'],
+  [['tool', 'pickaxe', 'hammer', 'scroll', 'book', 'key_item', 'ore'], 'Items & Icons', 'Tools & Resources'],
+
+  // Backgrounds
+  [['parallax', 'layer_bg'], 'Backgrounds', 'Parallax'],
+  [['skybox', 'nightsky', 'stars', 'space_bg', 'clouds_bg'], 'Backgrounds', 'Skyboxes'],
+  [['landscape', 'mountain_bg', 'vista', 'city_bg', 'forest_bg', 'background'], 'Backgrounds', 'Landscapes & Vistas'],
 ];
 
 function getMimeType(filePath) {
@@ -110,15 +121,18 @@ function getMimeType(filePath) {
 
 function categorize(relPath, options = {}) {
   const normalized = relPath.toLowerCase().replace(/\\/g, '/');
+  const baseName = path.basename(relPath, path.extname(relPath)).toLowerCase();
+  const allowedCategories = options.allowed_categories ? new Set(options.allowed_categories) : null;
 
   // 1. Explicit regex rules from pack.json "generation.category_rules"
-  // Format: [ [pattern, category, subcategory?] ]
   if (Array.isArray(options.category_rules)) {
     for (const rule of options.category_rules) {
       const [pattern, category, subcategory] = rule;
       if (new RegExp(pattern, 'i').test(normalized) && SPRITE_CATEGORIES.has(category)) {
-        const validSub = subcategory && SPRITE_TAXONOMY[category]?.includes(subcategory) ? subcategory : undefined;
-        return { category, subcategory: validSub };
+        if (!allowedCategories || allowedCategories.has(category)) {
+          const validSub = subcategory && SPRITE_TAXONOMY[category]?.includes(subcategory) ? subcategory : undefined;
+          return { category, subcategory: validSub };
+        }
       }
     }
   }
@@ -126,33 +140,56 @@ function categorize(relPath, options = {}) {
   // 2. Directory segment mapping
   const segments = normalized.split('/').filter(Boolean);
   for (const seg of segments) {
-    if (seg === 'characters' || seg === 'character') return { category: 'Characters', subcategory: 'Humanoids' };
-    if (seg === 'creatures' || seg === 'creature' || seg === 'monsters' || seg === 'enemies') return { category: 'Creatures', subcategory: 'Monsters' };
-    if (seg === 'tilesets' || seg === 'tiles' || seg === 'environments' || seg === 'terrain') return { category: 'Tilesets & Environments', subcategory: 'Terrain & Platforms' };
-    if (seg === 'items' || seg === 'icons') return { category: 'Items & Icons', subcategory: 'Weapons' };
-    if (seg === 'weapons' || seg === 'equipment') return { category: 'Items & Icons', subcategory: 'Weapons' };
-    if (seg === 'ui' || seg === 'gui' || seg === 'interface') return { category: 'UI', subcategory: 'Buttons & Controls' };
-    if (seg === 'effects' || seg === 'fx' || seg === 'particles') return { category: 'Effects', subcategory: 'Particles' };
-    if (seg === 'backgrounds' || seg === 'background' || seg === 'parallax') return { category: 'Backgrounds', subcategory: 'Landscapes & Vistas' };
+    if ((seg === 'characters' || seg === 'character') && (!allowedCategories || allowedCategories.has('Characters'))) {
+      return { category: 'Characters', subcategory: 'Humanoids' };
+    }
+    if ((seg === 'creatures' || seg === 'monsters' || seg === 'enemies') && (!allowedCategories || allowedCategories.has('Creatures'))) {
+      return { category: 'Creatures', subcategory: 'Monsters' };
+    }
+    if ((seg === 'tilesets' || seg === 'tiles' || seg === 'environments' || seg === 'terrain') && (!allowedCategories || allowedCategories.has('Tilesets & Environments'))) {
+      return { category: 'Tilesets & Environments', subcategory: 'Terrain & Platforms' };
+    }
+    if ((seg === 'items' || seg === 'icons') && (!allowedCategories || allowedCategories.has('Items & Icons'))) {
+      return { category: 'Items & Icons', subcategory: 'Tools & Resources' };
+    }
+    if ((seg === 'ui' || seg === 'gui' || seg === 'interface') && (!allowedCategories || allowedCategories.has('UI'))) {
+      return { category: 'UI', subcategory: 'Buttons & Controls' };
+    }
+    if ((seg === 'effects' || seg === 'fx' || seg === 'particles') && (!allowedCategories || allowedCategories.has('Effects'))) {
+      return { category: 'Effects', subcategory: 'Particles' };
+    }
+    if ((seg === 'backgrounds' || seg === 'background' || seg === 'parallax') && (!allowedCategories || allowedCategories.has('Backgrounds'))) {
+      return { category: 'Backgrounds', subcategory: 'Landscapes & Vistas' };
+    }
   }
 
-  // 3. Keyword matching
-  const baseName = path.basename(relPath, path.extname(relPath)).toLowerCase();
-  const wordTokens = baseName.split(/[\s_\-]+/).filter(Boolean);
+  // 3. If pack is explicitly an ICON or UI pack, use specialized icon matching
+  const isIconOrUiPack = options.category === 'UI' || options.category === 'Items & Icons' ||
+                         (allowedCategories && (allowedCategories.has('UI') || allowedCategories.has('Items & Icons')) && !allowedCategories.has('Characters'));
 
-  for (const [keywords, category, subcategory] of KEYWORD_RULES) {
+  const rulesToUse = isIconOrUiPack ? ICON_RULES : GENERAL_RULES;
+
+  // Clean tokens from filename
+  const cleanStem = baseName.replace(/[^a-z0-9]/gi, ' ').toLowerCase();
+  const wordTokens = cleanStem.split(/\s+/).filter(Boolean);
+
+  for (const [keywords, category, subcategory] of rulesToUse) {
+    if (allowedCategories && !allowedCategories.has(category)) continue;
+
     for (const kw of keywords) {
-      if (wordTokens.includes(kw) || baseName.includes(kw)) {
+      const kwLower = kw.toLowerCase();
+      // Exact token match or prefix match for structured names (e.g. button_a, arrow_up, tile_0001)
+      if (wordTokens.includes(kwLower) || baseName === kwLower || baseName.startsWith(kwLower + '_') || baseName.startsWith(kwLower + '-')) {
         return { category, subcategory };
       }
     }
   }
 
-  // 4. Default category from options or Items & Icons fallback
+  // 4. Default fallback to pack's declared category
   if (options.category && SPRITE_CATEGORIES.has(options.category)) {
     const validSub = options.subcategory && SPRITE_TAXONOMY[options.category]?.includes(options.subcategory)
       ? options.subcategory
-      : undefined;
+      : (SPRITE_TAXONOMY[options.category]?.[0]);
     return { category: options.category, subcategory: validSub };
   }
 
@@ -366,8 +403,4 @@ if (writeRoot) {
     JSON.stringify({ source: `https://github.com/${OWNER_REPO}`, license: 'CC0', packs: allPacks }, null, 2) + '\n'
   );
   console.log(`\nwrote root store-manifest.json (${allPacks.length} pack(s))`);
-}
-
-if (packSlugs.length === 0) {
-  console.log('No packs found under packs/. Add a pack with pack.json to generate manifests.');
 }

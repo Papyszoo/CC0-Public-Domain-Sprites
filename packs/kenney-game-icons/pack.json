@@ -5,7 +5,11 @@
   "license": "CC0",
   "description": "500+ game and UI icons: controls, audio, media, inventory, tools, buttons, and status indicators by Kenney (kenney.nl). CC0 1.0 Universal public domain.",
   "generation": {
-    "category": "Items & Icons"
+    "category": "Items & Icons",
+    "allowed_categories": [
+      "Items & Icons",
+      "UI"
+    ]
   },
   "cover": {
     "origin": "original",
