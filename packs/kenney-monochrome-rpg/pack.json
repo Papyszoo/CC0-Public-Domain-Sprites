@@ -1,0 +1,22 @@
+{
+  "name": "Monochrome RPG",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "1-bit 16x16 pixel art RPG sprites: dungeon walls, heroes, monsters, items, chests, and world map tiles by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "Tilesets & Environments",
+    "subcategory": "Dungeon & Ruins",
+    "allowed_categories": [
+      "Tilesets & Environments",
+      "Characters",
+      "Creatures",
+      "Items & Icons"
+    ]
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/monochrome-rpg",
+    "image": "https://kenney.nl/media/pages/assets/monochrome-rpg/eec112fdaa-1674742616/sample.png"
+  }
+}

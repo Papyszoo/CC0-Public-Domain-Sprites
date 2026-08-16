@@ -1,0 +1,19 @@
+{
+  "name": "Planets",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "2D space planets, gas giants, cratered moons, suns, rings, and orbital bodies by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "Backgrounds",
+    "subcategory": "Landscapes & Vistas",
+    "allowed_categories": [
+      "Backgrounds"
+    ]
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/planets",
+    "image": "https://kenney.nl/media/pages/assets/planets/97e63fa6c0-1677495384/sample.png"
+  }
+}

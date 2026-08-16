@@ -1,0 +1,19 @@
+{
+  "name": "Minimap Pack",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Minimap and radar navigation icons: compass points, quest waypoints, player markers, skull flags, and area pins by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "UI",
+    "subcategory": "HUD & Icons",
+    "allowed_categories": [
+      "UI"
+    ]
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/minimap-pack",
+    "image": "https://kenney.nl/media/pages/assets/minimap-pack/a9ddfeb545-1730884731/sample.png"
+  }
+}

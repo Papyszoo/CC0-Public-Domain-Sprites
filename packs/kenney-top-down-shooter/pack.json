@@ -1,0 +1,22 @@
+{
+  "name": "Top-Down Shooter",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Top-down action sprites: soldiers, survivors, infected zombies, firearms, bullet impacts, and tactical tiles by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "Characters",
+    "subcategory": "Humanoids",
+    "allowed_categories": [
+      "Characters",
+      "Creatures",
+      "Items & Icons",
+      "Tilesets & Environments"
+    ]
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/top-down-shooter",
+    "image": "https://kenney.nl/media/pages/assets/top-down-shooter/7922719534-1677694680/sample.png"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Animal Pack Remastered",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "High quality vector 2D animals: pets, farm livestock, safari wildlife, birds, and aquatic creatures by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "Creatures",
+    "subcategory": "Animals & Wildlife",
+    "allowed_categories": [
+      "Creatures"
+    ]
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/animal-pack-remastered",
+    "image": "https://kenney.nl/media/pages/assets/animal-pack-remastered/e08024dab7-1677666930/preview.png"
+  }
+}

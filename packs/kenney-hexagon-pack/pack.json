@@ -1,0 +1,19 @@
+{
+  "name": "Hexagon Pack",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Hexagonal strategy terrain tiles: plains, water, mountains, forests, roads, and rivers by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "Tilesets & Environments",
+    "subcategory": "Terrain & Platforms",
+    "allowed_categories": [
+      "Tilesets & Environments"
+    ]
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/hexagon-pack",
+    "image": "https://kenney.nl/media/pages/assets/hexagon-pack/ba67de4094-1677662327/sample.png"
+  }
+}

@@ -82,6 +82,186 @@ const KENNEY_PACKS = [
     allowedCategories: ['Tilesets & Environments', 'Characters', 'Creatures', 'Backgrounds', 'Items & Icons'],
     preferSubdir: 'Tiles',
   },
+  {
+    slug: 'kenney-tiny-town',
+    name: 'Tiny Town',
+    pageUrl: 'https://kenney.nl/assets/tiny-town',
+    description: '16x16 pixel art top-down town sprites: modular buildings, roads, vehicles, trees, roofs, and urban props by Kenney (kenney.nl). CC0 1.0 Universal.',
+    category: 'Tilesets & Environments',
+    subcategory: 'Terrain & Platforms',
+    allowedCategories: ['Tilesets & Environments', 'Items & Icons'],
+    preferSubdir: 'Tiles',
+  },
+  {
+    slug: 'kenney-tiny-battle',
+    name: 'Tiny Battle',
+    pageUrl: 'https://kenney.nl/assets/tiny-battle',
+    description: '16x16 pixel art military strategy sprites: terrain, soldiers, tanks, bases, obstacles, and flags by Kenney (kenney.nl). CC0 1.0 Universal.',
+    category: 'Tilesets & Environments',
+    subcategory: 'Terrain & Platforms',
+    allowedCategories: ['Tilesets & Environments', 'Characters', 'Items & Icons'],
+    preferSubdir: 'Tiles',
+  },
+  {
+    slug: 'kenney-tiny-farm',
+    name: 'Tiny Farm',
+    pageUrl: 'https://kenney.nl/assets/tiny-farm',
+    description: '16x16 pixel art farm sprites: crops, soil plots, barns, animals, fences, tools, and farm foliage by Kenney (kenney.nl). CC0 1.0 Universal.',
+    category: 'Tilesets & Environments',
+    subcategory: 'Nature & Foliage',
+    allowedCategories: ['Tilesets & Environments', 'Creatures', 'Items & Icons'],
+    preferSubdir: 'Tiles',
+  },
+  {
+    slug: 'kenney-monochrome-rpg',
+    name: 'Monochrome RPG',
+    pageUrl: 'https://kenney.nl/assets/monochrome-rpg',
+    description: '1-bit 16x16 pixel art RPG sprites: dungeon walls, heroes, monsters, items, chests, and world map tiles by Kenney (kenney.nl). CC0 1.0 Universal.',
+    category: 'Tilesets & Environments',
+    subcategory: 'Dungeon & Ruins',
+    allowedCategories: ['Tilesets & Environments', 'Characters', 'Creatures', 'Items & Icons'],
+    preferSubdir: 'Tiles',
+  },
+  {
+    slug: 'kenney-hexagon-pack',
+    name: 'Hexagon Pack',
+    pageUrl: 'https://kenney.nl/assets/hexagon-pack',
+    description: 'Hexagonal strategy terrain tiles: plains, water, mountains, forests, roads, and rivers by Kenney (kenney.nl). CC0 1.0 Universal.',
+    category: 'Tilesets & Environments',
+    subcategory: 'Terrain & Platforms',
+    allowedCategories: ['Tilesets & Environments'],
+    preferSubdir: 'PNG',
+  },
+  {
+    slug: 'kenney-roguelike-characters',
+    name: 'Roguelike Characters',
+    pageUrl: 'https://kenney.nl/assets/roguelike-characters',
+    description: '16x16 pixel art characters and monsters: knights, wizards, rogues, orcs, skeletons, and beasts by Kenney (kenney.nl). CC0 1.0 Universal.',
+    category: 'Characters',
+    subcategory: 'Humanoids',
+    allowedCategories: ['Characters', 'Creatures'],
+    preferSubdir: 'PNG',
+  },
+  {
+    slug: 'kenney-animal-pack-remastered',
+    name: 'Animal Pack Remastered',
+    pageUrl: 'https://kenney.nl/assets/animal-pack-remastered',
+    description: 'High quality vector 2D animals: pets, farm livestock, safari wildlife, birds, and aquatic creatures by Kenney (kenney.nl). CC0 1.0 Universal.',
+    category: 'Creatures',
+    subcategory: 'Animals & Wildlife',
+    allowedCategories: ['Creatures'],
+    preferSubdir: 'PNG/Round',
+  },
+  {
+    slug: 'kenney-toon-characters',
+    name: 'Toon Characters',
+    pageUrl: 'https://kenney.nl/assets/toon-characters',
+    description: 'Modular cartoon characters: bodies, heads, hairstyles, expressions, and accessories by Kenney (kenney.nl). CC0 1.0 Universal.',
+    category: 'Characters',
+    subcategory: 'Humanoids',
+    allowedCategories: ['Characters'],
+    preferSubdir: 'PNG',
+  },
+  {
+    slug: 'kenney-monster-builder-pack',
+    name: 'Monster Builder Pack',
+    pageUrl: 'https://kenney.nl/assets/monster-builder-pack',
+    description: 'Modular monster parts: bodies, eyes, mouths, tentacles, horns, and appendages for custom creature generation by Kenney (kenney.nl). CC0 1.0 Universal.',
+    category: 'Creatures',
+    subcategory: 'Monsters & Beasts',
+    allowedCategories: ['Creatures'],
+    preferSubdir: 'PNG',
+  },
+  {
+    slug: 'kenney-top-down-shooter',
+    name: 'Top-Down Shooter',
+    pageUrl: 'https://kenney.nl/assets/top-down-shooter',
+    description: 'Top-down action sprites: soldiers, survivors, infected zombies, firearms, bullet impacts, and tactical tiles by Kenney (kenney.nl). CC0 1.0 Universal.',
+    category: 'Characters',
+    subcategory: 'Humanoids',
+    allowedCategories: ['Characters', 'Creatures', 'Items & Icons', 'Tilesets & Environments'],
+    preferSubdir: 'PNG',
+  },
+  {
+    slug: 'kenney-top-down-tanks-remastered',
+    name: 'Top-Down Tanks Remastered',
+    pageUrl: 'https://kenney.nl/assets/top-down-tanks-remastered',
+    description: 'Modular top-down tanks: tank hulls, turrets, treads, cannon barrels, shells, explosions, and barricades by Kenney (kenney.nl). CC0 1.0 Universal.',
+    category: 'Items & Icons',
+    subcategory: 'Weapons',
+    allowedCategories: ['Items & Icons', 'Effects', 'Tilesets & Environments'],
+    preferSubdir: 'PNG',
+  },
+  {
+    slug: 'kenney-pixel-shmup',
+    name: 'Pixel Shmup',
+    pageUrl: 'https://kenney.nl/assets/pixel-shmup',
+    description: 'Pixel art space shoot-em-up sprites: player starships, alien fighters, laser blasts, shields, powerups, and asteroids by Kenney (kenney.nl). CC0 1.0 Universal.',
+    category: 'Items & Icons',
+    subcategory: 'Weapons',
+    allowedCategories: ['Items & Icons', 'Effects'],
+    preferSubdir: 'Ships',
+  },
+  {
+    slug: 'kenney-planets',
+    name: 'Planets',
+    pageUrl: 'https://kenney.nl/assets/planets',
+    description: '2D space planets, gas giants, cratered moons, suns, rings, and orbital bodies by Kenney (kenney.nl). CC0 1.0 Universal.',
+    category: 'Backgrounds',
+    subcategory: 'Landscapes & Vistas',
+    allowedCategories: ['Backgrounds'],
+    preferSubdir: 'PNG/Default',
+  },
+  {
+    slug: 'kenney-emotes-pack',
+    name: 'Emotes Pack',
+    pageUrl: 'https://kenney.nl/assets/emotes-pack',
+    description: 'Over 100 emotion icons, speech bubbles, question and exclamation prompts, status badges, and interaction markers by Kenney (kenney.nl). CC0 1.0 Universal.',
+    category: 'UI',
+    subcategory: 'HUD & Icons',
+    allowedCategories: ['UI'],
+    preferSubdir: 'PNG/Vector/Style 1',
+  },
+  {
+    slug: 'kenney-light-masks',
+    name: 'Light Masks',
+    pageUrl: 'https://kenney.nl/assets/light-masks',
+    description: '2D dynamic lighting gradient textures: flashlights, spotlights, ambient radial glows, and directional cones by Kenney (kenney.nl). CC0 1.0 Universal.',
+    category: 'Effects',
+    subcategory: 'Noise & Overlays',
+    allowedCategories: ['Effects'],
+    preferSubdir: 'PNG',
+  },
+  {
+    slug: 'kenney-minimap-pack',
+    name: 'Minimap Pack',
+    pageUrl: 'https://kenney.nl/assets/minimap-pack',
+    description: 'Minimap and radar navigation icons: compass points, quest waypoints, player markers, skull flags, and area pins by Kenney (kenney.nl). CC0 1.0 Universal.',
+    category: 'UI',
+    subcategory: 'HUD & Icons',
+    allowedCategories: ['UI'],
+    preferSubdir: 'PNG/Default',
+  },
+  {
+    slug: 'kenney-fantasy-ui-borders',
+    name: 'Fantasy UI Borders',
+    pageUrl: 'https://kenney.nl/assets/fantasy-ui-borders',
+    description: 'Ornate fantasy UI borders: decorative stone and gold window frames, dialogue boxes, headers, corners, and dividers by Kenney (kenney.nl). CC0 1.0 Universal.',
+    category: 'UI',
+    subcategory: 'Buttons & Controls',
+    allowedCategories: ['UI'],
+    preferSubdir: 'PNG/Default',
+  },
+  {
+    slug: 'kenney-background-elements-remastered',
+    name: 'Background Elements Remastered',
+    pageUrl: 'https://kenney.nl/assets/background-elements-remastered',
+    description: 'Modular 2D parallax background layers: mountain ranges, hills, clouds, suns, moons, trees, and horizon vistas by Kenney (kenney.nl). CC0 1.0 Universal.',
+    category: 'Backgrounds',
+    subcategory: 'Landscapes & Vistas',
+    allowedCategories: ['Backgrounds'],
+    preferSubdir: 'PNG',
+  },
 ];
 
 async function fetchPageInfo(pageUrl) {
@@ -102,6 +282,33 @@ async function fetchPageInfo(pageUrl) {
   else if (ogMatch) coverUrl = ogMatch[1];
 
   return { zipUrl, coverUrl };
+}
+
+function findBestSpriteDir(extractDir, preferSubdir) {
+  if (preferSubdir && existsSync(path.join(extractDir, preferSubdir))) {
+    return path.join(extractDir, preferSubdir);
+  }
+  const candidates = [
+    'PNG (Transparent)',
+    'PNG/Transparent',
+    'PNG/Default',
+    'PNG/Retina',
+    'PNG/White/2x',
+    'PNG/Dark',
+    'PNG',
+    'Tiles',
+    'Sprites',
+    'Items',
+    'Characters',
+    'Ships',
+    'Retina',
+  ];
+  for (const c of candidates) {
+    if (existsSync(path.join(extractDir, c))) {
+      return path.join(extractDir, c);
+    }
+  }
+  return extractDir;
 }
 
 async function processPack(def) {
@@ -136,16 +343,7 @@ async function processPack(def) {
   mkdirSync(spritesDir, { recursive: true });
 
   // Locate sprites source directory in zip
-  let srcSpritesDir = null;
-  if (def.preferSubdir && existsSync(path.join(extractDir, def.preferSubdir))) {
-    srcSpritesDir = path.join(extractDir, def.preferSubdir);
-  } else if (existsSync(path.join(extractDir, 'PNG'))) {
-    srcSpritesDir = path.join(extractDir, 'PNG');
-  } else if (existsSync(path.join(extractDir, 'Sprites'))) {
-    srcSpritesDir = path.join(extractDir, 'Sprites');
-  } else {
-    srcSpritesDir = extractDir;
-  }
+  const srcSpritesDir = findBestSpriteDir(extractDir, def.preferSubdir);
 
   // Copy all PNG/SVG files
   function copyImages(fromDir, toDir) {

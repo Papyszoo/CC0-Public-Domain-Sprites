@@ -1,0 +1,19 @@
+{
+  "name": "Emotes Pack",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Over 100 emotion icons, speech bubbles, question and exclamation prompts, status badges, and interaction markers by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "UI",
+    "subcategory": "HUD & Icons",
+    "allowed_categories": [
+      "UI"
+    ]
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/emotes-pack",
+    "image": "https://kenney.nl/media/pages/assets/emotes-pack/0cae06c6af-1677578794/preview.png"
+  }
+}

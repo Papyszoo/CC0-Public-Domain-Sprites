@@ -1,0 +1,19 @@
+{
+  "name": "Background Elements Remastered",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Modular 2D parallax background layers: mountain ranges, hills, clouds, suns, moons, trees, and horizon vistas by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "Backgrounds",
+    "subcategory": "Landscapes & Vistas",
+    "allowed_categories": [
+      "Backgrounds"
+    ]
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/background-elements-remastered",
+    "image": "https://kenney.nl/media/pages/assets/background-elements-remastered/4a6494465e-1677693157/sample.png"
+  }
+}

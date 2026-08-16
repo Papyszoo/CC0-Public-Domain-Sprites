@@ -1,0 +1,21 @@
+{
+  "name": "Tiny Farm",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "16x16 pixel art farm sprites: crops, soil plots, barns, animals, fences, tools, and farm foliage by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "Tilesets & Environments",
+    "subcategory": "Nature & Foliage",
+    "allowed_categories": [
+      "Tilesets & Environments",
+      "Creatures",
+      "Items & Icons"
+    ]
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/tiny-farm",
+    "image": "https://kenney.nl/media/pages/assets/tiny-farm/6a39809886-1782913585/sample.png"
+  }
+}

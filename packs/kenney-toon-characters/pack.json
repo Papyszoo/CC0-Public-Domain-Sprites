@@ -1,0 +1,19 @@
+{
+  "name": "Toon Characters",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Modular cartoon characters: bodies, heads, hairstyles, expressions, and accessories by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "Characters",
+    "subcategory": "Humanoids",
+    "allowed_categories": [
+      "Characters"
+    ]
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/toon-characters",
+    "image": "https://kenney.nl/media/pages/assets/toon-characters/90a61601f7-1677693113/preview.png"
+  }
+}

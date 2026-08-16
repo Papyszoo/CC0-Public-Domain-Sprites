@@ -1,0 +1,21 @@
+{
+  "name": "Top-Down Tanks Remastered",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Modular top-down tanks: tank hulls, turrets, treads, cannon barrels, shells, explosions, and barricades by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "Items & Icons",
+    "subcategory": "Weapons",
+    "allowed_categories": [
+      "Items & Icons",
+      "Effects",
+      "Tilesets & Environments"
+    ]
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/top-down-tanks-remastered",
+    "image": "https://kenney.nl/media/pages/assets/top-down-tanks-remastered/eed7ec6571-1677666778/sample.png"
+  }
+}

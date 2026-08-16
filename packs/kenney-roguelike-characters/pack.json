@@ -1,0 +1,20 @@
+{
+  "name": "Roguelike Characters",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "16x16 pixel art characters and monsters: knights, wizards, rogues, orcs, skeletons, and beasts by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "Characters",
+    "subcategory": "Humanoids",
+    "allowed_categories": [
+      "Characters",
+      "Creatures"
+    ]
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/roguelike-characters",
+    "image": "https://kenney.nl/media/pages/assets/roguelike-characters/da661e4fb3-1677694932/sample.png"
+  }
+}

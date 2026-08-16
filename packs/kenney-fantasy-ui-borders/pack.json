@@ -1,0 +1,19 @@
+{
+  "name": "Fantasy UI Borders",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "license": "CC0",
+  "description": "Ornate fantasy UI borders: decorative stone and gold window frames, dialogue boxes, headers, corners, and dividers by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "generation": {
+    "category": "UI",
+    "subcategory": "Buttons & Controls",
+    "allowed_categories": [
+      "UI"
+    ]
+  },
+  "cover": {
+    "origin": "original",
+    "page": "https://kenney.nl/assets/fantasy-ui-borders",
+    "image": "https://kenney.nl/media/pages/assets/fantasy-ui-borders/ac36214d33-1701602364/sample.png"
+  }
+}
