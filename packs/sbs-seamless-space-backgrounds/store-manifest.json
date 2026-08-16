@@ -1,0 +1,986 @@
+{
+  "source": "https://github.com/Papyszoo/CC0-Public-Domain-Sprites",
+  "license": "CC0",
+  "name": "Seamless Space Backgrounds",
+  "creator": "Screaming Brain Studios",
+  "website": "https://opengameart.org/content/seamless-space-backgrounds",
+  "description": "32 seamless endless-tiling space backdrops: purple, blue, and green nebulas, plus dense starfields by Screaming Brain Studios. CC0 1.0 Universal.",
+  "folder": "packs/sbs-seamless-space-backgrounds",
+  "pinnedSha": "4c9cf1daaa502e338091086b353022c0330d745e",
+  "itemCount": 32,
+  "items": [
+    {
+      "name": "Blue Nebula 1 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Blue Nebula 1 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Blue Nebula 2 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Blue Nebula 2 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Blue Nebula 3 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Blue Nebula 3 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Blue Nebula 4 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Blue Nebula 4 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Blue Nebula 5 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Blue Nebula 5 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Blue Nebula 6 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Blue Nebula 6 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Blue Nebula 7 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Blue Nebula 7 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Blue Nebula 8 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Blue Nebula 8 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Green Nebula 1 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Green Nebula 1 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Green Nebula 2 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Green Nebula 2 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Green Nebula 3 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Green Nebula 3 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Green Nebula 4 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Green Nebula 4 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Green Nebula 5 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Green Nebula 5 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Green Nebula 6 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Green Nebula 6 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Green Nebula 7 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Green Nebula 7 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Green Nebula 8 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Green Nebula 8 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Purple Nebula 1 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Purple Nebula 1 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Purple Nebula 2 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Purple Nebula 2 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Purple Nebula 3 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Purple Nebula 3 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Purple Nebula 4 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Purple Nebula 4 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Purple Nebula 5 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Purple Nebula 5 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Purple Nebula 6 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Purple Nebula 6 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Purple Nebula 7 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Purple Nebula 7 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Purple Nebula 8 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Purple Nebula 8 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Starfield 1 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Starfield 1 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Starfield 2 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Starfield 2 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Starfield 3 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Starfield 3 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Starfield 4 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Starfield 4 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Starfield 5 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Starfield 5 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Starfield 6 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Starfield 6 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Starfield 7 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Starfield 7 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Starfield 8 512x512",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Skyboxes\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/sbs-seamless-space-backgrounds/sprites/Starfield 8 - 512x512.png",
+          "role": "Image"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "fileName": "Blue Nebula 1 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Blue Nebula 1 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Blue%20Nebula%201%20-%20512x512.png",
+      "sha256": "fc3693ef977bb50ede1183330457c4aba84a869f81c0af4d874828580bc8528e",
+      "size": 378587,
+      "role": "Image"
+    },
+    {
+      "fileName": "Blue Nebula 2 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Blue Nebula 2 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Blue%20Nebula%202%20-%20512x512.png",
+      "sha256": "82f20f4624decdc1201fe9b8104fa84578c02811950dd2b1a38ab3d66e14d4a0",
+      "size": 382752,
+      "role": "Image"
+    },
+    {
+      "fileName": "Blue Nebula 3 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Blue Nebula 3 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Blue%20Nebula%203%20-%20512x512.png",
+      "sha256": "a94f4ee4c786b102f5cc5919b93434e1fa61f416059e11ff1a96971128734c68",
+      "size": 332956,
+      "role": "Image"
+    },
+    {
+      "fileName": "Blue Nebula 4 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Blue Nebula 4 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Blue%20Nebula%204%20-%20512x512.png",
+      "sha256": "006cc7c849857dc23ce2843f2472e0107700a07b3d4d8bc747b79c92249bce21",
+      "size": 185873,
+      "role": "Image"
+    },
+    {
+      "fileName": "Blue Nebula 5 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Blue Nebula 5 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Blue%20Nebula%205%20-%20512x512.png",
+      "sha256": "67b71b8f63656ea7ea0f0527fada07ce61f59bdd9401a034b42ec45cf8faacbd",
+      "size": 322739,
+      "role": "Image"
+    },
+    {
+      "fileName": "Blue Nebula 6 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Blue Nebula 6 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Blue%20Nebula%206%20-%20512x512.png",
+      "sha256": "18cb5fb71fb134f0e6e2a6818699c322fd5a0fd3563eb8b337d3c265ad984f69",
+      "size": 288402,
+      "role": "Image"
+    },
+    {
+      "fileName": "Blue Nebula 7 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Blue Nebula 7 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Blue%20Nebula%207%20-%20512x512.png",
+      "sha256": "749d4a517e477405f8ca023732ad84ee4d0cfe552bd1a6e5b1efd19afb905ed4",
+      "size": 231316,
+      "role": "Image"
+    },
+    {
+      "fileName": "Blue Nebula 8 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Blue Nebula 8 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Blue%20Nebula%208%20-%20512x512.png",
+      "sha256": "5c75431660e948e7888d0413e9acc053f21cb774c6364a476e00ba6d3441b4ae",
+      "size": 259688,
+      "role": "Image"
+    },
+    {
+      "fileName": "Green Nebula 1 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Green Nebula 1 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Green%20Nebula%201%20-%20512x512.png",
+      "sha256": "fa79e6ee31be7be8799fcf7b5cba2206183d338717d5ed5135de241104c8ce61",
+      "size": 286923,
+      "role": "Image"
+    },
+    {
+      "fileName": "Green Nebula 2 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Green Nebula 2 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Green%20Nebula%202%20-%20512x512.png",
+      "sha256": "7bc64151e8c3c6063a3c3ca0d26b6863d271b1686a3cb179070df31c6aec80bb",
+      "size": 265053,
+      "role": "Image"
+    },
+    {
+      "fileName": "Green Nebula 3 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Green Nebula 3 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Green%20Nebula%203%20-%20512x512.png",
+      "sha256": "b1b1efe529fd199fc202dc90fd9bb419b46ea72b4e0097f85e87e2e5bb07aea2",
+      "size": 309899,
+      "role": "Image"
+    },
+    {
+      "fileName": "Green Nebula 4 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Green Nebula 4 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Green%20Nebula%204%20-%20512x512.png",
+      "sha256": "f46c5bdfa86ce978bb901db0185ce3cc7eb5adf379ad45903bccffc6c4ac04b3",
+      "size": 257622,
+      "role": "Image"
+    },
+    {
+      "fileName": "Green Nebula 5 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Green Nebula 5 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Green%20Nebula%205%20-%20512x512.png",
+      "sha256": "a534760cd36fa2314c93b4268926ecfa8bc89193bf92c1b11bb118681e3d9747",
+      "size": 258072,
+      "role": "Image"
+    },
+    {
+      "fileName": "Green Nebula 6 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Green Nebula 6 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Green%20Nebula%206%20-%20512x512.png",
+      "sha256": "f390f4420949ad03335eec4a7b92c68a3a65adde0486288ab3f321874736465d",
+      "size": 256370,
+      "role": "Image"
+    },
+    {
+      "fileName": "Green Nebula 7 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Green Nebula 7 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Green%20Nebula%207%20-%20512x512.png",
+      "sha256": "ef874ebb6ca22fd0dea1e251a79de5b3b91d54783b3d4565de2a6b18168984c9",
+      "size": 259545,
+      "role": "Image"
+    },
+    {
+      "fileName": "Green Nebula 8 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Green Nebula 8 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Green%20Nebula%208%20-%20512x512.png",
+      "sha256": "004e2f69cc27aa501ac166221211af4c72c686cf5c7c3a582baa1d0e9ab55d6d",
+      "size": 337764,
+      "role": "Image"
+    },
+    {
+      "fileName": "Purple Nebula 1 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Purple Nebula 1 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Purple%20Nebula%201%20-%20512x512.png",
+      "sha256": "de48cd76ab93126b02bb16f2cc3f07c4406a8e243a37a54c524ab58eaec27c64",
+      "size": 391162,
+      "role": "Image"
+    },
+    {
+      "fileName": "Purple Nebula 2 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Purple Nebula 2 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Purple%20Nebula%202%20-%20512x512.png",
+      "sha256": "240b52874e3f1416cd40989566a182eef8f0a9e785551c168284a4114ef8ff18",
+      "size": 278330,
+      "role": "Image"
+    },
+    {
+      "fileName": "Purple Nebula 3 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Purple Nebula 3 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Purple%20Nebula%203%20-%20512x512.png",
+      "sha256": "accad68a6c08b2c018981556e9ababa147e9922a805a2b7584a278ea72a69262",
+      "size": 242600,
+      "role": "Image"
+    },
+    {
+      "fileName": "Purple Nebula 4 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Purple Nebula 4 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Purple%20Nebula%204%20-%20512x512.png",
+      "sha256": "de8374fb3dffe40c2ee001b99946d04865a5496f44dc69b4290c1ef406493170",
+      "size": 348792,
+      "role": "Image"
+    },
+    {
+      "fileName": "Purple Nebula 5 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Purple Nebula 5 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Purple%20Nebula%205%20-%20512x512.png",
+      "sha256": "c6c59e344c7ff5313a1653828ee6a259553e9ed552602ce31e9474270d35569b",
+      "size": 373216,
+      "role": "Image"
+    },
+    {
+      "fileName": "Purple Nebula 6 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Purple Nebula 6 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Purple%20Nebula%206%20-%20512x512.png",
+      "sha256": "24cdec7a41276166638ced7007832462d899764c32871311751c18972c67b045",
+      "size": 263167,
+      "role": "Image"
+    },
+    {
+      "fileName": "Purple Nebula 7 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Purple Nebula 7 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Purple%20Nebula%207%20-%20512x512.png",
+      "sha256": "46e53e0237ef3ec7a3886429f1a9ce7dd064df48c69cf079616ec9d5e7f6c152",
+      "size": 254613,
+      "role": "Image"
+    },
+    {
+      "fileName": "Purple Nebula 8 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Purple Nebula 8 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Purple%20Nebula%208%20-%20512x512.png",
+      "sha256": "d5cfdab706eaae55f93bd04940139f4c22c39092a804fd1dc82b0548c2a231f2",
+      "size": 344904,
+      "role": "Image"
+    },
+    {
+      "fileName": "Starfield 1 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Starfield 1 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Starfield%201%20-%20512x512.png",
+      "sha256": "a4969ce4530c68b9c2968fe15d83ce3518b73dea0c817db51af5d73436edcf4e",
+      "size": 29815,
+      "role": "Image"
+    },
+    {
+      "fileName": "Starfield 2 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Starfield 2 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Starfield%202%20-%20512x512.png",
+      "sha256": "3d4eb8cb35f7201710d9b1c3e5b7d0572073ae851fc4e54e7a90a4715f4b342d",
+      "size": 22142,
+      "role": "Image"
+    },
+    {
+      "fileName": "Starfield 3 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Starfield 3 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Starfield%203%20-%20512x512.png",
+      "sha256": "a36f3fc5c53c1741de5a2ae49393755985052e831cc9c79c69365605fafba64a",
+      "size": 132226,
+      "role": "Image"
+    },
+    {
+      "fileName": "Starfield 4 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Starfield 4 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Starfield%204%20-%20512x512.png",
+      "sha256": "b83a5821f76b25f7b66d051bccad1aec4e96793dbe989fac7a995d845d6d0c66",
+      "size": 5083,
+      "role": "Image"
+    },
+    {
+      "fileName": "Starfield 5 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Starfield 5 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Starfield%205%20-%20512x512.png",
+      "sha256": "6e7d029b66b5568ff94309953357fef788138c328a09fdb0b42d0e347fb3965f",
+      "size": 189159,
+      "role": "Image"
+    },
+    {
+      "fileName": "Starfield 6 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Starfield 6 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Starfield%206%20-%20512x512.png",
+      "sha256": "35828c0162dede5aca712912cbdbf515a6b4270bdbff8a86d84f217d446ab61f",
+      "size": 189613,
+      "role": "Image"
+    },
+    {
+      "fileName": "Starfield 7 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Starfield 7 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Starfield%207%20-%20512x512.png",
+      "sha256": "a8e25304cc57664556bb02d358fdcd6ca2390ce6dc6f171b549eafcaa0b7c577",
+      "size": 33930,
+      "role": "Image"
+    },
+    {
+      "fileName": "Starfield 8 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Starfield 8 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Starfield%208%20-%20512x512.png",
+      "sha256": "6db627e3ba3112a14f01a2dae4b4d080d66df23fbd974bf099d0d00ab84609f6",
+      "size": 153813,
+      "role": "Image"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "cover.png",
+      "path": "packs/sbs-seamless-space-backgrounds/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/cover.png",
+      "sha256": "bd9a3fbc74af409273ef1951c6b87893205fd4998263b9684f61d697a8b8a01b",
+      "size": 237538,
+      "contentType": "image/png",
+      "type": "Thumbnail"
+    },
+    {
+      "fileName": "Blue Nebula 1 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Blue Nebula 1 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Blue%20Nebula%201%20-%20512x512.png",
+      "sha256": "fc3693ef977bb50ede1183330457c4aba84a869f81c0af4d874828580bc8528e",
+      "size": 378587,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Blue Nebula 1 512x512"
+    },
+    {
+      "fileName": "Blue Nebula 2 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Blue Nebula 2 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Blue%20Nebula%202%20-%20512x512.png",
+      "sha256": "82f20f4624decdc1201fe9b8104fa84578c02811950dd2b1a38ab3d66e14d4a0",
+      "size": 382752,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Blue Nebula 2 512x512"
+    },
+    {
+      "fileName": "Blue Nebula 3 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Blue Nebula 3 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Blue%20Nebula%203%20-%20512x512.png",
+      "sha256": "a94f4ee4c786b102f5cc5919b93434e1fa61f416059e11ff1a96971128734c68",
+      "size": 332956,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Blue Nebula 3 512x512"
+    },
+    {
+      "fileName": "Blue Nebula 4 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Blue Nebula 4 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Blue%20Nebula%204%20-%20512x512.png",
+      "sha256": "006cc7c849857dc23ce2843f2472e0107700a07b3d4d8bc747b79c92249bce21",
+      "size": 185873,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Blue Nebula 4 512x512"
+    },
+    {
+      "fileName": "Blue Nebula 5 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Blue Nebula 5 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Blue%20Nebula%205%20-%20512x512.png",
+      "sha256": "67b71b8f63656ea7ea0f0527fada07ce61f59bdd9401a034b42ec45cf8faacbd",
+      "size": 322739,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Blue Nebula 5 512x512"
+    },
+    {
+      "fileName": "Blue Nebula 6 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Blue Nebula 6 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Blue%20Nebula%206%20-%20512x512.png",
+      "sha256": "18cb5fb71fb134f0e6e2a6818699c322fd5a0fd3563eb8b337d3c265ad984f69",
+      "size": 288402,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Blue Nebula 6 512x512"
+    },
+    {
+      "fileName": "Blue Nebula 7 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Blue Nebula 7 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Blue%20Nebula%207%20-%20512x512.png",
+      "sha256": "749d4a517e477405f8ca023732ad84ee4d0cfe552bd1a6e5b1efd19afb905ed4",
+      "size": 231316,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Blue Nebula 7 512x512"
+    },
+    {
+      "fileName": "Blue Nebula 8 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Blue Nebula 8 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Blue%20Nebula%208%20-%20512x512.png",
+      "sha256": "5c75431660e948e7888d0413e9acc053f21cb774c6364a476e00ba6d3441b4ae",
+      "size": 259688,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Blue Nebula 8 512x512"
+    },
+    {
+      "fileName": "Green Nebula 1 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Green Nebula 1 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Green%20Nebula%201%20-%20512x512.png",
+      "sha256": "fa79e6ee31be7be8799fcf7b5cba2206183d338717d5ed5135de241104c8ce61",
+      "size": 286923,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Green Nebula 1 512x512"
+    },
+    {
+      "fileName": "Green Nebula 2 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Green Nebula 2 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Green%20Nebula%202%20-%20512x512.png",
+      "sha256": "7bc64151e8c3c6063a3c3ca0d26b6863d271b1686a3cb179070df31c6aec80bb",
+      "size": 265053,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Green Nebula 2 512x512"
+    },
+    {
+      "fileName": "Green Nebula 3 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Green Nebula 3 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Green%20Nebula%203%20-%20512x512.png",
+      "sha256": "b1b1efe529fd199fc202dc90fd9bb419b46ea72b4e0097f85e87e2e5bb07aea2",
+      "size": 309899,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Green Nebula 3 512x512"
+    },
+    {
+      "fileName": "Green Nebula 4 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Green Nebula 4 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Green%20Nebula%204%20-%20512x512.png",
+      "sha256": "f46c5bdfa86ce978bb901db0185ce3cc7eb5adf379ad45903bccffc6c4ac04b3",
+      "size": 257622,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Green Nebula 4 512x512"
+    },
+    {
+      "fileName": "Green Nebula 5 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Green Nebula 5 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Green%20Nebula%205%20-%20512x512.png",
+      "sha256": "a534760cd36fa2314c93b4268926ecfa8bc89193bf92c1b11bb118681e3d9747",
+      "size": 258072,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Green Nebula 5 512x512"
+    },
+    {
+      "fileName": "Green Nebula 6 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Green Nebula 6 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Green%20Nebula%206%20-%20512x512.png",
+      "sha256": "f390f4420949ad03335eec4a7b92c68a3a65adde0486288ab3f321874736465d",
+      "size": 256370,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Green Nebula 6 512x512"
+    },
+    {
+      "fileName": "Green Nebula 7 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Green Nebula 7 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Green%20Nebula%207%20-%20512x512.png",
+      "sha256": "ef874ebb6ca22fd0dea1e251a79de5b3b91d54783b3d4565de2a6b18168984c9",
+      "size": 259545,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Green Nebula 7 512x512"
+    },
+    {
+      "fileName": "Green Nebula 8 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Green Nebula 8 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Green%20Nebula%208%20-%20512x512.png",
+      "sha256": "004e2f69cc27aa501ac166221211af4c72c686cf5c7c3a582baa1d0e9ab55d6d",
+      "size": 337764,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Green Nebula 8 512x512"
+    },
+    {
+      "fileName": "Purple Nebula 1 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Purple Nebula 1 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Purple%20Nebula%201%20-%20512x512.png",
+      "sha256": "de48cd76ab93126b02bb16f2cc3f07c4406a8e243a37a54c524ab58eaec27c64",
+      "size": 391162,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Purple Nebula 1 512x512"
+    },
+    {
+      "fileName": "Purple Nebula 2 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Purple Nebula 2 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Purple%20Nebula%202%20-%20512x512.png",
+      "sha256": "240b52874e3f1416cd40989566a182eef8f0a9e785551c168284a4114ef8ff18",
+      "size": 278330,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Purple Nebula 2 512x512"
+    },
+    {
+      "fileName": "Purple Nebula 3 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Purple Nebula 3 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Purple%20Nebula%203%20-%20512x512.png",
+      "sha256": "accad68a6c08b2c018981556e9ababa147e9922a805a2b7584a278ea72a69262",
+      "size": 242600,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Purple Nebula 3 512x512"
+    },
+    {
+      "fileName": "Purple Nebula 4 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Purple Nebula 4 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Purple%20Nebula%204%20-%20512x512.png",
+      "sha256": "de8374fb3dffe40c2ee001b99946d04865a5496f44dc69b4290c1ef406493170",
+      "size": 348792,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Purple Nebula 4 512x512"
+    },
+    {
+      "fileName": "Purple Nebula 5 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Purple Nebula 5 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Purple%20Nebula%205%20-%20512x512.png",
+      "sha256": "c6c59e344c7ff5313a1653828ee6a259553e9ed552602ce31e9474270d35569b",
+      "size": 373216,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Purple Nebula 5 512x512"
+    },
+    {
+      "fileName": "Purple Nebula 6 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Purple Nebula 6 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Purple%20Nebula%206%20-%20512x512.png",
+      "sha256": "24cdec7a41276166638ced7007832462d899764c32871311751c18972c67b045",
+      "size": 263167,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Purple Nebula 6 512x512"
+    },
+    {
+      "fileName": "Purple Nebula 7 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Purple Nebula 7 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Purple%20Nebula%207%20-%20512x512.png",
+      "sha256": "46e53e0237ef3ec7a3886429f1a9ce7dd064df48c69cf079616ec9d5e7f6c152",
+      "size": 254613,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Purple Nebula 7 512x512"
+    },
+    {
+      "fileName": "Purple Nebula 8 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Purple Nebula 8 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Purple%20Nebula%208%20-%20512x512.png",
+      "sha256": "d5cfdab706eaae55f93bd04940139f4c22c39092a804fd1dc82b0548c2a231f2",
+      "size": 344904,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Purple Nebula 8 512x512"
+    },
+    {
+      "fileName": "Starfield 1 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Starfield 1 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Starfield%201%20-%20512x512.png",
+      "sha256": "a4969ce4530c68b9c2968fe15d83ce3518b73dea0c817db51af5d73436edcf4e",
+      "size": 29815,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Starfield 1 512x512"
+    },
+    {
+      "fileName": "Starfield 2 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Starfield 2 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Starfield%202%20-%20512x512.png",
+      "sha256": "3d4eb8cb35f7201710d9b1c3e5b7d0572073ae851fc4e54e7a90a4715f4b342d",
+      "size": 22142,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Starfield 2 512x512"
+    },
+    {
+      "fileName": "Starfield 3 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Starfield 3 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Starfield%203%20-%20512x512.png",
+      "sha256": "a36f3fc5c53c1741de5a2ae49393755985052e831cc9c79c69365605fafba64a",
+      "size": 132226,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Starfield 3 512x512"
+    },
+    {
+      "fileName": "Starfield 4 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Starfield 4 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Starfield%204%20-%20512x512.png",
+      "sha256": "b83a5821f76b25f7b66d051bccad1aec4e96793dbe989fac7a995d845d6d0c66",
+      "size": 5083,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Starfield 4 512x512"
+    },
+    {
+      "fileName": "Starfield 5 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Starfield 5 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Starfield%205%20-%20512x512.png",
+      "sha256": "6e7d029b66b5568ff94309953357fef788138c328a09fdb0b42d0e347fb3965f",
+      "size": 189159,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Starfield 5 512x512"
+    },
+    {
+      "fileName": "Starfield 6 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Starfield 6 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Starfield%206%20-%20512x512.png",
+      "sha256": "35828c0162dede5aca712912cbdbf515a6b4270bdbff8a86d84f217d446ab61f",
+      "size": 189613,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Starfield 6 512x512"
+    },
+    {
+      "fileName": "Starfield 7 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Starfield 7 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Starfield%207%20-%20512x512.png",
+      "sha256": "a8e25304cc57664556bb02d358fdcd6ca2390ce6dc6f171b549eafcaa0b7c577",
+      "size": 33930,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Starfield 7 512x512"
+    },
+    {
+      "fileName": "Starfield 8 - 512x512.png",
+      "path": "packs/sbs-seamless-space-backgrounds/sprites/Starfield 8 - 512x512.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/sbs-seamless-space-backgrounds/sprites/Starfield%208%20-%20512x512.png",
+      "sha256": "6db627e3ba3112a14f01a2dae4b4d080d66df23fbd974bf099d0d00ab84609f6",
+      "size": 153813,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Starfield 8 512x512"
+    }
+  ]
+}

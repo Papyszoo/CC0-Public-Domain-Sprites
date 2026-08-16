@@ -1,0 +1,11 @@
+{
+  "name": "Fire & Spell Animations",
+  "creator": "ztn & Spiney",
+  "website": "https://opengameart.org/content/fire-and-spell-animations",
+  "license": "CC0",
+  "description": "High-resolution transparent animated magic and fire spritesheets (64-frame 64x64 grids): barriers, fireballs, fire walls, and torches by ztn & Spiney. CC0 1.0 Universal.",
+  "generation": {
+    "category": "Effects",
+    "allowed_categories": ["Effects"]
+  }
+}

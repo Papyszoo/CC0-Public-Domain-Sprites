@@ -31,7 +31,7 @@ const SPRITE_TAXONOMY = {
   'Tilesets & Environments': ['Terrain & Platforms', 'Dungeon & Ruins', 'Foliage & Props', 'Architecture', 'Autotiles'],
   'Items & Icons': ['Weapons', 'Armor & Clothing', 'Consumables', 'Loot & Coins', 'Tools & Resources'],
   UI: ['Buttons & Controls', 'Panels & Windows', 'Bars & Gauges', 'Cursors & Crosshairs', 'Input Prompts', 'Fonts & Numbers', 'HUD & Icons'],
-  Effects: ['Noise & Overlays', 'Explosions & Smoke', 'Fire & Flames', 'Magic & Spells', 'Hits & Slashes', 'Water & Splashes', 'Particles'],
+  Effects: ['Particles', 'Magic & Spells', 'Explosions & Smoke', 'Fire & Flames', 'Hits & Slashes', 'Water & Splashes', 'Noise & Overlays'],
   Backgrounds: ['Parallax', 'Skyboxes', 'Landscapes & Vistas', 'Patterns & Backdrops'],
 };
 
@@ -73,8 +73,8 @@ const GENERAL_RULES = [
   // Effects
   [['noise', 'perlin', 'simplex', 'voronoi', 'grain', 'overlay', 'caustic'], 'Effects', 'Noise & Overlays'],
   [['explosion', 'blast', 'smoke', 'dust', 'puff', 'detonation'], 'Effects', 'Explosions & Smoke'],
-  [['fire', 'flame', 'burn', 'torch', 'ember', 'inferno'], 'Effects', 'Fire & Flames'],
-  [['magic', 'spell', 'aura', 'portal', 'runes', 'enchant', 'beam', 'laser', 'shockwave', 'lightning', 'twirl'], 'Effects', 'Magic & Spells'],
+  [['fire', 'flame', 'burn', 'torch', 'ember', 'inferno', 'fireball', 'firewall', 'firespell', 'firebomb'], 'Effects', 'Fire & Flames'],
+  [['magic', 'spell', 'aura', 'portal', 'runes', 'enchant', 'beam', 'laser', 'shockwave', 'lightning', 'twirl', 'arcane', 'bolt', 'orb', 'barrier', 'projectile', 'darkness', 'shield', 'ray', 'sparks', 'light', 'purity', 'missile', 'missle'], 'Effects', 'Magic & Spells'],
   [['hit', 'slash', 'impact', 'strike', 'scratch', 'claw_mark'], 'Effects', 'Hits & Slashes'],
   [['water', 'splash', 'bubble', 'wave', 'droplet', 'ripple', 'foam', 'liquid'], 'Effects', 'Water & Splashes'],
   [['particle', 'spark', 'flare', 'glow', 'glitter', 'sparkle', 'debris', 'circle_'], 'Effects', 'Particles'],
@@ -101,7 +101,7 @@ const GENERAL_RULES = [
 
   // Backgrounds
   [['parallax', 'layer_bg'], 'Backgrounds', 'Parallax'],
-  [['skybox', 'nightsky', 'stars', 'space_bg', 'clouds_bg'], 'Backgrounds', 'Skyboxes'],
+  [['skybox', 'nightsky', 'stars', 'space_bg', 'clouds_bg', 'space', 'nebula', 'starfield', 'sky', 'clouds', 'sunset', 'night'], 'Backgrounds', 'Skyboxes'],
   [['landscape', 'mountain_bg', 'vista', 'city_bg', 'forest_bg', 'background'], 'Backgrounds', 'Landscapes & Vistas'],
 ];
 

@@ -1,0 +1,11 @@
+{
+  "name": "Animated Potions",
+  "creator": "Buch",
+  "website": "https://opengameart.org/content/colorful-potions-animated",
+  "license": "CC0",
+  "description": "20 colorful animated bubbling potion sprites in various bottle shapes (round flasks, vials, tall bottles, square flasks) by Buch. CC0 1.0 Universal.",
+  "generation": {
+    "category": "Items & Icons",
+    "allowed_categories": ["Items & Icons"]
+  }
+}

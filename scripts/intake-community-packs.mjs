@@ -704,6 +704,31 @@ async function intakeSuperpowers() {
     }
 }
 
+async function intakeDevWizardSpells() {
+    const dest = path.join(PACKS_DIR, "devwizard-pixel-art-spells");
+    if (!fs.existsSync(dest)) return;
+    console.log("✓ devwizard-pixel-art-spells intaked");
+}
+
+async function intakeZtnAnimations() {
+    const dest = path.join(PACKS_DIR, "ztn-fire-and-spell-animations");
+    if (!fs.existsSync(dest)) return;
+    console.log("✓ ztn-fire-and-spell-animations intaked");
+}
+
+async function intakeSBSBackgrounds() {
+    const destSpace = path.join(PACKS_DIR, "sbs-seamless-space-backgrounds");
+    const destSky = path.join(PACKS_DIR, "sbs-seamless-sky-backgrounds");
+    if (fs.existsSync(destSpace)) console.log("✓ sbs-seamless-space-backgrounds intaked");
+    if (fs.existsSync(destSky)) console.log("✓ sbs-seamless-sky-backgrounds intaked");
+}
+
+async function intakeBuchPotions() {
+    const dest = path.join(PACKS_DIR, "buch-animated-potions");
+    if (!fs.existsSync(dest)) return;
+    console.log("✓ buch-animated-potions intaked");
+}
+
 async function main() {
     await intakePixelAdventure1();
     await intakePixelAdventure2();
@@ -713,6 +738,10 @@ async function main() {
     await intakeDCSS();
     await intakeHardVacuum();
     await intakeSuperpowers();
+    await intakeDevWizardSpells();
+    await intakeZtnAnimations();
+    await intakeSBSBackgrounds();
+    await intakeBuchPotions();
 }
 
 main().catch(err => {
