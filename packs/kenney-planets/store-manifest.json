@@ -1,0 +1,1586 @@
+{
+  "source": "https://github.com/Papyszoo/CC0-Public-Domain-Sprites",
+  "license": "CC0",
+  "name": "Planets",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "description": "2D space planets, gas giants, cratered moons, suns, rings, and orbital bodies by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "folder": "packs/kenney-planets",
+  "pinnedSha": "903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf",
+  "itemCount": 52,
+  "items": [
+    {
+      "name": "Light0",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/light0.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Light1",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/light1.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Light10",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/light10.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Light2",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/light2.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Light3",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/light3.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Light4",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/light4.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Light5",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/light5.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Light6",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/light6.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Light7",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/light7.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Light8",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/light8.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Light9",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/light9.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise00",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise00.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise01",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise01.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise02",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise02.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise03",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise03.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise04",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise04.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise05",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise05.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise06",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise06.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise07",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise07.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise08",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise08.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise09",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise09.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise10",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise10.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise11",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise11.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise12",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise12.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise13",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise13.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise14",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise14.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise15",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise15.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise16",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise16.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise17",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise17.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise18",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise18.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise19",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise19.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise20",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise20.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise21",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise21.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise22",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise22.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise23",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise23.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise24",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise24.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise25",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise25.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise26",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise26.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Noise27",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/noise27.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Sphere0",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/sphere0.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Sphere1",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/sphere1.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Sphere2",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Parts/sphere2.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Planet00",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Planets/planet00.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Planet01",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Planets/planet01.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Planet02",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Planets/planet02.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Planet03",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Planets/planet03.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Planet04",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Planets/planet04.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Planet05",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Planets/planet05.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Planet06",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Planets/planet06.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Planet07",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Planets/planet07.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Planet08",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Planets/planet08.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Planet09",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Backgrounds\",\"subcategory\":\"Landscapes & Vistas\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-planets/sprites/Planets/planet09.png",
+          "role": "Image"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "fileName": "light0.png",
+      "path": "packs/kenney-planets/sprites/Parts/light0.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/light0.png",
+      "sha256": "94fc9669a38a2b406ec136117a3cd50c14b92e6732fbbb87087d3470b934b9e2",
+      "size": 42570,
+      "role": "Image"
+    },
+    {
+      "fileName": "light1.png",
+      "path": "packs/kenney-planets/sprites/Parts/light1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/light1.png",
+      "sha256": "ccae7f84a2838a48b6a2551644d00aeb5bf416f9bbe5b0ed48fe3afe53dc91d8",
+      "size": 48840,
+      "role": "Image"
+    },
+    {
+      "fileName": "light10.png",
+      "path": "packs/kenney-planets/sprites/Parts/light10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/light10.png",
+      "sha256": "ffbd5532852d9a3364666a08d5100e5255bef10c1eeb29e935450a095ce5c821",
+      "size": 46981,
+      "role": "Image"
+    },
+    {
+      "fileName": "light2.png",
+      "path": "packs/kenney-planets/sprites/Parts/light2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/light2.png",
+      "sha256": "471513df6bdb4981181ec0c1a4608083d8af9cb69d99637b87aab8beeab9462b",
+      "size": 36843,
+      "role": "Image"
+    },
+    {
+      "fileName": "light3.png",
+      "path": "packs/kenney-planets/sprites/Parts/light3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/light3.png",
+      "sha256": "7ab8bee97a3f62f7344611da0d0007927e8de21acc1eed1d5b1226971276a966",
+      "size": 67101,
+      "role": "Image"
+    },
+    {
+      "fileName": "light4.png",
+      "path": "packs/kenney-planets/sprites/Parts/light4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/light4.png",
+      "sha256": "06d8cea45beb913089c5360788f2cc64f32a72471dfa021627424846b0bc94c9",
+      "size": 67357,
+      "role": "Image"
+    },
+    {
+      "fileName": "light5.png",
+      "path": "packs/kenney-planets/sprites/Parts/light5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/light5.png",
+      "sha256": "77a526cca2e3fe9b322f5ea32d0d50ff4095f881d57726040d49a079ecd1fd6b",
+      "size": 56261,
+      "role": "Image"
+    },
+    {
+      "fileName": "light6.png",
+      "path": "packs/kenney-planets/sprites/Parts/light6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/light6.png",
+      "sha256": "544d8c229fbc4dd483288f599962e72578243f49ecf54ef978a8decb119e2cf8",
+      "size": 51347,
+      "role": "Image"
+    },
+    {
+      "fileName": "light7.png",
+      "path": "packs/kenney-planets/sprites/Parts/light7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/light7.png",
+      "sha256": "394b609a7c758f28e1cf41654b480e335579d2832c6bcc2d327bd59bfbe3bb1d",
+      "size": 69458,
+      "role": "Image"
+    },
+    {
+      "fileName": "light8.png",
+      "path": "packs/kenney-planets/sprites/Parts/light8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/light8.png",
+      "sha256": "7ece8262619dd36ead6e6e9aed5cbb623ab9f358df62d5ed0702ffbc1ea7a2ef",
+      "size": 43504,
+      "role": "Image"
+    },
+    {
+      "fileName": "light9.png",
+      "path": "packs/kenney-planets/sprites/Parts/light9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/light9.png",
+      "sha256": "6d80828e9fd988372ef1df51d0ccbd373e5cab967714e428ebd728b83a452a7f",
+      "size": 25426,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise00.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise00.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise00.png",
+      "sha256": "3227a2e83dd8fe9d73895de9cd59d2acc1472dba0329bab20c7d9e7a0ea5ab3d",
+      "size": 132002,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise01.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise01.png",
+      "sha256": "f0a2717f2ac6628d595616cb838801b872648966e7545208a4de5c119ced376e",
+      "size": 132508,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise02.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise02.png",
+      "sha256": "8ad000bdf922ec5e8b7afd1269e984dfdd724d3d56e9139669dde09458d78705",
+      "size": 141997,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise03.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise03.png",
+      "sha256": "9be9f7363f9aba1e0c3816b4241ce93538d45c8cf64e530ec173e0f65f9c8f59",
+      "size": 141908,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise04.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise04.png",
+      "sha256": "f4be58321075ec38bdb74d954f6328973da125db26440c5ed576a1414f9db2f9",
+      "size": 122086,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise05.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise05.png",
+      "sha256": "3e1de971979520d6e739d095856567f30d1c86ac6704d7276d3878556cf29158",
+      "size": 122782,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise06.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise06.png",
+      "sha256": "875cfcab747ed7e7027e1c55b310d9fec2e642a6097b2f208c9e9358e6fe51e8",
+      "size": 125162,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise07.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise07.png",
+      "sha256": "2e2b40059570cdf722c8474e6968adc3d9f2f2d45898fc6ef392b715beefd43a",
+      "size": 122168,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise08.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise08.png",
+      "sha256": "1592851c06cbb4ac45ee52762220e493e141b0592a9fd55b7ac585495196590b",
+      "size": 117201,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise09.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise09.png",
+      "sha256": "9578e6c832afc66e38fbed30e3c8b317f68cee65a5635426e9bb84a9f56ef8a1",
+      "size": 125326,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise10.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise10.png",
+      "sha256": "6b5ed44c43519cd0c880e5d262cc70233670267dece68207a1d3bf6dc9779d82",
+      "size": 120121,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise11.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise11.png",
+      "sha256": "d0db759696f757c68c9e036686ec36696571133221243fa9c9ed150929c4d85b",
+      "size": 116631,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise12.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise12.png",
+      "sha256": "d0a3d17ab198e45de76d51ecd989aad251fc93dbc13c8664f17b669af8fed245",
+      "size": 137981,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise13.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise13.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise13.png",
+      "sha256": "288c8f4f8106995dd86db80f0f4e613c412dcae0a4ddce62b8030f0720a0362a",
+      "size": 137960,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise14.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise14.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise14.png",
+      "sha256": "e01a84cbf76d2e647f125bc03651fe9f144addce6c6dc28309f8f906a4461e01",
+      "size": 133125,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise15.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise15.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise15.png",
+      "sha256": "4e7767d2eeb29575246f1dd7c44a6b448539b65a029289c2ac1b95691c5c85f2",
+      "size": 131783,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise16.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise16.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise16.png",
+      "sha256": "4c6f34bffc95e8b272b49386612c785262d9ecb33144c2a515d27c932bde9dbd",
+      "size": 120538,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise17.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise17.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise17.png",
+      "sha256": "7b30a229f16d07f51a27b9410df7c157252be6c694a1f041f0a4adf2431a09c5",
+      "size": 127185,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise18.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise18.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise18.png",
+      "sha256": "d254d8cdd847b1297bcb2be3c705fa8c9672fb11f33f823186046ad72250922d",
+      "size": 109774,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise19.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise19.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise19.png",
+      "sha256": "2f6147f3e1fc2df6e55a0e656b5b5c17485cb4ed4077906219523b868fd3f52a",
+      "size": 107097,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise20.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise20.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise20.png",
+      "sha256": "304d6816dec288a4b25302c8e35d56c83c2986e81cc33d7dc19e4de96d702d1e",
+      "size": 120111,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise21.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise21.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise21.png",
+      "sha256": "663bc23e8aa3bfdd9def98febbe658c91689e15f1c15841362965ba713c8331c",
+      "size": 120768,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise22.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise22.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise22.png",
+      "sha256": "f6a5ed186151c35df03a8b2dbffbcb621f30882a8d0f29f10cb61385227286a7",
+      "size": 121356,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise23.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise23.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise23.png",
+      "sha256": "94957df4cf958f449cebb1856757e5e7385d42b5fd982189467396b921400487",
+      "size": 123252,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise24.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise24.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise24.png",
+      "sha256": "6a349823e06abd4e94ce2997eeab762a2cef96d8cee6b97fc2384f83385c7699",
+      "size": 92653,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise25.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise25.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise25.png",
+      "sha256": "157788024dd83ffdcc1569eda970eba8b4e726a37192e85c1749da0e1d07aac5",
+      "size": 89547,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise26.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise26.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise26.png",
+      "sha256": "e12b97ca64f10f0c6d8a5089ce74331647a7e0a6ff6aa1f9097e097c05b3e578",
+      "size": 98868,
+      "role": "Image"
+    },
+    {
+      "fileName": "noise27.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise27.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise27.png",
+      "sha256": "414ed6c77bfdcc3492d60210b4e0838f3553e6a5463b44b4cf75e2a297b7e26c",
+      "size": 101954,
+      "role": "Image"
+    },
+    {
+      "fileName": "sphere0.png",
+      "path": "packs/kenney-planets/sprites/Parts/sphere0.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/sphere0.png",
+      "sha256": "956e4688775a9e5de450aef1213ab747a759caf40c95e43420132400511c578d",
+      "size": 183084,
+      "role": "Image"
+    },
+    {
+      "fileName": "sphere1.png",
+      "path": "packs/kenney-planets/sprites/Parts/sphere1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/sphere1.png",
+      "sha256": "b1d6e3414762406a9724549876b4286c41a5b2b60007ccbfb5305001d94c9fb7",
+      "size": 170097,
+      "role": "Image"
+    },
+    {
+      "fileName": "sphere2.png",
+      "path": "packs/kenney-planets/sprites/Parts/sphere2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/sphere2.png",
+      "sha256": "fa83c72353d4cddf01decbfc81aabfe3ac6b0cd91ba3730a5f7b60c8c9ad078a",
+      "size": 139045,
+      "role": "Image"
+    },
+    {
+      "fileName": "planet00.png",
+      "path": "packs/kenney-planets/sprites/Planets/planet00.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Planets/planet00.png",
+      "sha256": "64179f362035918681e375e421d90fd32e3c045dd3fb1fb1909e4a58e1b165e9",
+      "size": 286506,
+      "role": "Image"
+    },
+    {
+      "fileName": "planet01.png",
+      "path": "packs/kenney-planets/sprites/Planets/planet01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Planets/planet01.png",
+      "sha256": "8a092b88bf50c0190021a7227a387e005dff781cf526eb6200752fec14299574",
+      "size": 307637,
+      "role": "Image"
+    },
+    {
+      "fileName": "planet02.png",
+      "path": "packs/kenney-planets/sprites/Planets/planet02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Planets/planet02.png",
+      "sha256": "bf4aa3926912f268b7caa09ee36857e2674ba37861e0057eae7994bd9aa4c28c",
+      "size": 260330,
+      "role": "Image"
+    },
+    {
+      "fileName": "planet03.png",
+      "path": "packs/kenney-planets/sprites/Planets/planet03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Planets/planet03.png",
+      "sha256": "b23893179576c6d833221a6f343896b33d057a5be509e28c6871fd44125cc958",
+      "size": 288728,
+      "role": "Image"
+    },
+    {
+      "fileName": "planet04.png",
+      "path": "packs/kenney-planets/sprites/Planets/planet04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Planets/planet04.png",
+      "sha256": "b9e5fd3a164a4d5d29b0ee28b93eb7e6524df43dcdbcb2615c323f6c6a509650",
+      "size": 343482,
+      "role": "Image"
+    },
+    {
+      "fileName": "planet05.png",
+      "path": "packs/kenney-planets/sprites/Planets/planet05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Planets/planet05.png",
+      "sha256": "ef1db10b33393b57d1e8dc04bae371d5c717ba895475b9cca38f10517b5a13bb",
+      "size": 294507,
+      "role": "Image"
+    },
+    {
+      "fileName": "planet06.png",
+      "path": "packs/kenney-planets/sprites/Planets/planet06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Planets/planet06.png",
+      "sha256": "628a77994ab375413e73a49efc11a218b62e29c39b9d09e9ba7caa969a0963f9",
+      "size": 306816,
+      "role": "Image"
+    },
+    {
+      "fileName": "planet07.png",
+      "path": "packs/kenney-planets/sprites/Planets/planet07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Planets/planet07.png",
+      "sha256": "ffd85aa57cda3bf888628a05133eed33e2fbd9aa1cb337b7d23f9560a2eadf97",
+      "size": 291672,
+      "role": "Image"
+    },
+    {
+      "fileName": "planet08.png",
+      "path": "packs/kenney-planets/sprites/Planets/planet08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Planets/planet08.png",
+      "sha256": "315a5a043fcaa21cb5e494ca5fe7573b9dc377b06d214efcfacc358c51f083cf",
+      "size": 291474,
+      "role": "Image"
+    },
+    {
+      "fileName": "planet09.png",
+      "path": "packs/kenney-planets/sprites/Planets/planet09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Planets/planet09.png",
+      "sha256": "8c6bdd9f220646aa6c0331e2220fcbe484c2307c10c63ae624c9065245d25444",
+      "size": 236345,
+      "role": "Image"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "cover.png",
+      "path": "packs/kenney-planets/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/cover.png",
+      "sha256": "b75dca4a08e05304301353334c9d810e38058c12fa49a588c8dde5df880e145f",
+      "size": 67195,
+      "contentType": "image/png",
+      "type": "Thumbnail"
+    },
+    {
+      "fileName": "light0.png",
+      "path": "packs/kenney-planets/sprites/Parts/light0.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/light0.png",
+      "sha256": "94fc9669a38a2b406ec136117a3cd50c14b92e6732fbbb87087d3470b934b9e2",
+      "size": 42570,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Light0"
+    },
+    {
+      "fileName": "light1.png",
+      "path": "packs/kenney-planets/sprites/Parts/light1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/light1.png",
+      "sha256": "ccae7f84a2838a48b6a2551644d00aeb5bf416f9bbe5b0ed48fe3afe53dc91d8",
+      "size": 48840,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Light1"
+    },
+    {
+      "fileName": "light10.png",
+      "path": "packs/kenney-planets/sprites/Parts/light10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/light10.png",
+      "sha256": "ffbd5532852d9a3364666a08d5100e5255bef10c1eeb29e935450a095ce5c821",
+      "size": 46981,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Light10"
+    },
+    {
+      "fileName": "light2.png",
+      "path": "packs/kenney-planets/sprites/Parts/light2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/light2.png",
+      "sha256": "471513df6bdb4981181ec0c1a4608083d8af9cb69d99637b87aab8beeab9462b",
+      "size": 36843,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Light2"
+    },
+    {
+      "fileName": "light3.png",
+      "path": "packs/kenney-planets/sprites/Parts/light3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/light3.png",
+      "sha256": "7ab8bee97a3f62f7344611da0d0007927e8de21acc1eed1d5b1226971276a966",
+      "size": 67101,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Light3"
+    },
+    {
+      "fileName": "light4.png",
+      "path": "packs/kenney-planets/sprites/Parts/light4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/light4.png",
+      "sha256": "06d8cea45beb913089c5360788f2cc64f32a72471dfa021627424846b0bc94c9",
+      "size": 67357,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Light4"
+    },
+    {
+      "fileName": "light5.png",
+      "path": "packs/kenney-planets/sprites/Parts/light5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/light5.png",
+      "sha256": "77a526cca2e3fe9b322f5ea32d0d50ff4095f881d57726040d49a079ecd1fd6b",
+      "size": 56261,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Light5"
+    },
+    {
+      "fileName": "light6.png",
+      "path": "packs/kenney-planets/sprites/Parts/light6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/light6.png",
+      "sha256": "544d8c229fbc4dd483288f599962e72578243f49ecf54ef978a8decb119e2cf8",
+      "size": 51347,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Light6"
+    },
+    {
+      "fileName": "light7.png",
+      "path": "packs/kenney-planets/sprites/Parts/light7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/light7.png",
+      "sha256": "394b609a7c758f28e1cf41654b480e335579d2832c6bcc2d327bd59bfbe3bb1d",
+      "size": 69458,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Light7"
+    },
+    {
+      "fileName": "light8.png",
+      "path": "packs/kenney-planets/sprites/Parts/light8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/light8.png",
+      "sha256": "7ece8262619dd36ead6e6e9aed5cbb623ab9f358df62d5ed0702ffbc1ea7a2ef",
+      "size": 43504,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Light8"
+    },
+    {
+      "fileName": "light9.png",
+      "path": "packs/kenney-planets/sprites/Parts/light9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/light9.png",
+      "sha256": "6d80828e9fd988372ef1df51d0ccbd373e5cab967714e428ebd728b83a452a7f",
+      "size": 25426,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Light9"
+    },
+    {
+      "fileName": "noise00.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise00.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise00.png",
+      "sha256": "3227a2e83dd8fe9d73895de9cd59d2acc1472dba0329bab20c7d9e7a0ea5ab3d",
+      "size": 132002,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise00"
+    },
+    {
+      "fileName": "noise01.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise01.png",
+      "sha256": "f0a2717f2ac6628d595616cb838801b872648966e7545208a4de5c119ced376e",
+      "size": 132508,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise01"
+    },
+    {
+      "fileName": "noise02.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise02.png",
+      "sha256": "8ad000bdf922ec5e8b7afd1269e984dfdd724d3d56e9139669dde09458d78705",
+      "size": 141997,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise02"
+    },
+    {
+      "fileName": "noise03.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise03.png",
+      "sha256": "9be9f7363f9aba1e0c3816b4241ce93538d45c8cf64e530ec173e0f65f9c8f59",
+      "size": 141908,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise03"
+    },
+    {
+      "fileName": "noise04.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise04.png",
+      "sha256": "f4be58321075ec38bdb74d954f6328973da125db26440c5ed576a1414f9db2f9",
+      "size": 122086,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise04"
+    },
+    {
+      "fileName": "noise05.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise05.png",
+      "sha256": "3e1de971979520d6e739d095856567f30d1c86ac6704d7276d3878556cf29158",
+      "size": 122782,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise05"
+    },
+    {
+      "fileName": "noise06.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise06.png",
+      "sha256": "875cfcab747ed7e7027e1c55b310d9fec2e642a6097b2f208c9e9358e6fe51e8",
+      "size": 125162,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise06"
+    },
+    {
+      "fileName": "noise07.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise07.png",
+      "sha256": "2e2b40059570cdf722c8474e6968adc3d9f2f2d45898fc6ef392b715beefd43a",
+      "size": 122168,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise07"
+    },
+    {
+      "fileName": "noise08.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise08.png",
+      "sha256": "1592851c06cbb4ac45ee52762220e493e141b0592a9fd55b7ac585495196590b",
+      "size": 117201,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise08"
+    },
+    {
+      "fileName": "noise09.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise09.png",
+      "sha256": "9578e6c832afc66e38fbed30e3c8b317f68cee65a5635426e9bb84a9f56ef8a1",
+      "size": 125326,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise09"
+    },
+    {
+      "fileName": "noise10.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise10.png",
+      "sha256": "6b5ed44c43519cd0c880e5d262cc70233670267dece68207a1d3bf6dc9779d82",
+      "size": 120121,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise10"
+    },
+    {
+      "fileName": "noise11.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise11.png",
+      "sha256": "d0db759696f757c68c9e036686ec36696571133221243fa9c9ed150929c4d85b",
+      "size": 116631,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise11"
+    },
+    {
+      "fileName": "noise12.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise12.png",
+      "sha256": "d0a3d17ab198e45de76d51ecd989aad251fc93dbc13c8664f17b669af8fed245",
+      "size": 137981,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise12"
+    },
+    {
+      "fileName": "noise13.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise13.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise13.png",
+      "sha256": "288c8f4f8106995dd86db80f0f4e613c412dcae0a4ddce62b8030f0720a0362a",
+      "size": 137960,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise13"
+    },
+    {
+      "fileName": "noise14.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise14.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise14.png",
+      "sha256": "e01a84cbf76d2e647f125bc03651fe9f144addce6c6dc28309f8f906a4461e01",
+      "size": 133125,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise14"
+    },
+    {
+      "fileName": "noise15.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise15.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise15.png",
+      "sha256": "4e7767d2eeb29575246f1dd7c44a6b448539b65a029289c2ac1b95691c5c85f2",
+      "size": 131783,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise15"
+    },
+    {
+      "fileName": "noise16.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise16.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise16.png",
+      "sha256": "4c6f34bffc95e8b272b49386612c785262d9ecb33144c2a515d27c932bde9dbd",
+      "size": 120538,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise16"
+    },
+    {
+      "fileName": "noise17.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise17.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise17.png",
+      "sha256": "7b30a229f16d07f51a27b9410df7c157252be6c694a1f041f0a4adf2431a09c5",
+      "size": 127185,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise17"
+    },
+    {
+      "fileName": "noise18.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise18.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise18.png",
+      "sha256": "d254d8cdd847b1297bcb2be3c705fa8c9672fb11f33f823186046ad72250922d",
+      "size": 109774,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise18"
+    },
+    {
+      "fileName": "noise19.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise19.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise19.png",
+      "sha256": "2f6147f3e1fc2df6e55a0e656b5b5c17485cb4ed4077906219523b868fd3f52a",
+      "size": 107097,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise19"
+    },
+    {
+      "fileName": "noise20.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise20.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise20.png",
+      "sha256": "304d6816dec288a4b25302c8e35d56c83c2986e81cc33d7dc19e4de96d702d1e",
+      "size": 120111,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise20"
+    },
+    {
+      "fileName": "noise21.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise21.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise21.png",
+      "sha256": "663bc23e8aa3bfdd9def98febbe658c91689e15f1c15841362965ba713c8331c",
+      "size": 120768,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise21"
+    },
+    {
+      "fileName": "noise22.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise22.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise22.png",
+      "sha256": "f6a5ed186151c35df03a8b2dbffbcb621f30882a8d0f29f10cb61385227286a7",
+      "size": 121356,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise22"
+    },
+    {
+      "fileName": "noise23.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise23.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise23.png",
+      "sha256": "94957df4cf958f449cebb1856757e5e7385d42b5fd982189467396b921400487",
+      "size": 123252,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise23"
+    },
+    {
+      "fileName": "noise24.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise24.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise24.png",
+      "sha256": "6a349823e06abd4e94ce2997eeab762a2cef96d8cee6b97fc2384f83385c7699",
+      "size": 92653,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise24"
+    },
+    {
+      "fileName": "noise25.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise25.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise25.png",
+      "sha256": "157788024dd83ffdcc1569eda970eba8b4e726a37192e85c1749da0e1d07aac5",
+      "size": 89547,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise25"
+    },
+    {
+      "fileName": "noise26.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise26.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise26.png",
+      "sha256": "e12b97ca64f10f0c6d8a5089ce74331647a7e0a6ff6aa1f9097e097c05b3e578",
+      "size": 98868,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise26"
+    },
+    {
+      "fileName": "noise27.png",
+      "path": "packs/kenney-planets/sprites/Parts/noise27.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/noise27.png",
+      "sha256": "414ed6c77bfdcc3492d60210b4e0838f3553e6a5463b44b4cf75e2a297b7e26c",
+      "size": 101954,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Noise27"
+    },
+    {
+      "fileName": "sphere0.png",
+      "path": "packs/kenney-planets/sprites/Parts/sphere0.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/sphere0.png",
+      "sha256": "956e4688775a9e5de450aef1213ab747a759caf40c95e43420132400511c578d",
+      "size": 183084,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Sphere0"
+    },
+    {
+      "fileName": "sphere1.png",
+      "path": "packs/kenney-planets/sprites/Parts/sphere1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/sphere1.png",
+      "sha256": "b1d6e3414762406a9724549876b4286c41a5b2b60007ccbfb5305001d94c9fb7",
+      "size": 170097,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Sphere1"
+    },
+    {
+      "fileName": "sphere2.png",
+      "path": "packs/kenney-planets/sprites/Parts/sphere2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Parts/sphere2.png",
+      "sha256": "fa83c72353d4cddf01decbfc81aabfe3ac6b0cd91ba3730a5f7b60c8c9ad078a",
+      "size": 139045,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Sphere2"
+    },
+    {
+      "fileName": "planet00.png",
+      "path": "packs/kenney-planets/sprites/Planets/planet00.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Planets/planet00.png",
+      "sha256": "64179f362035918681e375e421d90fd32e3c045dd3fb1fb1909e4a58e1b165e9",
+      "size": 286506,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Planet00"
+    },
+    {
+      "fileName": "planet01.png",
+      "path": "packs/kenney-planets/sprites/Planets/planet01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Planets/planet01.png",
+      "sha256": "8a092b88bf50c0190021a7227a387e005dff781cf526eb6200752fec14299574",
+      "size": 307637,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Planet01"
+    },
+    {
+      "fileName": "planet02.png",
+      "path": "packs/kenney-planets/sprites/Planets/planet02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Planets/planet02.png",
+      "sha256": "bf4aa3926912f268b7caa09ee36857e2674ba37861e0057eae7994bd9aa4c28c",
+      "size": 260330,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Planet02"
+    },
+    {
+      "fileName": "planet03.png",
+      "path": "packs/kenney-planets/sprites/Planets/planet03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Planets/planet03.png",
+      "sha256": "b23893179576c6d833221a6f343896b33d057a5be509e28c6871fd44125cc958",
+      "size": 288728,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Planet03"
+    },
+    {
+      "fileName": "planet04.png",
+      "path": "packs/kenney-planets/sprites/Planets/planet04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Planets/planet04.png",
+      "sha256": "b9e5fd3a164a4d5d29b0ee28b93eb7e6524df43dcdbcb2615c323f6c6a509650",
+      "size": 343482,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Planet04"
+    },
+    {
+      "fileName": "planet05.png",
+      "path": "packs/kenney-planets/sprites/Planets/planet05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Planets/planet05.png",
+      "sha256": "ef1db10b33393b57d1e8dc04bae371d5c717ba895475b9cca38f10517b5a13bb",
+      "size": 294507,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Planet05"
+    },
+    {
+      "fileName": "planet06.png",
+      "path": "packs/kenney-planets/sprites/Planets/planet06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Planets/planet06.png",
+      "sha256": "628a77994ab375413e73a49efc11a218b62e29c39b9d09e9ba7caa969a0963f9",
+      "size": 306816,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Planet06"
+    },
+    {
+      "fileName": "planet07.png",
+      "path": "packs/kenney-planets/sprites/Planets/planet07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Planets/planet07.png",
+      "sha256": "ffd85aa57cda3bf888628a05133eed33e2fbd9aa1cb337b7d23f9560a2eadf97",
+      "size": 291672,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Planet07"
+    },
+    {
+      "fileName": "planet08.png",
+      "path": "packs/kenney-planets/sprites/Planets/planet08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Planets/planet08.png",
+      "sha256": "315a5a043fcaa21cb5e494ca5fe7573b9dc377b06d214efcfacc358c51f083cf",
+      "size": 291474,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Planet08"
+    },
+    {
+      "fileName": "planet09.png",
+      "path": "packs/kenney-planets/sprites/Planets/planet09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-planets/sprites/Planets/planet09.png",
+      "sha256": "8c6bdd9f220646aa6c0331e2220fcbe484c2307c10c63ae624c9065245d25444",
+      "size": 236345,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Planet09"
+    }
+  ]
+}

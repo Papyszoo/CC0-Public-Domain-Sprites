@@ -6,7 +6,7 @@
   "website": "https://kenney.nl",
   "description": "Over 80 particle sprites, smoke, fire, magic stars, flares, sparks, and burst VFX by Kenney (kenney.nl). CC0 1.0 Universal public domain.",
   "folder": "packs/kenney-particle-pack",
-  "pinnedSha": "518e78198f0786932e9fc9ef700c81957eaa4c1f",
+  "pinnedSha": "c8e6ce904673223c00258ab6919f36a0e5142cba",
   "itemCount": 96,
   "items": [
     {
@@ -1166,7 +1166,7 @@
     {
       "fileName": "flame_05_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/flame_05_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/flame_05_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/flame_05_rotated.png",
       "sha256": "08afb8deef9edbfb47571805a2f5b1316c5c99d5056f23b13d060eece3a752de",
       "size": 12155,
       "role": "Image"
@@ -1174,7 +1174,7 @@
     {
       "fileName": "flame_06_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/flame_06_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/flame_06_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/flame_06_rotated.png",
       "sha256": "c72289cfe6e25d2763eef9db9b55a38f04d027ba0ca7fe6d4830b2ebd9b63dce",
       "size": 14979,
       "role": "Image"
@@ -1182,7 +1182,7 @@
     {
       "fileName": "muzzle_01_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/muzzle_01_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/muzzle_01_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/muzzle_01_rotated.png",
       "sha256": "6b0bae33c25ef54702f40272d121412131e8f089ae03c958533f4887288d8f59",
       "size": 75703,
       "role": "Image"
@@ -1190,7 +1190,7 @@
     {
       "fileName": "muzzle_02_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/muzzle_02_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/muzzle_02_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/muzzle_02_rotated.png",
       "sha256": "6bca0de7b38b9bc7ea7ad38940720ebfe138363155848cfb7bf15e56681defe9",
       "size": 49401,
       "role": "Image"
@@ -1198,7 +1198,7 @@
     {
       "fileName": "muzzle_03_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/muzzle_03_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/muzzle_03_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/muzzle_03_rotated.png",
       "sha256": "3a625935b4b2a89beb0f2aefb3db3a50c062f2bd3a99cf2a8aaf3f53cef437bb",
       "size": 48054,
       "role": "Image"
@@ -1206,7 +1206,7 @@
     {
       "fileName": "muzzle_04_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/muzzle_04_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/muzzle_04_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/muzzle_04_rotated.png",
       "sha256": "76a51de75e489e5007d4e0140824120c7eda19877127d78e6531cfb0166df279",
       "size": 51171,
       "role": "Image"
@@ -1214,7 +1214,7 @@
     {
       "fileName": "muzzle_05_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/muzzle_05_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/muzzle_05_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/muzzle_05_rotated.png",
       "sha256": "c86c85323f6a2ad0e0d1349f17bc88b3951b8ac653c4b0bc133fb0baa28eaae9",
       "size": 44504,
       "role": "Image"
@@ -1222,7 +1222,7 @@
     {
       "fileName": "spark_05_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/spark_05_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/spark_05_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/spark_05_rotated.png",
       "sha256": "9bceb2b1a8a46d9eaffb4c77d5c4114ff7af8fcd36e586feb1f91bfe2af0e671",
       "size": 56533,
       "role": "Image"
@@ -1230,7 +1230,7 @@
     {
       "fileName": "spark_06_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/spark_06_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/spark_06_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/spark_06_rotated.png",
       "sha256": "1c47a5d892ac1816c8eb18ebddb1ecf7769a35bbdd5a6671677b565006623936",
       "size": 41431,
       "role": "Image"
@@ -1238,7 +1238,7 @@
     {
       "fileName": "trace_01_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/trace_01_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/trace_01_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/trace_01_rotated.png",
       "sha256": "6832399b81f21dfb9379159e25ea2efab85258f24a03a2eb7a3f9285829f98d4",
       "size": 28417,
       "role": "Image"
@@ -1246,7 +1246,7 @@
     {
       "fileName": "trace_02_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/trace_02_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/trace_02_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/trace_02_rotated.png",
       "sha256": "81c30ba255eacd9ff29b5c0b8028b2714a375d6dc7cd11133f515bc37123f0e3",
       "size": 31249,
       "role": "Image"
@@ -1254,7 +1254,7 @@
     {
       "fileName": "trace_03_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/trace_03_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/trace_03_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/trace_03_rotated.png",
       "sha256": "0037f0c659d2a546b0de452b9ea2d910626c3994154395fb84bf28b9c249c2e1",
       "size": 34894,
       "role": "Image"
@@ -1262,7 +1262,7 @@
     {
       "fileName": "trace_04_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/trace_04_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/trace_04_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/trace_04_rotated.png",
       "sha256": "857d9fe44e1af7123c1d1006caac5a3707588412997bc8f16591f01a2f73f6e9",
       "size": 36918,
       "role": "Image"
@@ -1270,7 +1270,7 @@
     {
       "fileName": "trace_05_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/trace_05_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/trace_05_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/trace_05_rotated.png",
       "sha256": "513aca6608ab2c3a677aacc99ad1055a200cd9a703b247c69fabce9695cce2e0",
       "size": 36725,
       "role": "Image"
@@ -1278,7 +1278,7 @@
     {
       "fileName": "trace_06_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/trace_06_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/trace_06_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/trace_06_rotated.png",
       "sha256": "098bd782fbbac098e30357acdef764184e601ccdf05d109f3dcfb698e5a7ea60",
       "size": 30533,
       "role": "Image"
@@ -1286,7 +1286,7 @@
     {
       "fileName": "trace_07_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/trace_07_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/trace_07_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/trace_07_rotated.png",
       "sha256": "fdfcc20aa9a194f8eee4081bf0f8de21fef48abcba4f073c183a406cdeb45f86",
       "size": 27368,
       "role": "Image"
@@ -1294,7 +1294,7 @@
     {
       "fileName": "circle_01.png",
       "path": "packs/kenney-particle-pack/sprites/circle_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/circle_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/circle_01.png",
       "sha256": "4b2d03683bf0fe4a946567adc3bd86b8ba045da84cee58dc2cf8aef63bbfaa06",
       "size": 69755,
       "role": "Image"
@@ -1302,7 +1302,7 @@
     {
       "fileName": "circle_02.png",
       "path": "packs/kenney-particle-pack/sprites/circle_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/circle_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/circle_02.png",
       "sha256": "8a2112a6a5610c7cdcbfe8af0a5162b42dfb3431c63f494743945337b7981e51",
       "size": 43380,
       "role": "Image"
@@ -1310,7 +1310,7 @@
     {
       "fileName": "circle_03.png",
       "path": "packs/kenney-particle-pack/sprites/circle_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/circle_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/circle_03.png",
       "sha256": "ed6c6f082e666c16bcaca89f15aefb55df9bf69450090518bcae1d3d61f82936",
       "size": 72952,
       "role": "Image"
@@ -1318,7 +1318,7 @@
     {
       "fileName": "circle_04.png",
       "path": "packs/kenney-particle-pack/sprites/circle_04.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/circle_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/circle_04.png",
       "sha256": "742da1a1b96b93ae446700f6085385d1f62844352da870c89427307b7b7cf03b",
       "size": 59557,
       "role": "Image"
@@ -1326,7 +1326,7 @@
     {
       "fileName": "circle_05.png",
       "path": "packs/kenney-particle-pack/sprites/circle_05.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/circle_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/circle_05.png",
       "sha256": "925b8ac284436f74f9cadf0ecd058da1c08fba65c098e4e34fd220603022f02e",
       "size": 65336,
       "role": "Image"
@@ -1334,7 +1334,7 @@
     {
       "fileName": "dirt_01.png",
       "path": "packs/kenney-particle-pack/sprites/dirt_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/dirt_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/dirt_01.png",
       "sha256": "6827a0a32a293ec9570fb98d63963b8dd6e6aaba9e1096afad932e93a378bea9",
       "size": 47313,
       "role": "Image"
@@ -1342,7 +1342,7 @@
     {
       "fileName": "dirt_02.png",
       "path": "packs/kenney-particle-pack/sprites/dirt_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/dirt_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/dirt_02.png",
       "sha256": "fcecc70b561f80568b3391c3dc1180126d86ce4fbd4d1b01518e6045203e10a3",
       "size": 54060,
       "role": "Image"
@@ -1350,7 +1350,7 @@
     {
       "fileName": "dirt_03.png",
       "path": "packs/kenney-particle-pack/sprites/dirt_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/dirt_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/dirt_03.png",
       "sha256": "427d6dcad5a8d16b8143d412a5a48ce859716150a074ea5bb36eca577c0ae541",
       "size": 114937,
       "role": "Image"
@@ -1358,7 +1358,7 @@
     {
       "fileName": "fire_01.png",
       "path": "packs/kenney-particle-pack/sprites/fire_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/fire_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/fire_01.png",
       "sha256": "9727a9743ac6ab8dd4dd79f5fc5b0266290efae45f4d4452279eb5e4bcf3a978",
       "size": 99891,
       "role": "Image"
@@ -1366,7 +1366,7 @@
     {
       "fileName": "fire_02.png",
       "path": "packs/kenney-particle-pack/sprites/fire_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/fire_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/fire_02.png",
       "sha256": "e2677330b0668033b0744276da74de605164aa5d58203bf251a8ec84e62c2108",
       "size": 88453,
       "role": "Image"
@@ -1374,7 +1374,7 @@
     {
       "fileName": "flame_01.png",
       "path": "packs/kenney-particle-pack/sprites/flame_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/flame_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/flame_01.png",
       "sha256": "92a70bcb90b1e21c57b2dae42843135703b2e988abee97433f84c3119723d144",
       "size": 54099,
       "role": "Image"
@@ -1382,7 +1382,7 @@
     {
       "fileName": "flame_02.png",
       "path": "packs/kenney-particle-pack/sprites/flame_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/flame_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/flame_02.png",
       "sha256": "7afff66979a5a30319d4fa491b13a9027223ebbdadfa38fae4ae76e31d05d9c5",
       "size": 68498,
       "role": "Image"
@@ -1390,7 +1390,7 @@
     {
       "fileName": "flame_03.png",
       "path": "packs/kenney-particle-pack/sprites/flame_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/flame_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/flame_03.png",
       "sha256": "366678a08a7d22ebb87baa7b42005aaaeb0fd51ab751f2d4e7c9edfa61a33e38",
       "size": 49857,
       "role": "Image"
@@ -1398,7 +1398,7 @@
     {
       "fileName": "flame_04.png",
       "path": "packs/kenney-particle-pack/sprites/flame_04.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/flame_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/flame_04.png",
       "sha256": "71deb274feea6ae5e6bb82c802a6e4d22f168397aa36b7a9e89de863948f3cf5",
       "size": 70731,
       "role": "Image"
@@ -1406,7 +1406,7 @@
     {
       "fileName": "flame_05.png",
       "path": "packs/kenney-particle-pack/sprites/flame_05.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/flame_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/flame_05.png",
       "sha256": "4c5cc587260010e4bb58b03cc2561ca0e96409e7db25ea4183cd3fb1d0237dc8",
       "size": 13395,
       "role": "Image"
@@ -1414,7 +1414,7 @@
     {
       "fileName": "flame_06.png",
       "path": "packs/kenney-particle-pack/sprites/flame_06.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/flame_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/flame_06.png",
       "sha256": "fc95ac4d0e61b22d079aeb5feabf2914d380858ad95852e5b1638ad820526948",
       "size": 15971,
       "role": "Image"
@@ -1422,7 +1422,7 @@
     {
       "fileName": "flare_01.png",
       "path": "packs/kenney-particle-pack/sprites/flare_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/flare_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/flare_01.png",
       "sha256": "254f5bd4f0548612bf29305d27899efdee8cb8d8306292761ebbddebd3e57935",
       "size": 42886,
       "role": "Image"
@@ -1430,7 +1430,7 @@
     {
       "fileName": "light_01.png",
       "path": "packs/kenney-particle-pack/sprites/light_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/light_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/light_01.png",
       "sha256": "caedcc5df5bcac4470244d2520d6a64b45b20c1ccf4d918da516c55e3fa365a6",
       "size": 93470,
       "role": "Image"
@@ -1438,7 +1438,7 @@
     {
       "fileName": "light_02.png",
       "path": "packs/kenney-particle-pack/sprites/light_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/light_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/light_02.png",
       "sha256": "f1bdb57478703fec539f7b8eeceb494c4a23664652b296389f310104be80cfe0",
       "size": 93415,
       "role": "Image"
@@ -1446,7 +1446,7 @@
     {
       "fileName": "light_03.png",
       "path": "packs/kenney-particle-pack/sprites/light_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/light_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/light_03.png",
       "sha256": "b68627734d08aab3eaf3f94718521553628c75aace1de6c74de28501c1a4c147",
       "size": 100114,
       "role": "Image"
@@ -1454,7 +1454,7 @@
     {
       "fileName": "magic_01.png",
       "path": "packs/kenney-particle-pack/sprites/magic_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/magic_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/magic_01.png",
       "sha256": "398479ea280c8161d0b6d509ca97eefb27e989c7832b404abcb65faae3e922ff",
       "size": 81687,
       "role": "Image"
@@ -1462,7 +1462,7 @@
     {
       "fileName": "magic_02.png",
       "path": "packs/kenney-particle-pack/sprites/magic_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/magic_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/magic_02.png",
       "sha256": "6443e90834abcae4c3848d7ebca99ff0d9fcad19a07f49f77ad64710a3e39b36",
       "size": 86500,
       "role": "Image"
@@ -1470,7 +1470,7 @@
     {
       "fileName": "magic_03.png",
       "path": "packs/kenney-particle-pack/sprites/magic_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/magic_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/magic_03.png",
       "sha256": "c2ef5fe86cd2fd08e5b9768389ab6580b346c391db3c7c09fc9b0a63e00ec4ce",
       "size": 58093,
       "role": "Image"
@@ -1478,7 +1478,7 @@
     {
       "fileName": "magic_04.png",
       "path": "packs/kenney-particle-pack/sprites/magic_04.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/magic_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/magic_04.png",
       "sha256": "8255a4a3bd9209a0d3a45f0636524ff0d2953adc7d6819041703107379ab63ba",
       "size": 50082,
       "role": "Image"
@@ -1486,7 +1486,7 @@
     {
       "fileName": "magic_05.png",
       "path": "packs/kenney-particle-pack/sprites/magic_05.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/magic_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/magic_05.png",
       "sha256": "92fb8c7a1d9bc14e052526c0505502c3e5b37d27502fa3d36d2c80b4565b62ef",
       "size": 74794,
       "role": "Image"
@@ -1494,7 +1494,7 @@
     {
       "fileName": "muzzle_01.png",
       "path": "packs/kenney-particle-pack/sprites/muzzle_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/muzzle_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/muzzle_01.png",
       "sha256": "08f650f6a615b65024b48d8da32178158d74307d7c235f214f0c075b7aa688b9",
       "size": 81811,
       "role": "Image"
@@ -1502,7 +1502,7 @@
     {
       "fileName": "muzzle_02.png",
       "path": "packs/kenney-particle-pack/sprites/muzzle_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/muzzle_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/muzzle_02.png",
       "sha256": "96164063353cc0386b3d3ad0d64b9be6c369e1d5d8510f84fcf33604b4729084",
       "size": 58365,
       "role": "Image"
@@ -1510,7 +1510,7 @@
     {
       "fileName": "muzzle_03.png",
       "path": "packs/kenney-particle-pack/sprites/muzzle_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/muzzle_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/muzzle_03.png",
       "sha256": "579983452d263ebeca78080714b6dd55a0f95fca7452f309e91a9d466de6c058",
       "size": 57240,
       "role": "Image"
@@ -1518,7 +1518,7 @@
     {
       "fileName": "muzzle_04.png",
       "path": "packs/kenney-particle-pack/sprites/muzzle_04.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/muzzle_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/muzzle_04.png",
       "sha256": "2acbc729b7bf38330b7e829cb0b13dcf922fec4b163f7eb2965b7b2932f89aeb",
       "size": 62593,
       "role": "Image"
@@ -1526,7 +1526,7 @@
     {
       "fileName": "muzzle_05.png",
       "path": "packs/kenney-particle-pack/sprites/muzzle_05.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/muzzle_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/muzzle_05.png",
       "sha256": "bc2d012c3bee75e668cc7800f965692b47af6edd6d3584081089a70abbe30a47",
       "size": 54088,
       "role": "Image"
@@ -1534,7 +1534,7 @@
     {
       "fileName": "scorch_01.png",
       "path": "packs/kenney-particle-pack/sprites/scorch_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/scorch_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/scorch_01.png",
       "sha256": "ea72697696638786ccd4795a346d177b1b6a904331b5536a7e85a7ed927b93a5",
       "size": 60598,
       "role": "Image"
@@ -1542,7 +1542,7 @@
     {
       "fileName": "scorch_02.png",
       "path": "packs/kenney-particle-pack/sprites/scorch_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/scorch_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/scorch_02.png",
       "sha256": "b36daaabbe0480b74e1e8d6b0b2e9a2d01974109b42b8a39c430af7739a953a1",
       "size": 74485,
       "role": "Image"
@@ -1550,7 +1550,7 @@
     {
       "fileName": "scorch_03.png",
       "path": "packs/kenney-particle-pack/sprites/scorch_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/scorch_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/scorch_03.png",
       "sha256": "531956355c8adcf6fbe0111788e68630c4b16209f9d7a6136978361a308202ec",
       "size": 91921,
       "role": "Image"
@@ -1558,7 +1558,7 @@
     {
       "fileName": "scratch_01.png",
       "path": "packs/kenney-particle-pack/sprites/scratch_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/scratch_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/scratch_01.png",
       "sha256": "7dc0b16a5240738273684bfdf423eefd8a135356af1fee759217cdd560a4a935",
       "size": 65462,
       "role": "Image"
@@ -1566,7 +1566,7 @@
     {
       "fileName": "slash_01.png",
       "path": "packs/kenney-particle-pack/sprites/slash_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/slash_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/slash_01.png",
       "sha256": "cb4787978122bb863866a1681af22a7dec39a4566f08c400f233740eb1d3730c",
       "size": 25465,
       "role": "Image"
@@ -1574,7 +1574,7 @@
     {
       "fileName": "slash_02.png",
       "path": "packs/kenney-particle-pack/sprites/slash_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/slash_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/slash_02.png",
       "sha256": "a79a9e297790e6126b78d41015a3045cda3f1863b421c88321d2442ed6f9032e",
       "size": 38224,
       "role": "Image"
@@ -1582,7 +1582,7 @@
     {
       "fileName": "slash_03.png",
       "path": "packs/kenney-particle-pack/sprites/slash_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/slash_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/slash_03.png",
       "sha256": "c77e40ef75084e880f2ea69acf70af4419518f489acda00d29b668a64805608e",
       "size": 16634,
       "role": "Image"
@@ -1590,7 +1590,7 @@
     {
       "fileName": "slash_04.png",
       "path": "packs/kenney-particle-pack/sprites/slash_04.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/slash_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/slash_04.png",
       "sha256": "1beed6d30b8b3fc0874cca12f57de073360f0b11fc6f4cd99a24b7e033784c47",
       "size": 17889,
       "role": "Image"
@@ -1598,7 +1598,7 @@
     {
       "fileName": "smoke_01.png",
       "path": "packs/kenney-particle-pack/sprites/smoke_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/smoke_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/smoke_01.png",
       "sha256": "e8724c219e8d35859167fc0a7e207e13c72ccf0c29704909b9bb3d3dc71c6cf7",
       "size": 97452,
       "role": "Image"
@@ -1606,7 +1606,7 @@
     {
       "fileName": "smoke_02.png",
       "path": "packs/kenney-particle-pack/sprites/smoke_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/smoke_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/smoke_02.png",
       "sha256": "c405cc0ceb31a239dfd873fffdfdfe3ff2056eebd5fcc77dfba1d9fdfed585c7",
       "size": 96825,
       "role": "Image"
@@ -1614,7 +1614,7 @@
     {
       "fileName": "smoke_03.png",
       "path": "packs/kenney-particle-pack/sprites/smoke_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/smoke_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/smoke_03.png",
       "sha256": "a71f8abcac64f8d73a94625cc9a10033dbeafa7eaea750560cba0daa73fe8752",
       "size": 39737,
       "role": "Image"
@@ -1622,7 +1622,7 @@
     {
       "fileName": "smoke_04.png",
       "path": "packs/kenney-particle-pack/sprites/smoke_04.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/smoke_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/smoke_04.png",
       "sha256": "2db2f69874cdb1e5203f2f86803d5debde30402590cf50a810afaba882184616",
       "size": 97568,
       "role": "Image"
@@ -1630,7 +1630,7 @@
     {
       "fileName": "smoke_05.png",
       "path": "packs/kenney-particle-pack/sprites/smoke_05.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/smoke_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/smoke_05.png",
       "sha256": "e88c8416bd8da1b3f9f19e615dcebdf42f71045799cb4c41f545cb16dd835e35",
       "size": 83445,
       "role": "Image"
@@ -1638,7 +1638,7 @@
     {
       "fileName": "smoke_06.png",
       "path": "packs/kenney-particle-pack/sprites/smoke_06.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/smoke_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/smoke_06.png",
       "sha256": "d988b03bb46797be913333f06b26ff2aad55ec082cfb7d3d18ce86ccb71559b5",
       "size": 62156,
       "role": "Image"
@@ -1646,7 +1646,7 @@
     {
       "fileName": "smoke_07.png",
       "path": "packs/kenney-particle-pack/sprites/smoke_07.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/smoke_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/smoke_07.png",
       "sha256": "f7419fa4f11e346d0fb36a17ecbf616083c6962633c7847d92119c994ed9b4e4",
       "size": 77838,
       "role": "Image"
@@ -1654,7 +1654,7 @@
     {
       "fileName": "smoke_08.png",
       "path": "packs/kenney-particle-pack/sprites/smoke_08.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/smoke_08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/smoke_08.png",
       "sha256": "eae1d92c205a2654254281d470ee70cce86cf4e8e849db29e4d5edff0f67c695",
       "size": 90424,
       "role": "Image"
@@ -1662,7 +1662,7 @@
     {
       "fileName": "smoke_09.png",
       "path": "packs/kenney-particle-pack/sprites/smoke_09.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/smoke_09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/smoke_09.png",
       "sha256": "7c66cf05c52aefb1f3e37c54917289a11d9268a995dbc4effc8ca80242a4122b",
       "size": 87963,
       "role": "Image"
@@ -1670,7 +1670,7 @@
     {
       "fileName": "smoke_10.png",
       "path": "packs/kenney-particle-pack/sprites/smoke_10.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/smoke_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/smoke_10.png",
       "sha256": "35d1082a87de7558aeeab210fecb43997c958e162ede896587d1930f66e6ae67",
       "size": 90497,
       "role": "Image"
@@ -1678,7 +1678,7 @@
     {
       "fileName": "spark_01.png",
       "path": "packs/kenney-particle-pack/sprites/spark_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/spark_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/spark_01.png",
       "sha256": "5902da3a324cad0a4b5a88ce1e3c9cc18fee50922c358ce93d8c9f1ad7708f0a",
       "size": 95070,
       "role": "Image"
@@ -1686,7 +1686,7 @@
     {
       "fileName": "spark_02.png",
       "path": "packs/kenney-particle-pack/sprites/spark_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/spark_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/spark_02.png",
       "sha256": "f7c5f1f849657eed79fd7b663be5a57829450a1e4fdc4a062049a05b9a406e89",
       "size": 101613,
       "role": "Image"
@@ -1694,7 +1694,7 @@
     {
       "fileName": "spark_03.png",
       "path": "packs/kenney-particle-pack/sprites/spark_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/spark_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/spark_03.png",
       "sha256": "90f322bebe5facea2f60afe88d98dd80a21479ed3212e605d61e88a896f3e1db",
       "size": 79574,
       "role": "Image"
@@ -1702,7 +1702,7 @@
     {
       "fileName": "spark_04.png",
       "path": "packs/kenney-particle-pack/sprites/spark_04.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/spark_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/spark_04.png",
       "sha256": "3cba35b80a97c12283a8ecd41780a0412194de14562cbffc7f04e9157183f772",
       "size": 83811,
       "role": "Image"
@@ -1710,7 +1710,7 @@
     {
       "fileName": "spark_05.png",
       "path": "packs/kenney-particle-pack/sprites/spark_05.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/spark_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/spark_05.png",
       "sha256": "9624ea2017b8b2767a9d3b82e978b7fdf5154d83e6756cd919da51447bb97138",
       "size": 64808,
       "role": "Image"
@@ -1718,7 +1718,7 @@
     {
       "fileName": "spark_06.png",
       "path": "packs/kenney-particle-pack/sprites/spark_06.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/spark_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/spark_06.png",
       "sha256": "fe6d473393d3b9350c7a654b7cb5fbd343766b5b5b11d3e4aba476832d4a6d3f",
       "size": 46347,
       "role": "Image"
@@ -1726,7 +1726,7 @@
     {
       "fileName": "spark_07.png",
       "path": "packs/kenney-particle-pack/sprites/spark_07.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/spark_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/spark_07.png",
       "sha256": "216101e7b54c627b4aa780649a21f0ef9146d2566f52699284d091ef00825a26",
       "size": 40968,
       "role": "Image"
@@ -1734,7 +1734,7 @@
     {
       "fileName": "star_01.png",
       "path": "packs/kenney-particle-pack/sprites/star_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/star_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/star_01.png",
       "sha256": "3ba3999c944a0767677449412d306c1f230daa1743b31f929533cf77a22ecf5d",
       "size": 42118,
       "role": "Image"
@@ -1742,7 +1742,7 @@
     {
       "fileName": "star_02.png",
       "path": "packs/kenney-particle-pack/sprites/star_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/star_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/star_02.png",
       "sha256": "a0b7624a2e6f6825a3e93ddec685728c4d3de03b77bbf2a2e425b7a6d3d0215b",
       "size": 49897,
       "role": "Image"
@@ -1750,7 +1750,7 @@
     {
       "fileName": "star_03.png",
       "path": "packs/kenney-particle-pack/sprites/star_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/star_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/star_03.png",
       "sha256": "dac75aa35e5191de1917ec076d47f3b43a47b80d9aae6eefffb920c5ceba3601",
       "size": 56622,
       "role": "Image"
@@ -1758,7 +1758,7 @@
     {
       "fileName": "star_04.png",
       "path": "packs/kenney-particle-pack/sprites/star_04.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/star_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/star_04.png",
       "sha256": "6485ac16c773663bd39346f3bedae04465ac14c661eb47cc5cfa935cdbf6c2ec",
       "size": 30613,
       "role": "Image"
@@ -1766,7 +1766,7 @@
     {
       "fileName": "star_05.png",
       "path": "packs/kenney-particle-pack/sprites/star_05.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/star_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/star_05.png",
       "sha256": "1e8ab968178e507824ab28353c0ffffa918ae3adbcf89513d3db50a17b7bc8a2",
       "size": 62216,
       "role": "Image"
@@ -1774,7 +1774,7 @@
     {
       "fileName": "star_06.png",
       "path": "packs/kenney-particle-pack/sprites/star_06.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/star_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/star_06.png",
       "sha256": "65d3ff5aa87ec0770c11fe1293fdc70cdc5ccf0eabc2e2fd6a1ead922051035e",
       "size": 35453,
       "role": "Image"
@@ -1782,7 +1782,7 @@
     {
       "fileName": "star_07.png",
       "path": "packs/kenney-particle-pack/sprites/star_07.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/star_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/star_07.png",
       "sha256": "d3bc9b8f1960baab452e8a5e816b9edeee4420dbed5ddd7ebe174519860a451a",
       "size": 32369,
       "role": "Image"
@@ -1790,7 +1790,7 @@
     {
       "fileName": "star_08.png",
       "path": "packs/kenney-particle-pack/sprites/star_08.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/star_08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/star_08.png",
       "sha256": "05f24d1ee76c1464074cbca58155e4be517fefd34a7001bb012561647cc3dec3",
       "size": 26479,
       "role": "Image"
@@ -1798,7 +1798,7 @@
     {
       "fileName": "star_09.png",
       "path": "packs/kenney-particle-pack/sprites/star_09.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/star_09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/star_09.png",
       "sha256": "4255985e312a0058dc0c4f8b5befc902da17e6be5e5252007f3c7b02bb150157",
       "size": 50142,
       "role": "Image"
@@ -1806,7 +1806,7 @@
     {
       "fileName": "symbol_01.png",
       "path": "packs/kenney-particle-pack/sprites/symbol_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/symbol_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/symbol_01.png",
       "sha256": "3eb3988f3e80acf3fda9df07733f49c3585eafa7d6a7ce5b31765fe180dd6d9c",
       "size": 9088,
       "role": "Image"
@@ -1814,7 +1814,7 @@
     {
       "fileName": "symbol_02.png",
       "path": "packs/kenney-particle-pack/sprites/symbol_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/symbol_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/symbol_02.png",
       "sha256": "1582e947d6793ec74fafabe587750af1b2655d1cd4ffe65bce1967c85b362ba8",
       "size": 7608,
       "role": "Image"
@@ -1822,7 +1822,7 @@
     {
       "fileName": "trace_01.png",
       "path": "packs/kenney-particle-pack/sprites/trace_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/trace_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/trace_01.png",
       "sha256": "34de69bc3f665b23fe9bed15f388efd8e8e4dc1a99f2fc5db9ba8715c525711f",
       "size": 38406,
       "role": "Image"
@@ -1830,7 +1830,7 @@
     {
       "fileName": "trace_02.png",
       "path": "packs/kenney-particle-pack/sprites/trace_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/trace_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/trace_02.png",
       "sha256": "8c224d6d4544d8437bce5ee51452957b31f5479e337c5f432dc1b55b1e2f9685",
       "size": 39395,
       "role": "Image"
@@ -1838,7 +1838,7 @@
     {
       "fileName": "trace_03.png",
       "path": "packs/kenney-particle-pack/sprites/trace_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/trace_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/trace_03.png",
       "sha256": "a8c05800698cd502c3416a1f2335292544d52b3c8624c3c829a534c52b364860",
       "size": 42254,
       "role": "Image"
@@ -1846,7 +1846,7 @@
     {
       "fileName": "trace_04.png",
       "path": "packs/kenney-particle-pack/sprites/trace_04.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/trace_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/trace_04.png",
       "sha256": "ca69d82709295663ef1d9fcd90d346319fef5389a15dd63e3b71b4527e620cd8",
       "size": 47104,
       "role": "Image"
@@ -1854,7 +1854,7 @@
     {
       "fileName": "trace_05.png",
       "path": "packs/kenney-particle-pack/sprites/trace_05.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/trace_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/trace_05.png",
       "sha256": "3f3d687bd2c70b10add33bdbd4616deda28f0138f757d358f9f0b78fb38bde6e",
       "size": 42174,
       "role": "Image"
@@ -1862,7 +1862,7 @@
     {
       "fileName": "trace_06.png",
       "path": "packs/kenney-particle-pack/sprites/trace_06.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/trace_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/trace_06.png",
       "sha256": "22c61c0e280db28b6cb6033c015dde4360a124b3488302ea708566b7f36fd900",
       "size": 36247,
       "role": "Image"
@@ -1870,7 +1870,7 @@
     {
       "fileName": "trace_07.png",
       "path": "packs/kenney-particle-pack/sprites/trace_07.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/trace_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/trace_07.png",
       "sha256": "4e5f177b7717d291464f01538756eb2f471961b09b39ea82ea72447210af7110",
       "size": 33145,
       "role": "Image"
@@ -1878,7 +1878,7 @@
     {
       "fileName": "twirl_01.png",
       "path": "packs/kenney-particle-pack/sprites/twirl_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/twirl_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/twirl_01.png",
       "sha256": "ba3f4996a5a91ea3cba6817a9b4770a385a82ef0b9350cbda5c0f140d182af7e",
       "size": 51060,
       "role": "Image"
@@ -1886,7 +1886,7 @@
     {
       "fileName": "twirl_02.png",
       "path": "packs/kenney-particle-pack/sprites/twirl_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/twirl_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/twirl_02.png",
       "sha256": "3963633f6b2395a3fa95b9f4f65f22a4d38a2c561d9312dfff4646b71c7aa6e2",
       "size": 76886,
       "role": "Image"
@@ -1894,7 +1894,7 @@
     {
       "fileName": "twirl_03.png",
       "path": "packs/kenney-particle-pack/sprites/twirl_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/twirl_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/twirl_03.png",
       "sha256": "69baaab4bc68473e9f926dc249a1d1b58f759c88906e10ac859bf43ac3cfbc8b",
       "size": 81463,
       "role": "Image"
@@ -1902,7 +1902,7 @@
     {
       "fileName": "window_01.png",
       "path": "packs/kenney-particle-pack/sprites/window_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/window_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/window_01.png",
       "sha256": "373747a996fcfc320c76d093bde08252db2adde8d29672aca98430e521e702fa",
       "size": 33759,
       "role": "Image"
@@ -1910,7 +1910,7 @@
     {
       "fileName": "window_02.png",
       "path": "packs/kenney-particle-pack/sprites/window_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/window_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/window_02.png",
       "sha256": "2b430446f1527409d00b418370975f7b08572282aea732503f9a22837055d54d",
       "size": 39286,
       "role": "Image"
@@ -1918,7 +1918,7 @@
     {
       "fileName": "window_03.png",
       "path": "packs/kenney-particle-pack/sprites/window_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/window_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/window_03.png",
       "sha256": "452680cff9e62da90a4b3bff96dd7634d05624ee2d58fd5db7d89f48a60cdf8c",
       "size": 16860,
       "role": "Image"
@@ -1926,7 +1926,7 @@
     {
       "fileName": "window_04.png",
       "path": "packs/kenney-particle-pack/sprites/window_04.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/window_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/window_04.png",
       "sha256": "096be5e6f21547f16f302747a607020b2f1214842618de7a078587f6b8f1956e",
       "size": 52143,
       "role": "Image"
@@ -1936,7 +1936,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/kenney-particle-pack/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/cover.png",
       "sha256": "37b1b04371116a4ed3b2316056880034b0db7f59605a50c9058591de01b716e0",
       "size": 91674,
       "contentType": "image/png",
@@ -1945,7 +1945,7 @@
     {
       "fileName": "flame_05_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/flame_05_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/flame_05_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/flame_05_rotated.png",
       "sha256": "08afb8deef9edbfb47571805a2f5b1316c5c99d5056f23b13d060eece3a752de",
       "size": 12155,
       "contentType": "image/png",
@@ -1955,7 +1955,7 @@
     {
       "fileName": "flame_06_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/flame_06_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/flame_06_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/flame_06_rotated.png",
       "sha256": "c72289cfe6e25d2763eef9db9b55a38f04d027ba0ca7fe6d4830b2ebd9b63dce",
       "size": 14979,
       "contentType": "image/png",
@@ -1965,7 +1965,7 @@
     {
       "fileName": "muzzle_01_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/muzzle_01_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/muzzle_01_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/muzzle_01_rotated.png",
       "sha256": "6b0bae33c25ef54702f40272d121412131e8f089ae03c958533f4887288d8f59",
       "size": 75703,
       "contentType": "image/png",
@@ -1975,7 +1975,7 @@
     {
       "fileName": "muzzle_02_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/muzzle_02_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/muzzle_02_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/muzzle_02_rotated.png",
       "sha256": "6bca0de7b38b9bc7ea7ad38940720ebfe138363155848cfb7bf15e56681defe9",
       "size": 49401,
       "contentType": "image/png",
@@ -1985,7 +1985,7 @@
     {
       "fileName": "muzzle_03_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/muzzle_03_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/muzzle_03_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/muzzle_03_rotated.png",
       "sha256": "3a625935b4b2a89beb0f2aefb3db3a50c062f2bd3a99cf2a8aaf3f53cef437bb",
       "size": 48054,
       "contentType": "image/png",
@@ -1995,7 +1995,7 @@
     {
       "fileName": "muzzle_04_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/muzzle_04_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/muzzle_04_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/muzzle_04_rotated.png",
       "sha256": "76a51de75e489e5007d4e0140824120c7eda19877127d78e6531cfb0166df279",
       "size": 51171,
       "contentType": "image/png",
@@ -2005,7 +2005,7 @@
     {
       "fileName": "muzzle_05_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/muzzle_05_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/muzzle_05_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/muzzle_05_rotated.png",
       "sha256": "c86c85323f6a2ad0e0d1349f17bc88b3951b8ac653c4b0bc133fb0baa28eaae9",
       "size": 44504,
       "contentType": "image/png",
@@ -2015,7 +2015,7 @@
     {
       "fileName": "spark_05_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/spark_05_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/spark_05_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/spark_05_rotated.png",
       "sha256": "9bceb2b1a8a46d9eaffb4c77d5c4114ff7af8fcd36e586feb1f91bfe2af0e671",
       "size": 56533,
       "contentType": "image/png",
@@ -2025,7 +2025,7 @@
     {
       "fileName": "spark_06_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/spark_06_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/spark_06_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/spark_06_rotated.png",
       "sha256": "1c47a5d892ac1816c8eb18ebddb1ecf7769a35bbdd5a6671677b565006623936",
       "size": 41431,
       "contentType": "image/png",
@@ -2035,7 +2035,7 @@
     {
       "fileName": "trace_01_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/trace_01_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/trace_01_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/trace_01_rotated.png",
       "sha256": "6832399b81f21dfb9379159e25ea2efab85258f24a03a2eb7a3f9285829f98d4",
       "size": 28417,
       "contentType": "image/png",
@@ -2045,7 +2045,7 @@
     {
       "fileName": "trace_02_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/trace_02_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/trace_02_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/trace_02_rotated.png",
       "sha256": "81c30ba255eacd9ff29b5c0b8028b2714a375d6dc7cd11133f515bc37123f0e3",
       "size": 31249,
       "contentType": "image/png",
@@ -2055,7 +2055,7 @@
     {
       "fileName": "trace_03_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/trace_03_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/trace_03_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/trace_03_rotated.png",
       "sha256": "0037f0c659d2a546b0de452b9ea2d910626c3994154395fb84bf28b9c249c2e1",
       "size": 34894,
       "contentType": "image/png",
@@ -2065,7 +2065,7 @@
     {
       "fileName": "trace_04_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/trace_04_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/trace_04_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/trace_04_rotated.png",
       "sha256": "857d9fe44e1af7123c1d1006caac5a3707588412997bc8f16591f01a2f73f6e9",
       "size": 36918,
       "contentType": "image/png",
@@ -2075,7 +2075,7 @@
     {
       "fileName": "trace_05_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/trace_05_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/trace_05_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/trace_05_rotated.png",
       "sha256": "513aca6608ab2c3a677aacc99ad1055a200cd9a703b247c69fabce9695cce2e0",
       "size": 36725,
       "contentType": "image/png",
@@ -2085,7 +2085,7 @@
     {
       "fileName": "trace_06_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/trace_06_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/trace_06_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/trace_06_rotated.png",
       "sha256": "098bd782fbbac098e30357acdef764184e601ccdf05d109f3dcfb698e5a7ea60",
       "size": 30533,
       "contentType": "image/png",
@@ -2095,7 +2095,7 @@
     {
       "fileName": "trace_07_rotated.png",
       "path": "packs/kenney-particle-pack/sprites/Rotated/trace_07_rotated.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/Rotated/trace_07_rotated.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/Rotated/trace_07_rotated.png",
       "sha256": "fdfcc20aa9a194f8eee4081bf0f8de21fef48abcba4f073c183a406cdeb45f86",
       "size": 27368,
       "contentType": "image/png",
@@ -2105,7 +2105,7 @@
     {
       "fileName": "circle_01.png",
       "path": "packs/kenney-particle-pack/sprites/circle_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/circle_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/circle_01.png",
       "sha256": "4b2d03683bf0fe4a946567adc3bd86b8ba045da84cee58dc2cf8aef63bbfaa06",
       "size": 69755,
       "contentType": "image/png",
@@ -2115,7 +2115,7 @@
     {
       "fileName": "circle_02.png",
       "path": "packs/kenney-particle-pack/sprites/circle_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/circle_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/circle_02.png",
       "sha256": "8a2112a6a5610c7cdcbfe8af0a5162b42dfb3431c63f494743945337b7981e51",
       "size": 43380,
       "contentType": "image/png",
@@ -2125,7 +2125,7 @@
     {
       "fileName": "circle_03.png",
       "path": "packs/kenney-particle-pack/sprites/circle_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/circle_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/circle_03.png",
       "sha256": "ed6c6f082e666c16bcaca89f15aefb55df9bf69450090518bcae1d3d61f82936",
       "size": 72952,
       "contentType": "image/png",
@@ -2135,7 +2135,7 @@
     {
       "fileName": "circle_04.png",
       "path": "packs/kenney-particle-pack/sprites/circle_04.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/circle_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/circle_04.png",
       "sha256": "742da1a1b96b93ae446700f6085385d1f62844352da870c89427307b7b7cf03b",
       "size": 59557,
       "contentType": "image/png",
@@ -2145,7 +2145,7 @@
     {
       "fileName": "circle_05.png",
       "path": "packs/kenney-particle-pack/sprites/circle_05.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/circle_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/circle_05.png",
       "sha256": "925b8ac284436f74f9cadf0ecd058da1c08fba65c098e4e34fd220603022f02e",
       "size": 65336,
       "contentType": "image/png",
@@ -2155,7 +2155,7 @@
     {
       "fileName": "dirt_01.png",
       "path": "packs/kenney-particle-pack/sprites/dirt_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/dirt_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/dirt_01.png",
       "sha256": "6827a0a32a293ec9570fb98d63963b8dd6e6aaba9e1096afad932e93a378bea9",
       "size": 47313,
       "contentType": "image/png",
@@ -2165,7 +2165,7 @@
     {
       "fileName": "dirt_02.png",
       "path": "packs/kenney-particle-pack/sprites/dirt_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/dirt_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/dirt_02.png",
       "sha256": "fcecc70b561f80568b3391c3dc1180126d86ce4fbd4d1b01518e6045203e10a3",
       "size": 54060,
       "contentType": "image/png",
@@ -2175,7 +2175,7 @@
     {
       "fileName": "dirt_03.png",
       "path": "packs/kenney-particle-pack/sprites/dirt_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/dirt_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/dirt_03.png",
       "sha256": "427d6dcad5a8d16b8143d412a5a48ce859716150a074ea5bb36eca577c0ae541",
       "size": 114937,
       "contentType": "image/png",
@@ -2185,7 +2185,7 @@
     {
       "fileName": "fire_01.png",
       "path": "packs/kenney-particle-pack/sprites/fire_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/fire_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/fire_01.png",
       "sha256": "9727a9743ac6ab8dd4dd79f5fc5b0266290efae45f4d4452279eb5e4bcf3a978",
       "size": 99891,
       "contentType": "image/png",
@@ -2195,7 +2195,7 @@
     {
       "fileName": "fire_02.png",
       "path": "packs/kenney-particle-pack/sprites/fire_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/fire_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/fire_02.png",
       "sha256": "e2677330b0668033b0744276da74de605164aa5d58203bf251a8ec84e62c2108",
       "size": 88453,
       "contentType": "image/png",
@@ -2205,7 +2205,7 @@
     {
       "fileName": "flame_01.png",
       "path": "packs/kenney-particle-pack/sprites/flame_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/flame_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/flame_01.png",
       "sha256": "92a70bcb90b1e21c57b2dae42843135703b2e988abee97433f84c3119723d144",
       "size": 54099,
       "contentType": "image/png",
@@ -2215,7 +2215,7 @@
     {
       "fileName": "flame_02.png",
       "path": "packs/kenney-particle-pack/sprites/flame_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/flame_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/flame_02.png",
       "sha256": "7afff66979a5a30319d4fa491b13a9027223ebbdadfa38fae4ae76e31d05d9c5",
       "size": 68498,
       "contentType": "image/png",
@@ -2225,7 +2225,7 @@
     {
       "fileName": "flame_03.png",
       "path": "packs/kenney-particle-pack/sprites/flame_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/flame_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/flame_03.png",
       "sha256": "366678a08a7d22ebb87baa7b42005aaaeb0fd51ab751f2d4e7c9edfa61a33e38",
       "size": 49857,
       "contentType": "image/png",
@@ -2235,7 +2235,7 @@
     {
       "fileName": "flame_04.png",
       "path": "packs/kenney-particle-pack/sprites/flame_04.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/flame_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/flame_04.png",
       "sha256": "71deb274feea6ae5e6bb82c802a6e4d22f168397aa36b7a9e89de863948f3cf5",
       "size": 70731,
       "contentType": "image/png",
@@ -2245,7 +2245,7 @@
     {
       "fileName": "flame_05.png",
       "path": "packs/kenney-particle-pack/sprites/flame_05.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/flame_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/flame_05.png",
       "sha256": "4c5cc587260010e4bb58b03cc2561ca0e96409e7db25ea4183cd3fb1d0237dc8",
       "size": 13395,
       "contentType": "image/png",
@@ -2255,7 +2255,7 @@
     {
       "fileName": "flame_06.png",
       "path": "packs/kenney-particle-pack/sprites/flame_06.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/flame_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/flame_06.png",
       "sha256": "fc95ac4d0e61b22d079aeb5feabf2914d380858ad95852e5b1638ad820526948",
       "size": 15971,
       "contentType": "image/png",
@@ -2265,7 +2265,7 @@
     {
       "fileName": "flare_01.png",
       "path": "packs/kenney-particle-pack/sprites/flare_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/flare_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/flare_01.png",
       "sha256": "254f5bd4f0548612bf29305d27899efdee8cb8d8306292761ebbddebd3e57935",
       "size": 42886,
       "contentType": "image/png",
@@ -2275,7 +2275,7 @@
     {
       "fileName": "light_01.png",
       "path": "packs/kenney-particle-pack/sprites/light_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/light_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/light_01.png",
       "sha256": "caedcc5df5bcac4470244d2520d6a64b45b20c1ccf4d918da516c55e3fa365a6",
       "size": 93470,
       "contentType": "image/png",
@@ -2285,7 +2285,7 @@
     {
       "fileName": "light_02.png",
       "path": "packs/kenney-particle-pack/sprites/light_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/light_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/light_02.png",
       "sha256": "f1bdb57478703fec539f7b8eeceb494c4a23664652b296389f310104be80cfe0",
       "size": 93415,
       "contentType": "image/png",
@@ -2295,7 +2295,7 @@
     {
       "fileName": "light_03.png",
       "path": "packs/kenney-particle-pack/sprites/light_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/light_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/light_03.png",
       "sha256": "b68627734d08aab3eaf3f94718521553628c75aace1de6c74de28501c1a4c147",
       "size": 100114,
       "contentType": "image/png",
@@ -2305,7 +2305,7 @@
     {
       "fileName": "magic_01.png",
       "path": "packs/kenney-particle-pack/sprites/magic_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/magic_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/magic_01.png",
       "sha256": "398479ea280c8161d0b6d509ca97eefb27e989c7832b404abcb65faae3e922ff",
       "size": 81687,
       "contentType": "image/png",
@@ -2315,7 +2315,7 @@
     {
       "fileName": "magic_02.png",
       "path": "packs/kenney-particle-pack/sprites/magic_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/magic_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/magic_02.png",
       "sha256": "6443e90834abcae4c3848d7ebca99ff0d9fcad19a07f49f77ad64710a3e39b36",
       "size": 86500,
       "contentType": "image/png",
@@ -2325,7 +2325,7 @@
     {
       "fileName": "magic_03.png",
       "path": "packs/kenney-particle-pack/sprites/magic_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/magic_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/magic_03.png",
       "sha256": "c2ef5fe86cd2fd08e5b9768389ab6580b346c391db3c7c09fc9b0a63e00ec4ce",
       "size": 58093,
       "contentType": "image/png",
@@ -2335,7 +2335,7 @@
     {
       "fileName": "magic_04.png",
       "path": "packs/kenney-particle-pack/sprites/magic_04.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/magic_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/magic_04.png",
       "sha256": "8255a4a3bd9209a0d3a45f0636524ff0d2953adc7d6819041703107379ab63ba",
       "size": 50082,
       "contentType": "image/png",
@@ -2345,7 +2345,7 @@
     {
       "fileName": "magic_05.png",
       "path": "packs/kenney-particle-pack/sprites/magic_05.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/magic_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/magic_05.png",
       "sha256": "92fb8c7a1d9bc14e052526c0505502c3e5b37d27502fa3d36d2c80b4565b62ef",
       "size": 74794,
       "contentType": "image/png",
@@ -2355,7 +2355,7 @@
     {
       "fileName": "muzzle_01.png",
       "path": "packs/kenney-particle-pack/sprites/muzzle_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/muzzle_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/muzzle_01.png",
       "sha256": "08f650f6a615b65024b48d8da32178158d74307d7c235f214f0c075b7aa688b9",
       "size": 81811,
       "contentType": "image/png",
@@ -2365,7 +2365,7 @@
     {
       "fileName": "muzzle_02.png",
       "path": "packs/kenney-particle-pack/sprites/muzzle_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/muzzle_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/muzzle_02.png",
       "sha256": "96164063353cc0386b3d3ad0d64b9be6c369e1d5d8510f84fcf33604b4729084",
       "size": 58365,
       "contentType": "image/png",
@@ -2375,7 +2375,7 @@
     {
       "fileName": "muzzle_03.png",
       "path": "packs/kenney-particle-pack/sprites/muzzle_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/muzzle_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/muzzle_03.png",
       "sha256": "579983452d263ebeca78080714b6dd55a0f95fca7452f309e91a9d466de6c058",
       "size": 57240,
       "contentType": "image/png",
@@ -2385,7 +2385,7 @@
     {
       "fileName": "muzzle_04.png",
       "path": "packs/kenney-particle-pack/sprites/muzzle_04.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/muzzle_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/muzzle_04.png",
       "sha256": "2acbc729b7bf38330b7e829cb0b13dcf922fec4b163f7eb2965b7b2932f89aeb",
       "size": 62593,
       "contentType": "image/png",
@@ -2395,7 +2395,7 @@
     {
       "fileName": "muzzle_05.png",
       "path": "packs/kenney-particle-pack/sprites/muzzle_05.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/muzzle_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/muzzle_05.png",
       "sha256": "bc2d012c3bee75e668cc7800f965692b47af6edd6d3584081089a70abbe30a47",
       "size": 54088,
       "contentType": "image/png",
@@ -2405,7 +2405,7 @@
     {
       "fileName": "scorch_01.png",
       "path": "packs/kenney-particle-pack/sprites/scorch_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/scorch_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/scorch_01.png",
       "sha256": "ea72697696638786ccd4795a346d177b1b6a904331b5536a7e85a7ed927b93a5",
       "size": 60598,
       "contentType": "image/png",
@@ -2415,7 +2415,7 @@
     {
       "fileName": "scorch_02.png",
       "path": "packs/kenney-particle-pack/sprites/scorch_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/scorch_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/scorch_02.png",
       "sha256": "b36daaabbe0480b74e1e8d6b0b2e9a2d01974109b42b8a39c430af7739a953a1",
       "size": 74485,
       "contentType": "image/png",
@@ -2425,7 +2425,7 @@
     {
       "fileName": "scorch_03.png",
       "path": "packs/kenney-particle-pack/sprites/scorch_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/scorch_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/scorch_03.png",
       "sha256": "531956355c8adcf6fbe0111788e68630c4b16209f9d7a6136978361a308202ec",
       "size": 91921,
       "contentType": "image/png",
@@ -2435,7 +2435,7 @@
     {
       "fileName": "scratch_01.png",
       "path": "packs/kenney-particle-pack/sprites/scratch_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/scratch_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/scratch_01.png",
       "sha256": "7dc0b16a5240738273684bfdf423eefd8a135356af1fee759217cdd560a4a935",
       "size": 65462,
       "contentType": "image/png",
@@ -2445,7 +2445,7 @@
     {
       "fileName": "slash_01.png",
       "path": "packs/kenney-particle-pack/sprites/slash_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/slash_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/slash_01.png",
       "sha256": "cb4787978122bb863866a1681af22a7dec39a4566f08c400f233740eb1d3730c",
       "size": 25465,
       "contentType": "image/png",
@@ -2455,7 +2455,7 @@
     {
       "fileName": "slash_02.png",
       "path": "packs/kenney-particle-pack/sprites/slash_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/slash_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/slash_02.png",
       "sha256": "a79a9e297790e6126b78d41015a3045cda3f1863b421c88321d2442ed6f9032e",
       "size": 38224,
       "contentType": "image/png",
@@ -2465,7 +2465,7 @@
     {
       "fileName": "slash_03.png",
       "path": "packs/kenney-particle-pack/sprites/slash_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/slash_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/slash_03.png",
       "sha256": "c77e40ef75084e880f2ea69acf70af4419518f489acda00d29b668a64805608e",
       "size": 16634,
       "contentType": "image/png",
@@ -2475,7 +2475,7 @@
     {
       "fileName": "slash_04.png",
       "path": "packs/kenney-particle-pack/sprites/slash_04.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/slash_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/slash_04.png",
       "sha256": "1beed6d30b8b3fc0874cca12f57de073360f0b11fc6f4cd99a24b7e033784c47",
       "size": 17889,
       "contentType": "image/png",
@@ -2485,7 +2485,7 @@
     {
       "fileName": "smoke_01.png",
       "path": "packs/kenney-particle-pack/sprites/smoke_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/smoke_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/smoke_01.png",
       "sha256": "e8724c219e8d35859167fc0a7e207e13c72ccf0c29704909b9bb3d3dc71c6cf7",
       "size": 97452,
       "contentType": "image/png",
@@ -2495,7 +2495,7 @@
     {
       "fileName": "smoke_02.png",
       "path": "packs/kenney-particle-pack/sprites/smoke_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/smoke_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/smoke_02.png",
       "sha256": "c405cc0ceb31a239dfd873fffdfdfe3ff2056eebd5fcc77dfba1d9fdfed585c7",
       "size": 96825,
       "contentType": "image/png",
@@ -2505,7 +2505,7 @@
     {
       "fileName": "smoke_03.png",
       "path": "packs/kenney-particle-pack/sprites/smoke_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/smoke_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/smoke_03.png",
       "sha256": "a71f8abcac64f8d73a94625cc9a10033dbeafa7eaea750560cba0daa73fe8752",
       "size": 39737,
       "contentType": "image/png",
@@ -2515,7 +2515,7 @@
     {
       "fileName": "smoke_04.png",
       "path": "packs/kenney-particle-pack/sprites/smoke_04.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/smoke_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/smoke_04.png",
       "sha256": "2db2f69874cdb1e5203f2f86803d5debde30402590cf50a810afaba882184616",
       "size": 97568,
       "contentType": "image/png",
@@ -2525,7 +2525,7 @@
     {
       "fileName": "smoke_05.png",
       "path": "packs/kenney-particle-pack/sprites/smoke_05.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/smoke_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/smoke_05.png",
       "sha256": "e88c8416bd8da1b3f9f19e615dcebdf42f71045799cb4c41f545cb16dd835e35",
       "size": 83445,
       "contentType": "image/png",
@@ -2535,7 +2535,7 @@
     {
       "fileName": "smoke_06.png",
       "path": "packs/kenney-particle-pack/sprites/smoke_06.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/smoke_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/smoke_06.png",
       "sha256": "d988b03bb46797be913333f06b26ff2aad55ec082cfb7d3d18ce86ccb71559b5",
       "size": 62156,
       "contentType": "image/png",
@@ -2545,7 +2545,7 @@
     {
       "fileName": "smoke_07.png",
       "path": "packs/kenney-particle-pack/sprites/smoke_07.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/smoke_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/smoke_07.png",
       "sha256": "f7419fa4f11e346d0fb36a17ecbf616083c6962633c7847d92119c994ed9b4e4",
       "size": 77838,
       "contentType": "image/png",
@@ -2555,7 +2555,7 @@
     {
       "fileName": "smoke_08.png",
       "path": "packs/kenney-particle-pack/sprites/smoke_08.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/smoke_08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/smoke_08.png",
       "sha256": "eae1d92c205a2654254281d470ee70cce86cf4e8e849db29e4d5edff0f67c695",
       "size": 90424,
       "contentType": "image/png",
@@ -2565,7 +2565,7 @@
     {
       "fileName": "smoke_09.png",
       "path": "packs/kenney-particle-pack/sprites/smoke_09.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/smoke_09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/smoke_09.png",
       "sha256": "7c66cf05c52aefb1f3e37c54917289a11d9268a995dbc4effc8ca80242a4122b",
       "size": 87963,
       "contentType": "image/png",
@@ -2575,7 +2575,7 @@
     {
       "fileName": "smoke_10.png",
       "path": "packs/kenney-particle-pack/sprites/smoke_10.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/smoke_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/smoke_10.png",
       "sha256": "35d1082a87de7558aeeab210fecb43997c958e162ede896587d1930f66e6ae67",
       "size": 90497,
       "contentType": "image/png",
@@ -2585,7 +2585,7 @@
     {
       "fileName": "spark_01.png",
       "path": "packs/kenney-particle-pack/sprites/spark_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/spark_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/spark_01.png",
       "sha256": "5902da3a324cad0a4b5a88ce1e3c9cc18fee50922c358ce93d8c9f1ad7708f0a",
       "size": 95070,
       "contentType": "image/png",
@@ -2595,7 +2595,7 @@
     {
       "fileName": "spark_02.png",
       "path": "packs/kenney-particle-pack/sprites/spark_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/spark_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/spark_02.png",
       "sha256": "f7c5f1f849657eed79fd7b663be5a57829450a1e4fdc4a062049a05b9a406e89",
       "size": 101613,
       "contentType": "image/png",
@@ -2605,7 +2605,7 @@
     {
       "fileName": "spark_03.png",
       "path": "packs/kenney-particle-pack/sprites/spark_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/spark_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/spark_03.png",
       "sha256": "90f322bebe5facea2f60afe88d98dd80a21479ed3212e605d61e88a896f3e1db",
       "size": 79574,
       "contentType": "image/png",
@@ -2615,7 +2615,7 @@
     {
       "fileName": "spark_04.png",
       "path": "packs/kenney-particle-pack/sprites/spark_04.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/spark_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/spark_04.png",
       "sha256": "3cba35b80a97c12283a8ecd41780a0412194de14562cbffc7f04e9157183f772",
       "size": 83811,
       "contentType": "image/png",
@@ -2625,7 +2625,7 @@
     {
       "fileName": "spark_05.png",
       "path": "packs/kenney-particle-pack/sprites/spark_05.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/spark_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/spark_05.png",
       "sha256": "9624ea2017b8b2767a9d3b82e978b7fdf5154d83e6756cd919da51447bb97138",
       "size": 64808,
       "contentType": "image/png",
@@ -2635,7 +2635,7 @@
     {
       "fileName": "spark_06.png",
       "path": "packs/kenney-particle-pack/sprites/spark_06.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/spark_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/spark_06.png",
       "sha256": "fe6d473393d3b9350c7a654b7cb5fbd343766b5b5b11d3e4aba476832d4a6d3f",
       "size": 46347,
       "contentType": "image/png",
@@ -2645,7 +2645,7 @@
     {
       "fileName": "spark_07.png",
       "path": "packs/kenney-particle-pack/sprites/spark_07.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/spark_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/spark_07.png",
       "sha256": "216101e7b54c627b4aa780649a21f0ef9146d2566f52699284d091ef00825a26",
       "size": 40968,
       "contentType": "image/png",
@@ -2655,7 +2655,7 @@
     {
       "fileName": "star_01.png",
       "path": "packs/kenney-particle-pack/sprites/star_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/star_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/star_01.png",
       "sha256": "3ba3999c944a0767677449412d306c1f230daa1743b31f929533cf77a22ecf5d",
       "size": 42118,
       "contentType": "image/png",
@@ -2665,7 +2665,7 @@
     {
       "fileName": "star_02.png",
       "path": "packs/kenney-particle-pack/sprites/star_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/star_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/star_02.png",
       "sha256": "a0b7624a2e6f6825a3e93ddec685728c4d3de03b77bbf2a2e425b7a6d3d0215b",
       "size": 49897,
       "contentType": "image/png",
@@ -2675,7 +2675,7 @@
     {
       "fileName": "star_03.png",
       "path": "packs/kenney-particle-pack/sprites/star_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/star_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/star_03.png",
       "sha256": "dac75aa35e5191de1917ec076d47f3b43a47b80d9aae6eefffb920c5ceba3601",
       "size": 56622,
       "contentType": "image/png",
@@ -2685,7 +2685,7 @@
     {
       "fileName": "star_04.png",
       "path": "packs/kenney-particle-pack/sprites/star_04.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/star_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/star_04.png",
       "sha256": "6485ac16c773663bd39346f3bedae04465ac14c661eb47cc5cfa935cdbf6c2ec",
       "size": 30613,
       "contentType": "image/png",
@@ -2695,7 +2695,7 @@
     {
       "fileName": "star_05.png",
       "path": "packs/kenney-particle-pack/sprites/star_05.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/star_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/star_05.png",
       "sha256": "1e8ab968178e507824ab28353c0ffffa918ae3adbcf89513d3db50a17b7bc8a2",
       "size": 62216,
       "contentType": "image/png",
@@ -2705,7 +2705,7 @@
     {
       "fileName": "star_06.png",
       "path": "packs/kenney-particle-pack/sprites/star_06.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/star_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/star_06.png",
       "sha256": "65d3ff5aa87ec0770c11fe1293fdc70cdc5ccf0eabc2e2fd6a1ead922051035e",
       "size": 35453,
       "contentType": "image/png",
@@ -2715,7 +2715,7 @@
     {
       "fileName": "star_07.png",
       "path": "packs/kenney-particle-pack/sprites/star_07.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/star_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/star_07.png",
       "sha256": "d3bc9b8f1960baab452e8a5e816b9edeee4420dbed5ddd7ebe174519860a451a",
       "size": 32369,
       "contentType": "image/png",
@@ -2725,7 +2725,7 @@
     {
       "fileName": "star_08.png",
       "path": "packs/kenney-particle-pack/sprites/star_08.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/star_08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/star_08.png",
       "sha256": "05f24d1ee76c1464074cbca58155e4be517fefd34a7001bb012561647cc3dec3",
       "size": 26479,
       "contentType": "image/png",
@@ -2735,7 +2735,7 @@
     {
       "fileName": "star_09.png",
       "path": "packs/kenney-particle-pack/sprites/star_09.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/star_09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/star_09.png",
       "sha256": "4255985e312a0058dc0c4f8b5befc902da17e6be5e5252007f3c7b02bb150157",
       "size": 50142,
       "contentType": "image/png",
@@ -2745,7 +2745,7 @@
     {
       "fileName": "symbol_01.png",
       "path": "packs/kenney-particle-pack/sprites/symbol_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/symbol_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/symbol_01.png",
       "sha256": "3eb3988f3e80acf3fda9df07733f49c3585eafa7d6a7ce5b31765fe180dd6d9c",
       "size": 9088,
       "contentType": "image/png",
@@ -2755,7 +2755,7 @@
     {
       "fileName": "symbol_02.png",
       "path": "packs/kenney-particle-pack/sprites/symbol_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/symbol_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/symbol_02.png",
       "sha256": "1582e947d6793ec74fafabe587750af1b2655d1cd4ffe65bce1967c85b362ba8",
       "size": 7608,
       "contentType": "image/png",
@@ -2765,7 +2765,7 @@
     {
       "fileName": "trace_01.png",
       "path": "packs/kenney-particle-pack/sprites/trace_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/trace_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/trace_01.png",
       "sha256": "34de69bc3f665b23fe9bed15f388efd8e8e4dc1a99f2fc5db9ba8715c525711f",
       "size": 38406,
       "contentType": "image/png",
@@ -2775,7 +2775,7 @@
     {
       "fileName": "trace_02.png",
       "path": "packs/kenney-particle-pack/sprites/trace_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/trace_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/trace_02.png",
       "sha256": "8c224d6d4544d8437bce5ee51452957b31f5479e337c5f432dc1b55b1e2f9685",
       "size": 39395,
       "contentType": "image/png",
@@ -2785,7 +2785,7 @@
     {
       "fileName": "trace_03.png",
       "path": "packs/kenney-particle-pack/sprites/trace_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/trace_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/trace_03.png",
       "sha256": "a8c05800698cd502c3416a1f2335292544d52b3c8624c3c829a534c52b364860",
       "size": 42254,
       "contentType": "image/png",
@@ -2795,7 +2795,7 @@
     {
       "fileName": "trace_04.png",
       "path": "packs/kenney-particle-pack/sprites/trace_04.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/trace_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/trace_04.png",
       "sha256": "ca69d82709295663ef1d9fcd90d346319fef5389a15dd63e3b71b4527e620cd8",
       "size": 47104,
       "contentType": "image/png",
@@ -2805,7 +2805,7 @@
     {
       "fileName": "trace_05.png",
       "path": "packs/kenney-particle-pack/sprites/trace_05.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/trace_05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/trace_05.png",
       "sha256": "3f3d687bd2c70b10add33bdbd4616deda28f0138f757d358f9f0b78fb38bde6e",
       "size": 42174,
       "contentType": "image/png",
@@ -2815,7 +2815,7 @@
     {
       "fileName": "trace_06.png",
       "path": "packs/kenney-particle-pack/sprites/trace_06.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/trace_06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/trace_06.png",
       "sha256": "22c61c0e280db28b6cb6033c015dde4360a124b3488302ea708566b7f36fd900",
       "size": 36247,
       "contentType": "image/png",
@@ -2825,7 +2825,7 @@
     {
       "fileName": "trace_07.png",
       "path": "packs/kenney-particle-pack/sprites/trace_07.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/trace_07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/trace_07.png",
       "sha256": "4e5f177b7717d291464f01538756eb2f471961b09b39ea82ea72447210af7110",
       "size": 33145,
       "contentType": "image/png",
@@ -2835,7 +2835,7 @@
     {
       "fileName": "twirl_01.png",
       "path": "packs/kenney-particle-pack/sprites/twirl_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/twirl_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/twirl_01.png",
       "sha256": "ba3f4996a5a91ea3cba6817a9b4770a385a82ef0b9350cbda5c0f140d182af7e",
       "size": 51060,
       "contentType": "image/png",
@@ -2845,7 +2845,7 @@
     {
       "fileName": "twirl_02.png",
       "path": "packs/kenney-particle-pack/sprites/twirl_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/twirl_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/twirl_02.png",
       "sha256": "3963633f6b2395a3fa95b9f4f65f22a4d38a2c561d9312dfff4646b71c7aa6e2",
       "size": 76886,
       "contentType": "image/png",
@@ -2855,7 +2855,7 @@
     {
       "fileName": "twirl_03.png",
       "path": "packs/kenney-particle-pack/sprites/twirl_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/twirl_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/twirl_03.png",
       "sha256": "69baaab4bc68473e9f926dc249a1d1b58f759c88906e10ac859bf43ac3cfbc8b",
       "size": 81463,
       "contentType": "image/png",
@@ -2865,7 +2865,7 @@
     {
       "fileName": "window_01.png",
       "path": "packs/kenney-particle-pack/sprites/window_01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/window_01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/window_01.png",
       "sha256": "373747a996fcfc320c76d093bde08252db2adde8d29672aca98430e521e702fa",
       "size": 33759,
       "contentType": "image/png",
@@ -2875,7 +2875,7 @@
     {
       "fileName": "window_02.png",
       "path": "packs/kenney-particle-pack/sprites/window_02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/window_02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/window_02.png",
       "sha256": "2b430446f1527409d00b418370975f7b08572282aea732503f9a22837055d54d",
       "size": 39286,
       "contentType": "image/png",
@@ -2885,7 +2885,7 @@
     {
       "fileName": "window_03.png",
       "path": "packs/kenney-particle-pack/sprites/window_03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/window_03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/window_03.png",
       "sha256": "452680cff9e62da90a4b3bff96dd7634d05624ee2d58fd5db7d89f48a60cdf8c",
       "size": 16860,
       "contentType": "image/png",
@@ -2895,7 +2895,7 @@
     {
       "fileName": "window_04.png",
       "path": "packs/kenney-particle-pack/sprites/window_04.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/518e78198f0786932e9fc9ef700c81957eaa4c1f/packs/kenney-particle-pack/sprites/window_04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/c8e6ce904673223c00258ab6919f36a0e5142cba/packs/kenney-particle-pack/sprites/window_04.png",
       "sha256": "096be5e6f21547f16f302747a607020b2f1214842618de7a078587f6b8f1956e",
       "size": 52143,
       "contentType": "image/png",

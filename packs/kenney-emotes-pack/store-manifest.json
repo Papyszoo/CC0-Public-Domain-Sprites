@@ -1,0 +1,926 @@
+{
+  "source": "https://github.com/Papyszoo/CC0-Public-Domain-Sprites",
+  "license": "CC0",
+  "name": "Emotes Pack",
+  "creator": "Kenney",
+  "website": "https://kenney.nl",
+  "description": "Over 100 emotion icons, speech bubbles, question and exclamation prompts, status badges, and interaction markers by Kenney (kenney.nl). CC0 1.0 Universal.",
+  "folder": "packs/kenney-emotes-pack",
+  "pinnedSha": "903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf",
+  "itemCount": 30,
+  "items": [
+    {
+      "name": "Emote",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote__.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Alert",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_alert.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Anger",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_anger.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Bars",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"Buttons & Controls\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_bars.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Cash",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_cash.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Circle",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_circle.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Cloud",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_cloud.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Cross",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"Buttons & Controls\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_cross.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Dots1",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_dots1.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Dots2",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_dots2.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Dots3",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_dots3.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Drop",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_drop.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Drops",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_drops.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Exclamation",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_exclamation.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Exclamations",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_exclamations.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Faceangry",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_faceAngry.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Facehappy",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_faceHappy.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Facesad",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_faceSad.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Heart",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_heart.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Heartbroken",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_heartBroken.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Hearts",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_hearts.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Idea",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_idea.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Laugh",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_laugh.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Music",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_music.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Question",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_question.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Sleep",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_sleep.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Sleeps",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_sleeps.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Star",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_star.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Stars",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_stars.png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Emote Swirl",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"UI\",\"subcategory\":\"HUD & Icons\"}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/kenney-emotes-pack/sprites/emote_swirl.png",
+          "role": "Image"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "fileName": "emote__.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote__.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote__.png",
+      "sha256": "22567ba096567822def0717d912fa158887de05657d3b5af08fc6b92bccb20bb",
+      "size": 263,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_alert.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_alert.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_alert.png",
+      "sha256": "bebdf06bb1c38cab54a4531f78651c61d531ae02c8fd464644eb87862c296b3b",
+      "size": 451,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_anger.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_anger.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_anger.png",
+      "sha256": "607146cd4774b9b1f6fa4ca051a0de92917d140490b34b09d576fd04acb40f2c",
+      "size": 327,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_bars.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_bars.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_bars.png",
+      "sha256": "b70ca444bf7a10c5ce199a66e6af86f54d4e2f936db7129ce8a9072b935a5b21",
+      "size": 441,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_cash.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_cash.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_cash.png",
+      "sha256": "72b5e7d6aab31552c5b40ba941caf22aac1248399e8e83ace23529dd305f6aaf",
+      "size": 425,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_circle.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_circle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_circle.png",
+      "sha256": "490dac806b5170a5a78e505b32719e269777004fc0103a78d3d67e9c1744e3e7",
+      "size": 435,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_cloud.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_cloud.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_cloud.png",
+      "sha256": "791c39d0f9f33bb34f7251e4d3139d54dc97c3aad326392392829cecc65f21e7",
+      "size": 377,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_cross.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_cross.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_cross.png",
+      "sha256": "b6c87db06ce8710b2e6ddad3ee7a5f9e4bf3f613e34ca050a46c28875e0f1cfe",
+      "size": 374,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_dots1.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_dots1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_dots1.png",
+      "sha256": "3324774045eada79dfb559cacd0270c6c3fb4a81cb69f51febb756109a31daf1",
+      "size": 312,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_dots2.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_dots2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_dots2.png",
+      "sha256": "2c3f55e67168f39b0192a7f92ac85dacd73a76e755b9b90ab03191960853beaa",
+      "size": 322,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_dots3.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_dots3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_dots3.png",
+      "sha256": "1e876e76c7f5efe9d5c734310cb66b4292c513dffc326093ea9a744050c0923d",
+      "size": 323,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_drop.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_drop.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_drop.png",
+      "sha256": "a6253d1cb34f29275e21d03bbcffcb555daa9fb372a3638a422f91a087fb83d8",
+      "size": 373,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_drops.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_drops.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_drops.png",
+      "sha256": "8f37d3f12361d0c0ddd96e16c400b68bd54267893661b873d5e14643fc4cd586",
+      "size": 419,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_exclamation.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_exclamation.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_exclamation.png",
+      "sha256": "ea478d2811eadd440cf5c69b9236410d5ce0d0e12f0e19db9864ec28334bacb9",
+      "size": 355,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_exclamations.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_exclamations.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_exclamations.png",
+      "sha256": "1a1ad3d84e306d9ea349c65fe6de50ea46f9d0dada99ea0613883f535f857585",
+      "size": 368,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_faceAngry.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_faceAngry.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_faceAngry.png",
+      "sha256": "edcbad27f5937a13754ff7518115bc7900ca600911f9e1a1a9883913aec3a5cb",
+      "size": 413,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_faceHappy.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_faceHappy.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_faceHappy.png",
+      "sha256": "01bacb8e21e904842a8d593d2d30da86dfd70ae86feb4562c0a151f419975fe1",
+      "size": 377,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_faceSad.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_faceSad.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_faceSad.png",
+      "sha256": "a0b1b9308281d4747b8f22fe5f8d28e5a7ed783c94b40aeca6a2138b05bd8143",
+      "size": 376,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_heart.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_heart.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_heart.png",
+      "sha256": "9a71a6967896c0d30c8735f4e371cba2d3aee91e6a976d2736715ee274a34549",
+      "size": 384,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_heartBroken.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_heartBroken.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_heartBroken.png",
+      "sha256": "831177e36f78abfc60a79cad97f87128fe314d01e738b68040fe3d2ae8cf7a26",
+      "size": 450,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_hearts.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_hearts.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_hearts.png",
+      "sha256": "b82256f37b836d8ea604f64fcbfef504148a0ba00276bf86dfff3345d3ea96bd",
+      "size": 378,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_idea.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_idea.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_idea.png",
+      "sha256": "0acfe35b80dbb5df5d243c75c179e51fd37386acb151e54ed8ff8866751a7b6b",
+      "size": 402,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_laugh.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_laugh.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_laugh.png",
+      "sha256": "e0aea59a754f788ab5900b32240d4acd67f0290171e35cbd2a2e4f5833ef2418",
+      "size": 368,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_music.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_music.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_music.png",
+      "sha256": "feb0b6223ac5ad8bc199f70768bc59ad0aaa2b53bb1341b31904db264a0f7b75",
+      "size": 349,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_question.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_question.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_question.png",
+      "sha256": "eae4c78a1b9771c50b4ea3de11b4940d553d6b89bed4dddf5235a451dd7a31e7",
+      "size": 418,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_sleep.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_sleep.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_sleep.png",
+      "sha256": "a8152dde0e8ee81eff04ccf2a798dfbfaacd03d40c8a9ba2fa5007677cc3f43a",
+      "size": 377,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_sleeps.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_sleeps.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_sleeps.png",
+      "sha256": "96b7cd344dc595374e9cc110fcc490d72843bf5e6323fc66ea0ac91a7215cfdc",
+      "size": 399,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_star.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_star.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_star.png",
+      "sha256": "41e22f49f486dfec068ffd25f25e860450c33e4ff78787669d405aa2dd168dba",
+      "size": 392,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_stars.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_stars.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_stars.png",
+      "sha256": "cd5dd47528be06d110e6646e8622b680cb15d490c2e5b6be857b622a742c1ba9",
+      "size": 380,
+      "role": "Image"
+    },
+    {
+      "fileName": "emote_swirl.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_swirl.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_swirl.png",
+      "sha256": "2ddfac1a29f4231737bd14993a595eafc94d12e46aeb92a455eca7d8b0821805",
+      "size": 464,
+      "role": "Image"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "cover.png",
+      "path": "packs/kenney-emotes-pack/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/cover.png",
+      "sha256": "9bfa6d4d1a8c578290e0359f91945ea2e68e34d74189446e4f751fc7c364b78a",
+      "size": 17766,
+      "contentType": "image/png",
+      "type": "Thumbnail"
+    },
+    {
+      "fileName": "emote__.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote__.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote__.png",
+      "sha256": "22567ba096567822def0717d912fa158887de05657d3b5af08fc6b92bccb20bb",
+      "size": 263,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote"
+    },
+    {
+      "fileName": "emote_alert.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_alert.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_alert.png",
+      "sha256": "bebdf06bb1c38cab54a4531f78651c61d531ae02c8fd464644eb87862c296b3b",
+      "size": 451,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Alert"
+    },
+    {
+      "fileName": "emote_anger.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_anger.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_anger.png",
+      "sha256": "607146cd4774b9b1f6fa4ca051a0de92917d140490b34b09d576fd04acb40f2c",
+      "size": 327,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Anger"
+    },
+    {
+      "fileName": "emote_bars.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_bars.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_bars.png",
+      "sha256": "b70ca444bf7a10c5ce199a66e6af86f54d4e2f936db7129ce8a9072b935a5b21",
+      "size": 441,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Bars"
+    },
+    {
+      "fileName": "emote_cash.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_cash.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_cash.png",
+      "sha256": "72b5e7d6aab31552c5b40ba941caf22aac1248399e8e83ace23529dd305f6aaf",
+      "size": 425,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Cash"
+    },
+    {
+      "fileName": "emote_circle.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_circle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_circle.png",
+      "sha256": "490dac806b5170a5a78e505b32719e269777004fc0103a78d3d67e9c1744e3e7",
+      "size": 435,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Circle"
+    },
+    {
+      "fileName": "emote_cloud.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_cloud.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_cloud.png",
+      "sha256": "791c39d0f9f33bb34f7251e4d3139d54dc97c3aad326392392829cecc65f21e7",
+      "size": 377,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Cloud"
+    },
+    {
+      "fileName": "emote_cross.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_cross.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_cross.png",
+      "sha256": "b6c87db06ce8710b2e6ddad3ee7a5f9e4bf3f613e34ca050a46c28875e0f1cfe",
+      "size": 374,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Cross"
+    },
+    {
+      "fileName": "emote_dots1.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_dots1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_dots1.png",
+      "sha256": "3324774045eada79dfb559cacd0270c6c3fb4a81cb69f51febb756109a31daf1",
+      "size": 312,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Dots1"
+    },
+    {
+      "fileName": "emote_dots2.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_dots2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_dots2.png",
+      "sha256": "2c3f55e67168f39b0192a7f92ac85dacd73a76e755b9b90ab03191960853beaa",
+      "size": 322,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Dots2"
+    },
+    {
+      "fileName": "emote_dots3.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_dots3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_dots3.png",
+      "sha256": "1e876e76c7f5efe9d5c734310cb66b4292c513dffc326093ea9a744050c0923d",
+      "size": 323,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Dots3"
+    },
+    {
+      "fileName": "emote_drop.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_drop.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_drop.png",
+      "sha256": "a6253d1cb34f29275e21d03bbcffcb555daa9fb372a3638a422f91a087fb83d8",
+      "size": 373,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Drop"
+    },
+    {
+      "fileName": "emote_drops.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_drops.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_drops.png",
+      "sha256": "8f37d3f12361d0c0ddd96e16c400b68bd54267893661b873d5e14643fc4cd586",
+      "size": 419,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Drops"
+    },
+    {
+      "fileName": "emote_exclamation.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_exclamation.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_exclamation.png",
+      "sha256": "ea478d2811eadd440cf5c69b9236410d5ce0d0e12f0e19db9864ec28334bacb9",
+      "size": 355,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Exclamation"
+    },
+    {
+      "fileName": "emote_exclamations.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_exclamations.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_exclamations.png",
+      "sha256": "1a1ad3d84e306d9ea349c65fe6de50ea46f9d0dada99ea0613883f535f857585",
+      "size": 368,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Exclamations"
+    },
+    {
+      "fileName": "emote_faceAngry.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_faceAngry.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_faceAngry.png",
+      "sha256": "edcbad27f5937a13754ff7518115bc7900ca600911f9e1a1a9883913aec3a5cb",
+      "size": 413,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Faceangry"
+    },
+    {
+      "fileName": "emote_faceHappy.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_faceHappy.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_faceHappy.png",
+      "sha256": "01bacb8e21e904842a8d593d2d30da86dfd70ae86feb4562c0a151f419975fe1",
+      "size": 377,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Facehappy"
+    },
+    {
+      "fileName": "emote_faceSad.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_faceSad.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_faceSad.png",
+      "sha256": "a0b1b9308281d4747b8f22fe5f8d28e5a7ed783c94b40aeca6a2138b05bd8143",
+      "size": 376,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Facesad"
+    },
+    {
+      "fileName": "emote_heart.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_heart.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_heart.png",
+      "sha256": "9a71a6967896c0d30c8735f4e371cba2d3aee91e6a976d2736715ee274a34549",
+      "size": 384,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Heart"
+    },
+    {
+      "fileName": "emote_heartBroken.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_heartBroken.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_heartBroken.png",
+      "sha256": "831177e36f78abfc60a79cad97f87128fe314d01e738b68040fe3d2ae8cf7a26",
+      "size": 450,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Heartbroken"
+    },
+    {
+      "fileName": "emote_hearts.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_hearts.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_hearts.png",
+      "sha256": "b82256f37b836d8ea604f64fcbfef504148a0ba00276bf86dfff3345d3ea96bd",
+      "size": 378,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Hearts"
+    },
+    {
+      "fileName": "emote_idea.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_idea.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_idea.png",
+      "sha256": "0acfe35b80dbb5df5d243c75c179e51fd37386acb151e54ed8ff8866751a7b6b",
+      "size": 402,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Idea"
+    },
+    {
+      "fileName": "emote_laugh.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_laugh.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_laugh.png",
+      "sha256": "e0aea59a754f788ab5900b32240d4acd67f0290171e35cbd2a2e4f5833ef2418",
+      "size": 368,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Laugh"
+    },
+    {
+      "fileName": "emote_music.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_music.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_music.png",
+      "sha256": "feb0b6223ac5ad8bc199f70768bc59ad0aaa2b53bb1341b31904db264a0f7b75",
+      "size": 349,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Music"
+    },
+    {
+      "fileName": "emote_question.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_question.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_question.png",
+      "sha256": "eae4c78a1b9771c50b4ea3de11b4940d553d6b89bed4dddf5235a451dd7a31e7",
+      "size": 418,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Question"
+    },
+    {
+      "fileName": "emote_sleep.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_sleep.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_sleep.png",
+      "sha256": "a8152dde0e8ee81eff04ccf2a798dfbfaacd03d40c8a9ba2fa5007677cc3f43a",
+      "size": 377,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Sleep"
+    },
+    {
+      "fileName": "emote_sleeps.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_sleeps.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_sleeps.png",
+      "sha256": "96b7cd344dc595374e9cc110fcc490d72843bf5e6323fc66ea0ac91a7215cfdc",
+      "size": 399,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Sleeps"
+    },
+    {
+      "fileName": "emote_star.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_star.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_star.png",
+      "sha256": "41e22f49f486dfec068ffd25f25e860450c33e4ff78787669d405aa2dd168dba",
+      "size": 392,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Star"
+    },
+    {
+      "fileName": "emote_stars.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_stars.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_stars.png",
+      "sha256": "cd5dd47528be06d110e6646e8622b680cb15d490c2e5b6be857b622a742c1ba9",
+      "size": 380,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Stars"
+    },
+    {
+      "fileName": "emote_swirl.png",
+      "path": "packs/kenney-emotes-pack/sprites/emote_swirl.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/903cc7b7d2c1a1b3a9535e7170df81ca6bce2ebf/packs/kenney-emotes-pack/sprites/emote_swirl.png",
+      "sha256": "2ddfac1a29f4231737bd14993a595eafc94d12e46aeb92a455eca7d8b0821805",
+      "size": 464,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Emote Swirl"
+    }
+  ]
+}
