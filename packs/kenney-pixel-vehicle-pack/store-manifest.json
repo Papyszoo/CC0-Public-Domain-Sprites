@@ -6,7 +6,7 @@
   "website": "https://kenney.nl",
   "description": "Pixel art vehicles: sports cars, sedans, trucks, ambulances, police cars, boats, and motorcycles by Kenney (kenney.nl). CC0 1.0 Universal.",
   "folder": "packs/kenney-pixel-vehicle-pack",
-  "pinnedSha": "773ea607a6e042349041fb0691bd7634310d4595",
+  "pinnedSha": "ad33effd37db75b6dc1321079da4b159eb950859",
   "itemCount": 75,
   "items": [
     {
@@ -914,7 +914,7 @@
     {
       "fileName": "ambulance.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/ambulance.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/ambulance.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/ambulance.png",
       "sha256": "c80cebd47bfc363b63df953f17981dadedfc52616c017598bda677ae4effced7",
       "size": 296,
       "role": "Image"
@@ -922,7 +922,7 @@
     {
       "fileName": "buggy.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/buggy.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/buggy.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/buggy.png",
       "sha256": "e7934996ae4be12e63edfb580c9dd8e487a8f9ede89ddef26701e16a99e6b2ce",
       "size": 233,
       "role": "Image"
@@ -930,7 +930,7 @@
     {
       "fileName": "bus.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/bus.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/bus.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/bus.png",
       "sha256": "237460909a5d648639e58ebd10ed0ea93b74f22ed4b9dcdfb40fbbd97a612d4d",
       "size": 289,
       "role": "Image"
@@ -938,7 +938,7 @@
     {
       "fileName": "bus_school.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/bus_school.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/bus_school.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/bus_school.png",
       "sha256": "1fdb713880049ff03d9d1149bc03cc52e4422107cc1060eefe84154a2c1b8d9a",
       "size": 287,
       "role": "Image"
@@ -946,7 +946,7 @@
     {
       "fileName": "convertible.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/convertible.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/convertible.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/convertible.png",
       "sha256": "59f8956ae73e29d99941688443407914e71d8dda523e8b47bf24dbfffe90b0e2",
       "size": 242,
       "role": "Image"
@@ -954,7 +954,7 @@
     {
       "fileName": "cycle.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/cycle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/cycle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/cycle.png",
       "sha256": "768a1ed739b96084dea7a2573d6cb1bd59ce88f9b6caf5a2debea6331467e597",
       "size": 193,
       "role": "Image"
@@ -962,7 +962,7 @@
     {
       "fileName": "cycle_low.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/cycle_low.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/cycle_low.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/cycle_low.png",
       "sha256": "5786d16da179a7650ed13647da3c3b4d9787f1e7730f40ba0735f3f091c2ec93",
       "size": 185,
       "role": "Image"
@@ -970,7 +970,7 @@
     {
       "fileName": "firetruck.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/firetruck.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/firetruck.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/firetruck.png",
       "sha256": "948c3cf99020c037b77f4cd280c37f6d5e6cb1a50b6db9d7da749e8dd691ee7e",
       "size": 324,
       "role": "Image"
@@ -978,7 +978,7 @@
     {
       "fileName": "formula.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/formula.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/formula.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/formula.png",
       "sha256": "8c1653cc33004994cca08028b504a9109dacbeca212cb4f6c650ae3341a43b47",
       "size": 231,
       "role": "Image"
@@ -986,7 +986,7 @@
     {
       "fileName": "hotdog.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/hotdog.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/hotdog.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/hotdog.png",
       "sha256": "e49710f34bbfcd7df0a232277caee3705029d4068e915c9ef79b30e85aa51df4",
       "size": 338,
       "role": "Image"
@@ -994,7 +994,7 @@
     {
       "fileName": "kart.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/kart.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/kart.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/kart.png",
       "sha256": "98553de759961819deb7be8723490d59613b45ff060af819cc39b51f9ec37578",
       "size": 198,
       "role": "Image"
@@ -1002,7 +1002,7 @@
     {
       "fileName": "police.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/police.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/police.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/police.png",
       "sha256": "a48c237537776b29ec17101aa99216400b447b11a153567101f9cc347e0d773e",
       "size": 249,
       "role": "Image"
@@ -1010,7 +1010,7 @@
     {
       "fileName": "riot.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/riot.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/riot.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/riot.png",
       "sha256": "e34760d6e09d26eb09d356fee026ccf815e036d2b3edda36ed6ff9f3aa481681",
       "size": 291,
       "role": "Image"
@@ -1018,7 +1018,7 @@
     {
       "fileName": "rounded_green.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/rounded_green.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/rounded_green.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/rounded_green.png",
       "sha256": "573ebb2d3387b9c4ff158d70b85de553223c1b56b8e09939cf5111a6ac5609d1",
       "size": 234,
       "role": "Image"
@@ -1026,7 +1026,7 @@
     {
       "fileName": "rounded_red.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/rounded_red.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/rounded_red.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/rounded_red.png",
       "sha256": "d1b8a5d47e5f2fcefa81e3be2c57b2396b72bc8b3903693d58f9d370af0dbdad",
       "size": 235,
       "role": "Image"
@@ -1034,7 +1034,7 @@
     {
       "fileName": "rounded_yellow.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/rounded_yellow.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/rounded_yellow.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/rounded_yellow.png",
       "sha256": "ee483489001143829114678fc6685e651f649f227cd26e9ba4282026f6deff25",
       "size": 244,
       "role": "Image"
@@ -1042,7 +1042,7 @@
     {
       "fileName": "scooter.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/scooter.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/scooter.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/scooter.png",
       "sha256": "75bc9fdc0a7a7147a6b6314d723fc30285b65970050a3a2d5bd1a2fd0a327ac4",
       "size": 186,
       "role": "Image"
@@ -1050,7 +1050,7 @@
     {
       "fileName": "sedan.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/sedan.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/sedan.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/sedan.png",
       "sha256": "8e9f6ea65d858e983d7e0f0db8e8c1e1f90116051b48e249db3f7743501516d4",
       "size": 234,
       "role": "Image"
@@ -1058,7 +1058,7 @@
     {
       "fileName": "sedan_blue.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/sedan_blue.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/sedan_blue.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/sedan_blue.png",
       "sha256": "ef27c67ee29574daff30c24034a7183872661e67e4da615435ff33609869130f",
       "size": 236,
       "role": "Image"
@@ -1066,7 +1066,7 @@
     {
       "fileName": "sedan_vintage.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/sedan_vintage.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/sedan_vintage.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/sedan_vintage.png",
       "sha256": "f2178e9656a345af55e5a67716573ddf78821ee04b5e60d013aee9d4b892f688",
       "size": 253,
       "role": "Image"
@@ -1074,7 +1074,7 @@
     {
       "fileName": "sports_convertible.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_convertible.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_convertible.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_convertible.png",
       "sha256": "5e7bad59d0797ff52a8bbbb5aec43aef9a005d61a05ab2983729532cc610bc32",
       "size": 240,
       "role": "Image"
@@ -1082,7 +1082,7 @@
     {
       "fileName": "sports_green.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_green.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_green.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_green.png",
       "sha256": "7ee6636fe8cf687b0d62cc7366ff722f8a840528f9d93482a93c24da5c62c39d",
       "size": 239,
       "role": "Image"
@@ -1090,7 +1090,7 @@
     {
       "fileName": "sports_race.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_race.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_race.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_race.png",
       "sha256": "8ad2db0c825644db82219a2dc754dd16d7feadfc79c97b17d62f74357827a853",
       "size": 232,
       "role": "Image"
@@ -1098,7 +1098,7 @@
     {
       "fileName": "sports_red.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_red.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_red.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_red.png",
       "sha256": "cc5e7fbe1c201f563a129f8c0fd6508c428bc6ee36ee62d89df68962a64e25ca",
       "size": 235,
       "role": "Image"
@@ -1106,7 +1106,7 @@
     {
       "fileName": "sports_yellow.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_yellow.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_yellow.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_yellow.png",
       "sha256": "a7aa1d1fac69ef139267ed5c8b6680a600585b7f29f48c6a46c7da7686a92766",
       "size": 233,
       "role": "Image"
@@ -1114,7 +1114,7 @@
     {
       "fileName": "station.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/station.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/station.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/station.png",
       "sha256": "0e56f4561394d3b5d7883a09f39d176bb9a1c505c46a624a9fde2881d21dc208",
       "size": 247,
       "role": "Image"
@@ -1122,7 +1122,7 @@
     {
       "fileName": "suv.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/suv.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/suv.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/suv.png",
       "sha256": "7979736500ac87fed2523720a1d7e169b3268361763c71354156ca5244986d2c",
       "size": 268,
       "role": "Image"
@@ -1130,7 +1130,7 @@
     {
       "fileName": "suv_closed.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_closed.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_closed.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_closed.png",
       "sha256": "8f537642920f31c16a2cd2febc4790606960f47d9c97362b36f0f4bb0221d644",
       "size": 248,
       "role": "Image"
@@ -1138,7 +1138,7 @@
     {
       "fileName": "suv_green.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_green.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_green.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_green.png",
       "sha256": "5b149b75457c925bbe1f0c2d71cc3f11f841de9499f6d664959eb22b621e05d7",
       "size": 257,
       "role": "Image"
@@ -1146,7 +1146,7 @@
     {
       "fileName": "suv_large.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_large.png",
       "sha256": "acfd3998a893d0e9ce097d193bf2dd56371d958bf994c94ac2ac0039c771a1ba",
       "size": 273,
       "role": "Image"
@@ -1154,7 +1154,7 @@
     {
       "fileName": "suv_military.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_military.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_military.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_military.png",
       "sha256": "fe56ea3cd459d96545c4ac5a18df0f033f77703f592516cb98a64023da3972fe",
       "size": 253,
       "role": "Image"
@@ -1162,7 +1162,7 @@
     {
       "fileName": "suv_travel.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_travel.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_travel.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_travel.png",
       "sha256": "6c1663501070c7c2d2177d9d325b6e9f43be5c852a96ddb169138be7a35e1534",
       "size": 260,
       "role": "Image"
@@ -1170,7 +1170,7 @@
     {
       "fileName": "taxi.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/taxi.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/taxi.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/taxi.png",
       "sha256": "0f39c03adcfd54066512eafd1a35c75dbb01b367b778880ec6c2e567e4eabd28",
       "size": 251,
       "role": "Image"
@@ -1178,7 +1178,7 @@
     {
       "fileName": "towtruck.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/towtruck.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/towtruck.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/towtruck.png",
       "sha256": "91096ab9c83d4abe9731498a01592012e7cd53b971332f4d6611d71791ab1983",
       "size": 307,
       "role": "Image"
@@ -1186,7 +1186,7 @@
     {
       "fileName": "tractor.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/tractor.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/tractor.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/tractor.png",
       "sha256": "e7ca40de84113b763b2ad3843ddc0e24ddb8cb59ad97ab8e47332738abd42657",
       "size": 254,
       "role": "Image"
@@ -1194,7 +1194,7 @@
     {
       "fileName": "transport.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/transport.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/transport.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/transport.png",
       "sha256": "b45855abd30c740945fa8ee2416e4e0f5d813df80660ddeaceb27bca4c276f5f",
       "size": 265,
       "role": "Image"
@@ -1202,7 +1202,7 @@
     {
       "fileName": "truck.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/truck.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/truck.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/truck.png",
       "sha256": "6325b3afa9bddf7ed202439e352cf99b0ddd2d44bfa4809008f48d83bd6dfae3",
       "size": 300,
       "role": "Image"
@@ -1210,7 +1210,7 @@
     {
       "fileName": "truck_trailer.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/truck_trailer.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/truck_trailer.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/truck_trailer.png",
       "sha256": "a29bcae99f737cf0ae89eb7dfc92590b19495861d90c30b7ed2a71f870ba4716",
       "size": 207,
       "role": "Image"
@@ -1218,7 +1218,7 @@
     {
       "fileName": "truckcabin.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/truckcabin.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/truckcabin.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/truckcabin.png",
       "sha256": "88128189a7098471d8a2d843c07f72968c38a51a956d6e07180b9e42a005e697",
       "size": 276,
       "role": "Image"
@@ -1226,7 +1226,7 @@
     {
       "fileName": "truckcabin_vintage.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/truckcabin_vintage.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/truckcabin_vintage.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/truckcabin_vintage.png",
       "sha256": "13b1b130b9bd20c9c31383027d4e417de7c2c69dea5e7ad79607f267b9e83712",
       "size": 253,
       "role": "Image"
@@ -1234,7 +1234,7 @@
     {
       "fileName": "truckdark.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/truckdark.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/truckdark.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/truckdark.png",
       "sha256": "66d4beb73d7c7f2acd0022bfc31cd8c43ff25781abb80b6e6a3eca97aab4d37c",
       "size": 259,
       "role": "Image"
@@ -1242,7 +1242,7 @@
     {
       "fileName": "truckdelivery.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/truckdelivery.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/truckdelivery.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/truckdelivery.png",
       "sha256": "882d908ac9e9b59c10aea105debb6bbf5b50a59bb336aa0cac8f9c6931cc9775",
       "size": 279,
       "role": "Image"
@@ -1250,7 +1250,7 @@
     {
       "fileName": "trucktank.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/trucktank.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/trucktank.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/trucktank.png",
       "sha256": "f818bcae211cd2f7b56f9993cf9b34fdde347b58209d30fa7b3e847833afe293",
       "size": 322,
       "role": "Image"
@@ -1258,7 +1258,7 @@
     {
       "fileName": "trucktank_trailer.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/trucktank_trailer.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/trucktank_trailer.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/trucktank_trailer.png",
       "sha256": "bb05dbd9252ff10c5bf395d116814902a3dc2a2d760848097547546a9e44c9bc",
       "size": 218,
       "role": "Image"
@@ -1266,7 +1266,7 @@
     {
       "fileName": "van.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/van.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/van.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/van.png",
       "sha256": "5800b21479c0a910af0a351107d862a448d2132c1003f1d5597802c8ec8ac5ca",
       "size": 245,
       "role": "Image"
@@ -1274,7 +1274,7 @@
     {
       "fileName": "van_flat.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/van_flat.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/van_flat.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/van_flat.png",
       "sha256": "f6c96962fdd4484a0bf60e00d1b5fdc3805db543983050ebd1ce1cad2990e3ff",
       "size": 260,
       "role": "Image"
@@ -1282,7 +1282,7 @@
     {
       "fileName": "van_large.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/van_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/van_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/van_large.png",
       "sha256": "8cf7fbe1dc2987d8e5eac1dcba3e8409804ba1a23478ee983a7b8633ccc33af4",
       "size": 254,
       "role": "Image"
@@ -1290,7 +1290,7 @@
     {
       "fileName": "van_small.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/van_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/van_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/van_small.png",
       "sha256": "909ec41f8479a2fa58b79ffc656035d10c52a41b4243b6735f2f26d9d54a8028",
       "size": 247,
       "role": "Image"
@@ -1298,7 +1298,7 @@
     {
       "fileName": "vendor.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/vendor.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/vendor.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/vendor.png",
       "sha256": "84e32e6f8fcac869c7ce564e45e6e8553e26b4ccc82fde4c5e3d2540f07a33de",
       "size": 292,
       "role": "Image"
@@ -1306,7 +1306,7 @@
     {
       "fileName": "vintage.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/vintage.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/vintage.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/vintage.png",
       "sha256": "83349faf2559dc62a776a3fdb5e81bd92798f739de7e22e7fc09129482ee3b42",
       "size": 246,
       "role": "Image"
@@ -1314,7 +1314,7 @@
     {
       "fileName": "man.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/man.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/man.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/man.png",
       "sha256": "5515a83fb236c8c0f2de80f3c77a8bba23e89b8b94904a61e0fd7a8772dee109",
       "size": 194,
       "role": "Image"
@@ -1322,7 +1322,7 @@
     {
       "fileName": "man_convertible.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/man_convertible.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_convertible.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_convertible.png",
       "sha256": "8b0e5c74388754472fc0edb30baa527e7d83310f18e09005e1d1426aeb476f2d",
       "size": 148,
       "role": "Image"
@@ -1330,7 +1330,7 @@
     {
       "fileName": "man_cycle.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/man_cycle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_cycle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_cycle.png",
       "sha256": "f0cafc2c727449c6f8595c8e44756dd38631bd40e9e43e4981073c62585e7437",
       "size": 183,
       "role": "Image"
@@ -1338,7 +1338,7 @@
     {
       "fileName": "man_down.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/man_down.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_down.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_down.png",
       "sha256": "b5b94b4d3f33987604a74b05f87fd7669c246d55fea33deacf9d08570b709e6c",
       "size": 160,
       "role": "Image"
@@ -1346,7 +1346,7 @@
     {
       "fileName": "man_fall.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/man_fall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_fall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_fall.png",
       "sha256": "e609c58157b8045536c48baa65a50a3f18995ead949d1243ce70823d3e10f60a",
       "size": 203,
       "role": "Image"
@@ -1354,7 +1354,7 @@
     {
       "fileName": "man_kart.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/man_kart.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_kart.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_kart.png",
       "sha256": "4d9b81c503036fd2fcd25d59c720d0c1edd72e2cd8b19bc863f7838b9ec3e4bc",
       "size": 168,
       "role": "Image"
@@ -1362,7 +1362,7 @@
     {
       "fileName": "man_point.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/man_point.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_point.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_point.png",
       "sha256": "2bc764307eeba301bc828b0e764e53f3a0f2213133bf2881b52c4ffaf92db616",
       "size": 199,
       "role": "Image"
@@ -1370,7 +1370,7 @@
     {
       "fileName": "man_walk1.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/man_walk1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_walk1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_walk1.png",
       "sha256": "164f8b435afd8cbd9b882e7cf44e4f9a5487670add32afe2c6b509e9e439876c",
       "size": 187,
       "role": "Image"
@@ -1378,7 +1378,7 @@
     {
       "fileName": "man_walk2.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/man_walk2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_walk2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_walk2.png",
       "sha256": "fabbe49f1fc48b46413dbe8998795db647e3f11dd487abc5b46b29a9607b4443",
       "size": 201,
       "role": "Image"
@@ -1386,7 +1386,7 @@
     {
       "fileName": "woman.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/woman.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman.png",
       "sha256": "710f706bf1e38aa77e280f4affcfaf9d36d924f5b438cb19c196f67a94055d28",
       "size": 194,
       "role": "Image"
@@ -1394,7 +1394,7 @@
     {
       "fileName": "woman_convertible.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_convertible.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_convertible.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_convertible.png",
       "sha256": "660912be09e785b495a87bc77122e2ff426a08321f187b6d6f532fcf71ea7f93",
       "size": 150,
       "role": "Image"
@@ -1402,7 +1402,7 @@
     {
       "fileName": "woman_cycle.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_cycle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_cycle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_cycle.png",
       "sha256": "52f8abd2eb0b4e50e2ac417897e2c449065966e02dff134971f7afb5d7817cab",
       "size": 184,
       "role": "Image"
@@ -1410,7 +1410,7 @@
     {
       "fileName": "woman_down.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_down.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_down.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_down.png",
       "sha256": "d4acbc1a66003063506691bfb936164ac8875b477df2510fa6769c9f6a69fba5",
       "size": 163,
       "role": "Image"
@@ -1418,7 +1418,7 @@
     {
       "fileName": "woman_fall.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_fall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_fall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_fall.png",
       "sha256": "7cc39c7336fc4e9a80da4cd0c2a97d2d9647a9c902253c53dcab42bed3c89181",
       "size": 206,
       "role": "Image"
@@ -1426,7 +1426,7 @@
     {
       "fileName": "woman_kart.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_kart.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_kart.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_kart.png",
       "sha256": "e44c793c2b96eb924cb9a49fad7aa7371c3d075ba0ccbfdd8a116b9bdc473642",
       "size": 168,
       "role": "Image"
@@ -1434,7 +1434,7 @@
     {
       "fileName": "woman_point.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_point.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_point.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_point.png",
       "sha256": "ae9586871748250a3615c10573da21afd605c56476e4c74f95885dca01297fa7",
       "size": 199,
       "role": "Image"
@@ -1442,7 +1442,7 @@
     {
       "fileName": "woman_walk1.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_walk1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_walk1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_walk1.png",
       "sha256": "0a345366326cff032a09542bb7d62b8e2fce08f39ce1ded92fb7bd995db58eae",
       "size": 187,
       "role": "Image"
@@ -1450,7 +1450,7 @@
     {
       "fileName": "woman_walk2.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_walk2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_walk2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_walk2.png",
       "sha256": "167970660da45cc4ac7f5bf650582204923172edf867586577422d987a53c88a",
       "size": 203,
       "role": "Image"
@@ -1458,7 +1458,7 @@
     {
       "fileName": "barrier.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Props/barrier.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Props/barrier.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Props/barrier.png",
       "sha256": "7a9c64c35f66d661f9a8ee8ed48bc85a799700b5c4b5be4f0909f058721b3954",
       "size": 145,
       "role": "Image"
@@ -1466,7 +1466,7 @@
     {
       "fileName": "highway.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Props/highway.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Props/highway.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Props/highway.png",
       "sha256": "0a217e56d57c183ce31ea44996a3a1d7afc62ce9b70d993acd2e0bc84df7e5ed",
       "size": 208,
       "role": "Image"
@@ -1474,7 +1474,7 @@
     {
       "fileName": "light.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Props/light.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Props/light.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Props/light.png",
       "sha256": "d4290d719cfe12455b047da5c27fc26049e8de028e598378940ff2d13d3e7369",
       "size": 128,
       "role": "Image"
@@ -1482,7 +1482,7 @@
     {
       "fileName": "light_double.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Props/light_double.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Props/light_double.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Props/light_double.png",
       "sha256": "21352a54c83b824c31d81c606b223d0ef3b2a191017a5b781a7a28ffebb42422",
       "size": 133,
       "role": "Image"
@@ -1490,7 +1490,7 @@
     {
       "fileName": "sign_blue.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Props/sign_blue.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Props/sign_blue.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Props/sign_blue.png",
       "sha256": "2c37315d9b1f797589d5c495d33202f65139e5beef499e157efd474c94461431",
       "size": 134,
       "role": "Image"
@@ -1498,7 +1498,7 @@
     {
       "fileName": "sign_red.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Props/sign_red.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Props/sign_red.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Props/sign_red.png",
       "sha256": "b462fa2e35a82a4dd3250ad9e55a781a32970da6f479200d7826b8f439867c28",
       "size": 160,
       "role": "Image"
@@ -1506,7 +1506,7 @@
     {
       "fileName": "sign_street.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Props/sign_street.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Props/sign_street.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Props/sign_street.png",
       "sha256": "a35bf0d454d853ed93498a803cf9e4be09f269470964537497d4102bc289f8db",
       "size": 135,
       "role": "Image"
@@ -1516,7 +1516,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/kenney-pixel-vehicle-pack/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/cover.png",
       "sha256": "57e6dd741e8c6b9dba492d33c1634954e22e8bb8648c856d9f7a878c89ec52d3",
       "size": 15582,
       "contentType": "image/png",
@@ -1525,7 +1525,7 @@
     {
       "fileName": "ambulance.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/ambulance.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/ambulance.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/ambulance.png",
       "sha256": "c80cebd47bfc363b63df953f17981dadedfc52616c017598bda677ae4effced7",
       "size": 296,
       "contentType": "image/png",
@@ -1535,7 +1535,7 @@
     {
       "fileName": "buggy.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/buggy.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/buggy.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/buggy.png",
       "sha256": "e7934996ae4be12e63edfb580c9dd8e487a8f9ede89ddef26701e16a99e6b2ce",
       "size": 233,
       "contentType": "image/png",
@@ -1545,7 +1545,7 @@
     {
       "fileName": "bus.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/bus.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/bus.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/bus.png",
       "sha256": "237460909a5d648639e58ebd10ed0ea93b74f22ed4b9dcdfb40fbbd97a612d4d",
       "size": 289,
       "contentType": "image/png",
@@ -1555,7 +1555,7 @@
     {
       "fileName": "bus_school.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/bus_school.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/bus_school.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/bus_school.png",
       "sha256": "1fdb713880049ff03d9d1149bc03cc52e4422107cc1060eefe84154a2c1b8d9a",
       "size": 287,
       "contentType": "image/png",
@@ -1565,7 +1565,7 @@
     {
       "fileName": "convertible.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/convertible.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/convertible.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/convertible.png",
       "sha256": "59f8956ae73e29d99941688443407914e71d8dda523e8b47bf24dbfffe90b0e2",
       "size": 242,
       "contentType": "image/png",
@@ -1575,7 +1575,7 @@
     {
       "fileName": "cycle.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/cycle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/cycle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/cycle.png",
       "sha256": "768a1ed739b96084dea7a2573d6cb1bd59ce88f9b6caf5a2debea6331467e597",
       "size": 193,
       "contentType": "image/png",
@@ -1585,7 +1585,7 @@
     {
       "fileName": "cycle_low.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/cycle_low.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/cycle_low.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/cycle_low.png",
       "sha256": "5786d16da179a7650ed13647da3c3b4d9787f1e7730f40ba0735f3f091c2ec93",
       "size": 185,
       "contentType": "image/png",
@@ -1595,7 +1595,7 @@
     {
       "fileName": "firetruck.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/firetruck.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/firetruck.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/firetruck.png",
       "sha256": "948c3cf99020c037b77f4cd280c37f6d5e6cb1a50b6db9d7da749e8dd691ee7e",
       "size": 324,
       "contentType": "image/png",
@@ -1605,7 +1605,7 @@
     {
       "fileName": "formula.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/formula.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/formula.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/formula.png",
       "sha256": "8c1653cc33004994cca08028b504a9109dacbeca212cb4f6c650ae3341a43b47",
       "size": 231,
       "contentType": "image/png",
@@ -1615,7 +1615,7 @@
     {
       "fileName": "hotdog.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/hotdog.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/hotdog.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/hotdog.png",
       "sha256": "e49710f34bbfcd7df0a232277caee3705029d4068e915c9ef79b30e85aa51df4",
       "size": 338,
       "contentType": "image/png",
@@ -1625,7 +1625,7 @@
     {
       "fileName": "kart.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/kart.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/kart.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/kart.png",
       "sha256": "98553de759961819deb7be8723490d59613b45ff060af819cc39b51f9ec37578",
       "size": 198,
       "contentType": "image/png",
@@ -1635,7 +1635,7 @@
     {
       "fileName": "police.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/police.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/police.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/police.png",
       "sha256": "a48c237537776b29ec17101aa99216400b447b11a153567101f9cc347e0d773e",
       "size": 249,
       "contentType": "image/png",
@@ -1645,7 +1645,7 @@
     {
       "fileName": "riot.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/riot.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/riot.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/riot.png",
       "sha256": "e34760d6e09d26eb09d356fee026ccf815e036d2b3edda36ed6ff9f3aa481681",
       "size": 291,
       "contentType": "image/png",
@@ -1655,7 +1655,7 @@
     {
       "fileName": "rounded_green.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/rounded_green.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/rounded_green.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/rounded_green.png",
       "sha256": "573ebb2d3387b9c4ff158d70b85de553223c1b56b8e09939cf5111a6ac5609d1",
       "size": 234,
       "contentType": "image/png",
@@ -1665,7 +1665,7 @@
     {
       "fileName": "rounded_red.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/rounded_red.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/rounded_red.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/rounded_red.png",
       "sha256": "d1b8a5d47e5f2fcefa81e3be2c57b2396b72bc8b3903693d58f9d370af0dbdad",
       "size": 235,
       "contentType": "image/png",
@@ -1675,7 +1675,7 @@
     {
       "fileName": "rounded_yellow.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/rounded_yellow.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/rounded_yellow.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/rounded_yellow.png",
       "sha256": "ee483489001143829114678fc6685e651f649f227cd26e9ba4282026f6deff25",
       "size": 244,
       "contentType": "image/png",
@@ -1685,7 +1685,7 @@
     {
       "fileName": "scooter.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/scooter.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/scooter.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/scooter.png",
       "sha256": "75bc9fdc0a7a7147a6b6314d723fc30285b65970050a3a2d5bd1a2fd0a327ac4",
       "size": 186,
       "contentType": "image/png",
@@ -1695,7 +1695,7 @@
     {
       "fileName": "sedan.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/sedan.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/sedan.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/sedan.png",
       "sha256": "8e9f6ea65d858e983d7e0f0db8e8c1e1f90116051b48e249db3f7743501516d4",
       "size": 234,
       "contentType": "image/png",
@@ -1705,7 +1705,7 @@
     {
       "fileName": "sedan_blue.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/sedan_blue.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/sedan_blue.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/sedan_blue.png",
       "sha256": "ef27c67ee29574daff30c24034a7183872661e67e4da615435ff33609869130f",
       "size": 236,
       "contentType": "image/png",
@@ -1715,7 +1715,7 @@
     {
       "fileName": "sedan_vintage.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/sedan_vintage.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/sedan_vintage.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/sedan_vintage.png",
       "sha256": "f2178e9656a345af55e5a67716573ddf78821ee04b5e60d013aee9d4b892f688",
       "size": 253,
       "contentType": "image/png",
@@ -1725,7 +1725,7 @@
     {
       "fileName": "sports_convertible.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_convertible.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_convertible.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_convertible.png",
       "sha256": "5e7bad59d0797ff52a8bbbb5aec43aef9a005d61a05ab2983729532cc610bc32",
       "size": 240,
       "contentType": "image/png",
@@ -1735,7 +1735,7 @@
     {
       "fileName": "sports_green.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_green.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_green.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_green.png",
       "sha256": "7ee6636fe8cf687b0d62cc7366ff722f8a840528f9d93482a93c24da5c62c39d",
       "size": 239,
       "contentType": "image/png",
@@ -1745,7 +1745,7 @@
     {
       "fileName": "sports_race.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_race.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_race.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_race.png",
       "sha256": "8ad2db0c825644db82219a2dc754dd16d7feadfc79c97b17d62f74357827a853",
       "size": 232,
       "contentType": "image/png",
@@ -1755,7 +1755,7 @@
     {
       "fileName": "sports_red.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_red.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_red.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_red.png",
       "sha256": "cc5e7fbe1c201f563a129f8c0fd6508c428bc6ee36ee62d89df68962a64e25ca",
       "size": 235,
       "contentType": "image/png",
@@ -1765,7 +1765,7 @@
     {
       "fileName": "sports_yellow.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_yellow.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_yellow.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/sports_yellow.png",
       "sha256": "a7aa1d1fac69ef139267ed5c8b6680a600585b7f29f48c6a46c7da7686a92766",
       "size": 233,
       "contentType": "image/png",
@@ -1775,7 +1775,7 @@
     {
       "fileName": "station.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/station.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/station.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/station.png",
       "sha256": "0e56f4561394d3b5d7883a09f39d176bb9a1c505c46a624a9fde2881d21dc208",
       "size": 247,
       "contentType": "image/png",
@@ -1785,7 +1785,7 @@
     {
       "fileName": "suv.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/suv.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/suv.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/suv.png",
       "sha256": "7979736500ac87fed2523720a1d7e169b3268361763c71354156ca5244986d2c",
       "size": 268,
       "contentType": "image/png",
@@ -1795,7 +1795,7 @@
     {
       "fileName": "suv_closed.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_closed.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_closed.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_closed.png",
       "sha256": "8f537642920f31c16a2cd2febc4790606960f47d9c97362b36f0f4bb0221d644",
       "size": 248,
       "contentType": "image/png",
@@ -1805,7 +1805,7 @@
     {
       "fileName": "suv_green.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_green.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_green.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_green.png",
       "sha256": "5b149b75457c925bbe1f0c2d71cc3f11f841de9499f6d664959eb22b621e05d7",
       "size": 257,
       "contentType": "image/png",
@@ -1815,7 +1815,7 @@
     {
       "fileName": "suv_large.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_large.png",
       "sha256": "acfd3998a893d0e9ce097d193bf2dd56371d958bf994c94ac2ac0039c771a1ba",
       "size": 273,
       "contentType": "image/png",
@@ -1825,7 +1825,7 @@
     {
       "fileName": "suv_military.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_military.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_military.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_military.png",
       "sha256": "fe56ea3cd459d96545c4ac5a18df0f033f77703f592516cb98a64023da3972fe",
       "size": 253,
       "contentType": "image/png",
@@ -1835,7 +1835,7 @@
     {
       "fileName": "suv_travel.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_travel.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_travel.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/suv_travel.png",
       "sha256": "6c1663501070c7c2d2177d9d325b6e9f43be5c852a96ddb169138be7a35e1534",
       "size": 260,
       "contentType": "image/png",
@@ -1845,7 +1845,7 @@
     {
       "fileName": "taxi.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/taxi.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/taxi.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/taxi.png",
       "sha256": "0f39c03adcfd54066512eafd1a35c75dbb01b367b778880ec6c2e567e4eabd28",
       "size": 251,
       "contentType": "image/png",
@@ -1855,7 +1855,7 @@
     {
       "fileName": "towtruck.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/towtruck.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/towtruck.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/towtruck.png",
       "sha256": "91096ab9c83d4abe9731498a01592012e7cd53b971332f4d6611d71791ab1983",
       "size": 307,
       "contentType": "image/png",
@@ -1865,7 +1865,7 @@
     {
       "fileName": "tractor.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/tractor.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/tractor.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/tractor.png",
       "sha256": "e7ca40de84113b763b2ad3843ddc0e24ddb8cb59ad97ab8e47332738abd42657",
       "size": 254,
       "contentType": "image/png",
@@ -1875,7 +1875,7 @@
     {
       "fileName": "transport.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/transport.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/transport.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/transport.png",
       "sha256": "b45855abd30c740945fa8ee2416e4e0f5d813df80660ddeaceb27bca4c276f5f",
       "size": 265,
       "contentType": "image/png",
@@ -1885,7 +1885,7 @@
     {
       "fileName": "truck.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/truck.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/truck.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/truck.png",
       "sha256": "6325b3afa9bddf7ed202439e352cf99b0ddd2d44bfa4809008f48d83bd6dfae3",
       "size": 300,
       "contentType": "image/png",
@@ -1895,7 +1895,7 @@
     {
       "fileName": "truck_trailer.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/truck_trailer.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/truck_trailer.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/truck_trailer.png",
       "sha256": "a29bcae99f737cf0ae89eb7dfc92590b19495861d90c30b7ed2a71f870ba4716",
       "size": 207,
       "contentType": "image/png",
@@ -1905,7 +1905,7 @@
     {
       "fileName": "truckcabin.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/truckcabin.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/truckcabin.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/truckcabin.png",
       "sha256": "88128189a7098471d8a2d843c07f72968c38a51a956d6e07180b9e42a005e697",
       "size": 276,
       "contentType": "image/png",
@@ -1915,7 +1915,7 @@
     {
       "fileName": "truckcabin_vintage.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/truckcabin_vintage.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/truckcabin_vintage.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/truckcabin_vintage.png",
       "sha256": "13b1b130b9bd20c9c31383027d4e417de7c2c69dea5e7ad79607f267b9e83712",
       "size": 253,
       "contentType": "image/png",
@@ -1925,7 +1925,7 @@
     {
       "fileName": "truckdark.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/truckdark.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/truckdark.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/truckdark.png",
       "sha256": "66d4beb73d7c7f2acd0022bfc31cd8c43ff25781abb80b6e6a3eca97aab4d37c",
       "size": 259,
       "contentType": "image/png",
@@ -1935,7 +1935,7 @@
     {
       "fileName": "truckdelivery.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/truckdelivery.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/truckdelivery.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/truckdelivery.png",
       "sha256": "882d908ac9e9b59c10aea105debb6bbf5b50a59bb336aa0cac8f9c6931cc9775",
       "size": 279,
       "contentType": "image/png",
@@ -1945,7 +1945,7 @@
     {
       "fileName": "trucktank.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/trucktank.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/trucktank.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/trucktank.png",
       "sha256": "f818bcae211cd2f7b56f9993cf9b34fdde347b58209d30fa7b3e847833afe293",
       "size": 322,
       "contentType": "image/png",
@@ -1955,7 +1955,7 @@
     {
       "fileName": "trucktank_trailer.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/trucktank_trailer.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/trucktank_trailer.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/trucktank_trailer.png",
       "sha256": "bb05dbd9252ff10c5bf395d116814902a3dc2a2d760848097547546a9e44c9bc",
       "size": 218,
       "contentType": "image/png",
@@ -1965,7 +1965,7 @@
     {
       "fileName": "van.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/van.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/van.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/van.png",
       "sha256": "5800b21479c0a910af0a351107d862a448d2132c1003f1d5597802c8ec8ac5ca",
       "size": 245,
       "contentType": "image/png",
@@ -1975,7 +1975,7 @@
     {
       "fileName": "van_flat.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/van_flat.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/van_flat.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/van_flat.png",
       "sha256": "f6c96962fdd4484a0bf60e00d1b5fdc3805db543983050ebd1ce1cad2990e3ff",
       "size": 260,
       "contentType": "image/png",
@@ -1985,7 +1985,7 @@
     {
       "fileName": "van_large.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/van_large.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/van_large.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/van_large.png",
       "sha256": "8cf7fbe1dc2987d8e5eac1dcba3e8409804ba1a23478ee983a7b8633ccc33af4",
       "size": 254,
       "contentType": "image/png",
@@ -1995,7 +1995,7 @@
     {
       "fileName": "van_small.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/van_small.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/van_small.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/van_small.png",
       "sha256": "909ec41f8479a2fa58b79ffc656035d10c52a41b4243b6735f2f26d9d54a8028",
       "size": 247,
       "contentType": "image/png",
@@ -2005,7 +2005,7 @@
     {
       "fileName": "vendor.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/vendor.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/vendor.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/vendor.png",
       "sha256": "84e32e6f8fcac869c7ce564e45e6e8553e26b4ccc82fde4c5e3d2540f07a33de",
       "size": 292,
       "contentType": "image/png",
@@ -2015,7 +2015,7 @@
     {
       "fileName": "vintage.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Cars/vintage.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Cars/vintage.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Cars/vintage.png",
       "sha256": "83349faf2559dc62a776a3fdb5e81bd92798f739de7e22e7fc09129482ee3b42",
       "size": 246,
       "contentType": "image/png",
@@ -2025,7 +2025,7 @@
     {
       "fileName": "man.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/man.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/man.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/man.png",
       "sha256": "5515a83fb236c8c0f2de80f3c77a8bba23e89b8b94904a61e0fd7a8772dee109",
       "size": 194,
       "contentType": "image/png",
@@ -2035,7 +2035,7 @@
     {
       "fileName": "man_convertible.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/man_convertible.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_convertible.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_convertible.png",
       "sha256": "8b0e5c74388754472fc0edb30baa527e7d83310f18e09005e1d1426aeb476f2d",
       "size": 148,
       "contentType": "image/png",
@@ -2045,7 +2045,7 @@
     {
       "fileName": "man_cycle.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/man_cycle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_cycle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_cycle.png",
       "sha256": "f0cafc2c727449c6f8595c8e44756dd38631bd40e9e43e4981073c62585e7437",
       "size": 183,
       "contentType": "image/png",
@@ -2055,7 +2055,7 @@
     {
       "fileName": "man_down.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/man_down.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_down.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_down.png",
       "sha256": "b5b94b4d3f33987604a74b05f87fd7669c246d55fea33deacf9d08570b709e6c",
       "size": 160,
       "contentType": "image/png",
@@ -2065,7 +2065,7 @@
     {
       "fileName": "man_fall.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/man_fall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_fall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_fall.png",
       "sha256": "e609c58157b8045536c48baa65a50a3f18995ead949d1243ce70823d3e10f60a",
       "size": 203,
       "contentType": "image/png",
@@ -2075,7 +2075,7 @@
     {
       "fileName": "man_kart.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/man_kart.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_kart.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_kart.png",
       "sha256": "4d9b81c503036fd2fcd25d59c720d0c1edd72e2cd8b19bc863f7838b9ec3e4bc",
       "size": 168,
       "contentType": "image/png",
@@ -2085,7 +2085,7 @@
     {
       "fileName": "man_point.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/man_point.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_point.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_point.png",
       "sha256": "2bc764307eeba301bc828b0e764e53f3a0f2213133bf2881b52c4ffaf92db616",
       "size": 199,
       "contentType": "image/png",
@@ -2095,7 +2095,7 @@
     {
       "fileName": "man_walk1.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/man_walk1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_walk1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_walk1.png",
       "sha256": "164f8b435afd8cbd9b882e7cf44e4f9a5487670add32afe2c6b509e9e439876c",
       "size": 187,
       "contentType": "image/png",
@@ -2105,7 +2105,7 @@
     {
       "fileName": "man_walk2.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/man_walk2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_walk2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/man_walk2.png",
       "sha256": "fabbe49f1fc48b46413dbe8998795db647e3f11dd487abc5b46b29a9607b4443",
       "size": 201,
       "contentType": "image/png",
@@ -2115,7 +2115,7 @@
     {
       "fileName": "woman.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/woman.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman.png",
       "sha256": "710f706bf1e38aa77e280f4affcfaf9d36d924f5b438cb19c196f67a94055d28",
       "size": 194,
       "contentType": "image/png",
@@ -2125,7 +2125,7 @@
     {
       "fileName": "woman_convertible.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_convertible.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_convertible.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_convertible.png",
       "sha256": "660912be09e785b495a87bc77122e2ff426a08321f187b6d6f532fcf71ea7f93",
       "size": 150,
       "contentType": "image/png",
@@ -2135,7 +2135,7 @@
     {
       "fileName": "woman_cycle.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_cycle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_cycle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_cycle.png",
       "sha256": "52f8abd2eb0b4e50e2ac417897e2c449065966e02dff134971f7afb5d7817cab",
       "size": 184,
       "contentType": "image/png",
@@ -2145,7 +2145,7 @@
     {
       "fileName": "woman_down.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_down.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_down.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_down.png",
       "sha256": "d4acbc1a66003063506691bfb936164ac8875b477df2510fa6769c9f6a69fba5",
       "size": 163,
       "contentType": "image/png",
@@ -2155,7 +2155,7 @@
     {
       "fileName": "woman_fall.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_fall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_fall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_fall.png",
       "sha256": "7cc39c7336fc4e9a80da4cd0c2a97d2d9647a9c902253c53dcab42bed3c89181",
       "size": 206,
       "contentType": "image/png",
@@ -2165,7 +2165,7 @@
     {
       "fileName": "woman_kart.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_kart.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_kart.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_kart.png",
       "sha256": "e44c793c2b96eb924cb9a49fad7aa7371c3d075ba0ccbfdd8a116b9bdc473642",
       "size": 168,
       "contentType": "image/png",
@@ -2175,7 +2175,7 @@
     {
       "fileName": "woman_point.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_point.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_point.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_point.png",
       "sha256": "ae9586871748250a3615c10573da21afd605c56476e4c74f95885dca01297fa7",
       "size": 199,
       "contentType": "image/png",
@@ -2185,7 +2185,7 @@
     {
       "fileName": "woman_walk1.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_walk1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_walk1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_walk1.png",
       "sha256": "0a345366326cff032a09542bb7d62b8e2fce08f39ce1ded92fb7bd995db58eae",
       "size": 187,
       "contentType": "image/png",
@@ -2195,7 +2195,7 @@
     {
       "fileName": "woman_walk2.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_walk2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_walk2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Characters/woman_walk2.png",
       "sha256": "167970660da45cc4ac7f5bf650582204923172edf867586577422d987a53c88a",
       "size": 203,
       "contentType": "image/png",
@@ -2205,7 +2205,7 @@
     {
       "fileName": "barrier.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Props/barrier.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Props/barrier.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Props/barrier.png",
       "sha256": "7a9c64c35f66d661f9a8ee8ed48bc85a799700b5c4b5be4f0909f058721b3954",
       "size": 145,
       "contentType": "image/png",
@@ -2215,7 +2215,7 @@
     {
       "fileName": "highway.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Props/highway.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Props/highway.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Props/highway.png",
       "sha256": "0a217e56d57c183ce31ea44996a3a1d7afc62ce9b70d993acd2e0bc84df7e5ed",
       "size": 208,
       "contentType": "image/png",
@@ -2225,7 +2225,7 @@
     {
       "fileName": "light.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Props/light.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Props/light.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Props/light.png",
       "sha256": "d4290d719cfe12455b047da5c27fc26049e8de028e598378940ff2d13d3e7369",
       "size": 128,
       "contentType": "image/png",
@@ -2235,7 +2235,7 @@
     {
       "fileName": "light_double.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Props/light_double.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Props/light_double.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Props/light_double.png",
       "sha256": "21352a54c83b824c31d81c606b223d0ef3b2a191017a5b781a7a28ffebb42422",
       "size": 133,
       "contentType": "image/png",
@@ -2245,7 +2245,7 @@
     {
       "fileName": "sign_blue.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Props/sign_blue.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Props/sign_blue.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Props/sign_blue.png",
       "sha256": "2c37315d9b1f797589d5c495d33202f65139e5beef499e157efd474c94461431",
       "size": 134,
       "contentType": "image/png",
@@ -2255,7 +2255,7 @@
     {
       "fileName": "sign_red.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Props/sign_red.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Props/sign_red.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Props/sign_red.png",
       "sha256": "b462fa2e35a82a4dd3250ad9e55a781a32970da6f479200d7826b8f439867c28",
       "size": 160,
       "contentType": "image/png",
@@ -2265,7 +2265,7 @@
     {
       "fileName": "sign_street.png",
       "path": "packs/kenney-pixel-vehicle-pack/sprites/Props/sign_street.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/kenney-pixel-vehicle-pack/sprites/Props/sign_street.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/kenney-pixel-vehicle-pack/sprites/Props/sign_street.png",
       "sha256": "a35bf0d454d853ed93498a803cf9e4be09f269470964537497d4102bc289f8db",
       "size": 135,
       "contentType": "image/png",

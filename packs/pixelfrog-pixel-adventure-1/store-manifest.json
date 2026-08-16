@@ -6,7 +6,7 @@
   "website": "https://pixelfrog-assets.itch.io/pixel-adventure-1",
   "description": "2D pixel-art platformer graphics featuring iconic characters (Ninja Frog, Pink Man, Mask Dude, Virtual Guy), animated items, fruit collectibles, checkpoints, traps, backgrounds, and terrain tilesets by Pixel Frog.",
   "folder": "packs/pixelfrog-pixel-adventure-1",
-  "pinnedSha": "773ea607a6e042349041fb0691bd7634310d4595",
+  "pinnedSha": "ad33effd37db75b6dc1321079da4b159eb950859",
   "itemCount": 110,
   "items": [
     {
@@ -108,7 +108,7 @@
     {
       "name": "Hit (28x24)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\",\"spritesheet\":{\"frameWidth\":28,\"frameHeight\":24}}",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\",\"spritesheet\":{\"frameWidth\":28,\"frameHeight\":24,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -144,7 +144,7 @@
     {
       "name": "Hit (28x24) (Box2)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\",\"spritesheet\":{\"frameWidth\":28,\"frameHeight\":24}}",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\",\"spritesheet\":{\"frameWidth\":28,\"frameHeight\":24,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -180,7 +180,7 @@
     {
       "name": "Hit (28x24) (Box3)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\",\"spritesheet\":{\"frameWidth\":28,\"frameHeight\":24}}",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\",\"spritesheet\":{\"frameWidth\":28,\"frameHeight\":24,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -204,7 +204,7 @@
     {
       "name": "Checkpoint (flag Idle)(64x64)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\",\"spritesheet\":{\"frameWidth\":64,\"frameHeight\":64}}",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\",\"spritesheet\":{\"frameWidth\":64,\"frameHeight\":64,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -216,7 +216,7 @@
     {
       "name": "Checkpoint (flag Out) (64x64)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\",\"spritesheet\":{\"frameWidth\":64,\"frameHeight\":64}}",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\",\"spritesheet\":{\"frameWidth\":64,\"frameHeight\":64,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -252,7 +252,7 @@
     {
       "name": "End (pressed) (64x64)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\",\"spritesheet\":{\"frameWidth\":64,\"frameHeight\":64}}",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\",\"spritesheet\":{\"frameWidth\":64,\"frameHeight\":64,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -276,7 +276,7 @@
     {
       "name": "Start (moving) (64x64)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\",\"spritesheet\":{\"frameWidth\":64,\"frameHeight\":64}}",
+      "metadataJson": "{\"category\":\"Items & Icons\",\"subcategory\":\"Tools & Resources\",\"spritesheet\":{\"frameWidth\":64,\"frameHeight\":64,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -396,7 +396,7 @@
     {
       "name": "Appearing (96x96)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":96,\"frameHeight\":96}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":96,\"frameHeight\":96,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -408,7 +408,7 @@
     {
       "name": "Desappearing (96x96)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":96,\"frameHeight\":96}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":96,\"frameHeight\":96,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -420,7 +420,7 @@
     {
       "name": "Double Jump (32x32)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -432,7 +432,7 @@
     {
       "name": "Fall (32x32)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -444,7 +444,7 @@
     {
       "name": "Hit (32x32)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -456,7 +456,7 @@
     {
       "name": "Idle (32x32)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -468,7 +468,7 @@
     {
       "name": "Jump (32x32)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -480,7 +480,7 @@
     {
       "name": "Run (32x32)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -492,7 +492,7 @@
     {
       "name": "Wall Jump (32x32)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -504,7 +504,7 @@
     {
       "name": "Double Jump (32x32) (Ninja Frog)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -516,7 +516,7 @@
     {
       "name": "Fall (32x32) (Ninja Frog)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -528,7 +528,7 @@
     {
       "name": "Hit (32x32) (Ninja Frog)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -540,7 +540,7 @@
     {
       "name": "Idle (32x32) (Ninja Frog)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -552,7 +552,7 @@
     {
       "name": "Jump (32x32) (Ninja Frog)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -564,7 +564,7 @@
     {
       "name": "Run (32x32) (Ninja Frog)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -576,7 +576,7 @@
     {
       "name": "Wall Jump (32x32) (Ninja Frog)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -588,7 +588,7 @@
     {
       "name": "Double Jump (32x32) (Pink Man)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -600,7 +600,7 @@
     {
       "name": "Fall (32x32) (Pink Man)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -612,7 +612,7 @@
     {
       "name": "Hit (32x32) (Pink Man)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -624,7 +624,7 @@
     {
       "name": "Idle (32x32) (Pink Man)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -636,7 +636,7 @@
     {
       "name": "Jump (32x32) (Pink Man)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -648,7 +648,7 @@
     {
       "name": "Run (32x32) (Pink Man)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -660,7 +660,7 @@
     {
       "name": "Wall Jump (32x32) (Pink Man)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -672,7 +672,7 @@
     {
       "name": "Double Jump (32x32) (Virtual Guy)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -684,7 +684,7 @@
     {
       "name": "Fall (32x32) (Virtual Guy)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -696,7 +696,7 @@
     {
       "name": "Hit (32x32) (Virtual Guy)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -708,7 +708,7 @@
     {
       "name": "Idle (32x32) (Virtual Guy)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -720,7 +720,7 @@
     {
       "name": "Jump (32x32) (Virtual Guy)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -732,7 +732,7 @@
     {
       "name": "Run (32x32) (Virtual Guy)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -744,7 +744,7 @@
     {
       "name": "Wall Jump (32x32) (Virtual Guy)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -756,7 +756,7 @@
     {
       "name": "Confetti (16x16)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":16,\"frameHeight\":16}}",
+      "metadataJson": "{\"category\":\"Characters\",\"subcategory\":\"Humanoids\",\"spritesheet\":{\"frameWidth\":16,\"frameHeight\":16,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -804,7 +804,7 @@
     {
       "name": "Terrain (16x16)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Tilesets & Environments\",\"subcategory\":\"Terrain & Platforms\",\"spritesheet\":{\"frameWidth\":16,\"frameHeight\":16}}",
+      "metadataJson": "{\"category\":\"Tilesets & Environments\",\"subcategory\":\"Terrain & Platforms\",\"spritesheet\":{\"frameWidth\":16,\"frameHeight\":16,\"type\":\"tileset\",\"fps\":2}}",
       "isPreviewable": true,
       "files": [
         {
@@ -816,7 +816,7 @@
     {
       "name": "Hit (18x18)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":18,\"frameHeight\":18}}",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":18,\"frameHeight\":18,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -828,7 +828,7 @@
     {
       "name": "Idle (18x18)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":18,\"frameHeight\":18}}",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":18,\"frameHeight\":18,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -840,7 +840,7 @@
     {
       "name": "Hitside (22x22)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":22,\"frameHeight\":22}}",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":22,\"frameHeight\":22,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -852,7 +852,7 @@
     {
       "name": "Hittop (22x22)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":22,\"frameHeight\":22}}",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":22,\"frameHeight\":22,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -876,7 +876,7 @@
     {
       "name": "Part 1 (22x22)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":22,\"frameHeight\":22}}",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":22,\"frameHeight\":22,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -888,7 +888,7 @@
     {
       "name": "Part 2 (22x22)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":22,\"frameHeight\":22}}",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":22,\"frameHeight\":22,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -912,7 +912,7 @@
     {
       "name": "On (32x10)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":10}}",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":10,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -936,7 +936,7 @@
     {
       "name": "On (24x8)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":24,\"frameHeight\":8}}",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":24,\"frameHeight\":8,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -948,7 +948,7 @@
     {
       "name": "Hit (16x32)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":16,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":16,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -972,7 +972,7 @@
     {
       "name": "On (16x32)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":16,\"frameHeight\":32}}",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":16,\"frameHeight\":32,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -996,7 +996,7 @@
     {
       "name": "Brown On (32x8)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":8}}",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":8,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -1032,7 +1032,7 @@
     {
       "name": "Grey On (32x8)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":8}}",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":32,\"frameHeight\":8,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -1044,7 +1044,7 @@
     {
       "name": "Blink (42x42)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":42,\"frameHeight\":42}}",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":42,\"frameHeight\":42,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -1056,7 +1056,7 @@
     {
       "name": "Bottom Hit (42x42)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":42,\"frameHeight\":42}}",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":42,\"frameHeight\":42,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -1080,7 +1080,7 @@
     {
       "name": "Left Hit (42x42)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":42,\"frameHeight\":42}}",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":42,\"frameHeight\":42,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -1092,7 +1092,7 @@
     {
       "name": "Right Hit (42x42)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":42,\"frameHeight\":42}}",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":42,\"frameHeight\":42,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -1104,7 +1104,7 @@
     {
       "name": "Top Hit (42x42)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":42,\"frameHeight\":42}}",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":42,\"frameHeight\":42,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -1140,7 +1140,7 @@
     {
       "name": "Sand Mud Ice (16x6)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":16,\"frameHeight\":6}}",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":16,\"frameHeight\":6,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -1188,7 +1188,7 @@
     {
       "name": "On (38x38)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":38,\"frameHeight\":38}}",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":38,\"frameHeight\":38,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -1200,7 +1200,7 @@
     {
       "name": "Blink (54x52)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":54,\"frameHeight\":52}}",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":54,\"frameHeight\":52,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -1212,7 +1212,7 @@
     {
       "name": "Bottom Hit (54x52)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":54,\"frameHeight\":52}}",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":54,\"frameHeight\":52,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -1236,7 +1236,7 @@
     {
       "name": "Left Hit (54x52)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":54,\"frameHeight\":52}}",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":54,\"frameHeight\":52,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -1248,7 +1248,7 @@
     {
       "name": "Right Hit (54x52)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":54,\"frameHeight\":52}}",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":54,\"frameHeight\":52,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -1260,7 +1260,7 @@
     {
       "name": "Top Hit (54x52)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":54,\"frameHeight\":52}}",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":54,\"frameHeight\":52,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -1320,7 +1320,7 @@
     {
       "name": "Jump (28x28)",
       "itemType": "Sprite",
-      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":28,\"frameHeight\":28}}",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Particles\",\"spritesheet\":{\"frameWidth\":28,\"frameHeight\":28,\"type\":\"animation\",\"fps\":7}}",
       "isPreviewable": true,
       "files": [
         {
@@ -1334,7 +1334,7 @@
     {
       "fileName": "Blue.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Background/Blue.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Background/Blue.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Background/Blue.png",
       "sha256": "a37af35c2a8f30600b6831fccf7b4853969e74f0c4f582ca12f9379798e67409",
       "size": 298,
       "role": "Image"
@@ -1342,7 +1342,7 @@
     {
       "fileName": "Brown.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Background/Brown.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Background/Brown.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Background/Brown.png",
       "sha256": "af7d8115068459f4ffb5a47eca92c994bbddd73ce194d822536bb865c8a2df78",
       "size": 552,
       "role": "Image"
@@ -1350,7 +1350,7 @@
     {
       "fileName": "Gray.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Background/Gray.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Background/Gray.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Background/Gray.png",
       "sha256": "b4edcb870085fdd1eb3d3c3b78da4080f2ba3dabd9782e742743e945d3284a51",
       "size": 480,
       "role": "Image"
@@ -1358,7 +1358,7 @@
     {
       "fileName": "Green.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Background/Green.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Background/Green.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Background/Green.png",
       "sha256": "8ab934c8757e168bc897aacb0ea3fe5982384fe6b10386df3280088f1c94741b",
       "size": 543,
       "role": "Image"
@@ -1366,7 +1366,7 @@
     {
       "fileName": "Pink.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Background/Pink.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Background/Pink.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Background/Pink.png",
       "sha256": "a4a712574922381f28aaf0a18c2f193c11b7847491639ba7a611a479e590fd8d",
       "size": 417,
       "role": "Image"
@@ -1374,7 +1374,7 @@
     {
       "fileName": "Purple.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Background/Purple.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Background/Purple.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Background/Purple.png",
       "sha256": "d233dfcbf68a36477d552e6459acd0b7c3d1a9e36dd85a99bcb9291c074d600c",
       "size": 249,
       "role": "Image"
@@ -1382,7 +1382,7 @@
     {
       "fileName": "Yellow.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Background/Yellow.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Background/Yellow.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Background/Yellow.png",
       "sha256": "10a5c9ff221f448468af6bb9d567e927f5a1ace01c9100d54dc153fdb88a5244",
       "size": 488,
       "role": "Image"
@@ -1390,7 +1390,7 @@
     {
       "fileName": "Break.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box1/Break.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box1/Break.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box1/Break.png",
       "sha256": "a201cdbe5ea9f508f0b5e5167a0615bac1c668086ef7c7af9366e3daf01797da",
       "size": 619,
       "role": "Image"
@@ -1398,7 +1398,7 @@
     {
       "fileName": "Hit (28x24).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box1/Hit (28x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box1/Hit%20(28x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box1/Hit%20(28x24).png",
       "sha256": "d6b4ef9d11bf407d82d1bd0b5f73d1efe067eb2403e3885283c5592c18aa21cd",
       "size": 602,
       "role": "Image"
@@ -1406,7 +1406,7 @@
     {
       "fileName": "Idle.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box1/Idle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box1/Idle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box1/Idle.png",
       "sha256": "2d0339d0c6bb02eb7b77fcb75d0d45c51dd906cbfcaff3e19e49a954b461f2ae",
       "size": 399,
       "role": "Image"
@@ -1414,7 +1414,7 @@
     {
       "fileName": "Break.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box2/Break.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box2/Break.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box2/Break.png",
       "sha256": "824879e88df95d92ea4851d8a76f8ee257bd2f21f07c437d4f577a35b5de9b15",
       "size": 688,
       "role": "Image"
@@ -1422,7 +1422,7 @@
     {
       "fileName": "Hit (28x24).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box2/Hit (28x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box2/Hit%20(28x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box2/Hit%20(28x24).png",
       "sha256": "36cfed638eb980687b16354463f7a907774bbb86e823ff603888bed8eef6fa54",
       "size": 767,
       "role": "Image"
@@ -1430,7 +1430,7 @@
     {
       "fileName": "Idle.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box2/Idle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box2/Idle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box2/Idle.png",
       "sha256": "dd297d194299b4980bfa5aa874005dadf5a9413e0e348bb9dff7543abb214f3f",
       "size": 351,
       "role": "Image"
@@ -1438,7 +1438,7 @@
     {
       "fileName": "Break.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box3/Break.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box3/Break.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box3/Break.png",
       "sha256": "0eb091c71f70cf0fb9da36d7b50b0ab9788c19abc9c4d02375a48709f67703ef",
       "size": 635,
       "role": "Image"
@@ -1446,7 +1446,7 @@
     {
       "fileName": "Hit (28x24).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box3/Hit (28x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box3/Hit%20(28x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box3/Hit%20(28x24).png",
       "sha256": "c1b80d805336605e66248b723cd776dac320264f7b24a44dada75be027273a6b",
       "size": 454,
       "role": "Image"
@@ -1454,7 +1454,7 @@
     {
       "fileName": "Idle.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box3/Idle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box3/Idle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box3/Idle.png",
       "sha256": "31916581928592e428cd0f7b42bf63f64f946a52d1d752fd53516973ed7d3d38",
       "size": 406,
       "role": "Image"
@@ -1462,7 +1462,7 @@
     {
       "fileName": "Checkpoint (Flag Idle)(64x64).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Checkpoint/Checkpoint (Flag Idle)(64x64).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Checkpoint/Checkpoint%20(Flag%20Idle)(64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Checkpoint/Checkpoint%20(Flag%20Idle)(64x64).png",
       "sha256": "99fd9012b3935a91f580922c051ca2cbe86fe85c1ca5d8a1dbf09fc161f3e309",
       "size": 1834,
       "role": "Image"
@@ -1470,7 +1470,7 @@
     {
       "fileName": "Checkpoint (Flag Out) (64x64).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Checkpoint/Checkpoint (Flag Out) (64x64).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Checkpoint/Checkpoint%20(Flag%20Out)%20(64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Checkpoint/Checkpoint%20(Flag%20Out)%20(64x64).png",
       "sha256": "b4e42b307d92ec89a2ed2857c021732cc8b27740e7cab6307723086551c1dee5",
       "size": 3331,
       "role": "Image"
@@ -1478,7 +1478,7 @@
     {
       "fileName": "Checkpoint (No Flag).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Checkpoint/Checkpoint (No Flag).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Checkpoint/Checkpoint%20(No%20Flag).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Checkpoint/Checkpoint%20(No%20Flag).png",
       "sha256": "cd048973d0ead9e6c81003601bd041c364044eb8210e9e71e473076a9afa5ae7",
       "size": 530,
       "role": "Image"
@@ -1486,7 +1486,7 @@
     {
       "fileName": "End (Idle).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/End/End (Idle).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/End/End%20(Idle).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/End/End%20(Idle).png",
       "sha256": "283b5cb5fda1993b46f2da84592a8b90dde7c124a90d5fa67f1dc8c61f4f1286",
       "size": 913,
       "role": "Image"
@@ -1494,7 +1494,7 @@
     {
       "fileName": "End (Pressed) (64x64).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/End/End (Pressed) (64x64).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/End/End%20(Pressed)%20(64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/End/End%20(Pressed)%20(64x64).png",
       "sha256": "59b0019cfc40a840e027ad8268ac583e34f9f52adefdad11217cbf9495a36fa9",
       "size": 2206,
       "role": "Image"
@@ -1502,7 +1502,7 @@
     {
       "fileName": "Start (Idle).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Start/Start (Idle).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Start/Start%20(Idle).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Start/Start%20(Idle).png",
       "sha256": "acb6643795bb6b36efc30ca12560bab34eaee91d1f72d6592f58b946c3640cd6",
       "size": 648,
       "role": "Image"
@@ -1510,7 +1510,7 @@
     {
       "fileName": "Start (Moving) (64x64).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Start/Start (Moving) (64x64).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Start/Start%20(Moving)%20(64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Start/Start%20(Moving)%20(64x64).png",
       "sha256": "44311719b2a81384fecdef540c101740819a295637626e35409dd135bc06eaff",
       "size": 2575,
       "role": "Image"
@@ -1518,7 +1518,7 @@
     {
       "fileName": "Apple.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Apple.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Apple.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Apple.png",
       "sha256": "ee71a978665c5c375603a4a047d129729e319f03708787279954171caabfd1e3",
       "size": 1065,
       "role": "Image"
@@ -1526,7 +1526,7 @@
     {
       "fileName": "Bananas.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Bananas.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Bananas.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Bananas.png",
       "sha256": "d234d94d916a8777341a45ac3120f3aeb1c1e044ce7294d3183dd08e2dce9f42",
       "size": 1196,
       "role": "Image"
@@ -1534,7 +1534,7 @@
     {
       "fileName": "Cherries.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Cherries.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Cherries.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Cherries.png",
       "sha256": "d9edb2c3157a28daf47c5f76a3cfb9354e6caa623c364784bfc3c015602e8f05",
       "size": 1090,
       "role": "Image"
@@ -1542,7 +1542,7 @@
     {
       "fileName": "Collected.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Collected.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Collected.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Collected.png",
       "sha256": "a95221be04a4eb2b567f12954257307b4b4a6735373562309a130a88ff978c11",
       "size": 577,
       "role": "Image"
@@ -1550,7 +1550,7 @@
     {
       "fileName": "Kiwi.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Kiwi.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Kiwi.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Kiwi.png",
       "sha256": "2db09bbb75304583e2aa87b73c3bcf7cfab829ac23d2fe9cb1b99188cbb39c17",
       "size": 1250,
       "role": "Image"
@@ -1558,7 +1558,7 @@
     {
       "fileName": "Melon.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Melon.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Melon.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Melon.png",
       "sha256": "35216881ce7b8f38397335ea04b159d3340e4b2096d5ba729ed4960de39de5fe",
       "size": 1155,
       "role": "Image"
@@ -1566,7 +1566,7 @@
     {
       "fileName": "Orange.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Orange.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Orange.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Orange.png",
       "sha256": "5638574b3fc7cb471184175d47dcbbee5be4d0cec75d4b7b7bfeae3017077736",
       "size": 1374,
       "role": "Image"
@@ -1574,7 +1574,7 @@
     {
       "fileName": "Pineapple.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Pineapple.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Pineapple.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Pineapple.png",
       "sha256": "872b73e2631fb8c86b4b90c183be6595401faf5850b5d8527e983e8842617b6d",
       "size": 1175,
       "role": "Image"
@@ -1582,7 +1582,7 @@
     {
       "fileName": "Strawberry.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Strawberry.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Strawberry.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Strawberry.png",
       "sha256": "19f65cfcf207e6bb493bf5f0cbc806a0b6582d36b60ba9e9f9f3e5d463e82661",
       "size": 990,
       "role": "Image"
@@ -1590,7 +1590,7 @@
     {
       "fileName": "Appearing (96x96).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Appearing (96x96).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Appearing%20(96x96).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Appearing%20(96x96).png",
       "sha256": "e33d1de415fedced1c82c45d4f11ffd5acabf68465fcc4c437d5e9da49ee3182",
       "size": 2445,
       "role": "Image"
@@ -1598,7 +1598,7 @@
     {
       "fileName": "Desappearing (96x96).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Desappearing (96x96).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Desappearing%20(96x96).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Desappearing%20(96x96).png",
       "sha256": "5db1b640a15ce893866b03266a5e51676b6c0110e7b18d96f7e6f7053c640f11",
       "size": 2452,
       "role": "Image"
@@ -1606,7 +1606,7 @@
     {
       "fileName": "Double Jump (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Mask Dude/Double Jump (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Double%20Jump%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Double%20Jump%20(32x32).png",
       "sha256": "d8a4ea93f017afb50dd2cc620b00937d7151b0b8cf88aaadc5a6c9ceb72d35d4",
       "size": 2203,
       "role": "Image"
@@ -1614,7 +1614,7 @@
     {
       "fileName": "Fall (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Mask Dude/Fall (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Fall%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Fall%20(32x32).png",
       "sha256": "b4829a85e20ba9447596cca214002e9340c6da6854bc2d83f6fddbacd8394a6d",
       "size": 829,
       "role": "Image"
@@ -1622,7 +1622,7 @@
     {
       "fileName": "Hit (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Mask Dude/Hit (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Hit%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Hit%20(32x32).png",
       "sha256": "dbca9bdf4319407cc583cb60d4bee18c6749aeb4774918b8c4d0cb78366044c0",
       "size": 1928,
       "role": "Image"
@@ -1630,7 +1630,7 @@
     {
       "fileName": "Idle (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Mask Dude/Idle (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Idle%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Idle%20(32x32).png",
       "sha256": "ded44a6ee1985f19201f87e11b373ac23db0541f27d7dfe8a2014848cb6ae66a",
       "size": 1563,
       "role": "Image"
@@ -1638,7 +1638,7 @@
     {
       "fileName": "Jump (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Mask Dude/Jump (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Jump%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Jump%20(32x32).png",
       "sha256": "ddce2a578aa83e955114283fffae90562e9949178d9ff0e64c4a759fc51ee802",
       "size": 845,
       "role": "Image"
@@ -1646,7 +1646,7 @@
     {
       "fileName": "Run (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Mask Dude/Run (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Run%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Run%20(32x32).png",
       "sha256": "c17add49705fa9a8b175d8270d0f2a8b1405393b34af890c371ebcd50a4ed8a8",
       "size": 2389,
       "role": "Image"
@@ -1654,7 +1654,7 @@
     {
       "fileName": "Wall Jump (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Mask Dude/Wall Jump (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Wall%20Jump%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Wall%20Jump%20(32x32).png",
       "sha256": "63aac973a1b37264ec40d5cd885c64a875abbb88cda1776884d0d8045ed50245",
       "size": 963,
       "role": "Image"
@@ -1662,7 +1662,7 @@
     {
       "fileName": "Double Jump (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Ninja Frog/Double Jump (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Double%20Jump%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Double%20Jump%20(32x32).png",
       "sha256": "6b7401b52565962aed9dce0338d6ca96c1bdd12001c86c557d2153ae9c63f2c5",
       "size": 1898,
       "role": "Image"
@@ -1670,7 +1670,7 @@
     {
       "fileName": "Fall (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Ninja Frog/Fall (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Fall%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Fall%20(32x32).png",
       "sha256": "713d4428d2f5f02d39c1cec5ab153c8780f40db033aae9765644713724bcdf15",
       "size": 759,
       "role": "Image"
@@ -1678,7 +1678,7 @@
     {
       "fileName": "Hit (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Ninja Frog/Hit (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Hit%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Hit%20(32x32).png",
       "sha256": "8ce646bd3ee99ad39b60e21602e50571c846ad3052638f5d43dc21c6dc1caa36",
       "size": 1564,
       "role": "Image"
@@ -1686,7 +1686,7 @@
     {
       "fileName": "Idle (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Ninja Frog/Idle (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Idle%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Idle%20(32x32).png",
       "sha256": "282defd7762fd4a775b60a262d1fccb49037a85fd3b5babc832a632e26619f95",
       "size": 1351,
       "role": "Image"
@@ -1694,7 +1694,7 @@
     {
       "fileName": "Jump (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Ninja Frog/Jump (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Jump%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Jump%20(32x32).png",
       "sha256": "9e3abe890e4e2248d614a7a834a2ed249566ca2d4e45031f6e6c0831513233d2",
       "size": 761,
       "role": "Image"
@@ -1702,7 +1702,7 @@
     {
       "fileName": "Run (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Ninja Frog/Run (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Run%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Run%20(32x32).png",
       "sha256": "4fca7321ae84f234e232ff0da132e028f69363cdee55999961525561bbf57a7c",
       "size": 2190,
       "role": "Image"
@@ -1710,7 +1710,7 @@
     {
       "fileName": "Wall Jump (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Ninja Frog/Wall Jump (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Wall%20Jump%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Wall%20Jump%20(32x32).png",
       "sha256": "e64690cebb7e17b9d604532cbf92ce892902e9a4a69d85af6957e20f2aac7ebd",
       "size": 824,
       "role": "Image"
@@ -1718,7 +1718,7 @@
     {
       "fileName": "Double Jump (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Pink Man/Double Jump (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Double%20Jump%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Double%20Jump%20(32x32).png",
       "sha256": "c8b2ab53ac0dacef559adb64180c6608f07c9566de56ce69ee060c3f6a791451",
       "size": 1863,
       "role": "Image"
@@ -1726,7 +1726,7 @@
     {
       "fileName": "Fall (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Pink Man/Fall (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Fall%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Fall%20(32x32).png",
       "sha256": "cc1a7a8dd76ae405154cf23d424e4c9652e1db8bd5dc07267504abc3e953754f",
       "size": 677,
       "role": "Image"
@@ -1734,7 +1734,7 @@
     {
       "fileName": "Hit (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Pink Man/Hit (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Hit%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Hit%20(32x32).png",
       "sha256": "2f110d0a945fa65b4a9fac3554e05db55559b4442a6296f7e64f207eacfd4db4",
       "size": 1629,
       "role": "Image"
@@ -1742,7 +1742,7 @@
     {
       "fileName": "Idle (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Pink Man/Idle (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Idle%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Idle%20(32x32).png",
       "sha256": "7ef14870dbcbdd0e0be9acb5cd30a37e0170cd00f6762118a4967d399f17a5e9",
       "size": 1419,
       "role": "Image"
@@ -1750,7 +1750,7 @@
     {
       "fileName": "Jump (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Pink Man/Jump (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Jump%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Jump%20(32x32).png",
       "sha256": "ef781c4823de31d000a8ec80ba07860ea88e17716741c4aff106fc77e7f7d18f",
       "size": 769,
       "role": "Image"
@@ -1758,7 +1758,7 @@
     {
       "fileName": "Run (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Pink Man/Run (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Run%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Run%20(32x32).png",
       "sha256": "f7634c98bcac351f63052f4e4279ed3ae3aa6cea011c14a57d3a96483fbfcb5c",
       "size": 2146,
       "role": "Image"
@@ -1766,7 +1766,7 @@
     {
       "fileName": "Wall Jump (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Pink Man/Wall Jump (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Wall%20Jump%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Wall%20Jump%20(32x32).png",
       "sha256": "65ebb0c151d28d1cbeae8294195b802469da117a6c815baf0bc14a597d73031a",
       "size": 902,
       "role": "Image"
@@ -1774,7 +1774,7 @@
     {
       "fileName": "Double Jump (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Virtual Guy/Double Jump (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Double%20Jump%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Double%20Jump%20(32x32).png",
       "sha256": "2dac01890eeab55a6a3cbce8ad494f38ca7b40b7dbc21297dd22b5f1e7a63c38",
       "size": 1823,
       "role": "Image"
@@ -1782,7 +1782,7 @@
     {
       "fileName": "Fall (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Virtual Guy/Fall (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Fall%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Fall%20(32x32).png",
       "sha256": "2b1323ef1f603203f3f0c7571d914b3a412bc6a889227f56b87005b720472994",
       "size": 709,
       "role": "Image"
@@ -1790,7 +1790,7 @@
     {
       "fileName": "Hit (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Virtual Guy/Hit (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Hit%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Hit%20(32x32).png",
       "sha256": "1055d671a71efad1e4950403a5a9a5b236c2b1f0628913e921244742cd2fca69",
       "size": 1543,
       "role": "Image"
@@ -1798,7 +1798,7 @@
     {
       "fileName": "Idle (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Virtual Guy/Idle (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Idle%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Idle%20(32x32).png",
       "sha256": "8b478bc9dbb76859f5549f8a342d4a9660f529396ea71fba649f50769f83b179",
       "size": 1336,
       "role": "Image"
@@ -1806,7 +1806,7 @@
     {
       "fileName": "Jump (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Virtual Guy/Jump (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Jump%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Jump%20(32x32).png",
       "sha256": "45d09d66f6593bc845463458759ee88e5a6b0e5d015e41232db838c8e51f744c",
       "size": 737,
       "role": "Image"
@@ -1814,7 +1814,7 @@
     {
       "fileName": "Run (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Virtual Guy/Run (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Run%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Run%20(32x32).png",
       "sha256": "7664599efcdb57b9b29727941e23a5033318753bae60df251f33ad5f2813df9b",
       "size": 2085,
       "role": "Image"
@@ -1822,7 +1822,7 @@
     {
       "fileName": "Wall Jump (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Virtual Guy/Wall Jump (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Wall%20Jump%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Wall%20Jump%20(32x32).png",
       "sha256": "831dbd5ac67607fcc4ec0ed214e37c7110cacfb67aa08f843bebc6fc94158eec",
       "size": 881,
       "role": "Image"
@@ -1830,7 +1830,7 @@
     {
       "fileName": "Confetti (16x16).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Other/Confetti (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Other/Confetti%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Other/Confetti%20(16x16).png",
       "sha256": "ea90696d9dc4613e083d172b0b1651bc493856d2aace4eafc3bb069e4cb4b38b",
       "size": 174,
       "role": "Image"
@@ -1838,7 +1838,7 @@
     {
       "fileName": "Dust Particle.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Other/Dust Particle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Other/Dust%20Particle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Other/Dust%20Particle.png",
       "sha256": "b9e1e1ff09095582aba4b3f3cf6712cdc7fc45694f8219d000ccf5d7717277ab",
       "size": 162,
       "role": "Image"
@@ -1846,7 +1846,7 @@
     {
       "fileName": "Shadow.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Other/Shadow.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Other/Shadow.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Other/Shadow.png",
       "sha256": "b603c1b27d7cb23a2424de66dbae2d73738f7e40cc760cea135184a7bec97049",
       "size": 99,
       "role": "Image"
@@ -1854,7 +1854,7 @@
     {
       "fileName": "Transition.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Other/Transition.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Other/Transition.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Other/Transition.png",
       "sha256": "205d51cc4155349b27bf0ac7af5d1297653218bc1e3a48660047368daf0e1f9a",
       "size": 352,
       "role": "Image"
@@ -1862,7 +1862,7 @@
     {
       "fileName": "Terrain (16x16).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Terrain/Terrain (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Terrain/Terrain%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Terrain/Terrain%20(16x16).png",
       "sha256": "3fb1a76c7cc102116562f9533d51386b8e63616aa0e228f359001dbb7479eaab",
       "size": 8792,
       "role": "Image"
@@ -1870,7 +1870,7 @@
     {
       "fileName": "Hit (18x18).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Arrow/Hit (18x18).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Arrow/Hit%20(18x18).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Arrow/Hit%20(18x18).png",
       "sha256": "92d055f8b49632df5fc98da0cff41b31221c57e57aa66df8025d13725a07cfca",
       "size": 285,
       "role": "Image"
@@ -1878,7 +1878,7 @@
     {
       "fileName": "Idle (18x18).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Arrow/Idle (18x18).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Arrow/Idle%20(18x18).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Arrow/Idle%20(18x18).png",
       "sha256": "8c833635f37b5214dc45e98980dc4bb63bc800af4a6b035bbe9ff6a507fd3a41",
       "size": 772,
       "role": "Image"
@@ -1886,7 +1886,7 @@
     {
       "fileName": "HitSide (22x22).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/HitSide (22x22).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/HitSide%20(22x22).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/HitSide%20(22x22).png",
       "sha256": "0f63c2fa3a42830111e7ffdf6089a75c0ed69892deadf2df21dcf1e865054d41",
       "size": 290,
       "role": "Image"
@@ -1894,7 +1894,7 @@
     {
       "fileName": "HitTop (22x22).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/HitTop (22x22).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/HitTop%20(22x22).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/HitTop%20(22x22).png",
       "sha256": "4e027936eca218ca607f08c9a56cc5558b2eb55f7f30cdb5904d93fbaa8761a9",
       "size": 292,
       "role": "Image"
@@ -1902,7 +1902,7 @@
     {
       "fileName": "Idle.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/Idle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/Idle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/Idle.png",
       "sha256": "3f72d405ea96cc22e4e9537a3dcf8f5ed3adb7577f92ddecece496800177e409",
       "size": 210,
       "role": "Image"
@@ -1910,7 +1910,7 @@
     {
       "fileName": "Part 1 (22x22).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/Part 1 (22x22).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/Part%201%20(22x22).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/Part%201%20(22x22).png",
       "sha256": "98824ebbae668e6f8f37fa0113942c4a66b00428d5d938e18dccc37b99eba74d",
       "size": 296,
       "role": "Image"
@@ -1918,7 +1918,7 @@
     {
       "fileName": "Part 2 (22x22).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/Part 2 (22x22).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/Part%202%20(22x22).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/Part%202%20(22x22).png",
       "sha256": "1a9ab5531c612003a4aab8dcc3fd8c2824ff140dbbf6fdd18107c0285ea913cd",
       "size": 293,
       "role": "Image"
@@ -1926,7 +1926,7 @@
     {
       "fileName": "Off.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Falling Platforms/Off.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Falling%20Platforms/Off.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Falling%20Platforms/Off.png",
       "sha256": "ff64796ba4d0a81063d7a724dd2b6a44d8bd8aaae7a57fc413e112a633b73254",
       "size": 299,
       "role": "Image"
@@ -1934,7 +1934,7 @@
     {
       "fileName": "On (32x10).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Falling Platforms/On (32x10).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Falling%20Platforms/On%20(32x10).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Falling%20Platforms/On%20(32x10).png",
       "sha256": "b8ab135ca2adf90acca8ca0e085f08ab55f367ef3cd0ff08bc30bbc74b1c59cd",
       "size": 481,
       "role": "Image"
@@ -1942,7 +1942,7 @@
     {
       "fileName": "Off.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fan/Off.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fan/Off.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fan/Off.png",
       "sha256": "b48f6ef2d119bcf426b06e899d5d13967c176936007f99b315d03ce5ffa13796",
       "size": 263,
       "role": "Image"
@@ -1950,7 +1950,7 @@
     {
       "fileName": "On (24x8).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fan/On (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fan/On%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fan/On%20(24x8).png",
       "sha256": "a83dab9b5cc406c18b4330f3dd06581ef8b5f7f4df7ef46b4d9b2aa74c1b7fb9",
       "size": 392,
       "role": "Image"
@@ -1958,7 +1958,7 @@
     {
       "fileName": "Hit (16x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fire/Hit (16x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fire/Hit%20(16x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fire/Hit%20(16x32).png",
       "sha256": "117df8388411ed96960c6a7b30cd4504b2ec8be97362860b70af4e97d6409b31",
       "size": 464,
       "role": "Image"
@@ -1966,7 +1966,7 @@
     {
       "fileName": "Off.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fire/Off.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fire/Off.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fire/Off.png",
       "sha256": "f785380e32a3f98c241fcad8dbee0a8fbb7b69cd6c0c57259e31709289437d07",
       "size": 326,
       "role": "Image"
@@ -1974,7 +1974,7 @@
     {
       "fileName": "On (16x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fire/On (16x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fire/On%20(16x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fire/On%20(16x32).png",
       "sha256": "5fa8a42abcc74bda2d2aac911ec2b77ce03bcc64ead23861d45972e16956ca43",
       "size": 528,
       "role": "Image"
@@ -1982,7 +1982,7 @@
     {
       "fileName": "Brown Off.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Brown Off.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Brown%20Off.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Brown%20Off.png",
       "sha256": "f59498d41d9cea8d3886d2116e9cf22e72e2c8b89e8f225b39791a324aacf2db",
       "size": 290,
       "role": "Image"
@@ -1990,7 +1990,7 @@
     {
       "fileName": "Brown On (32x8).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Brown On (32x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Brown%20On%20(32x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Brown%20On%20(32x8).png",
       "sha256": "2ac98ed7d0c723707af667cdd1f9edf184519f7c3eb796c5840685ffbab6f354",
       "size": 542,
       "role": "Image"
@@ -1998,7 +1998,7 @@
     {
       "fileName": "Chain.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Chain.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Chain.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Chain.png",
       "sha256": "4a801753546916d4b32b29a8ad85695db59ee57bc9703b0b60c9ce6f3f1551b2",
       "size": 117,
       "role": "Image"
@@ -2006,7 +2006,7 @@
     {
       "fileName": "Grey Off.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Grey Off.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Grey%20Off.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Grey%20Off.png",
       "sha256": "1d303ddc3e08bb527358e9ed996bb47bf4b3a3c26894b59000c66d5c8a724284",
       "size": 277,
       "role": "Image"
@@ -2014,7 +2014,7 @@
     {
       "fileName": "Grey On (32x8).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Grey On (32x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Grey%20On%20(32x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Grey%20On%20(32x8).png",
       "sha256": "56c95eda0d6a5f71669e86f7ada0022538ea99981d5bc2bdb9809992bcd3994c",
       "size": 509,
       "role": "Image"
@@ -2022,7 +2022,7 @@
     {
       "fileName": "Blink (42x42).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock Head/Blink (42x42).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock%20Head/Blink%20(42x42).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock%20Head/Blink%20(42x42).png",
       "sha256": "c4ba5c51e198b841ae61b2cf76c9d12d080c0711368dcb0fb7b54f9baa60c8b2",
       "size": 1061,
       "role": "Image"
@@ -2030,7 +2030,7 @@
     {
       "fileName": "Bottom Hit (42x42).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock Head/Bottom Hit (42x42).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock%20Head/Bottom%20Hit%20(42x42).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock%20Head/Bottom%20Hit%20(42x42).png",
       "sha256": "09cc27bc21c1b6ae4a77690ff430c49f80c07455d915c3feb3e673a6d6ed3182",
       "size": 1185,
       "role": "Image"
@@ -2038,7 +2038,7 @@
     {
       "fileName": "Idle.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock Head/Idle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock%20Head/Idle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock%20Head/Idle.png",
       "sha256": "ead0c8b11fc10119cd21943c6973cf261cb43147760f1292f53eadc150c3514a",
       "size": 771,
       "role": "Image"
@@ -2046,7 +2046,7 @@
     {
       "fileName": "Left Hit (42x42).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock Head/Left Hit (42x42).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock%20Head/Left%20Hit%20(42x42).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock%20Head/Left%20Hit%20(42x42).png",
       "sha256": "83e9a973fe1a88fc244549c56d366c191d3fe9219f0b0ee80500815621ac5e90",
       "size": 1192,
       "role": "Image"
@@ -2054,7 +2054,7 @@
     {
       "fileName": "Right Hit (42x42).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock Head/Right Hit (42x42).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock%20Head/Right%20Hit%20(42x42).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock%20Head/Right%20Hit%20(42x42).png",
       "sha256": "671a1132821fb6525a10af83b722bd6ddd9de30b20705052c63fe4464bddc5e3",
       "size": 1185,
       "role": "Image"
@@ -2062,7 +2062,7 @@
     {
       "fileName": "Top Hit (42x42).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock Head/Top Hit (42x42).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock%20Head/Top%20Hit%20(42x42).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock%20Head/Top%20Hit%20(42x42).png",
       "sha256": "8923d4fc083350e2c65fd249c33bd11604cfcd7cd336bd49109e205aadea7058",
       "size": 1172,
       "role": "Image"
@@ -2070,7 +2070,7 @@
     {
       "fileName": "Ice Particle.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Sand Mud Ice/Ice Particle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Sand%20Mud%20Ice/Ice%20Particle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Sand%20Mud%20Ice/Ice%20Particle.png",
       "sha256": "012766ce112aa12fcb1ba8599d000a4a3f2b47c9424f30a5aca1a1de7390e46c",
       "size": 154,
       "role": "Image"
@@ -2078,7 +2078,7 @@
     {
       "fileName": "Mud Particle.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Sand Mud Ice/Mud Particle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Sand%20Mud%20Ice/Mud%20Particle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Sand%20Mud%20Ice/Mud%20Particle.png",
       "sha256": "c2d199de022eb0ef2470b2e591299cad2c4b33e820ba7cc26b988db2dfb9e0bb",
       "size": 153,
       "role": "Image"
@@ -2086,7 +2086,7 @@
     {
       "fileName": "Sand Mud Ice (16x6).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Sand Mud Ice/Sand Mud Ice (16x6).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Sand%20Mud%20Ice/Sand%20Mud%20Ice%20(16x6).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Sand%20Mud%20Ice/Sand%20Mud%20Ice%20(16x6).png",
       "sha256": "7841ef06ab600bc30c5620f9cf6c65be50eb253e5b9054d9006a253e807d3a64",
       "size": 2825,
       "role": "Image"
@@ -2094,7 +2094,7 @@
     {
       "fileName": "Sand Particle.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Sand Mud Ice/Sand Particle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Sand%20Mud%20Ice/Sand%20Particle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Sand%20Mud%20Ice/Sand%20Particle.png",
       "sha256": "ff35eb1801b62a41d861eed89c94cfe80e0fe739422e17f86e32cdd0d6853a2e",
       "size": 154,
       "role": "Image"
@@ -2102,7 +2102,7 @@
     {
       "fileName": "Chain.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Saw/Chain.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Saw/Chain.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Saw/Chain.png",
       "sha256": "1c1f58beeaf94b729e22192c169fab3455bc580fe415cce30bc186938295b8a1",
       "size": 125,
       "role": "Image"
@@ -2110,7 +2110,7 @@
     {
       "fileName": "Off.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Saw/Off.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Saw/Off.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Saw/Off.png",
       "sha256": "bec02b5ce44accd9dede0a4dd63597f446353fc3d654d6a4f41849f0ccf0ea87",
       "size": 681,
       "role": "Image"
@@ -2118,7 +2118,7 @@
     {
       "fileName": "On (38x38).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Saw/On (38x38).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Saw/On%20(38x38).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Saw/On%20(38x38).png",
       "sha256": "eaa10a06c10ade360d1f5a2dde32f6cd14898232875dedaeeb5badf9d82b78e5",
       "size": 2405,
       "role": "Image"
@@ -2126,7 +2126,7 @@
     {
       "fileName": "Blink (54x52).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike Head/Blink (54x52).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike%20Head/Blink%20(54x52).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike%20Head/Blink%20(54x52).png",
       "sha256": "74685ca596cb39baf180ff892cbc080e308c9a2397de94acd43cbb6ff1d7437d",
       "size": 1631,
       "role": "Image"
@@ -2134,7 +2134,7 @@
     {
       "fileName": "Bottom Hit (54x52).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike Head/Bottom Hit (54x52).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike%20Head/Bottom%20Hit%20(54x52).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike%20Head/Bottom%20Hit%20(54x52).png",
       "sha256": "97278c8ec431bf4107b2caa00752af11d45718e85608d1612d54488c45aad345",
       "size": 1892,
       "role": "Image"
@@ -2142,7 +2142,7 @@
     {
       "fileName": "Idle.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike Head/Idle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike%20Head/Idle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike%20Head/Idle.png",
       "sha256": "6882a420d0668be33ce749580ef2ac068761a3669d67af64a0ac2fd1ad3b6642",
       "size": 1097,
       "role": "Image"
@@ -2150,7 +2150,7 @@
     {
       "fileName": "Left Hit (54x52).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike Head/Left Hit (54x52).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike%20Head/Left%20Hit%20(54x52).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike%20Head/Left%20Hit%20(54x52).png",
       "sha256": "b1720e1c4cec34d38055fb86cdde0c87caae675452edce1c3eab17550e9c9478",
       "size": 2037,
       "role": "Image"
@@ -2158,7 +2158,7 @@
     {
       "fileName": "Right Hit (54x52).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike Head/Right Hit (54x52).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike%20Head/Right%20Hit%20(54x52).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike%20Head/Right%20Hit%20(54x52).png",
       "sha256": "e0eaed4f248a73c84831f9b37ae3ceb26ebe3d455d0e990d86428d0fd82a8fc8",
       "size": 2049,
       "role": "Image"
@@ -2166,7 +2166,7 @@
     {
       "fileName": "Top Hit (54x52).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike Head/Top Hit (54x52).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike%20Head/Top%20Hit%20(54x52).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike%20Head/Top%20Hit%20(54x52).png",
       "sha256": "cb0861da654e0a09ff9d361dff23d0fcf80de8f9791bbbd91e85c26c83eaaa41",
       "size": 1925,
       "role": "Image"
@@ -2174,7 +2174,7 @@
     {
       "fileName": "Chain.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spiked Ball/Chain.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spiked%20Ball/Chain.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spiked%20Ball/Chain.png",
       "sha256": "05ce8f4ffee7308f723e7cd8e1f5515b027272b3c3082966311eacb0677fc22e",
       "size": 187,
       "role": "Image"
@@ -2182,7 +2182,7 @@
     {
       "fileName": "Spiked Ball.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spiked Ball/Spiked Ball.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spiked%20Ball/Spiked%20Ball.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spiked%20Ball/Spiked%20Ball.png",
       "sha256": "2498f86481783502b627b454ef4bd4123d7478fd83e6d292256929fdcde77437",
       "size": 512,
       "role": "Image"
@@ -2190,7 +2190,7 @@
     {
       "fileName": "Idle.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spikes/Idle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spikes/Idle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spikes/Idle.png",
       "sha256": "2ac00698d048ef4b41ccf05dd5409b57a4013ea2c5e8e75d1ceea91b341c3e6e",
       "size": 165,
       "role": "Image"
@@ -2198,7 +2198,7 @@
     {
       "fileName": "Idle.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Trampoline/Idle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Trampoline/Idle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Trampoline/Idle.png",
       "sha256": "39fb9f137ba349417f7ca6f1966ac581b320f25b4303a741aa86cdc893da127f",
       "size": 256,
       "role": "Image"
@@ -2206,7 +2206,7 @@
     {
       "fileName": "Jump (28x28).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Trampoline/Jump (28x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Trampoline/Jump%20(28x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Trampoline/Jump%20(28x28).png",
       "sha256": "360c33b01080999efe8d603db9a323716039b1db167fbc4ecdf2f3ba7c58891b",
       "size": 624,
       "role": "Image"
@@ -2216,7 +2216,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/pixelfrog-pixel-adventure-1/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/cover.png",
       "sha256": "b0842ce16233e2cbbada618aaabc1e15d921c896fde1571ff8bb4345985d1cca",
       "size": 27270,
       "contentType": "image/png",
@@ -2225,7 +2225,7 @@
     {
       "fileName": "Blue.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Background/Blue.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Background/Blue.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Background/Blue.png",
       "sha256": "a37af35c2a8f30600b6831fccf7b4853969e74f0c4f582ca12f9379798e67409",
       "size": 298,
       "contentType": "image/png",
@@ -2235,7 +2235,7 @@
     {
       "fileName": "Brown.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Background/Brown.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Background/Brown.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Background/Brown.png",
       "sha256": "af7d8115068459f4ffb5a47eca92c994bbddd73ce194d822536bb865c8a2df78",
       "size": 552,
       "contentType": "image/png",
@@ -2245,7 +2245,7 @@
     {
       "fileName": "Gray.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Background/Gray.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Background/Gray.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Background/Gray.png",
       "sha256": "b4edcb870085fdd1eb3d3c3b78da4080f2ba3dabd9782e742743e945d3284a51",
       "size": 480,
       "contentType": "image/png",
@@ -2255,7 +2255,7 @@
     {
       "fileName": "Green.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Background/Green.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Background/Green.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Background/Green.png",
       "sha256": "8ab934c8757e168bc897aacb0ea3fe5982384fe6b10386df3280088f1c94741b",
       "size": 543,
       "contentType": "image/png",
@@ -2265,7 +2265,7 @@
     {
       "fileName": "Pink.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Background/Pink.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Background/Pink.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Background/Pink.png",
       "sha256": "a4a712574922381f28aaf0a18c2f193c11b7847491639ba7a611a479e590fd8d",
       "size": 417,
       "contentType": "image/png",
@@ -2275,7 +2275,7 @@
     {
       "fileName": "Purple.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Background/Purple.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Background/Purple.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Background/Purple.png",
       "sha256": "d233dfcbf68a36477d552e6459acd0b7c3d1a9e36dd85a99bcb9291c074d600c",
       "size": 249,
       "contentType": "image/png",
@@ -2285,7 +2285,7 @@
     {
       "fileName": "Yellow.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Background/Yellow.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Background/Yellow.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Background/Yellow.png",
       "sha256": "10a5c9ff221f448468af6bb9d567e927f5a1ace01c9100d54dc153fdb88a5244",
       "size": 488,
       "contentType": "image/png",
@@ -2295,7 +2295,7 @@
     {
       "fileName": "Break.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box1/Break.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box1/Break.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box1/Break.png",
       "sha256": "a201cdbe5ea9f508f0b5e5167a0615bac1c668086ef7c7af9366e3daf01797da",
       "size": 619,
       "contentType": "image/png",
@@ -2305,7 +2305,7 @@
     {
       "fileName": "Hit (28x24).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box1/Hit (28x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box1/Hit%20(28x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box1/Hit%20(28x24).png",
       "sha256": "d6b4ef9d11bf407d82d1bd0b5f73d1efe067eb2403e3885283c5592c18aa21cd",
       "size": 602,
       "contentType": "image/png",
@@ -2315,7 +2315,7 @@
     {
       "fileName": "Idle.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box1/Idle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box1/Idle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box1/Idle.png",
       "sha256": "2d0339d0c6bb02eb7b77fcb75d0d45c51dd906cbfcaff3e19e49a954b461f2ae",
       "size": 399,
       "contentType": "image/png",
@@ -2325,7 +2325,7 @@
     {
       "fileName": "Break.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box2/Break.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box2/Break.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box2/Break.png",
       "sha256": "824879e88df95d92ea4851d8a76f8ee257bd2f21f07c437d4f577a35b5de9b15",
       "size": 688,
       "contentType": "image/png",
@@ -2335,7 +2335,7 @@
     {
       "fileName": "Hit (28x24).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box2/Hit (28x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box2/Hit%20(28x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box2/Hit%20(28x24).png",
       "sha256": "36cfed638eb980687b16354463f7a907774bbb86e823ff603888bed8eef6fa54",
       "size": 767,
       "contentType": "image/png",
@@ -2345,7 +2345,7 @@
     {
       "fileName": "Idle.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box2/Idle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box2/Idle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box2/Idle.png",
       "sha256": "dd297d194299b4980bfa5aa874005dadf5a9413e0e348bb9dff7543abb214f3f",
       "size": 351,
       "contentType": "image/png",
@@ -2355,7 +2355,7 @@
     {
       "fileName": "Break.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box3/Break.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box3/Break.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box3/Break.png",
       "sha256": "0eb091c71f70cf0fb9da36d7b50b0ab9788c19abc9c4d02375a48709f67703ef",
       "size": 635,
       "contentType": "image/png",
@@ -2365,7 +2365,7 @@
     {
       "fileName": "Hit (28x24).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box3/Hit (28x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box3/Hit%20(28x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box3/Hit%20(28x24).png",
       "sha256": "c1b80d805336605e66248b723cd776dac320264f7b24a44dada75be027273a6b",
       "size": 454,
       "contentType": "image/png",
@@ -2375,7 +2375,7 @@
     {
       "fileName": "Idle.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box3/Idle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box3/Idle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Boxes/Box3/Idle.png",
       "sha256": "31916581928592e428cd0f7b42bf63f64f946a52d1d752fd53516973ed7d3d38",
       "size": 406,
       "contentType": "image/png",
@@ -2385,7 +2385,7 @@
     {
       "fileName": "Checkpoint (Flag Idle)(64x64).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Checkpoint/Checkpoint (Flag Idle)(64x64).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Checkpoint/Checkpoint%20(Flag%20Idle)(64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Checkpoint/Checkpoint%20(Flag%20Idle)(64x64).png",
       "sha256": "99fd9012b3935a91f580922c051ca2cbe86fe85c1ca5d8a1dbf09fc161f3e309",
       "size": 1834,
       "contentType": "image/png",
@@ -2395,7 +2395,7 @@
     {
       "fileName": "Checkpoint (Flag Out) (64x64).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Checkpoint/Checkpoint (Flag Out) (64x64).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Checkpoint/Checkpoint%20(Flag%20Out)%20(64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Checkpoint/Checkpoint%20(Flag%20Out)%20(64x64).png",
       "sha256": "b4e42b307d92ec89a2ed2857c021732cc8b27740e7cab6307723086551c1dee5",
       "size": 3331,
       "contentType": "image/png",
@@ -2405,7 +2405,7 @@
     {
       "fileName": "Checkpoint (No Flag).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Checkpoint/Checkpoint (No Flag).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Checkpoint/Checkpoint%20(No%20Flag).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Checkpoint/Checkpoint%20(No%20Flag).png",
       "sha256": "cd048973d0ead9e6c81003601bd041c364044eb8210e9e71e473076a9afa5ae7",
       "size": 530,
       "contentType": "image/png",
@@ -2415,7 +2415,7 @@
     {
       "fileName": "End (Idle).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/End/End (Idle).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/End/End%20(Idle).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/End/End%20(Idle).png",
       "sha256": "283b5cb5fda1993b46f2da84592a8b90dde7c124a90d5fa67f1dc8c61f4f1286",
       "size": 913,
       "contentType": "image/png",
@@ -2425,7 +2425,7 @@
     {
       "fileName": "End (Pressed) (64x64).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/End/End (Pressed) (64x64).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/End/End%20(Pressed)%20(64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/End/End%20(Pressed)%20(64x64).png",
       "sha256": "59b0019cfc40a840e027ad8268ac583e34f9f52adefdad11217cbf9495a36fa9",
       "size": 2206,
       "contentType": "image/png",
@@ -2435,7 +2435,7 @@
     {
       "fileName": "Start (Idle).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Start/Start (Idle).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Start/Start%20(Idle).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Start/Start%20(Idle).png",
       "sha256": "acb6643795bb6b36efc30ca12560bab34eaee91d1f72d6592f58b946c3640cd6",
       "size": 648,
       "contentType": "image/png",
@@ -2445,7 +2445,7 @@
     {
       "fileName": "Start (Moving) (64x64).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Start/Start (Moving) (64x64).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Start/Start%20(Moving)%20(64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Checkpoints/Start/Start%20(Moving)%20(64x64).png",
       "sha256": "44311719b2a81384fecdef540c101740819a295637626e35409dd135bc06eaff",
       "size": 2575,
       "contentType": "image/png",
@@ -2455,7 +2455,7 @@
     {
       "fileName": "Apple.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Apple.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Apple.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Apple.png",
       "sha256": "ee71a978665c5c375603a4a047d129729e319f03708787279954171caabfd1e3",
       "size": 1065,
       "contentType": "image/png",
@@ -2465,7 +2465,7 @@
     {
       "fileName": "Bananas.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Bananas.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Bananas.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Bananas.png",
       "sha256": "d234d94d916a8777341a45ac3120f3aeb1c1e044ce7294d3183dd08e2dce9f42",
       "size": 1196,
       "contentType": "image/png",
@@ -2475,7 +2475,7 @@
     {
       "fileName": "Cherries.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Cherries.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Cherries.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Cherries.png",
       "sha256": "d9edb2c3157a28daf47c5f76a3cfb9354e6caa623c364784bfc3c015602e8f05",
       "size": 1090,
       "contentType": "image/png",
@@ -2485,7 +2485,7 @@
     {
       "fileName": "Collected.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Collected.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Collected.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Collected.png",
       "sha256": "a95221be04a4eb2b567f12954257307b4b4a6735373562309a130a88ff978c11",
       "size": 577,
       "contentType": "image/png",
@@ -2495,7 +2495,7 @@
     {
       "fileName": "Kiwi.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Kiwi.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Kiwi.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Kiwi.png",
       "sha256": "2db09bbb75304583e2aa87b73c3bcf7cfab829ac23d2fe9cb1b99188cbb39c17",
       "size": 1250,
       "contentType": "image/png",
@@ -2505,7 +2505,7 @@
     {
       "fileName": "Melon.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Melon.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Melon.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Melon.png",
       "sha256": "35216881ce7b8f38397335ea04b159d3340e4b2096d5ba729ed4960de39de5fe",
       "size": 1155,
       "contentType": "image/png",
@@ -2515,7 +2515,7 @@
     {
       "fileName": "Orange.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Orange.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Orange.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Orange.png",
       "sha256": "5638574b3fc7cb471184175d47dcbbee5be4d0cec75d4b7b7bfeae3017077736",
       "size": 1374,
       "contentType": "image/png",
@@ -2525,7 +2525,7 @@
     {
       "fileName": "Pineapple.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Pineapple.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Pineapple.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Pineapple.png",
       "sha256": "872b73e2631fb8c86b4b90c183be6595401faf5850b5d8527e983e8842617b6d",
       "size": 1175,
       "contentType": "image/png",
@@ -2535,7 +2535,7 @@
     {
       "fileName": "Strawberry.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Strawberry.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Strawberry.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Items/Fruits/Strawberry.png",
       "sha256": "19f65cfcf207e6bb493bf5f0cbc806a0b6582d36b60ba9e9f9f3e5d463e82661",
       "size": 990,
       "contentType": "image/png",
@@ -2545,7 +2545,7 @@
     {
       "fileName": "Appearing (96x96).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Appearing (96x96).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Appearing%20(96x96).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Appearing%20(96x96).png",
       "sha256": "e33d1de415fedced1c82c45d4f11ffd5acabf68465fcc4c437d5e9da49ee3182",
       "size": 2445,
       "contentType": "image/png",
@@ -2555,7 +2555,7 @@
     {
       "fileName": "Desappearing (96x96).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Desappearing (96x96).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Desappearing%20(96x96).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Desappearing%20(96x96).png",
       "sha256": "5db1b640a15ce893866b03266a5e51676b6c0110e7b18d96f7e6f7053c640f11",
       "size": 2452,
       "contentType": "image/png",
@@ -2565,7 +2565,7 @@
     {
       "fileName": "Double Jump (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Mask Dude/Double Jump (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Double%20Jump%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Double%20Jump%20(32x32).png",
       "sha256": "d8a4ea93f017afb50dd2cc620b00937d7151b0b8cf88aaadc5a6c9ceb72d35d4",
       "size": 2203,
       "contentType": "image/png",
@@ -2575,7 +2575,7 @@
     {
       "fileName": "Fall (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Mask Dude/Fall (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Fall%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Fall%20(32x32).png",
       "sha256": "b4829a85e20ba9447596cca214002e9340c6da6854bc2d83f6fddbacd8394a6d",
       "size": 829,
       "contentType": "image/png",
@@ -2585,7 +2585,7 @@
     {
       "fileName": "Hit (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Mask Dude/Hit (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Hit%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Hit%20(32x32).png",
       "sha256": "dbca9bdf4319407cc583cb60d4bee18c6749aeb4774918b8c4d0cb78366044c0",
       "size": 1928,
       "contentType": "image/png",
@@ -2595,7 +2595,7 @@
     {
       "fileName": "Idle (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Mask Dude/Idle (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Idle%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Idle%20(32x32).png",
       "sha256": "ded44a6ee1985f19201f87e11b373ac23db0541f27d7dfe8a2014848cb6ae66a",
       "size": 1563,
       "contentType": "image/png",
@@ -2605,7 +2605,7 @@
     {
       "fileName": "Jump (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Mask Dude/Jump (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Jump%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Jump%20(32x32).png",
       "sha256": "ddce2a578aa83e955114283fffae90562e9949178d9ff0e64c4a759fc51ee802",
       "size": 845,
       "contentType": "image/png",
@@ -2615,7 +2615,7 @@
     {
       "fileName": "Run (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Mask Dude/Run (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Run%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Run%20(32x32).png",
       "sha256": "c17add49705fa9a8b175d8270d0f2a8b1405393b34af890c371ebcd50a4ed8a8",
       "size": 2389,
       "contentType": "image/png",
@@ -2625,7 +2625,7 @@
     {
       "fileName": "Wall Jump (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Mask Dude/Wall Jump (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Wall%20Jump%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Mask%20Dude/Wall%20Jump%20(32x32).png",
       "sha256": "63aac973a1b37264ec40d5cd885c64a875abbb88cda1776884d0d8045ed50245",
       "size": 963,
       "contentType": "image/png",
@@ -2635,7 +2635,7 @@
     {
       "fileName": "Double Jump (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Ninja Frog/Double Jump (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Double%20Jump%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Double%20Jump%20(32x32).png",
       "sha256": "6b7401b52565962aed9dce0338d6ca96c1bdd12001c86c557d2153ae9c63f2c5",
       "size": 1898,
       "contentType": "image/png",
@@ -2645,7 +2645,7 @@
     {
       "fileName": "Fall (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Ninja Frog/Fall (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Fall%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Fall%20(32x32).png",
       "sha256": "713d4428d2f5f02d39c1cec5ab153c8780f40db033aae9765644713724bcdf15",
       "size": 759,
       "contentType": "image/png",
@@ -2655,7 +2655,7 @@
     {
       "fileName": "Hit (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Ninja Frog/Hit (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Hit%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Hit%20(32x32).png",
       "sha256": "8ce646bd3ee99ad39b60e21602e50571c846ad3052638f5d43dc21c6dc1caa36",
       "size": 1564,
       "contentType": "image/png",
@@ -2665,7 +2665,7 @@
     {
       "fileName": "Idle (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Ninja Frog/Idle (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Idle%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Idle%20(32x32).png",
       "sha256": "282defd7762fd4a775b60a262d1fccb49037a85fd3b5babc832a632e26619f95",
       "size": 1351,
       "contentType": "image/png",
@@ -2675,7 +2675,7 @@
     {
       "fileName": "Jump (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Ninja Frog/Jump (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Jump%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Jump%20(32x32).png",
       "sha256": "9e3abe890e4e2248d614a7a834a2ed249566ca2d4e45031f6e6c0831513233d2",
       "size": 761,
       "contentType": "image/png",
@@ -2685,7 +2685,7 @@
     {
       "fileName": "Run (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Ninja Frog/Run (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Run%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Run%20(32x32).png",
       "sha256": "4fca7321ae84f234e232ff0da132e028f69363cdee55999961525561bbf57a7c",
       "size": 2190,
       "contentType": "image/png",
@@ -2695,7 +2695,7 @@
     {
       "fileName": "Wall Jump (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Ninja Frog/Wall Jump (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Wall%20Jump%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Ninja%20Frog/Wall%20Jump%20(32x32).png",
       "sha256": "e64690cebb7e17b9d604532cbf92ce892902e9a4a69d85af6957e20f2aac7ebd",
       "size": 824,
       "contentType": "image/png",
@@ -2705,7 +2705,7 @@
     {
       "fileName": "Double Jump (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Pink Man/Double Jump (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Double%20Jump%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Double%20Jump%20(32x32).png",
       "sha256": "c8b2ab53ac0dacef559adb64180c6608f07c9566de56ce69ee060c3f6a791451",
       "size": 1863,
       "contentType": "image/png",
@@ -2715,7 +2715,7 @@
     {
       "fileName": "Fall (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Pink Man/Fall (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Fall%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Fall%20(32x32).png",
       "sha256": "cc1a7a8dd76ae405154cf23d424e4c9652e1db8bd5dc07267504abc3e953754f",
       "size": 677,
       "contentType": "image/png",
@@ -2725,7 +2725,7 @@
     {
       "fileName": "Hit (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Pink Man/Hit (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Hit%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Hit%20(32x32).png",
       "sha256": "2f110d0a945fa65b4a9fac3554e05db55559b4442a6296f7e64f207eacfd4db4",
       "size": 1629,
       "contentType": "image/png",
@@ -2735,7 +2735,7 @@
     {
       "fileName": "Idle (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Pink Man/Idle (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Idle%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Idle%20(32x32).png",
       "sha256": "7ef14870dbcbdd0e0be9acb5cd30a37e0170cd00f6762118a4967d399f17a5e9",
       "size": 1419,
       "contentType": "image/png",
@@ -2745,7 +2745,7 @@
     {
       "fileName": "Jump (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Pink Man/Jump (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Jump%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Jump%20(32x32).png",
       "sha256": "ef781c4823de31d000a8ec80ba07860ea88e17716741c4aff106fc77e7f7d18f",
       "size": 769,
       "contentType": "image/png",
@@ -2755,7 +2755,7 @@
     {
       "fileName": "Run (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Pink Man/Run (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Run%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Run%20(32x32).png",
       "sha256": "f7634c98bcac351f63052f4e4279ed3ae3aa6cea011c14a57d3a96483fbfcb5c",
       "size": 2146,
       "contentType": "image/png",
@@ -2765,7 +2765,7 @@
     {
       "fileName": "Wall Jump (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Pink Man/Wall Jump (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Wall%20Jump%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Pink%20Man/Wall%20Jump%20(32x32).png",
       "sha256": "65ebb0c151d28d1cbeae8294195b802469da117a6c815baf0bc14a597d73031a",
       "size": 902,
       "contentType": "image/png",
@@ -2775,7 +2775,7 @@
     {
       "fileName": "Double Jump (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Virtual Guy/Double Jump (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Double%20Jump%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Double%20Jump%20(32x32).png",
       "sha256": "2dac01890eeab55a6a3cbce8ad494f38ca7b40b7dbc21297dd22b5f1e7a63c38",
       "size": 1823,
       "contentType": "image/png",
@@ -2785,7 +2785,7 @@
     {
       "fileName": "Fall (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Virtual Guy/Fall (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Fall%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Fall%20(32x32).png",
       "sha256": "2b1323ef1f603203f3f0c7571d914b3a412bc6a889227f56b87005b720472994",
       "size": 709,
       "contentType": "image/png",
@@ -2795,7 +2795,7 @@
     {
       "fileName": "Hit (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Virtual Guy/Hit (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Hit%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Hit%20(32x32).png",
       "sha256": "1055d671a71efad1e4950403a5a9a5b236c2b1f0628913e921244742cd2fca69",
       "size": 1543,
       "contentType": "image/png",
@@ -2805,7 +2805,7 @@
     {
       "fileName": "Idle (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Virtual Guy/Idle (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Idle%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Idle%20(32x32).png",
       "sha256": "8b478bc9dbb76859f5549f8a342d4a9660f529396ea71fba649f50769f83b179",
       "size": 1336,
       "contentType": "image/png",
@@ -2815,7 +2815,7 @@
     {
       "fileName": "Jump (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Virtual Guy/Jump (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Jump%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Jump%20(32x32).png",
       "sha256": "45d09d66f6593bc845463458759ee88e5a6b0e5d015e41232db838c8e51f744c",
       "size": 737,
       "contentType": "image/png",
@@ -2825,7 +2825,7 @@
     {
       "fileName": "Run (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Virtual Guy/Run (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Run%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Run%20(32x32).png",
       "sha256": "7664599efcdb57b9b29727941e23a5033318753bae60df251f33ad5f2813df9b",
       "size": 2085,
       "contentType": "image/png",
@@ -2835,7 +2835,7 @@
     {
       "fileName": "Wall Jump (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Main Characters/Virtual Guy/Wall Jump (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Wall%20Jump%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Main%20Characters/Virtual%20Guy/Wall%20Jump%20(32x32).png",
       "sha256": "831dbd5ac67607fcc4ec0ed214e37c7110cacfb67aa08f843bebc6fc94158eec",
       "size": 881,
       "contentType": "image/png",
@@ -2845,7 +2845,7 @@
     {
       "fileName": "Confetti (16x16).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Other/Confetti (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Other/Confetti%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Other/Confetti%20(16x16).png",
       "sha256": "ea90696d9dc4613e083d172b0b1651bc493856d2aace4eafc3bb069e4cb4b38b",
       "size": 174,
       "contentType": "image/png",
@@ -2855,7 +2855,7 @@
     {
       "fileName": "Dust Particle.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Other/Dust Particle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Other/Dust%20Particle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Other/Dust%20Particle.png",
       "sha256": "b9e1e1ff09095582aba4b3f3cf6712cdc7fc45694f8219d000ccf5d7717277ab",
       "size": 162,
       "contentType": "image/png",
@@ -2865,7 +2865,7 @@
     {
       "fileName": "Shadow.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Other/Shadow.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Other/Shadow.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Other/Shadow.png",
       "sha256": "b603c1b27d7cb23a2424de66dbae2d73738f7e40cc760cea135184a7bec97049",
       "size": 99,
       "contentType": "image/png",
@@ -2875,7 +2875,7 @@
     {
       "fileName": "Transition.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Other/Transition.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Other/Transition.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Other/Transition.png",
       "sha256": "205d51cc4155349b27bf0ac7af5d1297653218bc1e3a48660047368daf0e1f9a",
       "size": 352,
       "contentType": "image/png",
@@ -2885,7 +2885,7 @@
     {
       "fileName": "Terrain (16x16).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Terrain/Terrain (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Terrain/Terrain%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Terrain/Terrain%20(16x16).png",
       "sha256": "3fb1a76c7cc102116562f9533d51386b8e63616aa0e228f359001dbb7479eaab",
       "size": 8792,
       "contentType": "image/png",
@@ -2895,7 +2895,7 @@
     {
       "fileName": "Hit (18x18).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Arrow/Hit (18x18).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Arrow/Hit%20(18x18).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Arrow/Hit%20(18x18).png",
       "sha256": "92d055f8b49632df5fc98da0cff41b31221c57e57aa66df8025d13725a07cfca",
       "size": 285,
       "contentType": "image/png",
@@ -2905,7 +2905,7 @@
     {
       "fileName": "Idle (18x18).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Arrow/Idle (18x18).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Arrow/Idle%20(18x18).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Arrow/Idle%20(18x18).png",
       "sha256": "8c833635f37b5214dc45e98980dc4bb63bc800af4a6b035bbe9ff6a507fd3a41",
       "size": 772,
       "contentType": "image/png",
@@ -2915,7 +2915,7 @@
     {
       "fileName": "HitSide (22x22).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/HitSide (22x22).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/HitSide%20(22x22).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/HitSide%20(22x22).png",
       "sha256": "0f63c2fa3a42830111e7ffdf6089a75c0ed69892deadf2df21dcf1e865054d41",
       "size": 290,
       "contentType": "image/png",
@@ -2925,7 +2925,7 @@
     {
       "fileName": "HitTop (22x22).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/HitTop (22x22).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/HitTop%20(22x22).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/HitTop%20(22x22).png",
       "sha256": "4e027936eca218ca607f08c9a56cc5558b2eb55f7f30cdb5904d93fbaa8761a9",
       "size": 292,
       "contentType": "image/png",
@@ -2935,7 +2935,7 @@
     {
       "fileName": "Idle.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/Idle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/Idle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/Idle.png",
       "sha256": "3f72d405ea96cc22e4e9537a3dcf8f5ed3adb7577f92ddecece496800177e409",
       "size": 210,
       "contentType": "image/png",
@@ -2945,7 +2945,7 @@
     {
       "fileName": "Part 1 (22x22).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/Part 1 (22x22).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/Part%201%20(22x22).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/Part%201%20(22x22).png",
       "sha256": "98824ebbae668e6f8f37fa0113942c4a66b00428d5d938e18dccc37b99eba74d",
       "size": 296,
       "contentType": "image/png",
@@ -2955,7 +2955,7 @@
     {
       "fileName": "Part 2 (22x22).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/Part 2 (22x22).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/Part%202%20(22x22).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Blocks/Part%202%20(22x22).png",
       "sha256": "1a9ab5531c612003a4aab8dcc3fd8c2824ff140dbbf6fdd18107c0285ea913cd",
       "size": 293,
       "contentType": "image/png",
@@ -2965,7 +2965,7 @@
     {
       "fileName": "Off.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Falling Platforms/Off.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Falling%20Platforms/Off.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Falling%20Platforms/Off.png",
       "sha256": "ff64796ba4d0a81063d7a724dd2b6a44d8bd8aaae7a57fc413e112a633b73254",
       "size": 299,
       "contentType": "image/png",
@@ -2975,7 +2975,7 @@
     {
       "fileName": "On (32x10).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Falling Platforms/On (32x10).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Falling%20Platforms/On%20(32x10).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Falling%20Platforms/On%20(32x10).png",
       "sha256": "b8ab135ca2adf90acca8ca0e085f08ab55f367ef3cd0ff08bc30bbc74b1c59cd",
       "size": 481,
       "contentType": "image/png",
@@ -2985,7 +2985,7 @@
     {
       "fileName": "Off.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fan/Off.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fan/Off.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fan/Off.png",
       "sha256": "b48f6ef2d119bcf426b06e899d5d13967c176936007f99b315d03ce5ffa13796",
       "size": 263,
       "contentType": "image/png",
@@ -2995,7 +2995,7 @@
     {
       "fileName": "On (24x8).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fan/On (24x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fan/On%20(24x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fan/On%20(24x8).png",
       "sha256": "a83dab9b5cc406c18b4330f3dd06581ef8b5f7f4df7ef46b4d9b2aa74c1b7fb9",
       "size": 392,
       "contentType": "image/png",
@@ -3005,7 +3005,7 @@
     {
       "fileName": "Hit (16x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fire/Hit (16x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fire/Hit%20(16x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fire/Hit%20(16x32).png",
       "sha256": "117df8388411ed96960c6a7b30cd4504b2ec8be97362860b70af4e97d6409b31",
       "size": 464,
       "contentType": "image/png",
@@ -3015,7 +3015,7 @@
     {
       "fileName": "Off.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fire/Off.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fire/Off.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fire/Off.png",
       "sha256": "f785380e32a3f98c241fcad8dbee0a8fbb7b69cd6c0c57259e31709289437d07",
       "size": 326,
       "contentType": "image/png",
@@ -3025,7 +3025,7 @@
     {
       "fileName": "On (16x32).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fire/On (16x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fire/On%20(16x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Fire/On%20(16x32).png",
       "sha256": "5fa8a42abcc74bda2d2aac911ec2b77ce03bcc64ead23861d45972e16956ca43",
       "size": 528,
       "contentType": "image/png",
@@ -3035,7 +3035,7 @@
     {
       "fileName": "Brown Off.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Brown Off.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Brown%20Off.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Brown%20Off.png",
       "sha256": "f59498d41d9cea8d3886d2116e9cf22e72e2c8b89e8f225b39791a324aacf2db",
       "size": 290,
       "contentType": "image/png",
@@ -3045,7 +3045,7 @@
     {
       "fileName": "Brown On (32x8).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Brown On (32x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Brown%20On%20(32x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Brown%20On%20(32x8).png",
       "sha256": "2ac98ed7d0c723707af667cdd1f9edf184519f7c3eb796c5840685ffbab6f354",
       "size": 542,
       "contentType": "image/png",
@@ -3055,7 +3055,7 @@
     {
       "fileName": "Chain.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Chain.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Chain.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Chain.png",
       "sha256": "4a801753546916d4b32b29a8ad85695db59ee57bc9703b0b60c9ce6f3f1551b2",
       "size": 117,
       "contentType": "image/png",
@@ -3065,7 +3065,7 @@
     {
       "fileName": "Grey Off.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Grey Off.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Grey%20Off.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Grey%20Off.png",
       "sha256": "1d303ddc3e08bb527358e9ed996bb47bf4b3a3c26894b59000c66d5c8a724284",
       "size": 277,
       "contentType": "image/png",
@@ -3075,7 +3075,7 @@
     {
       "fileName": "Grey On (32x8).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Grey On (32x8).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Grey%20On%20(32x8).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Platforms/Grey%20On%20(32x8).png",
       "sha256": "56c95eda0d6a5f71669e86f7ada0022538ea99981d5bc2bdb9809992bcd3994c",
       "size": 509,
       "contentType": "image/png",
@@ -3085,7 +3085,7 @@
     {
       "fileName": "Blink (42x42).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock Head/Blink (42x42).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock%20Head/Blink%20(42x42).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock%20Head/Blink%20(42x42).png",
       "sha256": "c4ba5c51e198b841ae61b2cf76c9d12d080c0711368dcb0fb7b54f9baa60c8b2",
       "size": 1061,
       "contentType": "image/png",
@@ -3095,7 +3095,7 @@
     {
       "fileName": "Bottom Hit (42x42).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock Head/Bottom Hit (42x42).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock%20Head/Bottom%20Hit%20(42x42).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock%20Head/Bottom%20Hit%20(42x42).png",
       "sha256": "09cc27bc21c1b6ae4a77690ff430c49f80c07455d915c3feb3e673a6d6ed3182",
       "size": 1185,
       "contentType": "image/png",
@@ -3105,7 +3105,7 @@
     {
       "fileName": "Idle.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock Head/Idle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock%20Head/Idle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock%20Head/Idle.png",
       "sha256": "ead0c8b11fc10119cd21943c6973cf261cb43147760f1292f53eadc150c3514a",
       "size": 771,
       "contentType": "image/png",
@@ -3115,7 +3115,7 @@
     {
       "fileName": "Left Hit (42x42).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock Head/Left Hit (42x42).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock%20Head/Left%20Hit%20(42x42).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock%20Head/Left%20Hit%20(42x42).png",
       "sha256": "83e9a973fe1a88fc244549c56d366c191d3fe9219f0b0ee80500815621ac5e90",
       "size": 1192,
       "contentType": "image/png",
@@ -3125,7 +3125,7 @@
     {
       "fileName": "Right Hit (42x42).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock Head/Right Hit (42x42).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock%20Head/Right%20Hit%20(42x42).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock%20Head/Right%20Hit%20(42x42).png",
       "sha256": "671a1132821fb6525a10af83b722bd6ddd9de30b20705052c63fe4464bddc5e3",
       "size": 1185,
       "contentType": "image/png",
@@ -3135,7 +3135,7 @@
     {
       "fileName": "Top Hit (42x42).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock Head/Top Hit (42x42).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock%20Head/Top%20Hit%20(42x42).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Rock%20Head/Top%20Hit%20(42x42).png",
       "sha256": "8923d4fc083350e2c65fd249c33bd11604cfcd7cd336bd49109e205aadea7058",
       "size": 1172,
       "contentType": "image/png",
@@ -3145,7 +3145,7 @@
     {
       "fileName": "Ice Particle.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Sand Mud Ice/Ice Particle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Sand%20Mud%20Ice/Ice%20Particle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Sand%20Mud%20Ice/Ice%20Particle.png",
       "sha256": "012766ce112aa12fcb1ba8599d000a4a3f2b47c9424f30a5aca1a1de7390e46c",
       "size": 154,
       "contentType": "image/png",
@@ -3155,7 +3155,7 @@
     {
       "fileName": "Mud Particle.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Sand Mud Ice/Mud Particle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Sand%20Mud%20Ice/Mud%20Particle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Sand%20Mud%20Ice/Mud%20Particle.png",
       "sha256": "c2d199de022eb0ef2470b2e591299cad2c4b33e820ba7cc26b988db2dfb9e0bb",
       "size": 153,
       "contentType": "image/png",
@@ -3165,7 +3165,7 @@
     {
       "fileName": "Sand Mud Ice (16x6).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Sand Mud Ice/Sand Mud Ice (16x6).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Sand%20Mud%20Ice/Sand%20Mud%20Ice%20(16x6).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Sand%20Mud%20Ice/Sand%20Mud%20Ice%20(16x6).png",
       "sha256": "7841ef06ab600bc30c5620f9cf6c65be50eb253e5b9054d9006a253e807d3a64",
       "size": 2825,
       "contentType": "image/png",
@@ -3175,7 +3175,7 @@
     {
       "fileName": "Sand Particle.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Sand Mud Ice/Sand Particle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Sand%20Mud%20Ice/Sand%20Particle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Sand%20Mud%20Ice/Sand%20Particle.png",
       "sha256": "ff35eb1801b62a41d861eed89c94cfe80e0fe739422e17f86e32cdd0d6853a2e",
       "size": 154,
       "contentType": "image/png",
@@ -3185,7 +3185,7 @@
     {
       "fileName": "Chain.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Saw/Chain.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Saw/Chain.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Saw/Chain.png",
       "sha256": "1c1f58beeaf94b729e22192c169fab3455bc580fe415cce30bc186938295b8a1",
       "size": 125,
       "contentType": "image/png",
@@ -3195,7 +3195,7 @@
     {
       "fileName": "Off.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Saw/Off.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Saw/Off.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Saw/Off.png",
       "sha256": "bec02b5ce44accd9dede0a4dd63597f446353fc3d654d6a4f41849f0ccf0ea87",
       "size": 681,
       "contentType": "image/png",
@@ -3205,7 +3205,7 @@
     {
       "fileName": "On (38x38).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Saw/On (38x38).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Saw/On%20(38x38).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Saw/On%20(38x38).png",
       "sha256": "eaa10a06c10ade360d1f5a2dde32f6cd14898232875dedaeeb5badf9d82b78e5",
       "size": 2405,
       "contentType": "image/png",
@@ -3215,7 +3215,7 @@
     {
       "fileName": "Blink (54x52).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike Head/Blink (54x52).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike%20Head/Blink%20(54x52).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike%20Head/Blink%20(54x52).png",
       "sha256": "74685ca596cb39baf180ff892cbc080e308c9a2397de94acd43cbb6ff1d7437d",
       "size": 1631,
       "contentType": "image/png",
@@ -3225,7 +3225,7 @@
     {
       "fileName": "Bottom Hit (54x52).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike Head/Bottom Hit (54x52).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike%20Head/Bottom%20Hit%20(54x52).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike%20Head/Bottom%20Hit%20(54x52).png",
       "sha256": "97278c8ec431bf4107b2caa00752af11d45718e85608d1612d54488c45aad345",
       "size": 1892,
       "contentType": "image/png",
@@ -3235,7 +3235,7 @@
     {
       "fileName": "Idle.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike Head/Idle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike%20Head/Idle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike%20Head/Idle.png",
       "sha256": "6882a420d0668be33ce749580ef2ac068761a3669d67af64a0ac2fd1ad3b6642",
       "size": 1097,
       "contentType": "image/png",
@@ -3245,7 +3245,7 @@
     {
       "fileName": "Left Hit (54x52).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike Head/Left Hit (54x52).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike%20Head/Left%20Hit%20(54x52).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike%20Head/Left%20Hit%20(54x52).png",
       "sha256": "b1720e1c4cec34d38055fb86cdde0c87caae675452edce1c3eab17550e9c9478",
       "size": 2037,
       "contentType": "image/png",
@@ -3255,7 +3255,7 @@
     {
       "fileName": "Right Hit (54x52).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike Head/Right Hit (54x52).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike%20Head/Right%20Hit%20(54x52).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike%20Head/Right%20Hit%20(54x52).png",
       "sha256": "e0eaed4f248a73c84831f9b37ae3ceb26ebe3d455d0e990d86428d0fd82a8fc8",
       "size": 2049,
       "contentType": "image/png",
@@ -3265,7 +3265,7 @@
     {
       "fileName": "Top Hit (54x52).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike Head/Top Hit (54x52).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike%20Head/Top%20Hit%20(54x52).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spike%20Head/Top%20Hit%20(54x52).png",
       "sha256": "cb0861da654e0a09ff9d361dff23d0fcf80de8f9791bbbd91e85c26c83eaaa41",
       "size": 1925,
       "contentType": "image/png",
@@ -3275,7 +3275,7 @@
     {
       "fileName": "Chain.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spiked Ball/Chain.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spiked%20Ball/Chain.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spiked%20Ball/Chain.png",
       "sha256": "05ce8f4ffee7308f723e7cd8e1f5515b027272b3c3082966311eacb0677fc22e",
       "size": 187,
       "contentType": "image/png",
@@ -3285,7 +3285,7 @@
     {
       "fileName": "Spiked Ball.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spiked Ball/Spiked Ball.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spiked%20Ball/Spiked%20Ball.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spiked%20Ball/Spiked%20Ball.png",
       "sha256": "2498f86481783502b627b454ef4bd4123d7478fd83e6d292256929fdcde77437",
       "size": 512,
       "contentType": "image/png",
@@ -3295,7 +3295,7 @@
     {
       "fileName": "Idle.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spikes/Idle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spikes/Idle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Spikes/Idle.png",
       "sha256": "2ac00698d048ef4b41ccf05dd5409b57a4013ea2c5e8e75d1ceea91b341c3e6e",
       "size": 165,
       "contentType": "image/png",
@@ -3305,7 +3305,7 @@
     {
       "fileName": "Idle.png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Trampoline/Idle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Trampoline/Idle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Trampoline/Idle.png",
       "sha256": "39fb9f137ba349417f7ca6f1966ac581b320f25b4303a741aa86cdc893da127f",
       "size": 256,
       "contentType": "image/png",
@@ -3315,7 +3315,7 @@
     {
       "fileName": "Jump (28x28).png",
       "path": "packs/pixelfrog-pixel-adventure-1/sprites/Traps/Trampoline/Jump (28x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/773ea607a6e042349041fb0691bd7634310d4595/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Trampoline/Jump%20(28x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/ad33effd37db75b6dc1321079da4b159eb950859/packs/pixelfrog-pixel-adventure-1/sprites/Traps/Trampoline/Jump%20(28x28).png",
       "sha256": "360c33b01080999efe8d603db9a323716039b1db167fbc4ecdf2f3ba7c58891b",
       "size": 624,
       "contentType": "image/png",
