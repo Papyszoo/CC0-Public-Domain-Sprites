@@ -736,7 +736,7 @@ async function intakeVFXPacks() {
         "kenney-foliage-sprites",
         "para-animated-particle-effects-1",
         "para-animated-particle-effects-2",
-        "cuzco-animated-explosions"
+        "cc0-explosions-and-fire"
     ];
     for (const p of vfxPacks) {
         const dest = path.join(PACKS_DIR, p);

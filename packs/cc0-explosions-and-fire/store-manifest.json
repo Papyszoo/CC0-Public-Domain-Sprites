@@ -1,0 +1,356 @@
+{
+  "source": "https://github.com/Papyszoo/CC0-Public-Domain-Sprites",
+  "license": "CC0",
+  "name": "Explosions & Fire Animations",
+  "creator": "BenHickling & Cuzco",
+  "website": "https://opengameart.org/content/explosion-7",
+  "description": "11 complete animated VFX spritesheets (16 to 60 frames): pixel explosions, shockwave ring blasts, fireball explosions, and 8 animated fire flame columns by BenHickling and Cuzco. CC0 1.0 Universal.",
+  "folder": "packs/cc0-explosions-and-fire",
+  "pinnedSha": "fa6432a09ee34a7d146a3684afa9337d5b38259c",
+  "itemCount": 11,
+  "items": [
+    {
+      "name": "Explosion Burst (64x64)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Explosions & Smoke\",\"spritesheet\":{\"frameWidth\":64,\"frameHeight\":64,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/cc0-explosions-and-fire/sprites/explosion_burst (64x64).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Fire Animation 1 (64x64)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Fire & Flames\",\"spritesheet\":{\"frameWidth\":64,\"frameHeight\":64,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/cc0-explosions-and-fire/sprites/fire_animation_1 (64x64).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Fire Animation 2 (64x64)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Fire & Flames\",\"spritesheet\":{\"frameWidth\":64,\"frameHeight\":64,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/cc0-explosions-and-fire/sprites/fire_animation_2 (64x64).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Fire Animation 3 (64x64)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Fire & Flames\",\"spritesheet\":{\"frameWidth\":64,\"frameHeight\":64,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/cc0-explosions-and-fire/sprites/fire_animation_3 (64x64).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Fire Animation 4 (64x64)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Fire & Flames\",\"spritesheet\":{\"frameWidth\":64,\"frameHeight\":64,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/cc0-explosions-and-fire/sprites/fire_animation_4 (64x64).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Fire Animation 5 (64x64)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Fire & Flames\",\"spritesheet\":{\"frameWidth\":64,\"frameHeight\":64,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/cc0-explosions-and-fire/sprites/fire_animation_5 (64x64).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Fire Animation 6 (64x64)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Fire & Flames\",\"spritesheet\":{\"frameWidth\":64,\"frameHeight\":64,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/cc0-explosions-and-fire/sprites/fire_animation_6 (64x64).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Fire Animation 7 (64x64)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Fire & Flames\",\"spritesheet\":{\"frameWidth\":64,\"frameHeight\":64,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/cc0-explosions-and-fire/sprites/fire_animation_7 (64x64).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Fire Animation 8 (64x64)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Fire & Flames\",\"spritesheet\":{\"frameWidth\":64,\"frameHeight\":64,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/cc0-explosions-and-fire/sprites/fire_animation_8 (64x64).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Pixel Explosion (100x100)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Explosions & Smoke\",\"spritesheet\":{\"frameWidth\":100,\"frameHeight\":100,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/cc0-explosions-and-fire/sprites/pixel_explosion (100x100).png",
+          "role": "Image"
+        }
+      ]
+    },
+    {
+      "name": "Ring Explosion (100x100)",
+      "itemType": "Sprite",
+      "metadataJson": "{\"category\":\"Effects\",\"subcategory\":\"Explosions & Smoke\",\"spritesheet\":{\"frameWidth\":100,\"frameHeight\":100,\"type\":\"animation\",\"fps\":7}}",
+      "isPreviewable": true,
+      "files": [
+        {
+          "path": "packs/cc0-explosions-and-fire/sprites/ring_explosion (100x100).png",
+          "role": "Image"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "fileName": "explosion_burst (64x64).png",
+      "path": "packs/cc0-explosions-and-fire/sprites/explosion_burst (64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/cc0-explosions-and-fire/sprites/explosion_burst%20(64x64).png",
+      "sha256": "f4144fb0839d070a608d44c1a12a4e62529a158386ec2db29921608c06fd7cdb",
+      "size": 47453,
+      "role": "Image"
+    },
+    {
+      "fileName": "fire_animation_1 (64x64).png",
+      "path": "packs/cc0-explosions-and-fire/sprites/fire_animation_1 (64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/cc0-explosions-and-fire/sprites/fire_animation_1%20(64x64).png",
+      "sha256": "c3dba736f2866e5abd7008f5aae4f548c0a8ebaf61894f75071fe337d2c5b1bc",
+      "size": 37827,
+      "role": "Image"
+    },
+    {
+      "fileName": "fire_animation_2 (64x64).png",
+      "path": "packs/cc0-explosions-and-fire/sprites/fire_animation_2 (64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/cc0-explosions-and-fire/sprites/fire_animation_2%20(64x64).png",
+      "sha256": "79ee9fcb1594b29e6d2cb02f03fc28a808190a52b03f760bcfe8f8a7523ac011",
+      "size": 25950,
+      "role": "Image"
+    },
+    {
+      "fileName": "fire_animation_3 (64x64).png",
+      "path": "packs/cc0-explosions-and-fire/sprites/fire_animation_3 (64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/cc0-explosions-and-fire/sprites/fire_animation_3%20(64x64).png",
+      "sha256": "8903339fad97f126e906370f062546a2ad24fbaee31bedd18c2d9aff3bf1753f",
+      "size": 25516,
+      "role": "Image"
+    },
+    {
+      "fileName": "fire_animation_4 (64x64).png",
+      "path": "packs/cc0-explosions-and-fire/sprites/fire_animation_4 (64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/cc0-explosions-and-fire/sprites/fire_animation_4%20(64x64).png",
+      "sha256": "6f1645f4bffc7babf9593f681eec3c0a833fd580703118a188be36040f51e0c8",
+      "size": 28368,
+      "role": "Image"
+    },
+    {
+      "fileName": "fire_animation_5 (64x64).png",
+      "path": "packs/cc0-explosions-and-fire/sprites/fire_animation_5 (64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/cc0-explosions-and-fire/sprites/fire_animation_5%20(64x64).png",
+      "sha256": "1552ac6f792fb912ccbacfe1abedbe6c39d9128bedadc6c6099940334dbfd9eb",
+      "size": 37558,
+      "role": "Image"
+    },
+    {
+      "fileName": "fire_animation_6 (64x64).png",
+      "path": "packs/cc0-explosions-and-fire/sprites/fire_animation_6 (64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/cc0-explosions-and-fire/sprites/fire_animation_6%20(64x64).png",
+      "sha256": "464502989ca93c4beaee626f5c8a78ffbf99dce19eca0cd1891b0f95ee5f8d1f",
+      "size": 35620,
+      "role": "Image"
+    },
+    {
+      "fileName": "fire_animation_7 (64x64).png",
+      "path": "packs/cc0-explosions-and-fire/sprites/fire_animation_7 (64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/cc0-explosions-and-fire/sprites/fire_animation_7%20(64x64).png",
+      "sha256": "bdd62cb67e2a5488e5fc8506ab1569db58f7742bdf5c67f2043500b180177951",
+      "size": 26660,
+      "role": "Image"
+    },
+    {
+      "fileName": "fire_animation_8 (64x64).png",
+      "path": "packs/cc0-explosions-and-fire/sprites/fire_animation_8 (64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/cc0-explosions-and-fire/sprites/fire_animation_8%20(64x64).png",
+      "sha256": "ac8043b91efc828223150f3394c0064ee87ae34bf969522e7d0d14444a6ce189",
+      "size": 31115,
+      "role": "Image"
+    },
+    {
+      "fileName": "pixel_explosion (100x100).png",
+      "path": "packs/cc0-explosions-and-fire/sprites/pixel_explosion (100x100).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/cc0-explosions-and-fire/sprites/pixel_explosion%20(100x100).png",
+      "sha256": "b89c9e2b565147fa5ae1fdae955d2b6cab0bd1f2b91065150cfdac49ef2f0f52",
+      "size": 51037,
+      "role": "Image"
+    },
+    {
+      "fileName": "ring_explosion (100x100).png",
+      "path": "packs/cc0-explosions-and-fire/sprites/ring_explosion (100x100).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/cc0-explosions-and-fire/sprites/ring_explosion%20(100x100).png",
+      "sha256": "5c3b1e4f552868e634f9eae9d762a9ae38113be8e2d23129871820390ce4f897",
+      "size": 52391,
+      "role": "Image"
+    }
+  ],
+  "previews": [
+    {
+      "fileName": "cover.png",
+      "path": "packs/cc0-explosions-and-fire/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/cc0-explosions-and-fire/cover.png",
+      "sha256": "b89c9e2b565147fa5ae1fdae955d2b6cab0bd1f2b91065150cfdac49ef2f0f52",
+      "size": 51037,
+      "contentType": "image/png",
+      "type": "Thumbnail"
+    },
+    {
+      "fileName": "explosion_burst (64x64).png",
+      "path": "packs/cc0-explosions-and-fire/sprites/explosion_burst (64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/cc0-explosions-and-fire/sprites/explosion_burst%20(64x64).png",
+      "sha256": "f4144fb0839d070a608d44c1a12a4e62529a158386ec2db29921608c06fd7cdb",
+      "size": 47453,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Explosion Burst (64x64)"
+    },
+    {
+      "fileName": "fire_animation_1 (64x64).png",
+      "path": "packs/cc0-explosions-and-fire/sprites/fire_animation_1 (64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/cc0-explosions-and-fire/sprites/fire_animation_1%20(64x64).png",
+      "sha256": "c3dba736f2866e5abd7008f5aae4f548c0a8ebaf61894f75071fe337d2c5b1bc",
+      "size": 37827,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fire Animation 1 (64x64)"
+    },
+    {
+      "fileName": "fire_animation_2 (64x64).png",
+      "path": "packs/cc0-explosions-and-fire/sprites/fire_animation_2 (64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/cc0-explosions-and-fire/sprites/fire_animation_2%20(64x64).png",
+      "sha256": "79ee9fcb1594b29e6d2cb02f03fc28a808190a52b03f760bcfe8f8a7523ac011",
+      "size": 25950,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fire Animation 2 (64x64)"
+    },
+    {
+      "fileName": "fire_animation_3 (64x64).png",
+      "path": "packs/cc0-explosions-and-fire/sprites/fire_animation_3 (64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/cc0-explosions-and-fire/sprites/fire_animation_3%20(64x64).png",
+      "sha256": "8903339fad97f126e906370f062546a2ad24fbaee31bedd18c2d9aff3bf1753f",
+      "size": 25516,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fire Animation 3 (64x64)"
+    },
+    {
+      "fileName": "fire_animation_4 (64x64).png",
+      "path": "packs/cc0-explosions-and-fire/sprites/fire_animation_4 (64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/cc0-explosions-and-fire/sprites/fire_animation_4%20(64x64).png",
+      "sha256": "6f1645f4bffc7babf9593f681eec3c0a833fd580703118a188be36040f51e0c8",
+      "size": 28368,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fire Animation 4 (64x64)"
+    },
+    {
+      "fileName": "fire_animation_5 (64x64).png",
+      "path": "packs/cc0-explosions-and-fire/sprites/fire_animation_5 (64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/cc0-explosions-and-fire/sprites/fire_animation_5%20(64x64).png",
+      "sha256": "1552ac6f792fb912ccbacfe1abedbe6c39d9128bedadc6c6099940334dbfd9eb",
+      "size": 37558,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fire Animation 5 (64x64)"
+    },
+    {
+      "fileName": "fire_animation_6 (64x64).png",
+      "path": "packs/cc0-explosions-and-fire/sprites/fire_animation_6 (64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/cc0-explosions-and-fire/sprites/fire_animation_6%20(64x64).png",
+      "sha256": "464502989ca93c4beaee626f5c8a78ffbf99dce19eca0cd1891b0f95ee5f8d1f",
+      "size": 35620,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fire Animation 6 (64x64)"
+    },
+    {
+      "fileName": "fire_animation_7 (64x64).png",
+      "path": "packs/cc0-explosions-and-fire/sprites/fire_animation_7 (64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/cc0-explosions-and-fire/sprites/fire_animation_7%20(64x64).png",
+      "sha256": "bdd62cb67e2a5488e5fc8506ab1569db58f7742bdf5c67f2043500b180177951",
+      "size": 26660,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fire Animation 7 (64x64)"
+    },
+    {
+      "fileName": "fire_animation_8 (64x64).png",
+      "path": "packs/cc0-explosions-and-fire/sprites/fire_animation_8 (64x64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/cc0-explosions-and-fire/sprites/fire_animation_8%20(64x64).png",
+      "sha256": "ac8043b91efc828223150f3394c0064ee87ae34bf969522e7d0d14444a6ce189",
+      "size": 31115,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Fire Animation 8 (64x64)"
+    },
+    {
+      "fileName": "pixel_explosion (100x100).png",
+      "path": "packs/cc0-explosions-and-fire/sprites/pixel_explosion (100x100).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/cc0-explosions-and-fire/sprites/pixel_explosion%20(100x100).png",
+      "sha256": "b89c9e2b565147fa5ae1fdae955d2b6cab0bd1f2b91065150cfdac49ef2f0f52",
+      "size": 51037,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Pixel Explosion (100x100)"
+    },
+    {
+      "fileName": "ring_explosion (100x100).png",
+      "path": "packs/cc0-explosions-and-fire/sprites/ring_explosion (100x100).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/cc0-explosions-and-fire/sprites/ring_explosion%20(100x100).png",
+      "sha256": "5c3b1e4f552868e634f9eae9d762a9ae38113be8e2d23129871820390ce4f897",
+      "size": 52391,
+      "contentType": "image/png",
+      "type": "Thumbnail",
+      "itemName": "Ring Explosion (100x100)"
+    }
+  ]
+}
