@@ -348,7 +348,13 @@ for (const slug of packSlugs) {
       const fw = parseInt(match[1], 10);
       const fh = parseInt(match[2], 10);
       if (fw > 0 && fh > 0) {
-        spritesheet = { frameWidth: fw, frameHeight: fh };
+        const isTileset = category === 'Tilesets & Environments' || category === 'Tiles & Environments';
+        spritesheet = {
+          frameWidth: fw,
+          frameHeight: fh,
+          type: isTileset ? 'tileset' : 'animation',
+          fps: isTileset ? 2 : 7,
+        };
       }
     }
 

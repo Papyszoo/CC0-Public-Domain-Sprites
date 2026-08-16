@@ -539,13 +539,21 @@ async function intakeHardVacuum() {
     {
         const slug = "lostgarden-hard-vacuum-terrain";
         const targetDir = path.join(PACKS_DIR, slug);
+        fs.rmSync(path.join(targetDir, "sprites"), { recursive: true, force: true });
         fs.mkdirSync(path.join(targetDir, "sprites"), { recursive: true });
 
         const s = path.join(srcBase, "terrain");
         if (fs.existsSync(s)) {
             for (const file of fs.readdirSync(s)) {
                 if (file.endsWith(".png")) {
-                    fs.copyFileSync(path.join(s, file), path.join(targetDir, "sprites", file));
+                    const base = file.slice(0, -4);
+                    const yamlPath = path.join(s, `${base}.yaml`);
+                    const ymeta = getYamlFrameSize(yamlPath);
+                    let destName = file;
+                    if (ymeta && ymeta.fa > 1) {
+                        destName = `${base} (${ymeta.fw}x${ymeta.fh}).png`;
+                    }
+                    fs.copyFileSync(path.join(s, file), path.join(targetDir, "sprites", destName));
                 }
             }
         }
