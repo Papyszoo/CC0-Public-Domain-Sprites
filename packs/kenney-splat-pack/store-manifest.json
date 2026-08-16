@@ -6,7 +6,7 @@
   "website": "https://kenney.nl/assets/splat-pack",
   "description": "36 liquid splatters, slime bursts, paint splashes, blood decals, and impact VFX by Kenney (kenney.nl). CC0 1.0 Universal.",
   "folder": "packs/kenney-splat-pack",
-  "pinnedSha": "3af33dfa72868b34b0e38a8691d82fd773614339",
+  "pinnedSha": "fa6432a09ee34a7d146a3684afa9337d5b38259c",
   "itemCount": 36,
   "items": [
     {
@@ -446,7 +446,7 @@
     {
       "fileName": "splat00.png",
       "path": "packs/kenney-splat-pack/sprites/splat00.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat00.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat00.png",
       "sha256": "6cf9e7365a1778aea0bd049bdda98bbc397cb99f9e9837b6b8fff427906fc63f",
       "size": 2061,
       "role": "Image"
@@ -454,7 +454,7 @@
     {
       "fileName": "splat01.png",
       "path": "packs/kenney-splat-pack/sprites/splat01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat01.png",
       "sha256": "fc8405c557e843ca77068cc25357d44b792e58646f6ffd6cfb6beac0f8cb9ae2",
       "size": 2304,
       "role": "Image"
@@ -462,7 +462,7 @@
     {
       "fileName": "splat02.png",
       "path": "packs/kenney-splat-pack/sprites/splat02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat02.png",
       "sha256": "e7e3c5a5c581fc5a4f260ec57cf8745ff26cf6ae25be7bd93a8141ef93699b97",
       "size": 2514,
       "role": "Image"
@@ -470,7 +470,7 @@
     {
       "fileName": "splat03.png",
       "path": "packs/kenney-splat-pack/sprites/splat03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat03.png",
       "sha256": "90e60a8e379f2f335059d3f274b2bff13fe1d2d505b7c9029f537f33f627daec",
       "size": 2188,
       "role": "Image"
@@ -478,7 +478,7 @@
     {
       "fileName": "splat04.png",
       "path": "packs/kenney-splat-pack/sprites/splat04.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat04.png",
       "sha256": "cfc50b5e272956c82da3e6e6e9385534c6937a1d1550043152ec44d523cbc101",
       "size": 2013,
       "role": "Image"
@@ -486,7 +486,7 @@
     {
       "fileName": "splat05.png",
       "path": "packs/kenney-splat-pack/sprites/splat05.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat05.png",
       "sha256": "f3d45d79e3158740800095a42a9441eb3268834679f61cdce59fb3d89c92ad3f",
       "size": 2005,
       "role": "Image"
@@ -494,7 +494,7 @@
     {
       "fileName": "splat06.png",
       "path": "packs/kenney-splat-pack/sprites/splat06.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat06.png",
       "sha256": "1e86d6ab8522d8e3b3498abee54428a6f8da56652142d9dde831cba33daeeb2e",
       "size": 1899,
       "role": "Image"
@@ -502,7 +502,7 @@
     {
       "fileName": "splat07.png",
       "path": "packs/kenney-splat-pack/sprites/splat07.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat07.png",
       "sha256": "b08d33b0faef3bea3a99105fb53f00b7f21eba36aaebc2d6523d91a8ce8fd2fd",
       "size": 1894,
       "role": "Image"
@@ -510,7 +510,7 @@
     {
       "fileName": "splat08.png",
       "path": "packs/kenney-splat-pack/sprites/splat08.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat08.png",
       "sha256": "50fb7a44bf56246ec971ffb737d2ea415fa62b341eadf13ded6109a2fb19a5c3",
       "size": 1966,
       "role": "Image"
@@ -518,7 +518,7 @@
     {
       "fileName": "splat09.png",
       "path": "packs/kenney-splat-pack/sprites/splat09.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat09.png",
       "sha256": "b52f50bd59f9624fcd4aff65534fb5a67328f924105959cb08e056fb0f301852",
       "size": 2119,
       "role": "Image"
@@ -526,7 +526,7 @@
     {
       "fileName": "splat10.png",
       "path": "packs/kenney-splat-pack/sprites/splat10.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat10.png",
       "sha256": "f54712422fe02640f69fa1b9870db88a8e3a9664cacabc384403979cf6c54666",
       "size": 2265,
       "role": "Image"
@@ -534,7 +534,7 @@
     {
       "fileName": "splat11.png",
       "path": "packs/kenney-splat-pack/sprites/splat11.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat11.png",
       "sha256": "c5263c91875e888d0c31e15c20fae55c327d85ee4e54c596762782c97dd2c747",
       "size": 2066,
       "role": "Image"
@@ -542,7 +542,7 @@
     {
       "fileName": "splat12.png",
       "path": "packs/kenney-splat-pack/sprites/splat12.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat12.png",
       "sha256": "d7b678633742505af7e6d25ee3feab09298fc238a049b772984efb5bb6d6b2e3",
       "size": 1814,
       "role": "Image"
@@ -550,7 +550,7 @@
     {
       "fileName": "splat13.png",
       "path": "packs/kenney-splat-pack/sprites/splat13.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat13.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat13.png",
       "sha256": "bd8be1dec654a53fc29a57b00f609f4e73cd8e83081c8327b05e76bdcdb56229",
       "size": 1894,
       "role": "Image"
@@ -558,7 +558,7 @@
     {
       "fileName": "splat14.png",
       "path": "packs/kenney-splat-pack/sprites/splat14.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat14.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat14.png",
       "sha256": "7b902016c68a63e7ab9232133de74d25d8cdd6015c89a39e36be8696a525612c",
       "size": 2150,
       "role": "Image"
@@ -566,7 +566,7 @@
     {
       "fileName": "splat15.png",
       "path": "packs/kenney-splat-pack/sprites/splat15.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat15.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat15.png",
       "sha256": "188050f14389867babd10a992e81f31cbd06825fde0cd933fb71fc53c28ae2cb",
       "size": 1817,
       "role": "Image"
@@ -574,7 +574,7 @@
     {
       "fileName": "splat16.png",
       "path": "packs/kenney-splat-pack/sprites/splat16.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat16.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat16.png",
       "sha256": "682048b383ff06bce548cbf2ea099d6c1bb0ea6342d64d5ea114f375fcb92992",
       "size": 2067,
       "role": "Image"
@@ -582,7 +582,7 @@
     {
       "fileName": "splat17.png",
       "path": "packs/kenney-splat-pack/sprites/splat17.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat17.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat17.png",
       "sha256": "69ac1f826abf7248bcd2a2727926c3f0fa42fa2f39ed3434456f265d58c9c830",
       "size": 2218,
       "role": "Image"
@@ -590,7 +590,7 @@
     {
       "fileName": "splat18.png",
       "path": "packs/kenney-splat-pack/sprites/splat18.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat18.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat18.png",
       "sha256": "fa41cf4ef5cf90f81ae55e2c711d6814fee8266dff59bf93aa1526ba1fdb4876",
       "size": 2158,
       "role": "Image"
@@ -598,7 +598,7 @@
     {
       "fileName": "splat19.png",
       "path": "packs/kenney-splat-pack/sprites/splat19.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat19.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat19.png",
       "sha256": "68e6887263bfa673fd017b302caf6dbc2878211a7f4b3be3536fc9fc1fdf2b5c",
       "size": 2515,
       "role": "Image"
@@ -606,7 +606,7 @@
     {
       "fileName": "splat20.png",
       "path": "packs/kenney-splat-pack/sprites/splat20.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat20.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat20.png",
       "sha256": "ae08f85cb1088e3f129b841ebd8074c78037e69764b0e913774d50800ee64d8e",
       "size": 2638,
       "role": "Image"
@@ -614,7 +614,7 @@
     {
       "fileName": "splat21.png",
       "path": "packs/kenney-splat-pack/sprites/splat21.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat21.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat21.png",
       "sha256": "3490ce0c827b2df6e1096da7de2f281fb704d84cdd0ccb4d13c6a4f01e3c4d55",
       "size": 1836,
       "role": "Image"
@@ -622,7 +622,7 @@
     {
       "fileName": "splat22.png",
       "path": "packs/kenney-splat-pack/sprites/splat22.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat22.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat22.png",
       "sha256": "293603e508333a81a6a1290f62779837e9d4bee8d230c7eed0c6c4ded8282f0c",
       "size": 1789,
       "role": "Image"
@@ -630,7 +630,7 @@
     {
       "fileName": "splat23.png",
       "path": "packs/kenney-splat-pack/sprites/splat23.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat23.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat23.png",
       "sha256": "cef564c633a777e12bb62b74790ef3899dc69146d7deae762e08c5dc6bc5762b",
       "size": 1822,
       "role": "Image"
@@ -638,7 +638,7 @@
     {
       "fileName": "splat24.png",
       "path": "packs/kenney-splat-pack/sprites/splat24.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat24.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat24.png",
       "sha256": "6d08d02131b6785538adb7605df3cbf564cd4eb93b3ab703461910fa7c3d9e43",
       "size": 2086,
       "role": "Image"
@@ -646,7 +646,7 @@
     {
       "fileName": "splat25.png",
       "path": "packs/kenney-splat-pack/sprites/splat25.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat25.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat25.png",
       "sha256": "d680467aecb7b9092ca10546131f49b6765abf2c81f012df6876f2f123b4c685",
       "size": 1873,
       "role": "Image"
@@ -654,7 +654,7 @@
     {
       "fileName": "splat26.png",
       "path": "packs/kenney-splat-pack/sprites/splat26.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat26.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat26.png",
       "sha256": "87ba9a92fd451dde8a23e53f27f86ae264c872ba23448e87888bb8b63245fd01",
       "size": 2718,
       "role": "Image"
@@ -662,7 +662,7 @@
     {
       "fileName": "splat27.png",
       "path": "packs/kenney-splat-pack/sprites/splat27.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat27.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat27.png",
       "sha256": "d7a026e538e9c69a79719f8dd4c308dd326d8c45c329b83a83a575ceca92e65b",
       "size": 2320,
       "role": "Image"
@@ -670,7 +670,7 @@
     {
       "fileName": "splat28.png",
       "path": "packs/kenney-splat-pack/sprites/splat28.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat28.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat28.png",
       "sha256": "892617af3b568a71a997f0c981aaa7f79cca52b05035d7aaeab105ab11135c55",
       "size": 2462,
       "role": "Image"
@@ -678,7 +678,7 @@
     {
       "fileName": "splat29.png",
       "path": "packs/kenney-splat-pack/sprites/splat29.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat29.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat29.png",
       "sha256": "8fde88845b386e91e73526019dcfbfa27879a477a47a9a4284d20a7451bc6fec",
       "size": 2299,
       "role": "Image"
@@ -686,7 +686,7 @@
     {
       "fileName": "splat30.png",
       "path": "packs/kenney-splat-pack/sprites/splat30.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat30.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat30.png",
       "sha256": "eec0adfc40a2c538fc948f10a8e69e0cbda107f94728882af55ccac80a37d791",
       "size": 2348,
       "role": "Image"
@@ -694,7 +694,7 @@
     {
       "fileName": "splat31.png",
       "path": "packs/kenney-splat-pack/sprites/splat31.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat31.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat31.png",
       "sha256": "46d356c2bb1385838a435a03d9874d310739de6fa786853f6b5c2a5bf97abc83",
       "size": 2112,
       "role": "Image"
@@ -702,7 +702,7 @@
     {
       "fileName": "splat32.png",
       "path": "packs/kenney-splat-pack/sprites/splat32.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat32.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat32.png",
       "sha256": "628f6dd394cd53b2696dd6f5aff72d3b98bc6dc7bb93170419eea5ed8f4e50e8",
       "size": 2105,
       "role": "Image"
@@ -710,7 +710,7 @@
     {
       "fileName": "splat33.png",
       "path": "packs/kenney-splat-pack/sprites/splat33.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat33.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat33.png",
       "sha256": "7ec53549b434a8eae89b2858f985c03618876d995e40941a69da6a0ebcb6d914",
       "size": 2687,
       "role": "Image"
@@ -718,7 +718,7 @@
     {
       "fileName": "splat34.png",
       "path": "packs/kenney-splat-pack/sprites/splat34.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat34.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat34.png",
       "sha256": "105b120b8c2fb052ce630a4dd55ae6894f75bbd6837e2197690d56b9b9ff9f1b",
       "size": 2812,
       "role": "Image"
@@ -726,7 +726,7 @@
     {
       "fileName": "splat35.png",
       "path": "packs/kenney-splat-pack/sprites/splat35.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat35.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat35.png",
       "sha256": "aaa35292ee87c44d88fa5c0d9b247b558e723645bf2e1f6bf465872e4aeed3ef",
       "size": 2546,
       "role": "Image"
@@ -736,7 +736,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/kenney-splat-pack/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/cover.png",
       "sha256": "2379881692d28a7617cd4c2308bfdf51accb590ae2742643f235fdd22b384f59",
       "size": 26867,
       "contentType": "image/png",
@@ -745,7 +745,7 @@
     {
       "fileName": "splat00.png",
       "path": "packs/kenney-splat-pack/sprites/splat00.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat00.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat00.png",
       "sha256": "6cf9e7365a1778aea0bd049bdda98bbc397cb99f9e9837b6b8fff427906fc63f",
       "size": 2061,
       "contentType": "image/png",
@@ -755,7 +755,7 @@
     {
       "fileName": "splat01.png",
       "path": "packs/kenney-splat-pack/sprites/splat01.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat01.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat01.png",
       "sha256": "fc8405c557e843ca77068cc25357d44b792e58646f6ffd6cfb6beac0f8cb9ae2",
       "size": 2304,
       "contentType": "image/png",
@@ -765,7 +765,7 @@
     {
       "fileName": "splat02.png",
       "path": "packs/kenney-splat-pack/sprites/splat02.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat02.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat02.png",
       "sha256": "e7e3c5a5c581fc5a4f260ec57cf8745ff26cf6ae25be7bd93a8141ef93699b97",
       "size": 2514,
       "contentType": "image/png",
@@ -775,7 +775,7 @@
     {
       "fileName": "splat03.png",
       "path": "packs/kenney-splat-pack/sprites/splat03.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat03.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat03.png",
       "sha256": "90e60a8e379f2f335059d3f274b2bff13fe1d2d505b7c9029f537f33f627daec",
       "size": 2188,
       "contentType": "image/png",
@@ -785,7 +785,7 @@
     {
       "fileName": "splat04.png",
       "path": "packs/kenney-splat-pack/sprites/splat04.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat04.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat04.png",
       "sha256": "cfc50b5e272956c82da3e6e6e9385534c6937a1d1550043152ec44d523cbc101",
       "size": 2013,
       "contentType": "image/png",
@@ -795,7 +795,7 @@
     {
       "fileName": "splat05.png",
       "path": "packs/kenney-splat-pack/sprites/splat05.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat05.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat05.png",
       "sha256": "f3d45d79e3158740800095a42a9441eb3268834679f61cdce59fb3d89c92ad3f",
       "size": 2005,
       "contentType": "image/png",
@@ -805,7 +805,7 @@
     {
       "fileName": "splat06.png",
       "path": "packs/kenney-splat-pack/sprites/splat06.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat06.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat06.png",
       "sha256": "1e86d6ab8522d8e3b3498abee54428a6f8da56652142d9dde831cba33daeeb2e",
       "size": 1899,
       "contentType": "image/png",
@@ -815,7 +815,7 @@
     {
       "fileName": "splat07.png",
       "path": "packs/kenney-splat-pack/sprites/splat07.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat07.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat07.png",
       "sha256": "b08d33b0faef3bea3a99105fb53f00b7f21eba36aaebc2d6523d91a8ce8fd2fd",
       "size": 1894,
       "contentType": "image/png",
@@ -825,7 +825,7 @@
     {
       "fileName": "splat08.png",
       "path": "packs/kenney-splat-pack/sprites/splat08.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat08.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat08.png",
       "sha256": "50fb7a44bf56246ec971ffb737d2ea415fa62b341eadf13ded6109a2fb19a5c3",
       "size": 1966,
       "contentType": "image/png",
@@ -835,7 +835,7 @@
     {
       "fileName": "splat09.png",
       "path": "packs/kenney-splat-pack/sprites/splat09.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat09.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat09.png",
       "sha256": "b52f50bd59f9624fcd4aff65534fb5a67328f924105959cb08e056fb0f301852",
       "size": 2119,
       "contentType": "image/png",
@@ -845,7 +845,7 @@
     {
       "fileName": "splat10.png",
       "path": "packs/kenney-splat-pack/sprites/splat10.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat10.png",
       "sha256": "f54712422fe02640f69fa1b9870db88a8e3a9664cacabc384403979cf6c54666",
       "size": 2265,
       "contentType": "image/png",
@@ -855,7 +855,7 @@
     {
       "fileName": "splat11.png",
       "path": "packs/kenney-splat-pack/sprites/splat11.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat11.png",
       "sha256": "c5263c91875e888d0c31e15c20fae55c327d85ee4e54c596762782c97dd2c747",
       "size": 2066,
       "contentType": "image/png",
@@ -865,7 +865,7 @@
     {
       "fileName": "splat12.png",
       "path": "packs/kenney-splat-pack/sprites/splat12.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat12.png",
       "sha256": "d7b678633742505af7e6d25ee3feab09298fc238a049b772984efb5bb6d6b2e3",
       "size": 1814,
       "contentType": "image/png",
@@ -875,7 +875,7 @@
     {
       "fileName": "splat13.png",
       "path": "packs/kenney-splat-pack/sprites/splat13.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat13.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat13.png",
       "sha256": "bd8be1dec654a53fc29a57b00f609f4e73cd8e83081c8327b05e76bdcdb56229",
       "size": 1894,
       "contentType": "image/png",
@@ -885,7 +885,7 @@
     {
       "fileName": "splat14.png",
       "path": "packs/kenney-splat-pack/sprites/splat14.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat14.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat14.png",
       "sha256": "7b902016c68a63e7ab9232133de74d25d8cdd6015c89a39e36be8696a525612c",
       "size": 2150,
       "contentType": "image/png",
@@ -895,7 +895,7 @@
     {
       "fileName": "splat15.png",
       "path": "packs/kenney-splat-pack/sprites/splat15.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat15.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat15.png",
       "sha256": "188050f14389867babd10a992e81f31cbd06825fde0cd933fb71fc53c28ae2cb",
       "size": 1817,
       "contentType": "image/png",
@@ -905,7 +905,7 @@
     {
       "fileName": "splat16.png",
       "path": "packs/kenney-splat-pack/sprites/splat16.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat16.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat16.png",
       "sha256": "682048b383ff06bce548cbf2ea099d6c1bb0ea6342d64d5ea114f375fcb92992",
       "size": 2067,
       "contentType": "image/png",
@@ -915,7 +915,7 @@
     {
       "fileName": "splat17.png",
       "path": "packs/kenney-splat-pack/sprites/splat17.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat17.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat17.png",
       "sha256": "69ac1f826abf7248bcd2a2727926c3f0fa42fa2f39ed3434456f265d58c9c830",
       "size": 2218,
       "contentType": "image/png",
@@ -925,7 +925,7 @@
     {
       "fileName": "splat18.png",
       "path": "packs/kenney-splat-pack/sprites/splat18.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat18.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat18.png",
       "sha256": "fa41cf4ef5cf90f81ae55e2c711d6814fee8266dff59bf93aa1526ba1fdb4876",
       "size": 2158,
       "contentType": "image/png",
@@ -935,7 +935,7 @@
     {
       "fileName": "splat19.png",
       "path": "packs/kenney-splat-pack/sprites/splat19.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat19.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat19.png",
       "sha256": "68e6887263bfa673fd017b302caf6dbc2878211a7f4b3be3536fc9fc1fdf2b5c",
       "size": 2515,
       "contentType": "image/png",
@@ -945,7 +945,7 @@
     {
       "fileName": "splat20.png",
       "path": "packs/kenney-splat-pack/sprites/splat20.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat20.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat20.png",
       "sha256": "ae08f85cb1088e3f129b841ebd8074c78037e69764b0e913774d50800ee64d8e",
       "size": 2638,
       "contentType": "image/png",
@@ -955,7 +955,7 @@
     {
       "fileName": "splat21.png",
       "path": "packs/kenney-splat-pack/sprites/splat21.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat21.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat21.png",
       "sha256": "3490ce0c827b2df6e1096da7de2f281fb704d84cdd0ccb4d13c6a4f01e3c4d55",
       "size": 1836,
       "contentType": "image/png",
@@ -965,7 +965,7 @@
     {
       "fileName": "splat22.png",
       "path": "packs/kenney-splat-pack/sprites/splat22.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat22.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat22.png",
       "sha256": "293603e508333a81a6a1290f62779837e9d4bee8d230c7eed0c6c4ded8282f0c",
       "size": 1789,
       "contentType": "image/png",
@@ -975,7 +975,7 @@
     {
       "fileName": "splat23.png",
       "path": "packs/kenney-splat-pack/sprites/splat23.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat23.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat23.png",
       "sha256": "cef564c633a777e12bb62b74790ef3899dc69146d7deae762e08c5dc6bc5762b",
       "size": 1822,
       "contentType": "image/png",
@@ -985,7 +985,7 @@
     {
       "fileName": "splat24.png",
       "path": "packs/kenney-splat-pack/sprites/splat24.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat24.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat24.png",
       "sha256": "6d08d02131b6785538adb7605df3cbf564cd4eb93b3ab703461910fa7c3d9e43",
       "size": 2086,
       "contentType": "image/png",
@@ -995,7 +995,7 @@
     {
       "fileName": "splat25.png",
       "path": "packs/kenney-splat-pack/sprites/splat25.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat25.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat25.png",
       "sha256": "d680467aecb7b9092ca10546131f49b6765abf2c81f012df6876f2f123b4c685",
       "size": 1873,
       "contentType": "image/png",
@@ -1005,7 +1005,7 @@
     {
       "fileName": "splat26.png",
       "path": "packs/kenney-splat-pack/sprites/splat26.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat26.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat26.png",
       "sha256": "87ba9a92fd451dde8a23e53f27f86ae264c872ba23448e87888bb8b63245fd01",
       "size": 2718,
       "contentType": "image/png",
@@ -1015,7 +1015,7 @@
     {
       "fileName": "splat27.png",
       "path": "packs/kenney-splat-pack/sprites/splat27.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat27.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat27.png",
       "sha256": "d7a026e538e9c69a79719f8dd4c308dd326d8c45c329b83a83a575ceca92e65b",
       "size": 2320,
       "contentType": "image/png",
@@ -1025,7 +1025,7 @@
     {
       "fileName": "splat28.png",
       "path": "packs/kenney-splat-pack/sprites/splat28.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat28.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat28.png",
       "sha256": "892617af3b568a71a997f0c981aaa7f79cca52b05035d7aaeab105ab11135c55",
       "size": 2462,
       "contentType": "image/png",
@@ -1035,7 +1035,7 @@
     {
       "fileName": "splat29.png",
       "path": "packs/kenney-splat-pack/sprites/splat29.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat29.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat29.png",
       "sha256": "8fde88845b386e91e73526019dcfbfa27879a477a47a9a4284d20a7451bc6fec",
       "size": 2299,
       "contentType": "image/png",
@@ -1045,7 +1045,7 @@
     {
       "fileName": "splat30.png",
       "path": "packs/kenney-splat-pack/sprites/splat30.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat30.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat30.png",
       "sha256": "eec0adfc40a2c538fc948f10a8e69e0cbda107f94728882af55ccac80a37d791",
       "size": 2348,
       "contentType": "image/png",
@@ -1055,7 +1055,7 @@
     {
       "fileName": "splat31.png",
       "path": "packs/kenney-splat-pack/sprites/splat31.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat31.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat31.png",
       "sha256": "46d356c2bb1385838a435a03d9874d310739de6fa786853f6b5c2a5bf97abc83",
       "size": 2112,
       "contentType": "image/png",
@@ -1065,7 +1065,7 @@
     {
       "fileName": "splat32.png",
       "path": "packs/kenney-splat-pack/sprites/splat32.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat32.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat32.png",
       "sha256": "628f6dd394cd53b2696dd6f5aff72d3b98bc6dc7bb93170419eea5ed8f4e50e8",
       "size": 2105,
       "contentType": "image/png",
@@ -1075,7 +1075,7 @@
     {
       "fileName": "splat33.png",
       "path": "packs/kenney-splat-pack/sprites/splat33.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat33.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat33.png",
       "sha256": "7ec53549b434a8eae89b2858f985c03618876d995e40941a69da6a0ebcb6d914",
       "size": 2687,
       "contentType": "image/png",
@@ -1085,7 +1085,7 @@
     {
       "fileName": "splat34.png",
       "path": "packs/kenney-splat-pack/sprites/splat34.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat34.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat34.png",
       "sha256": "105b120b8c2fb052ce630a4dd55ae6894f75bbd6837e2197690d56b9b9ff9f1b",
       "size": 2812,
       "contentType": "image/png",
@@ -1095,7 +1095,7 @@
     {
       "fileName": "splat35.png",
       "path": "packs/kenney-splat-pack/sprites/splat35.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/kenney-splat-pack/sprites/splat35.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/kenney-splat-pack/sprites/splat35.png",
       "sha256": "aaa35292ee87c44d88fa5c0d9b247b558e723645bf2e1f6bf465872e4aeed3ef",
       "size": 2546,
       "contentType": "image/png",

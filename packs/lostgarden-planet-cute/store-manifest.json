@@ -6,7 +6,7 @@
   "website": "https://lostgarden.home.blog/2007/05/12/dancs-miraculously-flexible-game-prototyping-tiles/",
   "description": "Iconic modular isometric and orthographic prototyping tiles, cute characters (Boy, Cat Girl, Horn Girl, Princess Girl), enemy bugs, ramps, water, gems, chests, and terrain blocks by Daniel Cook (Lostgarden).",
   "folder": "packs/lostgarden-planet-cute",
-  "pinnedSha": "3af33dfa72868b34b0e38a8691d82fd773614339",
+  "pinnedSha": "fa6432a09ee34a7d146a3684afa9337d5b38259c",
   "itemCount": 55,
   "items": [
     {
@@ -674,7 +674,7 @@
     {
       "fileName": "Brown Block.png",
       "path": "packs/lostgarden-planet-cute/sprites/Brown Block.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Brown%20Block.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Brown%20Block.png",
       "sha256": "70e9b3895c42fa1b72b8b689f67894ab42ba8de7dc20e88673824d0d37012ea3",
       "size": 2231,
       "role": "Image"
@@ -682,7 +682,7 @@
     {
       "fileName": "Character Boy.png",
       "path": "packs/lostgarden-planet-cute/sprites/Character Boy.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Character%20Boy.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Character%20Boy.png",
       "sha256": "f3053feeacf4977682c0d295f3243647bbcb82e2de1bf9ce28a68d0d07408070",
       "size": 7790,
       "role": "Image"
@@ -690,7 +690,7 @@
     {
       "fileName": "Character Cat Girl.png",
       "path": "packs/lostgarden-planet-cute/sprites/Character Cat Girl.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Character%20Cat%20Girl.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Character%20Cat%20Girl.png",
       "sha256": "5fba62fa56cd98861dad6dbe64388aac6873fd5ba061bd3489b1fefde43fe81c",
       "size": 8553,
       "role": "Image"
@@ -698,7 +698,7 @@
     {
       "fileName": "Character Horn Girl.png",
       "path": "packs/lostgarden-planet-cute/sprites/Character Horn Girl.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Character%20Horn%20Girl.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Character%20Horn%20Girl.png",
       "sha256": "5948234b5fb58110dd4211f049d885af15730751f0561141f585144134b5fd2f",
       "size": 8724,
       "role": "Image"
@@ -706,7 +706,7 @@
     {
       "fileName": "Character Pink Girl.png",
       "path": "packs/lostgarden-planet-cute/sprites/Character Pink Girl.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Character%20Pink%20Girl.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Character%20Pink%20Girl.png",
       "sha256": "0cc39aa5a9003595a9fe18235b15489e9370b751a9ca06f8db34ee4d29d1a3d1",
       "size": 8868,
       "role": "Image"
@@ -714,7 +714,7 @@
     {
       "fileName": "Character Princess Girl.png",
       "path": "packs/lostgarden-planet-cute/sprites/Character Princess Girl.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Character%20Princess%20Girl.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Character%20Princess%20Girl.png",
       "sha256": "5db7d3f4db17088b7c7310a7e182258f154ade29b8d0312f6526eb0dab69ba00",
       "size": 9735,
       "role": "Image"
@@ -722,7 +722,7 @@
     {
       "fileName": "Chest Closed.png",
       "path": "packs/lostgarden-planet-cute/sprites/Chest Closed.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Chest%20Closed.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Chest%20Closed.png",
       "sha256": "fb3454af86a1b20077684002a5436fee71c002311ad783ae6f877533b20c61b8",
       "size": 6861,
       "role": "Image"
@@ -730,7 +730,7 @@
     {
       "fileName": "Chest Lid.png",
       "path": "packs/lostgarden-planet-cute/sprites/Chest Lid.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Chest%20Lid.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Chest%20Lid.png",
       "sha256": "1ad73fd709376d77de249114a109ca7d38865329dd202a4a37122ea4a4f0db39",
       "size": 3985,
       "role": "Image"
@@ -738,7 +738,7 @@
     {
       "fileName": "Chest Open.png",
       "path": "packs/lostgarden-planet-cute/sprites/Chest Open.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Chest%20Open.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Chest%20Open.png",
       "sha256": "6753be0db69b999aff45f85644f43e40fcddd760689854d210dbb6584fdbc9ca",
       "size": 6717,
       "role": "Image"
@@ -746,7 +746,7 @@
     {
       "fileName": "Dirt Block.png",
       "path": "packs/lostgarden-planet-cute/sprites/Dirt Block.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Dirt%20Block.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Dirt%20Block.png",
       "sha256": "733d8aa852e0629cc9fb0f29c18a552b30fbcf08c7320b0ff3061f1531707e9e",
       "size": 7914,
       "role": "Image"
@@ -754,7 +754,7 @@
     {
       "fileName": "Door Tall Closed.png",
       "path": "packs/lostgarden-planet-cute/sprites/Door Tall Closed.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Door%20Tall%20Closed.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Door%20Tall%20Closed.png",
       "sha256": "ae36cb24ca8e3dfc4bf878f38df8b8ce000bf3b20981e964e48dee671beef6ca",
       "size": 10384,
       "role": "Image"
@@ -762,7 +762,7 @@
     {
       "fileName": "Door Tall Open.png",
       "path": "packs/lostgarden-planet-cute/sprites/Door Tall Open.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Door%20Tall%20Open.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Door%20Tall%20Open.png",
       "sha256": "d2aa66616f6cbcf29c57c20e6ea2e31bbc62749960818d8854628d33a19819ff",
       "size": 4844,
       "role": "Image"
@@ -770,7 +770,7 @@
     {
       "fileName": "Enemy Bug.png",
       "path": "packs/lostgarden-planet-cute/sprites/Enemy Bug.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Enemy%20Bug.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Enemy%20Bug.png",
       "sha256": "18924753bb3ab5965ea31c4a38aa30939964d7cacaff73116781d843636913a9",
       "size": 12635,
       "role": "Image"
@@ -778,7 +778,7 @@
     {
       "fileName": "Gem Blue.png",
       "path": "packs/lostgarden-planet-cute/sprites/Gem Blue.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Gem%20Blue.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Gem%20Blue.png",
       "sha256": "4dfc522bc837617652d0a6cc57d18a753a82957b24e1f2739484050e3b09e052",
       "size": 20160,
       "role": "Image"
@@ -786,7 +786,7 @@
     {
       "fileName": "Gem Green.png",
       "path": "packs/lostgarden-planet-cute/sprites/Gem Green.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Gem%20Green.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Gem%20Green.png",
       "sha256": "ecd7e69effba5c8b116950e20d94eb619fc8d53ae3202acb881a55b58614fdd2",
       "size": 24029,
       "role": "Image"
@@ -794,7 +794,7 @@
     {
       "fileName": "Gem Orange.png",
       "path": "packs/lostgarden-planet-cute/sprites/Gem Orange.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Gem%20Orange.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Gem%20Orange.png",
       "sha256": "c9e61f293dc25bc943c31f65c876a6fecbfa8e5cc13534807e0df5f8108b6cbd",
       "size": 17342,
       "role": "Image"
@@ -802,7 +802,7 @@
     {
       "fileName": "Grass Block.png",
       "path": "packs/lostgarden-planet-cute/sprites/Grass Block.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Grass%20Block.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Grass%20Block.png",
       "sha256": "9a8e82a2856d066ac4259aba1a24a31eaaac073bed80cda8a0a5081c93bb59ea",
       "size": 8587,
       "role": "Image"
@@ -810,7 +810,7 @@
     {
       "fileName": "Heart.png",
       "path": "packs/lostgarden-planet-cute/sprites/Heart.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Heart.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Heart.png",
       "sha256": "a0df931d4ecc40e66aa8821944024d9f6b02d916e641b6bda48e368eb251f102",
       "size": 6419,
       "role": "Image"
@@ -818,7 +818,7 @@
     {
       "fileName": "Key.png",
       "path": "packs/lostgarden-planet-cute/sprites/Key.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Key.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Key.png",
       "sha256": "b70c51811bf9a4ffc51b3349f8f7188cce40ed956c3454edc2a514905c0df2e5",
       "size": 7455,
       "role": "Image"
@@ -826,7 +826,7 @@
     {
       "fileName": "Plain Block.png",
       "path": "packs/lostgarden-planet-cute/sprites/Plain Block.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Plain%20Block.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Plain%20Block.png",
       "sha256": "9ab40f8948a8a442ddba9282d50630f543ea27c300f644d13d26f1553f316d3a",
       "size": 1573,
       "role": "Image"
@@ -834,7 +834,7 @@
     {
       "fileName": "Ramp East.png",
       "path": "packs/lostgarden-planet-cute/sprites/Ramp East.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Ramp%20East.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Ramp%20East.png",
       "sha256": "418e35f62e772427f750ff895dd9cbca74e4eb86bea19347f14543a848dc1f92",
       "size": 5398,
       "role": "Image"
@@ -842,7 +842,7 @@
     {
       "fileName": "Ramp North.png",
       "path": "packs/lostgarden-planet-cute/sprites/Ramp North.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Ramp%20North.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Ramp%20North.png",
       "sha256": "cdffc18825b1ca03243c363a02543091a9b529fc86d99b62955fd832f75993c6",
       "size": 2981,
       "role": "Image"
@@ -850,7 +850,7 @@
     {
       "fileName": "Ramp South.png",
       "path": "packs/lostgarden-planet-cute/sprites/Ramp South.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Ramp%20South.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Ramp%20South.png",
       "sha256": "3113f877069df67ce8e98d790b29d337f611ba6de5df2e2dea261574e12a9181",
       "size": 3761,
       "role": "Image"
@@ -858,7 +858,7 @@
     {
       "fileName": "Ramp West.png",
       "path": "packs/lostgarden-planet-cute/sprites/Ramp West.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Ramp%20West.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Ramp%20West.png",
       "sha256": "ba46c06f4146648ee5fa0a34103f31458adaa83492e28caa1d762efd28eeffd9",
       "size": 6416,
       "role": "Image"
@@ -866,7 +866,7 @@
     {
       "fileName": "Rock.png",
       "path": "packs/lostgarden-planet-cute/sprites/Rock.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Rock.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Rock.png",
       "sha256": "e36bae92bc23e5a4c2847f7608839efe5a4fd8713296375c842ad31b9bdfcd1e",
       "size": 9434,
       "role": "Image"
@@ -874,7 +874,7 @@
     {
       "fileName": "Roof East.png",
       "path": "packs/lostgarden-planet-cute/sprites/Roof East.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Roof%20East.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Roof%20East.png",
       "sha256": "2afbd8f1d9abebce591401573130deae949fb4f5f5e6b5c832e31a36f9efeeab",
       "size": 18261,
       "role": "Image"
@@ -882,7 +882,7 @@
     {
       "fileName": "Roof North East.png",
       "path": "packs/lostgarden-planet-cute/sprites/Roof North East.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Roof%20North%20East.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Roof%20North%20East.png",
       "sha256": "6bbbf2729fbfbb31e911f7b5cfa3f6342a7f7feb1327eca2283578b084958b02",
       "size": 14206,
       "role": "Image"
@@ -890,7 +890,7 @@
     {
       "fileName": "Roof North West.png",
       "path": "packs/lostgarden-planet-cute/sprites/Roof North West.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Roof%20North%20West.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Roof%20North%20West.png",
       "sha256": "9d2da0ed5ad90828cd654397f0cf4404eb8aa3439c46befff7637e4d8ee81511",
       "size": 14646,
       "role": "Image"
@@ -898,7 +898,7 @@
     {
       "fileName": "Roof North.png",
       "path": "packs/lostgarden-planet-cute/sprites/Roof North.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Roof%20North.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Roof%20North.png",
       "sha256": "ddc2f9c659b44ecef37cbe802405efa3eb56c0dbf69138889a4bd8de2db92e29",
       "size": 7040,
       "role": "Image"
@@ -906,7 +906,7 @@
     {
       "fileName": "Roof South East.png",
       "path": "packs/lostgarden-planet-cute/sprites/Roof South East.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Roof%20South%20East.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Roof%20South%20East.png",
       "sha256": "5f51dc3123e0cd9a4b84def5a949094e4f05eb805361cf28660753bd8e49bf7b",
       "size": 20752,
       "role": "Image"
@@ -914,7 +914,7 @@
     {
       "fileName": "Roof South West.png",
       "path": "packs/lostgarden-planet-cute/sprites/Roof South West.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Roof%20South%20West.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Roof%20South%20West.png",
       "sha256": "15840f8412878006ad61b1d6997cd8492c5d79685fb7c6252972c02992f26792",
       "size": 21125,
       "role": "Image"
@@ -922,7 +922,7 @@
     {
       "fileName": "Roof South.png",
       "path": "packs/lostgarden-planet-cute/sprites/Roof South.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Roof%20South.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Roof%20South.png",
       "sha256": "6324cc992e9295ecc486729d79da95f6ac82cb324adaa8368e8c2cd124a829f0",
       "size": 12748,
       "role": "Image"
@@ -930,7 +930,7 @@
     {
       "fileName": "Roof West.png",
       "path": "packs/lostgarden-planet-cute/sprites/Roof West.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Roof%20West.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Roof%20West.png",
       "sha256": "adc5f982034acc5d42d081b22695a02ef14493b16f1912600284ae42816d19b2",
       "size": 18282,
       "role": "Image"
@@ -938,7 +938,7 @@
     {
       "fileName": "Selector.png",
       "path": "packs/lostgarden-planet-cute/sprites/Selector.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Selector.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Selector.png",
       "sha256": "e888dca0b9f3fdc44a42d500fe407c464c6afba3bc27aa6f79451ba19b318ae8",
       "size": 22430,
       "role": "Image"
@@ -946,7 +946,7 @@
     {
       "fileName": "Shadow East.png",
       "path": "packs/lostgarden-planet-cute/sprites/Shadow East.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Shadow%20East.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Shadow%20East.png",
       "sha256": "2f41a99984493df4bfcf5e018467eb3939c048689a7e24aa684fcb0668c785d6",
       "size": 697,
       "role": "Image"
@@ -954,7 +954,7 @@
     {
       "fileName": "Shadow North East.png",
       "path": "packs/lostgarden-planet-cute/sprites/Shadow North East.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Shadow%20North%20East.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Shadow%20North%20East.png",
       "sha256": "7e29549e4894e4061c49cbf297faf9ee56a285b336c4653be56fc77b2ab5b907",
       "size": 1832,
       "role": "Image"
@@ -962,7 +962,7 @@
     {
       "fileName": "Shadow North West.png",
       "path": "packs/lostgarden-planet-cute/sprites/Shadow North West.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Shadow%20North%20West.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Shadow%20North%20West.png",
       "sha256": "6474df774bc09a6a88b3e7c5b3a5467a35702160a37c44bc2071e4cbca7e6f22",
       "size": 2224,
       "role": "Image"
@@ -970,7 +970,7 @@
     {
       "fileName": "Shadow North.png",
       "path": "packs/lostgarden-planet-cute/sprites/Shadow North.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Shadow%20North.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Shadow%20North.png",
       "sha256": "527cd7c7f08f5e874e0aff15a951ebde928f8766d84204f52dbe687f16e73e96",
       "size": 1095,
       "role": "Image"
@@ -978,7 +978,7 @@
     {
       "fileName": "Shadow Side West.png",
       "path": "packs/lostgarden-planet-cute/sprites/Shadow Side West.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Shadow%20Side%20West.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Shadow%20Side%20West.png",
       "sha256": "4cd4b7041ad01158a9db4822f08ba028f5dda13bdef152caa055b7e70aa546b4",
       "size": 823,
       "role": "Image"
@@ -986,7 +986,7 @@
     {
       "fileName": "Shadow South East.png",
       "path": "packs/lostgarden-planet-cute/sprites/Shadow South East.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Shadow%20South%20East.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Shadow%20South%20East.png",
       "sha256": "69773bd65ada2533f4dad3f6ecf7b6ccf9570fba9c5645174180b1ae12548863",
       "size": 1718,
       "role": "Image"
@@ -994,7 +994,7 @@
     {
       "fileName": "Shadow South West.png",
       "path": "packs/lostgarden-planet-cute/sprites/Shadow South West.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Shadow%20South%20West.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Shadow%20South%20West.png",
       "sha256": "5197e6f38ae9cadaef5269b7db68ea694c7013c7258746b6860be9be7b6bb0ca",
       "size": 2122,
       "role": "Image"
@@ -1002,7 +1002,7 @@
     {
       "fileName": "Shadow South.png",
       "path": "packs/lostgarden-planet-cute/sprites/Shadow South.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Shadow%20South.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Shadow%20South.png",
       "sha256": "247d789adec579059f959a4bc5c8611a0f0a8ed38e31a2ab74aadd5b5ed6dcd1",
       "size": 634,
       "role": "Image"
@@ -1010,7 +1010,7 @@
     {
       "fileName": "Shadow West.png",
       "path": "packs/lostgarden-planet-cute/sprites/Shadow West.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Shadow%20West.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Shadow%20West.png",
       "sha256": "5d01ae4ffd5a71d338992bd5842fd8cce4c93764d7f3102517083b2f57d6485d",
       "size": 968,
       "role": "Image"
@@ -1018,7 +1018,7 @@
     {
       "fileName": "SpeechBubble.png",
       "path": "packs/lostgarden-planet-cute/sprites/SpeechBubble.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/SpeechBubble.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/SpeechBubble.png",
       "sha256": "8fb764c934aa5a4750849050ad58f1b9b271d3fe715340d2f6c421d994e9b141",
       "size": 2157,
       "role": "Image"
@@ -1026,7 +1026,7 @@
     {
       "fileName": "Star.png",
       "path": "packs/lostgarden-planet-cute/sprites/Star.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Star.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Star.png",
       "sha256": "3b1c1c9de3f567cb533ba31aafc9a68642ba45d367012e9983f419e264fa29cd",
       "size": 13735,
       "role": "Image"
@@ -1034,7 +1034,7 @@
     {
       "fileName": "Stone Block Tall.png",
       "path": "packs/lostgarden-planet-cute/sprites/Stone Block Tall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Stone%20Block%20Tall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Stone%20Block%20Tall.png",
       "sha256": "115394c65bf19c17b63a115a38b097b3f2cd999280d01de9f87d503a5eb83730",
       "size": 7504,
       "role": "Image"
@@ -1042,7 +1042,7 @@
     {
       "fileName": "Stone Block.png",
       "path": "packs/lostgarden-planet-cute/sprites/Stone Block.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Stone%20Block.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Stone%20Block.png",
       "sha256": "17505d0c22c44abc4d3fc8f1989043eb3be413f5b2ea300be28347eae65a4fb5",
       "size": 6085,
       "role": "Image"
@@ -1050,7 +1050,7 @@
     {
       "fileName": "Tree Short.png",
       "path": "packs/lostgarden-planet-cute/sprites/Tree Short.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Tree%20Short.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Tree%20Short.png",
       "sha256": "f81544b3780ea705b009c82998f2d345e49e284c0a02b431f34b0fa957961f57",
       "size": 17030,
       "role": "Image"
@@ -1058,7 +1058,7 @@
     {
       "fileName": "Tree Tall.png",
       "path": "packs/lostgarden-planet-cute/sprites/Tree Tall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Tree%20Tall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Tree%20Tall.png",
       "sha256": "a5f30e0888080eb2d05541be28ff8f40b21c6cf5a4d1b34928805f202519daf3",
       "size": 21856,
       "role": "Image"
@@ -1066,7 +1066,7 @@
     {
       "fileName": "Tree Ugly.png",
       "path": "packs/lostgarden-planet-cute/sprites/Tree Ugly.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Tree%20Ugly.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Tree%20Ugly.png",
       "sha256": "fd2b3ee6a64fb787adde7942573b32b3710ac8ace1eabee44d61f01d3fdf90a5",
       "size": 18993,
       "role": "Image"
@@ -1074,7 +1074,7 @@
     {
       "fileName": "Wall Block Tall.png",
       "path": "packs/lostgarden-planet-cute/sprites/Wall Block Tall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Wall%20Block%20Tall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Wall%20Block%20Tall.png",
       "sha256": "3ebcc9454ac6b763e9aaa2a4fabfcc605ac323fc9fb04b79e76336a92043d700",
       "size": 8023,
       "role": "Image"
@@ -1082,7 +1082,7 @@
     {
       "fileName": "Wall Block.png",
       "path": "packs/lostgarden-planet-cute/sprites/Wall Block.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Wall%20Block.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Wall%20Block.png",
       "sha256": "14ac3219b688c472109add90c561378b494d3945c14c99f0fee77d2e2e868f08",
       "size": 7138,
       "role": "Image"
@@ -1090,7 +1090,7 @@
     {
       "fileName": "Water Block.png",
       "path": "packs/lostgarden-planet-cute/sprites/Water Block.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Water%20Block.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Water%20Block.png",
       "sha256": "be277b3d023b14c471acd77719a35b10ab93c3ea777f4d84f442b790ad86ebd8",
       "size": 9210,
       "role": "Image"
@@ -1098,7 +1098,7 @@
     {
       "fileName": "Window Tall.png",
       "path": "packs/lostgarden-planet-cute/sprites/Window Tall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Window%20Tall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Window%20Tall.png",
       "sha256": "1b353a3d31e7001a12d912a3c1204b32f72c3e55c29dff4ab45dd579f51d5961",
       "size": 11733,
       "role": "Image"
@@ -1106,7 +1106,7 @@
     {
       "fileName": "Wood Block.png",
       "path": "packs/lostgarden-planet-cute/sprites/Wood Block.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Wood%20Block.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Wood%20Block.png",
       "sha256": "1db538b744e57289a66334d56727315b4f5e782bc39068d101b9dbefd3833a64",
       "size": 4344,
       "role": "Image"
@@ -1116,7 +1116,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/lostgarden-planet-cute/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/cover.png",
       "sha256": "f3053feeacf4977682c0d295f3243647bbcb82e2de1bf9ce28a68d0d07408070",
       "size": 7790,
       "contentType": "image/png",
@@ -1125,7 +1125,7 @@
     {
       "fileName": "Brown Block.png",
       "path": "packs/lostgarden-planet-cute/sprites/Brown Block.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Brown%20Block.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Brown%20Block.png",
       "sha256": "70e9b3895c42fa1b72b8b689f67894ab42ba8de7dc20e88673824d0d37012ea3",
       "size": 2231,
       "contentType": "image/png",
@@ -1135,7 +1135,7 @@
     {
       "fileName": "Character Boy.png",
       "path": "packs/lostgarden-planet-cute/sprites/Character Boy.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Character%20Boy.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Character%20Boy.png",
       "sha256": "f3053feeacf4977682c0d295f3243647bbcb82e2de1bf9ce28a68d0d07408070",
       "size": 7790,
       "contentType": "image/png",
@@ -1145,7 +1145,7 @@
     {
       "fileName": "Character Cat Girl.png",
       "path": "packs/lostgarden-planet-cute/sprites/Character Cat Girl.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Character%20Cat%20Girl.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Character%20Cat%20Girl.png",
       "sha256": "5fba62fa56cd98861dad6dbe64388aac6873fd5ba061bd3489b1fefde43fe81c",
       "size": 8553,
       "contentType": "image/png",
@@ -1155,7 +1155,7 @@
     {
       "fileName": "Character Horn Girl.png",
       "path": "packs/lostgarden-planet-cute/sprites/Character Horn Girl.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Character%20Horn%20Girl.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Character%20Horn%20Girl.png",
       "sha256": "5948234b5fb58110dd4211f049d885af15730751f0561141f585144134b5fd2f",
       "size": 8724,
       "contentType": "image/png",
@@ -1165,7 +1165,7 @@
     {
       "fileName": "Character Pink Girl.png",
       "path": "packs/lostgarden-planet-cute/sprites/Character Pink Girl.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Character%20Pink%20Girl.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Character%20Pink%20Girl.png",
       "sha256": "0cc39aa5a9003595a9fe18235b15489e9370b751a9ca06f8db34ee4d29d1a3d1",
       "size": 8868,
       "contentType": "image/png",
@@ -1175,7 +1175,7 @@
     {
       "fileName": "Character Princess Girl.png",
       "path": "packs/lostgarden-planet-cute/sprites/Character Princess Girl.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Character%20Princess%20Girl.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Character%20Princess%20Girl.png",
       "sha256": "5db7d3f4db17088b7c7310a7e182258f154ade29b8d0312f6526eb0dab69ba00",
       "size": 9735,
       "contentType": "image/png",
@@ -1185,7 +1185,7 @@
     {
       "fileName": "Chest Closed.png",
       "path": "packs/lostgarden-planet-cute/sprites/Chest Closed.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Chest%20Closed.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Chest%20Closed.png",
       "sha256": "fb3454af86a1b20077684002a5436fee71c002311ad783ae6f877533b20c61b8",
       "size": 6861,
       "contentType": "image/png",
@@ -1195,7 +1195,7 @@
     {
       "fileName": "Chest Lid.png",
       "path": "packs/lostgarden-planet-cute/sprites/Chest Lid.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Chest%20Lid.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Chest%20Lid.png",
       "sha256": "1ad73fd709376d77de249114a109ca7d38865329dd202a4a37122ea4a4f0db39",
       "size": 3985,
       "contentType": "image/png",
@@ -1205,7 +1205,7 @@
     {
       "fileName": "Chest Open.png",
       "path": "packs/lostgarden-planet-cute/sprites/Chest Open.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Chest%20Open.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Chest%20Open.png",
       "sha256": "6753be0db69b999aff45f85644f43e40fcddd760689854d210dbb6584fdbc9ca",
       "size": 6717,
       "contentType": "image/png",
@@ -1215,7 +1215,7 @@
     {
       "fileName": "Dirt Block.png",
       "path": "packs/lostgarden-planet-cute/sprites/Dirt Block.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Dirt%20Block.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Dirt%20Block.png",
       "sha256": "733d8aa852e0629cc9fb0f29c18a552b30fbcf08c7320b0ff3061f1531707e9e",
       "size": 7914,
       "contentType": "image/png",
@@ -1225,7 +1225,7 @@
     {
       "fileName": "Door Tall Closed.png",
       "path": "packs/lostgarden-planet-cute/sprites/Door Tall Closed.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Door%20Tall%20Closed.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Door%20Tall%20Closed.png",
       "sha256": "ae36cb24ca8e3dfc4bf878f38df8b8ce000bf3b20981e964e48dee671beef6ca",
       "size": 10384,
       "contentType": "image/png",
@@ -1235,7 +1235,7 @@
     {
       "fileName": "Door Tall Open.png",
       "path": "packs/lostgarden-planet-cute/sprites/Door Tall Open.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Door%20Tall%20Open.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Door%20Tall%20Open.png",
       "sha256": "d2aa66616f6cbcf29c57c20e6ea2e31bbc62749960818d8854628d33a19819ff",
       "size": 4844,
       "contentType": "image/png",
@@ -1245,7 +1245,7 @@
     {
       "fileName": "Enemy Bug.png",
       "path": "packs/lostgarden-planet-cute/sprites/Enemy Bug.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Enemy%20Bug.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Enemy%20Bug.png",
       "sha256": "18924753bb3ab5965ea31c4a38aa30939964d7cacaff73116781d843636913a9",
       "size": 12635,
       "contentType": "image/png",
@@ -1255,7 +1255,7 @@
     {
       "fileName": "Gem Blue.png",
       "path": "packs/lostgarden-planet-cute/sprites/Gem Blue.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Gem%20Blue.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Gem%20Blue.png",
       "sha256": "4dfc522bc837617652d0a6cc57d18a753a82957b24e1f2739484050e3b09e052",
       "size": 20160,
       "contentType": "image/png",
@@ -1265,7 +1265,7 @@
     {
       "fileName": "Gem Green.png",
       "path": "packs/lostgarden-planet-cute/sprites/Gem Green.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Gem%20Green.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Gem%20Green.png",
       "sha256": "ecd7e69effba5c8b116950e20d94eb619fc8d53ae3202acb881a55b58614fdd2",
       "size": 24029,
       "contentType": "image/png",
@@ -1275,7 +1275,7 @@
     {
       "fileName": "Gem Orange.png",
       "path": "packs/lostgarden-planet-cute/sprites/Gem Orange.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Gem%20Orange.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Gem%20Orange.png",
       "sha256": "c9e61f293dc25bc943c31f65c876a6fecbfa8e5cc13534807e0df5f8108b6cbd",
       "size": 17342,
       "contentType": "image/png",
@@ -1285,7 +1285,7 @@
     {
       "fileName": "Grass Block.png",
       "path": "packs/lostgarden-planet-cute/sprites/Grass Block.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Grass%20Block.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Grass%20Block.png",
       "sha256": "9a8e82a2856d066ac4259aba1a24a31eaaac073bed80cda8a0a5081c93bb59ea",
       "size": 8587,
       "contentType": "image/png",
@@ -1295,7 +1295,7 @@
     {
       "fileName": "Heart.png",
       "path": "packs/lostgarden-planet-cute/sprites/Heart.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Heart.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Heart.png",
       "sha256": "a0df931d4ecc40e66aa8821944024d9f6b02d916e641b6bda48e368eb251f102",
       "size": 6419,
       "contentType": "image/png",
@@ -1305,7 +1305,7 @@
     {
       "fileName": "Key.png",
       "path": "packs/lostgarden-planet-cute/sprites/Key.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Key.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Key.png",
       "sha256": "b70c51811bf9a4ffc51b3349f8f7188cce40ed956c3454edc2a514905c0df2e5",
       "size": 7455,
       "contentType": "image/png",
@@ -1315,7 +1315,7 @@
     {
       "fileName": "Plain Block.png",
       "path": "packs/lostgarden-planet-cute/sprites/Plain Block.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Plain%20Block.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Plain%20Block.png",
       "sha256": "9ab40f8948a8a442ddba9282d50630f543ea27c300f644d13d26f1553f316d3a",
       "size": 1573,
       "contentType": "image/png",
@@ -1325,7 +1325,7 @@
     {
       "fileName": "Ramp East.png",
       "path": "packs/lostgarden-planet-cute/sprites/Ramp East.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Ramp%20East.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Ramp%20East.png",
       "sha256": "418e35f62e772427f750ff895dd9cbca74e4eb86bea19347f14543a848dc1f92",
       "size": 5398,
       "contentType": "image/png",
@@ -1335,7 +1335,7 @@
     {
       "fileName": "Ramp North.png",
       "path": "packs/lostgarden-planet-cute/sprites/Ramp North.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Ramp%20North.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Ramp%20North.png",
       "sha256": "cdffc18825b1ca03243c363a02543091a9b529fc86d99b62955fd832f75993c6",
       "size": 2981,
       "contentType": "image/png",
@@ -1345,7 +1345,7 @@
     {
       "fileName": "Ramp South.png",
       "path": "packs/lostgarden-planet-cute/sprites/Ramp South.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Ramp%20South.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Ramp%20South.png",
       "sha256": "3113f877069df67ce8e98d790b29d337f611ba6de5df2e2dea261574e12a9181",
       "size": 3761,
       "contentType": "image/png",
@@ -1355,7 +1355,7 @@
     {
       "fileName": "Ramp West.png",
       "path": "packs/lostgarden-planet-cute/sprites/Ramp West.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Ramp%20West.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Ramp%20West.png",
       "sha256": "ba46c06f4146648ee5fa0a34103f31458adaa83492e28caa1d762efd28eeffd9",
       "size": 6416,
       "contentType": "image/png",
@@ -1365,7 +1365,7 @@
     {
       "fileName": "Rock.png",
       "path": "packs/lostgarden-planet-cute/sprites/Rock.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Rock.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Rock.png",
       "sha256": "e36bae92bc23e5a4c2847f7608839efe5a4fd8713296375c842ad31b9bdfcd1e",
       "size": 9434,
       "contentType": "image/png",
@@ -1375,7 +1375,7 @@
     {
       "fileName": "Roof East.png",
       "path": "packs/lostgarden-planet-cute/sprites/Roof East.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Roof%20East.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Roof%20East.png",
       "sha256": "2afbd8f1d9abebce591401573130deae949fb4f5f5e6b5c832e31a36f9efeeab",
       "size": 18261,
       "contentType": "image/png",
@@ -1385,7 +1385,7 @@
     {
       "fileName": "Roof North East.png",
       "path": "packs/lostgarden-planet-cute/sprites/Roof North East.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Roof%20North%20East.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Roof%20North%20East.png",
       "sha256": "6bbbf2729fbfbb31e911f7b5cfa3f6342a7f7feb1327eca2283578b084958b02",
       "size": 14206,
       "contentType": "image/png",
@@ -1395,7 +1395,7 @@
     {
       "fileName": "Roof North West.png",
       "path": "packs/lostgarden-planet-cute/sprites/Roof North West.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Roof%20North%20West.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Roof%20North%20West.png",
       "sha256": "9d2da0ed5ad90828cd654397f0cf4404eb8aa3439c46befff7637e4d8ee81511",
       "size": 14646,
       "contentType": "image/png",
@@ -1405,7 +1405,7 @@
     {
       "fileName": "Roof North.png",
       "path": "packs/lostgarden-planet-cute/sprites/Roof North.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Roof%20North.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Roof%20North.png",
       "sha256": "ddc2f9c659b44ecef37cbe802405efa3eb56c0dbf69138889a4bd8de2db92e29",
       "size": 7040,
       "contentType": "image/png",
@@ -1415,7 +1415,7 @@
     {
       "fileName": "Roof South East.png",
       "path": "packs/lostgarden-planet-cute/sprites/Roof South East.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Roof%20South%20East.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Roof%20South%20East.png",
       "sha256": "5f51dc3123e0cd9a4b84def5a949094e4f05eb805361cf28660753bd8e49bf7b",
       "size": 20752,
       "contentType": "image/png",
@@ -1425,7 +1425,7 @@
     {
       "fileName": "Roof South West.png",
       "path": "packs/lostgarden-planet-cute/sprites/Roof South West.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Roof%20South%20West.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Roof%20South%20West.png",
       "sha256": "15840f8412878006ad61b1d6997cd8492c5d79685fb7c6252972c02992f26792",
       "size": 21125,
       "contentType": "image/png",
@@ -1435,7 +1435,7 @@
     {
       "fileName": "Roof South.png",
       "path": "packs/lostgarden-planet-cute/sprites/Roof South.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Roof%20South.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Roof%20South.png",
       "sha256": "6324cc992e9295ecc486729d79da95f6ac82cb324adaa8368e8c2cd124a829f0",
       "size": 12748,
       "contentType": "image/png",
@@ -1445,7 +1445,7 @@
     {
       "fileName": "Roof West.png",
       "path": "packs/lostgarden-planet-cute/sprites/Roof West.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Roof%20West.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Roof%20West.png",
       "sha256": "adc5f982034acc5d42d081b22695a02ef14493b16f1912600284ae42816d19b2",
       "size": 18282,
       "contentType": "image/png",
@@ -1455,7 +1455,7 @@
     {
       "fileName": "Selector.png",
       "path": "packs/lostgarden-planet-cute/sprites/Selector.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Selector.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Selector.png",
       "sha256": "e888dca0b9f3fdc44a42d500fe407c464c6afba3bc27aa6f79451ba19b318ae8",
       "size": 22430,
       "contentType": "image/png",
@@ -1465,7 +1465,7 @@
     {
       "fileName": "Shadow East.png",
       "path": "packs/lostgarden-planet-cute/sprites/Shadow East.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Shadow%20East.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Shadow%20East.png",
       "sha256": "2f41a99984493df4bfcf5e018467eb3939c048689a7e24aa684fcb0668c785d6",
       "size": 697,
       "contentType": "image/png",
@@ -1475,7 +1475,7 @@
     {
       "fileName": "Shadow North East.png",
       "path": "packs/lostgarden-planet-cute/sprites/Shadow North East.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Shadow%20North%20East.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Shadow%20North%20East.png",
       "sha256": "7e29549e4894e4061c49cbf297faf9ee56a285b336c4653be56fc77b2ab5b907",
       "size": 1832,
       "contentType": "image/png",
@@ -1485,7 +1485,7 @@
     {
       "fileName": "Shadow North West.png",
       "path": "packs/lostgarden-planet-cute/sprites/Shadow North West.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Shadow%20North%20West.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Shadow%20North%20West.png",
       "sha256": "6474df774bc09a6a88b3e7c5b3a5467a35702160a37c44bc2071e4cbca7e6f22",
       "size": 2224,
       "contentType": "image/png",
@@ -1495,7 +1495,7 @@
     {
       "fileName": "Shadow North.png",
       "path": "packs/lostgarden-planet-cute/sprites/Shadow North.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Shadow%20North.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Shadow%20North.png",
       "sha256": "527cd7c7f08f5e874e0aff15a951ebde928f8766d84204f52dbe687f16e73e96",
       "size": 1095,
       "contentType": "image/png",
@@ -1505,7 +1505,7 @@
     {
       "fileName": "Shadow Side West.png",
       "path": "packs/lostgarden-planet-cute/sprites/Shadow Side West.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Shadow%20Side%20West.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Shadow%20Side%20West.png",
       "sha256": "4cd4b7041ad01158a9db4822f08ba028f5dda13bdef152caa055b7e70aa546b4",
       "size": 823,
       "contentType": "image/png",
@@ -1515,7 +1515,7 @@
     {
       "fileName": "Shadow South East.png",
       "path": "packs/lostgarden-planet-cute/sprites/Shadow South East.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Shadow%20South%20East.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Shadow%20South%20East.png",
       "sha256": "69773bd65ada2533f4dad3f6ecf7b6ccf9570fba9c5645174180b1ae12548863",
       "size": 1718,
       "contentType": "image/png",
@@ -1525,7 +1525,7 @@
     {
       "fileName": "Shadow South West.png",
       "path": "packs/lostgarden-planet-cute/sprites/Shadow South West.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Shadow%20South%20West.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Shadow%20South%20West.png",
       "sha256": "5197e6f38ae9cadaef5269b7db68ea694c7013c7258746b6860be9be7b6bb0ca",
       "size": 2122,
       "contentType": "image/png",
@@ -1535,7 +1535,7 @@
     {
       "fileName": "Shadow South.png",
       "path": "packs/lostgarden-planet-cute/sprites/Shadow South.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Shadow%20South.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Shadow%20South.png",
       "sha256": "247d789adec579059f959a4bc5c8611a0f0a8ed38e31a2ab74aadd5b5ed6dcd1",
       "size": 634,
       "contentType": "image/png",
@@ -1545,7 +1545,7 @@
     {
       "fileName": "Shadow West.png",
       "path": "packs/lostgarden-planet-cute/sprites/Shadow West.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Shadow%20West.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Shadow%20West.png",
       "sha256": "5d01ae4ffd5a71d338992bd5842fd8cce4c93764d7f3102517083b2f57d6485d",
       "size": 968,
       "contentType": "image/png",
@@ -1555,7 +1555,7 @@
     {
       "fileName": "SpeechBubble.png",
       "path": "packs/lostgarden-planet-cute/sprites/SpeechBubble.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/SpeechBubble.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/SpeechBubble.png",
       "sha256": "8fb764c934aa5a4750849050ad58f1b9b271d3fe715340d2f6c421d994e9b141",
       "size": 2157,
       "contentType": "image/png",
@@ -1565,7 +1565,7 @@
     {
       "fileName": "Star.png",
       "path": "packs/lostgarden-planet-cute/sprites/Star.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Star.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Star.png",
       "sha256": "3b1c1c9de3f567cb533ba31aafc9a68642ba45d367012e9983f419e264fa29cd",
       "size": 13735,
       "contentType": "image/png",
@@ -1575,7 +1575,7 @@
     {
       "fileName": "Stone Block Tall.png",
       "path": "packs/lostgarden-planet-cute/sprites/Stone Block Tall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Stone%20Block%20Tall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Stone%20Block%20Tall.png",
       "sha256": "115394c65bf19c17b63a115a38b097b3f2cd999280d01de9f87d503a5eb83730",
       "size": 7504,
       "contentType": "image/png",
@@ -1585,7 +1585,7 @@
     {
       "fileName": "Stone Block.png",
       "path": "packs/lostgarden-planet-cute/sprites/Stone Block.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Stone%20Block.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Stone%20Block.png",
       "sha256": "17505d0c22c44abc4d3fc8f1989043eb3be413f5b2ea300be28347eae65a4fb5",
       "size": 6085,
       "contentType": "image/png",
@@ -1595,7 +1595,7 @@
     {
       "fileName": "Tree Short.png",
       "path": "packs/lostgarden-planet-cute/sprites/Tree Short.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Tree%20Short.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Tree%20Short.png",
       "sha256": "f81544b3780ea705b009c82998f2d345e49e284c0a02b431f34b0fa957961f57",
       "size": 17030,
       "contentType": "image/png",
@@ -1605,7 +1605,7 @@
     {
       "fileName": "Tree Tall.png",
       "path": "packs/lostgarden-planet-cute/sprites/Tree Tall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Tree%20Tall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Tree%20Tall.png",
       "sha256": "a5f30e0888080eb2d05541be28ff8f40b21c6cf5a4d1b34928805f202519daf3",
       "size": 21856,
       "contentType": "image/png",
@@ -1615,7 +1615,7 @@
     {
       "fileName": "Tree Ugly.png",
       "path": "packs/lostgarden-planet-cute/sprites/Tree Ugly.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Tree%20Ugly.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Tree%20Ugly.png",
       "sha256": "fd2b3ee6a64fb787adde7942573b32b3710ac8ace1eabee44d61f01d3fdf90a5",
       "size": 18993,
       "contentType": "image/png",
@@ -1625,7 +1625,7 @@
     {
       "fileName": "Wall Block Tall.png",
       "path": "packs/lostgarden-planet-cute/sprites/Wall Block Tall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Wall%20Block%20Tall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Wall%20Block%20Tall.png",
       "sha256": "3ebcc9454ac6b763e9aaa2a4fabfcc605ac323fc9fb04b79e76336a92043d700",
       "size": 8023,
       "contentType": "image/png",
@@ -1635,7 +1635,7 @@
     {
       "fileName": "Wall Block.png",
       "path": "packs/lostgarden-planet-cute/sprites/Wall Block.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Wall%20Block.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Wall%20Block.png",
       "sha256": "14ac3219b688c472109add90c561378b494d3945c14c99f0fee77d2e2e868f08",
       "size": 7138,
       "contentType": "image/png",
@@ -1645,7 +1645,7 @@
     {
       "fileName": "Water Block.png",
       "path": "packs/lostgarden-planet-cute/sprites/Water Block.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Water%20Block.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Water%20Block.png",
       "sha256": "be277b3d023b14c471acd77719a35b10ab93c3ea777f4d84f442b790ad86ebd8",
       "size": 9210,
       "contentType": "image/png",
@@ -1655,7 +1655,7 @@
     {
       "fileName": "Window Tall.png",
       "path": "packs/lostgarden-planet-cute/sprites/Window Tall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Window%20Tall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Window%20Tall.png",
       "sha256": "1b353a3d31e7001a12d912a3c1204b32f72c3e55c29dff4ab45dd579f51d5961",
       "size": 11733,
       "contentType": "image/png",
@@ -1665,7 +1665,7 @@
     {
       "fileName": "Wood Block.png",
       "path": "packs/lostgarden-planet-cute/sprites/Wood Block.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/lostgarden-planet-cute/sprites/Wood%20Block.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/lostgarden-planet-cute/sprites/Wood%20Block.png",
       "sha256": "1db538b744e57289a66334d56727315b4f5e782bc39068d101b9dbefd3833a64",
       "size": 4344,
       "contentType": "image/png",

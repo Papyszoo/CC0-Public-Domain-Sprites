@@ -6,7 +6,7 @@
   "website": "https://pixelfrog-assets.itch.io/pirate-bomb",
   "description": "2D pirate pixel art asset pack with animated Bomb Guy player, pirate enemies (Bald Pirate, Cucumber, Big Guy, Captain, Whale), interactive bombs, chests, doors, and wooden ship tile-sets by Pixel Frog.",
   "folder": "packs/pixelfrog-pirate-bomb",
-  "pinnedSha": "3af33dfa72868b34b0e38a8691d82fd773614339",
+  "pinnedSha": "fa6432a09ee34a7d146a3684afa9337d5b38259c",
   "itemCount": 106,
   "items": [
     {
@@ -1286,7 +1286,7 @@
     {
       "fileName": "Dead Ground (58x58).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb Guy/Dead Ground (58x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Dead%20Ground%20(58x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Dead%20Ground%20(58x58).png",
       "sha256": "c698f682bc46ad37f7f4d08f8c12873b6485038d1ebd3daa6c1b08843f689b5d",
       "size": 2078,
       "role": "Image"
@@ -1294,7 +1294,7 @@
     {
       "fileName": "Dead Hit (58x58).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb Guy/Dead Hit (58x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Dead%20Hit%20(58x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Dead%20Hit%20(58x58).png",
       "sha256": "78904bd3a318b95449ff777b14c77a810b6e22b6de7276dae2906a6819647c80",
       "size": 2008,
       "role": "Image"
@@ -1302,7 +1302,7 @@
     {
       "fileName": "Door In (58x58).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb Guy/Door In (58x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Door%20In%20(58x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Door%20In%20(58x58).png",
       "sha256": "a792d860f82b6d55b56100756e9b0a5885c06f038ac05106615fd070e5fd91a4",
       "size": 5626,
       "role": "Image"
@@ -1310,7 +1310,7 @@
     {
       "fileName": "Door Out (58x58).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb Guy/Door Out (58x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Door%20Out%20(58x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Door%20Out%20(58x58).png",
       "sha256": "bca342953f4d7bdddbc3bfe73a19a72c24d12165c9cb249112c16be86b8e6a3d",
       "size": 5663,
       "role": "Image"
@@ -1318,7 +1318,7 @@
     {
       "fileName": "Fall (58x58).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb Guy/Fall (58x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Fall%20(58x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Fall%20(58x58).png",
       "sha256": "48c2fee9fb2732b2a6968aa4ad52258e29a30d01d85e4d6d422768d6171cf5d4",
       "size": 1546,
       "role": "Image"
@@ -1326,7 +1326,7 @@
     {
       "fileName": "Ground (58x58).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb Guy/Ground (58x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Ground%20(58x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Ground%20(58x58).png",
       "sha256": "46b7c290e03dc38b96c5965061af46eee4fca81b5a418e58e4bde605d0dac8e3",
       "size": 1769,
       "role": "Image"
@@ -1334,7 +1334,7 @@
     {
       "fileName": "Hit (58x58).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb Guy/Hit (58x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Hit%20(58x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Hit%20(58x58).png",
       "sha256": "1e206e2ad68fb443a5c0d063c177f2e733daacaafbb9f1b62ce2d1ac7f71269b",
       "size": 2873,
       "role": "Image"
@@ -1342,7 +1342,7 @@
     {
       "fileName": "Idle (58x58).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb Guy/Idle (58x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Idle%20(58x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Idle%20(58x58).png",
       "sha256": "42866ca6bb09c1cca647e5ad03b0da666c579fd4d5c4313bc7f24c66c173f017",
       "size": 5157,
       "role": "Image"
@@ -1350,7 +1350,7 @@
     {
       "fileName": "Jump (58x58).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb Guy/Jump (58x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Jump%20(58x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Jump%20(58x58).png",
       "sha256": "61b9cb6af82b64282c91d57ae61d8797fabbed16a58bd0310f62b1ae08821110",
       "size": 2207,
       "role": "Image"
@@ -1358,7 +1358,7 @@
     {
       "fileName": "Jump Anticipation (58x58).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb Guy/Jump Anticipation (58x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Jump%20Anticipation%20(58x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Jump%20Anticipation%20(58x58).png",
       "sha256": "b93ec8ae75b7c081d0167acfc4ee552e5ddd1e2bc8645a59238049c198aed107",
       "size": 1212,
       "role": "Image"
@@ -1366,7 +1366,7 @@
     {
       "fileName": "Run (58x58).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb Guy/Run (58x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Run%20(58x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Run%20(58x58).png",
       "sha256": "514e00d23ed64925314336b0e020eacec078112bb03b71f1d5a68592a6f4eaf9",
       "size": 4651,
       "role": "Image"
@@ -1374,7 +1374,7 @@
     {
       "fileName": "Attack (63x67).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald Pirate/Attack (63x67).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Attack%20(63x67).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Attack%20(63x67).png",
       "sha256": "306b1f0c72bd580a7b6ba4bebfd7071a0cac4dbcca39160c6c794d854e8c630e",
       "size": 4609,
       "role": "Image"
@@ -1382,7 +1382,7 @@
     {
       "fileName": "Dead Ground (63x67).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald Pirate/Dead Ground (63x67).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Dead%20Ground%20(63x67).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Dead%20Ground%20(63x67).png",
       "sha256": "9ebc6638dbdfbd3c53f921230d3f1e7bf82746ee3289f9daec32e1e6e681df19",
       "size": 1665,
       "role": "Image"
@@ -1390,7 +1390,7 @@
     {
       "fileName": "Dead Hit (63x67).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald Pirate/Dead Hit (63x67).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Dead%20Hit%20(63x67).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Dead%20Hit%20(63x67).png",
       "sha256": "03ca61ee34bace8150802c85e829edd78a77b8ce6ef24f3a09f9028c8ef94147",
       "size": 2005,
       "role": "Image"
@@ -1398,7 +1398,7 @@
     {
       "fileName": "Fall (63x67).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald Pirate/Fall (63x67).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Fall%20(63x67).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Fall%20(63x67).png",
       "sha256": "47013ee143086cc3f06a3e86a4fa7096ffaee040e80ab7fe10f2e888fd8646d3",
       "size": 1747,
       "role": "Image"
@@ -1406,7 +1406,7 @@
     {
       "fileName": "Ground (63x67).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald Pirate/Ground (63x67).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Ground%20(63x67).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Ground%20(63x67).png",
       "sha256": "7c5aaf667c8ffce26a6f94194ada41f1376d137bf5318ad419903bbf74bcd105",
       "size": 1809,
       "role": "Image"
@@ -1414,7 +1414,7 @@
     {
       "fileName": "Hit (63x67).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald Pirate/Hit (63x67).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Hit%20(63x67).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Hit%20(63x67).png",
       "sha256": "7db7bda65b2071bfaadc4f9bff0202d54e0e18b773e3f6c9b3149baed27a86a8",
       "size": 2975,
       "role": "Image"
@@ -1422,7 +1422,7 @@
     {
       "fileName": "Idle (63x67).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald Pirate/Idle (63x67).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Idle%20(63x67).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Idle%20(63x67).png",
       "sha256": "3d97206190b86444e790097f35bf0454d3ba5cf85617be6dedc063898fa51da3",
       "size": 6110,
       "role": "Image"
@@ -1430,7 +1430,7 @@
     {
       "fileName": "Jump (63x67).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald Pirate/Jump (63x67).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Jump%20(63x67).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Jump%20(63x67).png",
       "sha256": "84a843477b7a2562015fb7bf00a4b84ae1d3bb2c4ba6d8a4540fea1d9abce52d",
       "size": 2300,
       "role": "Image"
@@ -1438,7 +1438,7 @@
     {
       "fileName": "Jump Anticipation (63x67).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald Pirate/Jump Anticipation (63x67).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Jump%20Anticipation%20(63x67).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Jump%20Anticipation%20(63x67).png",
       "sha256": "f8fb11635fecaa9e13904110e27b4c00c0c9b084e88e5db7a489c1e0949ec90f",
       "size": 1330,
       "role": "Image"
@@ -1446,7 +1446,7 @@
     {
       "fileName": "Run (63x67).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald Pirate/Run (63x67).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Run%20(63x67).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Run%20(63x67).png",
       "sha256": "5078a12582a3193e1eeabf0f34fd2a3bad6a1879f9cceabd694d22673fafc44a",
       "size": 4931,
       "role": "Image"
@@ -1454,7 +1454,7 @@
     {
       "fileName": "Attack (64x68).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Attack (64x68).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Attack%20(64x68).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Attack%20(64x68).png",
       "sha256": "2c1bd0ea680e028c47341f77967d721f892e8c1734e7da3d470dd48c740b6939",
       "size": 3597,
       "role": "Image"
@@ -1462,7 +1462,7 @@
     {
       "fileName": "Blow the wick (64x68).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Blow the wick (64x68).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Blow%20the%20wick%20(64x68).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Blow%20the%20wick%20(64x68).png",
       "sha256": "2a38e7c68d868fa8768a659ada53c04b3baab40187a9391a3c918e88a34a2285",
       "size": 3178,
       "role": "Image"
@@ -1470,7 +1470,7 @@
     {
       "fileName": "Dead Ground (64x68).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Dead Ground (64x68).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Dead%20Ground%20(64x68).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Dead%20Ground%20(64x68).png",
       "sha256": "6f3afef9f9b443e91ad520ef2bdf3001b84e72c4c57ec8c7932c9687e6805888",
       "size": 1721,
       "role": "Image"
@@ -1478,7 +1478,7 @@
     {
       "fileName": "Dead Hit (64x68).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Dead Hit (64x68).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Dead%20Hit%20(64x68).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Dead%20Hit%20(64x68).png",
       "sha256": "2cade38b196869bbb8463bcdcbd2dc756a2ea10249c4c6bada0c7ee61fe1598a",
       "size": 1634,
       "role": "Image"
@@ -1486,7 +1486,7 @@
     {
       "fileName": "Fall (64x68).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Fall (64x68).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Fall%20(64x68).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Fall%20(64x68).png",
       "sha256": "0051ba19ae33a63edc80748b6ddb23173e7de3dd78d20b769c48f12212a76675",
       "size": 1279,
       "role": "Image"
@@ -1494,7 +1494,7 @@
     {
       "fileName": "Ground (64x68).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Ground (64x68).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Ground%20(64x68).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Ground%20(64x68).png",
       "sha256": "7923165d01be1198b424a59d1d25977cfa066360f852a039c2c9b27f10740d95",
       "size": 1587,
       "role": "Image"
@@ -1502,7 +1502,7 @@
     {
       "fileName": "Hit (64x68).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Hit (64x68).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Hit%20(64x68).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Hit%20(64x68).png",
       "sha256": "20185ebbd08dabe082a34758164b6421cd553ef151637c525ac096c5bda54766",
       "size": 2428,
       "role": "Image"
@@ -1510,7 +1510,7 @@
     {
       "fileName": "Idle (64x68).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Idle (64x68).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Idle%20(64x68).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Idle%20(64x68).png",
       "sha256": "3faa3b9be0beb7c94707645819094af9927a55a1c86137fc5bcc4e7de0785e9f",
       "size": 5881,
       "role": "Image"
@@ -1518,7 +1518,7 @@
     {
       "fileName": "Jump (64x68).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Jump (64x68).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Jump%20(64x68).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Jump%20(64x68).png",
       "sha256": "fd838e0a021a1f760282a972bebb82f7f3845d2249d4a652b9be342640fbf776",
       "size": 1852,
       "role": "Image"
@@ -1526,7 +1526,7 @@
     {
       "fileName": "Jump Anticipation (64x68).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Jump Anticipation (64x68).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Jump%20Anticipation%20(64x68).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Jump%20Anticipation%20(64x68).png",
       "sha256": "33ef52c16ef64969f90e51312036079911b5988a6d7f42f68e51199fe0deb306",
       "size": 1023,
       "role": "Image"
@@ -1534,7 +1534,7 @@
     {
       "fileName": "Run (64x68).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Run (64x68).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Run%20(64x68).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Run%20(64x68).png",
       "sha256": "39cba3be4c37e781a6b15d78bcc0c8ee8ceede649d0f19a146b90b51db62fc82",
       "size": 3651,
       "role": "Image"
@@ -1542,7 +1542,7 @@
     {
       "fileName": "Attack (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Attack (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Attack%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Attack%20(77x74).png",
       "sha256": "ec73eb39995bc45e14cf9bc95f8761a3f74bfade72ce3b2cff63b57b8be7e7c4",
       "size": 5415,
       "role": "Image"
@@ -1550,7 +1550,7 @@
     {
       "fileName": "Dead Ground (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Dead Ground (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Dead%20Ground%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Dead%20Ground%20(77x74).png",
       "sha256": "3423f5d685cee3cc41bca964eaee3ba3a44e6bd690e1774e722b66d77f06b5a7",
       "size": 1875,
       "role": "Image"
@@ -1558,7 +1558,7 @@
     {
       "fileName": "Dead Hit (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Dead Hit (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Dead%20Hit%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Dead%20Hit%20(77x74).png",
       "sha256": "efb9eaa34adecf99263567197ab9e925b74eb298358dfdda67fcb75688383845",
       "size": 2232,
       "role": "Image"
@@ -1566,7 +1566,7 @@
     {
       "fileName": "Fall (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Fall (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Fall%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Fall%20(77x74).png",
       "sha256": "15ad4af5f2467fc47356ab13f2b317b33cfde12ffc5fb9b90a52ac7c8b6ad6e8",
       "size": 1993,
       "role": "Image"
@@ -1574,7 +1574,7 @@
     {
       "fileName": "Ground (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Ground (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Ground%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Ground%20(77x74).png",
       "sha256": "47a40757ab09d661a129275a46f833a2ea33489c84ba29ec36eb1e6dcb632306",
       "size": 2384,
       "role": "Image"
@@ -1582,7 +1582,7 @@
     {
       "fileName": "Hit (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Hit (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Hit%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Hit%20(77x74).png",
       "sha256": "dd00511ff7dde627616bf419fa6e1d49e297dbdd821fe315d679fff59f2d5c20",
       "size": 3757,
       "role": "Image"
@@ -1590,7 +1590,7 @@
     {
       "fileName": "Idle (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Idle (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Idle%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Idle%20(77x74).png",
       "sha256": "e383fed1eddbc2dc7784bc64c2b16bf0e5f4cbb73782a49b334419ccb3eda5fb",
       "size": 10439,
       "role": "Image"
@@ -1598,7 +1598,7 @@
     {
       "fileName": "Idle (Bomb) (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Idle (Bomb) (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Idle%20(Bomb)%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Idle%20(Bomb)%20(77x74).png",
       "sha256": "53dc370be3e2e795309531ab7c3a6c4c94a363597e7805be263c5e9b7d52af9d",
       "size": 1514,
       "role": "Image"
@@ -1606,7 +1606,7 @@
     {
       "fileName": "Jump (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Jump (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Jump%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Jump%20(77x74).png",
       "sha256": "da233c45a469f3e543003c8907a0c76c0d814c0c2e7abfa85028eddd8cb686b1",
       "size": 2590,
       "role": "Image"
@@ -1614,7 +1614,7 @@
     {
       "fileName": "Jump Anticipation (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Jump Anticipation (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Jump%20Anticipation%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Jump%20Anticipation%20(77x74).png",
       "sha256": "407da80905178d1fe84708b5a34f41adff99bcd90595f8fb542c1fa838c01b77",
       "size": 1491,
       "role": "Image"
@@ -1622,7 +1622,7 @@
     {
       "fileName": "Pick (Bomb) (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Pick (Bomb) (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Pick%20(Bomb)%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Pick%20(Bomb)%20(77x74).png",
       "sha256": "2c1103b2daef1e0ad6df468a501df83ec244f445f355d44d14d9f643ddc2a46c",
       "size": 3856,
       "role": "Image"
@@ -1630,7 +1630,7 @@
     {
       "fileName": "Run (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Run (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Run%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Run%20(77x74).png",
       "sha256": "7703b4d8b80c9b73f07afdb995b7f4a4b067fce21930556da9e763a1a2babd8b",
       "size": 6393,
       "role": "Image"
@@ -1638,7 +1638,7 @@
     {
       "fileName": "Run (Bomb) (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Run (Bomb) (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Run%20(Bomb)%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Run%20(Bomb)%20(77x74).png",
       "sha256": "7a17f7082e4b2fe2517786d401f5994cd499763a034ea544c53b1854e6f60a7b",
       "size": 6373,
       "role": "Image"
@@ -1646,7 +1646,7 @@
     {
       "fileName": "Throw (Bomb) (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Throw (Bomb) (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Throw%20(Bomb)%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Throw%20(Bomb)%20(77x74).png",
       "sha256": "0b8573e28423b3583630d32d23454c4275066c8532ae0a4ba222d046c4e52800",
       "size": 5275,
       "role": "Image"
@@ -1654,7 +1654,7 @@
     {
       "fileName": "Attack (80x72).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Attack (80x72).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Attack%20(80x72).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Attack%20(80x72).png",
       "sha256": "6b2f55a8edfbc7f248f9696db7f9c2d94506b4a6c9106a622b07daf569f8c3c3",
       "size": 4472,
       "role": "Image"
@@ -1662,7 +1662,7 @@
     {
       "fileName": "Dead Ground (80x72).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Dead Ground (80x72).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Dead%20Ground%20(80x72).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Dead%20Ground%20(80x72).png",
       "sha256": "0089976e1db3f9c81d810078d14ef613933b758b746ece7a37db491029d0a181",
       "size": 2040,
       "role": "Image"
@@ -1670,7 +1670,7 @@
     {
       "fileName": "Dead Hit (80x72).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Dead Hit (80x72).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Dead%20Hit%20(80x72).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Dead%20Hit%20(80x72).png",
       "sha256": "906cd5bf3081974444be8b11fae483a56171a907955f507e21069a563014264b",
       "size": 2582,
       "role": "Image"
@@ -1678,7 +1678,7 @@
     {
       "fileName": "Fall (80x72).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Fall (80x72).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Fall%20(80x72).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Fall%20(80x72).png",
       "sha256": "33b39c673d594adfe0bdc9c7b0cbf0bccaf161eba5b1ee5cf76744b312b015cf",
       "size": 1890,
       "role": "Image"
@@ -1686,7 +1686,7 @@
     {
       "fileName": "Ground (80x72).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Ground (80x72).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Ground%20(80x72).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Ground%20(80x72).png",
       "sha256": "ea463b294e781d3f5f71cadf8d4a04a8246ef65067ff48a187890dab5afc3675",
       "size": 2227,
       "role": "Image"
@@ -1694,7 +1694,7 @@
     {
       "fileName": "Hit (80x72).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Hit (80x72).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Hit%20(80x72).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Hit%20(80x72).png",
       "sha256": "761f9ebb7db6e73536f7caa2dd44a6cf98142f031e9674868f43b97cfe38629e",
       "size": 3642,
       "role": "Image"
@@ -1702,7 +1702,7 @@
     {
       "fileName": "Idle (80x72).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Idle (80x72).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Idle%20(80x72).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Idle%20(80x72).png",
       "sha256": "10996ed0b44ce6bf6c4e34d6638fa7c7696a22bf030484704b1ee43920030a82",
       "size": 8150,
       "role": "Image"
@@ -1710,7 +1710,7 @@
     {
       "fileName": "Jump (80x72).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Jump (80x72).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Jump%20(80x72).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Jump%20(80x72).png",
       "sha256": "0f8882890c887b59939066e8cc259c385a193e81148b2ef6173f05ca95924723",
       "size": 2606,
       "role": "Image"
@@ -1718,7 +1718,7 @@
     {
       "fileName": "Jump Anticipation (80x72).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Jump Anticipation (80x72).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Jump%20Anticipation%20(80x72).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Jump%20Anticipation%20(80x72).png",
       "sha256": "ccab296d26f16b96a6e3cacfa961363e7d25a665f0636d37aa39f043f66d60ec",
       "size": 1485,
       "role": "Image"
@@ -1726,7 +1726,7 @@
     {
       "fileName": "Run (80x72).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Run (80x72).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Run%20(80x72).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Run%20(80x72).png",
       "sha256": "52862e5e2aa13555e1c7182e23cb801c46d1ca1793df42ed592936e3499d732e",
       "size": 5811,
       "role": "Image"
@@ -1734,7 +1734,7 @@
     {
       "fileName": "Scare Run (80x72).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Scare Run (80x72).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Scare%20Run%20(80x72).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Scare%20Run%20(80x72).png",
       "sha256": "73557fcc7c1e11c7d1d343c616094ad10ead61720956a28eb3b792cf4a419f3b",
       "size": 4584,
       "role": "Image"
@@ -1742,7 +1742,7 @@
     {
       "fileName": "Attack (68x46).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Attack (68x46).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Attack%20(68x46).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Attack%20(68x46).png",
       "sha256": "428e3b2c7e56ef6446dcb3e1239666c8cb7be57a9224fbfa5103e3046ba4e3c8",
       "size": 4681,
       "role": "Image"
@@ -1750,7 +1750,7 @@
     {
       "fileName": "Dead Ground (68x46).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Dead Ground (68x46).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Dead%20Ground%20(68x46).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Dead%20Ground%20(68x46).png",
       "sha256": "a2baf7c3a927b482470fd87b2d07ede1d6b7cc237d4a824c460042e7cec29b48",
       "size": 1912,
       "role": "Image"
@@ -1758,7 +1758,7 @@
     {
       "fileName": "Dead Hit (68x46).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Dead Hit (68x46).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Dead%20Hit%20(68x46).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Dead%20Hit%20(68x46).png",
       "sha256": "3bab38d94c4ae233b0290cd0f98575836550cff263bd030ab504a333960e58b5",
       "size": 2120,
       "role": "Image"
@@ -1766,7 +1766,7 @@
     {
       "fileName": "Fall (68x46).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Fall (68x46).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Fall%20(68x46).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Fall%20(68x46).png",
       "sha256": "d498ee726a44dae04adedc8d25aae665dbf78c34cd76278c3aa9f5598200040c",
       "size": 1611,
       "role": "Image"
@@ -1774,7 +1774,7 @@
     {
       "fileName": "Ground (68x46).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Ground (68x46).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Ground%20(68x46).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Ground%20(68x46).png",
       "sha256": "102c6d4f90f79d739c8bb8e4f863d2f13bfe1e840c030eb543dfca9dee193c51",
       "size": 1781,
       "role": "Image"
@@ -1782,7 +1782,7 @@
     {
       "fileName": "Hit (68x46).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Hit (68x46).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Hit%20(68x46).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Hit%20(68x46).png",
       "sha256": "fe43947b04ec89ed6dbd33f149f1f80db14df0321d71d1aaa27a270529b224d7",
       "size": 2232,
       "role": "Image"
@@ -1790,7 +1790,7 @@
     {
       "fileName": "Idle (68x46).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Idle (68x46).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Idle%20(68x46).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Idle%20(68x46).png",
       "sha256": "41c98be29e8377a8584b5c52557c7cdc25bf4307fdc2e19d7448af56439eab45",
       "size": 7452,
       "role": "Image"
@@ -1798,7 +1798,7 @@
     {
       "fileName": "Jump (68x46).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Jump (68x46).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Jump%20(68x46).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Jump%20(68x46).png",
       "sha256": "9c32b71477928c97d1fc96d51b881c5594ede073400a1b395f27909c5de87a51",
       "size": 2049,
       "role": "Image"
@@ -1806,7 +1806,7 @@
     {
       "fileName": "Jump Anticipation (68x46).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Jump Anticipation (68x46).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Jump%20Anticipation%20(68x46).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Jump%20Anticipation%20(68x46).png",
       "sha256": "49fafe3501025e6a939d2eab0c6e1fb9901d538ab360dc6f42928d6f2ed8ed17",
       "size": 1211,
       "role": "Image"
@@ -1814,7 +1814,7 @@
     {
       "fileName": "Run (68x46).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Run (68x46).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Run%20(68x46).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Run%20(68x46).png",
       "sha256": "2a7d08de76757bd063f980ff5cc5f705f4b15335018947267f89b373b69b2714",
       "size": 3918,
       "role": "Image"
@@ -1822,7 +1822,7 @@
     {
       "fileName": "Swalow (Bomb) (68x46).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Swalow (Bomb) (68x46).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Swalow%20(Bomb)%20(68x46).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Swalow%20(Bomb)%20(68x46).png",
       "sha256": "0e84cd3f5affaa03787d526fc3ae89563049d9a3321bf8b177de5e8d4b75fd54",
       "size": 3974,
       "role": "Image"
@@ -1830,7 +1830,7 @@
     {
       "fileName": "BOMB - Bomb Off (96x108).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/BOMB - Bomb Off (96x108).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/BOMB%20-%20Bomb%20Off%20(96x108).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/BOMB%20-%20Bomb%20Off%20(96x108).png",
       "sha256": "5eb471eb0f06a682056995c97fee3e36ea5272ca174099be672e395f3afd43f3",
       "size": 583,
       "role": "Image"
@@ -1838,7 +1838,7 @@
     {
       "fileName": "BOMB - Bomb On (96x108).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/BOMB - Bomb On (96x108).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/BOMB%20-%20Bomb%20On%20(96x108).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/BOMB%20-%20Bomb%20On%20(96x108).png",
       "sha256": "f97ad1da1524d1e3455d5c78766a3fd48eab368a731da72ddd31ec7450e1345c",
       "size": 2621,
       "role": "Image"
@@ -1846,7 +1846,7 @@
     {
       "fileName": "BOMB - Explotion (96x108).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/BOMB - Explotion (96x108).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/BOMB%20-%20Explotion%20(96x108).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/BOMB%20-%20Explotion%20(96x108).png",
       "sha256": "7eead3b3ada7e8bc5cbc7f9473027faea59155c28264703292a9afc707bba75c",
       "size": 5246,
       "role": "Image"
@@ -1854,7 +1854,7 @@
     {
       "fileName": "Big Chain (9x100).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Big Chain (9x100).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Big%20Chain%20(9x100).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Big%20Chain%20(9x100).png",
       "sha256": "64071780b0c0b62e5772c13c66da0431aaa94c89cf51285a42781020b77805b6",
       "size": 1335,
       "role": "Image"
@@ -1862,7 +1862,7 @@
     {
       "fileName": "Bomb Bar - Charging Bar (39x9).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Bomb Bar - Charging Bar (39x9).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Bomb%20Bar%20-%20Charging%20Bar%20(39x9).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Bomb%20Bar%20-%20Charging%20Bar%20(39x9).png",
       "sha256": "9d156b869a9bee98c61391cc9f918eb066ec404d14d1feb83f2af015e5f28a0e",
       "size": 416,
       "role": "Image"
@@ -1870,7 +1870,7 @@
     {
       "fileName": "Bomb Bar - Closing (39x9).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Bomb Bar - Closing (39x9).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Bomb%20Bar%20-%20Closing%20(39x9).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Bomb%20Bar%20-%20Closing%20(39x9).png",
       "sha256": "a64a4bc1af85dea9d5a08be45b0469260a807537b8f1b4802e7b7b558cdc6ddb",
       "size": 192,
       "role": "Image"
@@ -1878,7 +1878,7 @@
     {
       "fileName": "Bomb Bar - Full (Intermitent) (39x9).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Bomb Bar - Full (Intermitent) (39x9).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Bomb%20Bar%20-%20Full%20(Intermitent)%20(39x9).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Bomb%20Bar%20-%20Full%20(Intermitent)%20(39x9).png",
       "sha256": "81eb0b38f252798d914caa902c69d120c17697e5f0553fed1e4ee606a19b5535",
       "size": 232,
       "role": "Image"
@@ -1886,7 +1886,7 @@
     {
       "fileName": "Candle (14x32).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Candle (14x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Candle%20(14x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Candle%20(14x32).png",
       "sha256": "875b3931a838a77ff2d6e9b9dd50ff6ba2cf35fd811921d234fc98d8e599106b",
       "size": 702,
       "role": "Image"
@@ -1894,7 +1894,7 @@
     {
       "fileName": "Candle Light (60x58).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Candle Light (60x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Candle%20Light%20(60x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Candle%20Light%20(60x58).png",
       "sha256": "741005c04790c99d828db578e484813f525775d6eb50aa21173ec5a2081d2203",
       "size": 2166,
       "role": "Image"
@@ -1902,7 +1902,7 @@
     {
       "fileName": "Door - Closed (78x96).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Door - Closed (78x96).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Door%20-%20Closed%20(78x96).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Door%20-%20Closed%20(78x96).png",
       "sha256": "7452819c69b39818ee48bd095af6561b2d3efba59ab36df3d02937c4ddb54720",
       "size": 1305,
       "role": "Image"
@@ -1910,7 +1910,7 @@
     {
       "fileName": "Door - Closing (78x96).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Door - Closing (78x96).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Door%20-%20Closing%20(78x96).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Door%20-%20Closing%20(78x96).png",
       "sha256": "169c406cd27512fb718c2a25680e63a10849de977d47bbcbc075571b0e397f2b",
       "size": 3009,
       "role": "Image"
@@ -1918,7 +1918,7 @@
     {
       "fileName": "Door - Opening (78x96).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Door - Opening (78x96).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Door%20-%20Opening%20(78x96).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Door%20-%20Opening%20(78x96).png",
       "sha256": "97854ae455e392d01ceb240d2d62079226c21fdd147b2b6995042c51ab04bfe5",
       "size": 2943,
       "role": "Image"
@@ -1926,7 +1926,7 @@
     {
       "fileName": "Enemy-Cannon - Attack (62x46).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Enemy-Cannon - Attack (62x46).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Enemy-Cannon%20-%20Attack%20(62x46).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Enemy-Cannon%20-%20Attack%20(62x46).png",
       "sha256": "0a8dbbab3792292b9e6b18969e3afeb6b3a2e0f622e06b24695572a28215163c",
       "size": 2955,
       "role": "Image"
@@ -1934,7 +1934,7 @@
     {
       "fileName": "Enemy-Cannon - Cannon Ball (30x30).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Enemy-Cannon - Cannon Ball (30x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Enemy-Cannon%20-%20Cannon%20Ball%20(30x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Enemy-Cannon%20-%20Cannon%20Ball%20(30x30).png",
       "sha256": "6cbf60234a5d3441cc2f8cc43a41affbe67526abec1d001866cb22a5491281ea",
       "size": 391,
       "role": "Image"
@@ -1942,7 +1942,7 @@
     {
       "fileName": "Enemy-Cannon - Idle (62x46).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Enemy-Cannon - Idle (62x46).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Enemy-Cannon%20-%20Idle%20(62x46).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Enemy-Cannon%20-%20Idle%20(62x46).png",
       "sha256": "b11b9b33b603a47eda6d16256535106bad1694ecbf3ccd4a35479799bc8b0d14",
       "size": 1009,
       "role": "Image"
@@ -1950,7 +1950,7 @@
     {
       "fileName": "Exclamation Dialog - Closing (20x22).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Exclamation Dialog - Closing (20x22).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Exclamation%20Dialog%20-%20Closing%20(20x22).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Exclamation%20Dialog%20-%20Closing%20(20x22).png",
       "sha256": "64a1d7d6a8c99f21659e4356015836e741bded584932affdaacc3c1044c66456",
       "size": 249,
       "role": "Image"
@@ -1958,7 +1958,7 @@
     {
       "fileName": "Exclamation Dialog - Opening (20x22).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Exclamation Dialog - Opening (20x22).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Exclamation%20Dialog%20-%20Opening%20(20x22).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Exclamation%20Dialog%20-%20Opening%20(20x22).png",
       "sha256": "c87974a66383bcf0669ae00ffb943659c3cde48ab6c03ad454616f35ac51a4a7",
       "size": 464,
       "role": "Image"
@@ -1966,7 +1966,7 @@
     {
       "fileName": "Fall Particles (80x10).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Fall Particles (80x10).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Fall%20Particles%20(80x10).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Fall%20Particles%20(80x10).png",
       "sha256": "6ef4edcd63d6fe9d5d4086efb03ea3f0561474e180a9106eb46a75d3912e35be",
       "size": 351,
       "role": "Image"
@@ -1974,7 +1974,7 @@
     {
       "fileName": "Health Bar - Heart.png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Health Bar - Heart.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Health%20Bar%20-%20Heart.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Health%20Bar%20-%20Heart.png",
       "sha256": "42890704134a271e167d4190ac46b7151bae32b8d9bd14744e9e37afdf26de61",
       "size": 372,
       "role": "Image"
@@ -1982,7 +1982,7 @@
     {
       "fileName": "Health Bar.png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Health Bar.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Health%20Bar.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Health%20Bar.png",
       "sha256": "170ffc04f5c5d3a09ae860fd58129b1a7a1b34962757edfb1093a0c8d9b04db3",
       "size": 1465,
       "role": "Image"
@@ -1990,7 +1990,7 @@
     {
       "fileName": "Heart - Idle (20x18).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Heart - Idle (20x18).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Heart%20-%20Idle%20(20x18).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Heart%20-%20Idle%20(20x18).png",
       "sha256": "f440388e3a09c1b370f4a3a29f617a94cd5ff6c53082ffda0ce8a2f502d56e9d",
       "size": 766,
       "role": "Image"
@@ -1998,7 +1998,7 @@
     {
       "fileName": "Heart - Live+1 (20x18).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Heart - Live+1 (20x18).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Heart%20-%20Live%2B1%20(20x18).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Heart%20-%20Live%2B1%20(20x18).png",
       "sha256": "92d0c32a3777aa2df595ce8e92f36ff9c6eb2a714c37e55df3f3871d1cfe67ec",
       "size": 306,
       "role": "Image"
@@ -2006,7 +2006,7 @@
     {
       "fileName": "Interrogation Dialog - Closing (20x22).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Interrogation Dialog - Closing (20x22).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Interrogation%20Dialog%20-%20Closing%20(20x22).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Interrogation%20Dialog%20-%20Closing%20(20x22).png",
       "sha256": "2e5afca72b4cae09e5192fbad0943ff0f928a6523bda2c9aab9ae09c6d5d1ccc",
       "size": 270,
       "role": "Image"
@@ -2014,7 +2014,7 @@
     {
       "fileName": "Interrogation Dialog - Opening (20x22).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Interrogation Dialog - Opening (20x22).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Interrogation%20Dialog%20-%20Opening%20(20x22).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Interrogation%20Dialog%20-%20Opening%20(20x22).png",
       "sha256": "87453ac609ca6743cdc3f5d35f8bf27327bf041f1dddd86fca19733e7bd6d498",
       "size": 473,
       "role": "Image"
@@ -2022,7 +2022,7 @@
     {
       "fileName": "Jump Particles (40x28).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Jump Particles (40x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Jump%20Particles%20(40x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Jump%20Particles%20(40x28).png",
       "sha256": "d9e9ad53d2c109eac6014a257c0cdaf4224d67fa64dcc9f1b3d7b6d79a994bbd",
       "size": 602,
       "role": "Image"
@@ -2030,7 +2030,7 @@
     {
       "fileName": "Other Objects - Barrel.png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other Objects - Barrel.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Barrel.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Barrel.png",
       "sha256": "c6004e69d87b4f06fd7721780478462ba9c3185ce1ad3b1ea2812dce55224aff",
       "size": 764,
       "role": "Image"
@@ -2038,7 +2038,7 @@
     {
       "fileName": "Other Objects - Blue Bottle.png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other Objects - Blue Bottle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Blue%20Bottle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Blue%20Bottle.png",
       "sha256": "2d3c218cf6aecab9879b2ff81635d0d1bd9932460df4ff0c48c0b2b52073fe6e",
       "size": 386,
       "role": "Image"
@@ -2046,7 +2046,7 @@
     {
       "fileName": "Other Objects - Chair.png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other Objects - Chair.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Chair.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Chair.png",
       "sha256": "0e9badc53c379bda04921bcf3df26ac80c9953a15842552910e5841fba9b3f18",
       "size": 529,
       "role": "Image"
@@ -2054,7 +2054,7 @@
     {
       "fileName": "Other Objects - Green Bottle.png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other Objects - Green Bottle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Green%20Bottle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Green%20Bottle.png",
       "sha256": "dba088d7c4da11e5d3cb00631895d89231bbea471e7aebd08ec3b063c1e43c01",
       "size": 370,
       "role": "Image"
@@ -2062,7 +2062,7 @@
     {
       "fileName": "Other Objects - Red Bottle.png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other Objects - Red Bottle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Red%20Bottle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Red%20Bottle.png",
       "sha256": "d4395c51fe6068b7194149082ab025bd8686bbeea640b7bbc94a13dc865b403b",
       "size": 436,
       "role": "Image"
@@ -2070,7 +2070,7 @@
     {
       "fileName": "Other Objects - Skull.png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other Objects - Skull.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Skull.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Skull.png",
       "sha256": "ade82663962871c82845cbf99efc1b2909171654371c66ab5b2dce600a961c2c",
       "size": 279,
       "role": "Image"
@@ -2078,7 +2078,7 @@
     {
       "fileName": "Other Objects - Table.png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other Objects - Table.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Table.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Table.png",
       "sha256": "2b7b7ff43823262ad570cf6171b7993250f8a60ffdf4efb3b69c2d08b38ed1d2",
       "size": 458,
       "role": "Image"
@@ -2086,7 +2086,7 @@
     {
       "fileName": "Other Objects - Windows.png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other Objects - Windows.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Windows.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Windows.png",
       "sha256": "e444bc5b51b781669715379f31932bf0d76b14ba80ed5fb22759c7c34469f1dd",
       "size": 1575,
       "role": "Image"
@@ -2094,7 +2094,7 @@
     {
       "fileName": "Run Particles (12x10).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Run Particles (12x10).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Run%20Particles%20(12x10).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Run%20Particles%20(12x10).png",
       "sha256": "279846b76c89b5321c36539d583ef71cb7c4d340b7a16715eeffbce11324cdae",
       "size": 232,
       "role": "Image"
@@ -2102,7 +2102,7 @@
     {
       "fileName": "Small Chain (9x52).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Small Chain (9x52).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Small%20Chain%20(9x52).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Small%20Chain%20(9x52).png",
       "sha256": "4a375e66f83fd33b8cb553e2cfcbe2d76164e4aa75acfb827cc4e4fa756e1cf6",
       "size": 812,
       "role": "Image"
@@ -2110,7 +2110,7 @@
     {
       "fileName": "Window Light (170x139).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Window Light (170x139).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Window%20Light%20(170x139).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Window%20Light%20(170x139).png",
       "sha256": "c2f4e20d3b740bb82c38dc91e1a90ad518c4c8e60d46acab6cdfa5d0b0322448",
       "size": 4968,
       "role": "Image"
@@ -2118,7 +2118,7 @@
     {
       "fileName": "Tile-Sets (64-64).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/8-Tile-Sets/Tile-Sets (64-64).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/8-Tile-Sets/Tile-Sets%20(64-64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/8-Tile-Sets/Tile-Sets%20(64-64).png",
       "sha256": "a97e21c30989debb80f61d17ac091cbf01ab5a1e505f882bec9ea8836f69330e",
       "size": 13367,
       "role": "Image"
@@ -2126,7 +2126,7 @@
     {
       "fileName": "Variations (64x16).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/8-Tile-Sets/Variations (64x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/8-Tile-Sets/Variations%20(64x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/8-Tile-Sets/Variations%20(64x16).png",
       "sha256": "10e32815eba51b5b85d5d5334fc076bd095c5d72e81146850846ad3651f3cf92",
       "size": 1235,
       "role": "Image"
@@ -2136,7 +2136,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/pixelfrog-pirate-bomb/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/cover.png",
       "sha256": "42866ca6bb09c1cca647e5ad03b0da666c579fd4d5c4313bc7f24c66c173f017",
       "size": 5157,
       "contentType": "image/png",
@@ -2145,7 +2145,7 @@
     {
       "fileName": "Dead Ground (58x58).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb Guy/Dead Ground (58x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Dead%20Ground%20(58x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Dead%20Ground%20(58x58).png",
       "sha256": "c698f682bc46ad37f7f4d08f8c12873b6485038d1ebd3daa6c1b08843f689b5d",
       "size": 2078,
       "contentType": "image/png",
@@ -2155,7 +2155,7 @@
     {
       "fileName": "Dead Hit (58x58).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb Guy/Dead Hit (58x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Dead%20Hit%20(58x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Dead%20Hit%20(58x58).png",
       "sha256": "78904bd3a318b95449ff777b14c77a810b6e22b6de7276dae2906a6819647c80",
       "size": 2008,
       "contentType": "image/png",
@@ -2165,7 +2165,7 @@
     {
       "fileName": "Door In (58x58).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb Guy/Door In (58x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Door%20In%20(58x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Door%20In%20(58x58).png",
       "sha256": "a792d860f82b6d55b56100756e9b0a5885c06f038ac05106615fd070e5fd91a4",
       "size": 5626,
       "contentType": "image/png",
@@ -2175,7 +2175,7 @@
     {
       "fileName": "Door Out (58x58).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb Guy/Door Out (58x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Door%20Out%20(58x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Door%20Out%20(58x58).png",
       "sha256": "bca342953f4d7bdddbc3bfe73a19a72c24d12165c9cb249112c16be86b8e6a3d",
       "size": 5663,
       "contentType": "image/png",
@@ -2185,7 +2185,7 @@
     {
       "fileName": "Fall (58x58).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb Guy/Fall (58x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Fall%20(58x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Fall%20(58x58).png",
       "sha256": "48c2fee9fb2732b2a6968aa4ad52258e29a30d01d85e4d6d422768d6171cf5d4",
       "size": 1546,
       "contentType": "image/png",
@@ -2195,7 +2195,7 @@
     {
       "fileName": "Ground (58x58).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb Guy/Ground (58x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Ground%20(58x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Ground%20(58x58).png",
       "sha256": "46b7c290e03dc38b96c5965061af46eee4fca81b5a418e58e4bde605d0dac8e3",
       "size": 1769,
       "contentType": "image/png",
@@ -2205,7 +2205,7 @@
     {
       "fileName": "Hit (58x58).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb Guy/Hit (58x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Hit%20(58x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Hit%20(58x58).png",
       "sha256": "1e206e2ad68fb443a5c0d063c177f2e733daacaafbb9f1b62ce2d1ac7f71269b",
       "size": 2873,
       "contentType": "image/png",
@@ -2215,7 +2215,7 @@
     {
       "fileName": "Idle (58x58).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb Guy/Idle (58x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Idle%20(58x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Idle%20(58x58).png",
       "sha256": "42866ca6bb09c1cca647e5ad03b0da666c579fd4d5c4313bc7f24c66c173f017",
       "size": 5157,
       "contentType": "image/png",
@@ -2225,7 +2225,7 @@
     {
       "fileName": "Jump (58x58).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb Guy/Jump (58x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Jump%20(58x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Jump%20(58x58).png",
       "sha256": "61b9cb6af82b64282c91d57ae61d8797fabbed16a58bd0310f62b1ae08821110",
       "size": 2207,
       "contentType": "image/png",
@@ -2235,7 +2235,7 @@
     {
       "fileName": "Jump Anticipation (58x58).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb Guy/Jump Anticipation (58x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Jump%20Anticipation%20(58x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Jump%20Anticipation%20(58x58).png",
       "sha256": "b93ec8ae75b7c081d0167acfc4ee552e5ddd1e2bc8645a59238049c198aed107",
       "size": 1212,
       "contentType": "image/png",
@@ -2245,7 +2245,7 @@
     {
       "fileName": "Run (58x58).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb Guy/Run (58x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Run%20(58x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/1-Player-Bomb%20Guy/Run%20(58x58).png",
       "sha256": "514e00d23ed64925314336b0e020eacec078112bb03b71f1d5a68592a6f4eaf9",
       "size": 4651,
       "contentType": "image/png",
@@ -2255,7 +2255,7 @@
     {
       "fileName": "Attack (63x67).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald Pirate/Attack (63x67).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Attack%20(63x67).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Attack%20(63x67).png",
       "sha256": "306b1f0c72bd580a7b6ba4bebfd7071a0cac4dbcca39160c6c794d854e8c630e",
       "size": 4609,
       "contentType": "image/png",
@@ -2265,7 +2265,7 @@
     {
       "fileName": "Dead Ground (63x67).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald Pirate/Dead Ground (63x67).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Dead%20Ground%20(63x67).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Dead%20Ground%20(63x67).png",
       "sha256": "9ebc6638dbdfbd3c53f921230d3f1e7bf82746ee3289f9daec32e1e6e681df19",
       "size": 1665,
       "contentType": "image/png",
@@ -2275,7 +2275,7 @@
     {
       "fileName": "Dead Hit (63x67).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald Pirate/Dead Hit (63x67).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Dead%20Hit%20(63x67).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Dead%20Hit%20(63x67).png",
       "sha256": "03ca61ee34bace8150802c85e829edd78a77b8ce6ef24f3a09f9028c8ef94147",
       "size": 2005,
       "contentType": "image/png",
@@ -2285,7 +2285,7 @@
     {
       "fileName": "Fall (63x67).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald Pirate/Fall (63x67).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Fall%20(63x67).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Fall%20(63x67).png",
       "sha256": "47013ee143086cc3f06a3e86a4fa7096ffaee040e80ab7fe10f2e888fd8646d3",
       "size": 1747,
       "contentType": "image/png",
@@ -2295,7 +2295,7 @@
     {
       "fileName": "Ground (63x67).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald Pirate/Ground (63x67).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Ground%20(63x67).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Ground%20(63x67).png",
       "sha256": "7c5aaf667c8ffce26a6f94194ada41f1376d137bf5318ad419903bbf74bcd105",
       "size": 1809,
       "contentType": "image/png",
@@ -2305,7 +2305,7 @@
     {
       "fileName": "Hit (63x67).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald Pirate/Hit (63x67).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Hit%20(63x67).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Hit%20(63x67).png",
       "sha256": "7db7bda65b2071bfaadc4f9bff0202d54e0e18b773e3f6c9b3149baed27a86a8",
       "size": 2975,
       "contentType": "image/png",
@@ -2315,7 +2315,7 @@
     {
       "fileName": "Idle (63x67).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald Pirate/Idle (63x67).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Idle%20(63x67).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Idle%20(63x67).png",
       "sha256": "3d97206190b86444e790097f35bf0454d3ba5cf85617be6dedc063898fa51da3",
       "size": 6110,
       "contentType": "image/png",
@@ -2325,7 +2325,7 @@
     {
       "fileName": "Jump (63x67).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald Pirate/Jump (63x67).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Jump%20(63x67).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Jump%20(63x67).png",
       "sha256": "84a843477b7a2562015fb7bf00a4b84ae1d3bb2c4ba6d8a4540fea1d9abce52d",
       "size": 2300,
       "contentType": "image/png",
@@ -2335,7 +2335,7 @@
     {
       "fileName": "Jump Anticipation (63x67).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald Pirate/Jump Anticipation (63x67).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Jump%20Anticipation%20(63x67).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Jump%20Anticipation%20(63x67).png",
       "sha256": "f8fb11635fecaa9e13904110e27b4c00c0c9b084e88e5db7a489c1e0949ec90f",
       "size": 1330,
       "contentType": "image/png",
@@ -2345,7 +2345,7 @@
     {
       "fileName": "Run (63x67).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald Pirate/Run (63x67).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Run%20(63x67).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/2-Enemy-Bald%20Pirate/Run%20(63x67).png",
       "sha256": "5078a12582a3193e1eeabf0f34fd2a3bad6a1879f9cceabd694d22673fafc44a",
       "size": 4931,
       "contentType": "image/png",
@@ -2355,7 +2355,7 @@
     {
       "fileName": "Attack (64x68).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Attack (64x68).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Attack%20(64x68).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Attack%20(64x68).png",
       "sha256": "2c1bd0ea680e028c47341f77967d721f892e8c1734e7da3d470dd48c740b6939",
       "size": 3597,
       "contentType": "image/png",
@@ -2365,7 +2365,7 @@
     {
       "fileName": "Blow the wick (64x68).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Blow the wick (64x68).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Blow%20the%20wick%20(64x68).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Blow%20the%20wick%20(64x68).png",
       "sha256": "2a38e7c68d868fa8768a659ada53c04b3baab40187a9391a3c918e88a34a2285",
       "size": 3178,
       "contentType": "image/png",
@@ -2375,7 +2375,7 @@
     {
       "fileName": "Dead Ground (64x68).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Dead Ground (64x68).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Dead%20Ground%20(64x68).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Dead%20Ground%20(64x68).png",
       "sha256": "6f3afef9f9b443e91ad520ef2bdf3001b84e72c4c57ec8c7932c9687e6805888",
       "size": 1721,
       "contentType": "image/png",
@@ -2385,7 +2385,7 @@
     {
       "fileName": "Dead Hit (64x68).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Dead Hit (64x68).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Dead%20Hit%20(64x68).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Dead%20Hit%20(64x68).png",
       "sha256": "2cade38b196869bbb8463bcdcbd2dc756a2ea10249c4c6bada0c7ee61fe1598a",
       "size": 1634,
       "contentType": "image/png",
@@ -2395,7 +2395,7 @@
     {
       "fileName": "Fall (64x68).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Fall (64x68).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Fall%20(64x68).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Fall%20(64x68).png",
       "sha256": "0051ba19ae33a63edc80748b6ddb23173e7de3dd78d20b769c48f12212a76675",
       "size": 1279,
       "contentType": "image/png",
@@ -2405,7 +2405,7 @@
     {
       "fileName": "Ground (64x68).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Ground (64x68).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Ground%20(64x68).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Ground%20(64x68).png",
       "sha256": "7923165d01be1198b424a59d1d25977cfa066360f852a039c2c9b27f10740d95",
       "size": 1587,
       "contentType": "image/png",
@@ -2415,7 +2415,7 @@
     {
       "fileName": "Hit (64x68).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Hit (64x68).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Hit%20(64x68).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Hit%20(64x68).png",
       "sha256": "20185ebbd08dabe082a34758164b6421cd553ef151637c525ac096c5bda54766",
       "size": 2428,
       "contentType": "image/png",
@@ -2425,7 +2425,7 @@
     {
       "fileName": "Idle (64x68).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Idle (64x68).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Idle%20(64x68).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Idle%20(64x68).png",
       "sha256": "3faa3b9be0beb7c94707645819094af9927a55a1c86137fc5bcc4e7de0785e9f",
       "size": 5881,
       "contentType": "image/png",
@@ -2435,7 +2435,7 @@
     {
       "fileName": "Jump (64x68).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Jump (64x68).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Jump%20(64x68).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Jump%20(64x68).png",
       "sha256": "fd838e0a021a1f760282a972bebb82f7f3845d2249d4a652b9be342640fbf776",
       "size": 1852,
       "contentType": "image/png",
@@ -2445,7 +2445,7 @@
     {
       "fileName": "Jump Anticipation (64x68).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Jump Anticipation (64x68).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Jump%20Anticipation%20(64x68).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Jump%20Anticipation%20(64x68).png",
       "sha256": "33ef52c16ef64969f90e51312036079911b5988a6d7f42f68e51199fe0deb306",
       "size": 1023,
       "contentType": "image/png",
@@ -2455,7 +2455,7 @@
     {
       "fileName": "Run (64x68).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Run (64x68).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Run%20(64x68).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/3-Enemy-Cucumber/Run%20(64x68).png",
       "sha256": "39cba3be4c37e781a6b15d78bcc0c8ee8ceede649d0f19a146b90b51db62fc82",
       "size": 3651,
       "contentType": "image/png",
@@ -2465,7 +2465,7 @@
     {
       "fileName": "Attack (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Attack (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Attack%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Attack%20(77x74).png",
       "sha256": "ec73eb39995bc45e14cf9bc95f8761a3f74bfade72ce3b2cff63b57b8be7e7c4",
       "size": 5415,
       "contentType": "image/png",
@@ -2475,7 +2475,7 @@
     {
       "fileName": "Dead Ground (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Dead Ground (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Dead%20Ground%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Dead%20Ground%20(77x74).png",
       "sha256": "3423f5d685cee3cc41bca964eaee3ba3a44e6bd690e1774e722b66d77f06b5a7",
       "size": 1875,
       "contentType": "image/png",
@@ -2485,7 +2485,7 @@
     {
       "fileName": "Dead Hit (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Dead Hit (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Dead%20Hit%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Dead%20Hit%20(77x74).png",
       "sha256": "efb9eaa34adecf99263567197ab9e925b74eb298358dfdda67fcb75688383845",
       "size": 2232,
       "contentType": "image/png",
@@ -2495,7 +2495,7 @@
     {
       "fileName": "Fall (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Fall (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Fall%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Fall%20(77x74).png",
       "sha256": "15ad4af5f2467fc47356ab13f2b317b33cfde12ffc5fb9b90a52ac7c8b6ad6e8",
       "size": 1993,
       "contentType": "image/png",
@@ -2505,7 +2505,7 @@
     {
       "fileName": "Ground (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Ground (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Ground%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Ground%20(77x74).png",
       "sha256": "47a40757ab09d661a129275a46f833a2ea33489c84ba29ec36eb1e6dcb632306",
       "size": 2384,
       "contentType": "image/png",
@@ -2515,7 +2515,7 @@
     {
       "fileName": "Hit (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Hit (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Hit%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Hit%20(77x74).png",
       "sha256": "dd00511ff7dde627616bf419fa6e1d49e297dbdd821fe315d679fff59f2d5c20",
       "size": 3757,
       "contentType": "image/png",
@@ -2525,7 +2525,7 @@
     {
       "fileName": "Idle (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Idle (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Idle%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Idle%20(77x74).png",
       "sha256": "e383fed1eddbc2dc7784bc64c2b16bf0e5f4cbb73782a49b334419ccb3eda5fb",
       "size": 10439,
       "contentType": "image/png",
@@ -2535,7 +2535,7 @@
     {
       "fileName": "Idle (Bomb) (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Idle (Bomb) (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Idle%20(Bomb)%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Idle%20(Bomb)%20(77x74).png",
       "sha256": "53dc370be3e2e795309531ab7c3a6c4c94a363597e7805be263c5e9b7d52af9d",
       "size": 1514,
       "contentType": "image/png",
@@ -2545,7 +2545,7 @@
     {
       "fileName": "Jump (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Jump (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Jump%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Jump%20(77x74).png",
       "sha256": "da233c45a469f3e543003c8907a0c76c0d814c0c2e7abfa85028eddd8cb686b1",
       "size": 2590,
       "contentType": "image/png",
@@ -2555,7 +2555,7 @@
     {
       "fileName": "Jump Anticipation (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Jump Anticipation (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Jump%20Anticipation%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Jump%20Anticipation%20(77x74).png",
       "sha256": "407da80905178d1fe84708b5a34f41adff99bcd90595f8fb542c1fa838c01b77",
       "size": 1491,
       "contentType": "image/png",
@@ -2565,7 +2565,7 @@
     {
       "fileName": "Pick (Bomb) (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Pick (Bomb) (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Pick%20(Bomb)%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Pick%20(Bomb)%20(77x74).png",
       "sha256": "2c1103b2daef1e0ad6df468a501df83ec244f445f355d44d14d9f643ddc2a46c",
       "size": 3856,
       "contentType": "image/png",
@@ -2575,7 +2575,7 @@
     {
       "fileName": "Run (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Run (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Run%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Run%20(77x74).png",
       "sha256": "7703b4d8b80c9b73f07afdb995b7f4a4b067fce21930556da9e763a1a2babd8b",
       "size": 6393,
       "contentType": "image/png",
@@ -2585,7 +2585,7 @@
     {
       "fileName": "Run (Bomb) (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Run (Bomb) (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Run%20(Bomb)%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Run%20(Bomb)%20(77x74).png",
       "sha256": "7a17f7082e4b2fe2517786d401f5994cd499763a034ea544c53b1854e6f60a7b",
       "size": 6373,
       "contentType": "image/png",
@@ -2595,7 +2595,7 @@
     {
       "fileName": "Throw (Bomb) (77x74).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big Guy/Throw (Bomb) (77x74).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Throw%20(Bomb)%20(77x74).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/4-Enemy-Big%20Guy/Throw%20(Bomb)%20(77x74).png",
       "sha256": "0b8573e28423b3583630d32d23454c4275066c8532ae0a4ba222d046c4e52800",
       "size": 5275,
       "contentType": "image/png",
@@ -2605,7 +2605,7 @@
     {
       "fileName": "Attack (80x72).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Attack (80x72).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Attack%20(80x72).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Attack%20(80x72).png",
       "sha256": "6b2f55a8edfbc7f248f9696db7f9c2d94506b4a6c9106a622b07daf569f8c3c3",
       "size": 4472,
       "contentType": "image/png",
@@ -2615,7 +2615,7 @@
     {
       "fileName": "Dead Ground (80x72).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Dead Ground (80x72).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Dead%20Ground%20(80x72).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Dead%20Ground%20(80x72).png",
       "sha256": "0089976e1db3f9c81d810078d14ef613933b758b746ece7a37db491029d0a181",
       "size": 2040,
       "contentType": "image/png",
@@ -2625,7 +2625,7 @@
     {
       "fileName": "Dead Hit (80x72).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Dead Hit (80x72).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Dead%20Hit%20(80x72).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Dead%20Hit%20(80x72).png",
       "sha256": "906cd5bf3081974444be8b11fae483a56171a907955f507e21069a563014264b",
       "size": 2582,
       "contentType": "image/png",
@@ -2635,7 +2635,7 @@
     {
       "fileName": "Fall (80x72).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Fall (80x72).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Fall%20(80x72).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Fall%20(80x72).png",
       "sha256": "33b39c673d594adfe0bdc9c7b0cbf0bccaf161eba5b1ee5cf76744b312b015cf",
       "size": 1890,
       "contentType": "image/png",
@@ -2645,7 +2645,7 @@
     {
       "fileName": "Ground (80x72).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Ground (80x72).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Ground%20(80x72).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Ground%20(80x72).png",
       "sha256": "ea463b294e781d3f5f71cadf8d4a04a8246ef65067ff48a187890dab5afc3675",
       "size": 2227,
       "contentType": "image/png",
@@ -2655,7 +2655,7 @@
     {
       "fileName": "Hit (80x72).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Hit (80x72).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Hit%20(80x72).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Hit%20(80x72).png",
       "sha256": "761f9ebb7db6e73536f7caa2dd44a6cf98142f031e9674868f43b97cfe38629e",
       "size": 3642,
       "contentType": "image/png",
@@ -2665,7 +2665,7 @@
     {
       "fileName": "Idle (80x72).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Idle (80x72).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Idle%20(80x72).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Idle%20(80x72).png",
       "sha256": "10996ed0b44ce6bf6c4e34d6638fa7c7696a22bf030484704b1ee43920030a82",
       "size": 8150,
       "contentType": "image/png",
@@ -2675,7 +2675,7 @@
     {
       "fileName": "Jump (80x72).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Jump (80x72).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Jump%20(80x72).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Jump%20(80x72).png",
       "sha256": "0f8882890c887b59939066e8cc259c385a193e81148b2ef6173f05ca95924723",
       "size": 2606,
       "contentType": "image/png",
@@ -2685,7 +2685,7 @@
     {
       "fileName": "Jump Anticipation (80x72).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Jump Anticipation (80x72).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Jump%20Anticipation%20(80x72).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Jump%20Anticipation%20(80x72).png",
       "sha256": "ccab296d26f16b96a6e3cacfa961363e7d25a665f0636d37aa39f043f66d60ec",
       "size": 1485,
       "contentType": "image/png",
@@ -2695,7 +2695,7 @@
     {
       "fileName": "Run (80x72).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Run (80x72).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Run%20(80x72).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Run%20(80x72).png",
       "sha256": "52862e5e2aa13555e1c7182e23cb801c46d1ca1793df42ed592936e3499d732e",
       "size": 5811,
       "contentType": "image/png",
@@ -2705,7 +2705,7 @@
     {
       "fileName": "Scare Run (80x72).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Scare Run (80x72).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Scare%20Run%20(80x72).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/5-Enemy-Captain/Scare%20Run%20(80x72).png",
       "sha256": "73557fcc7c1e11c7d1d343c616094ad10ead61720956a28eb3b792cf4a419f3b",
       "size": 4584,
       "contentType": "image/png",
@@ -2715,7 +2715,7 @@
     {
       "fileName": "Attack (68x46).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Attack (68x46).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Attack%20(68x46).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Attack%20(68x46).png",
       "sha256": "428e3b2c7e56ef6446dcb3e1239666c8cb7be57a9224fbfa5103e3046ba4e3c8",
       "size": 4681,
       "contentType": "image/png",
@@ -2725,7 +2725,7 @@
     {
       "fileName": "Dead Ground (68x46).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Dead Ground (68x46).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Dead%20Ground%20(68x46).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Dead%20Ground%20(68x46).png",
       "sha256": "a2baf7c3a927b482470fd87b2d07ede1d6b7cc237d4a824c460042e7cec29b48",
       "size": 1912,
       "contentType": "image/png",
@@ -2735,7 +2735,7 @@
     {
       "fileName": "Dead Hit (68x46).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Dead Hit (68x46).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Dead%20Hit%20(68x46).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Dead%20Hit%20(68x46).png",
       "sha256": "3bab38d94c4ae233b0290cd0f98575836550cff263bd030ab504a333960e58b5",
       "size": 2120,
       "contentType": "image/png",
@@ -2745,7 +2745,7 @@
     {
       "fileName": "Fall (68x46).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Fall (68x46).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Fall%20(68x46).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Fall%20(68x46).png",
       "sha256": "d498ee726a44dae04adedc8d25aae665dbf78c34cd76278c3aa9f5598200040c",
       "size": 1611,
       "contentType": "image/png",
@@ -2755,7 +2755,7 @@
     {
       "fileName": "Ground (68x46).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Ground (68x46).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Ground%20(68x46).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Ground%20(68x46).png",
       "sha256": "102c6d4f90f79d739c8bb8e4f863d2f13bfe1e840c030eb543dfca9dee193c51",
       "size": 1781,
       "contentType": "image/png",
@@ -2765,7 +2765,7 @@
     {
       "fileName": "Hit (68x46).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Hit (68x46).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Hit%20(68x46).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Hit%20(68x46).png",
       "sha256": "fe43947b04ec89ed6dbd33f149f1f80db14df0321d71d1aaa27a270529b224d7",
       "size": 2232,
       "contentType": "image/png",
@@ -2775,7 +2775,7 @@
     {
       "fileName": "Idle (68x46).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Idle (68x46).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Idle%20(68x46).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Idle%20(68x46).png",
       "sha256": "41c98be29e8377a8584b5c52557c7cdc25bf4307fdc2e19d7448af56439eab45",
       "size": 7452,
       "contentType": "image/png",
@@ -2785,7 +2785,7 @@
     {
       "fileName": "Jump (68x46).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Jump (68x46).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Jump%20(68x46).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Jump%20(68x46).png",
       "sha256": "9c32b71477928c97d1fc96d51b881c5594ede073400a1b395f27909c5de87a51",
       "size": 2049,
       "contentType": "image/png",
@@ -2795,7 +2795,7 @@
     {
       "fileName": "Jump Anticipation (68x46).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Jump Anticipation (68x46).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Jump%20Anticipation%20(68x46).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Jump%20Anticipation%20(68x46).png",
       "sha256": "49fafe3501025e6a939d2eab0c6e1fb9901d538ab360dc6f42928d6f2ed8ed17",
       "size": 1211,
       "contentType": "image/png",
@@ -2805,7 +2805,7 @@
     {
       "fileName": "Run (68x46).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Run (68x46).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Run%20(68x46).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Run%20(68x46).png",
       "sha256": "2a7d08de76757bd063f980ff5cc5f705f4b15335018947267f89b373b69b2714",
       "size": 3918,
       "contentType": "image/png",
@@ -2815,7 +2815,7 @@
     {
       "fileName": "Swalow (Bomb) (68x46).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Swalow (Bomb) (68x46).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Swalow%20(Bomb)%20(68x46).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/6-Enemy-Whale/Swalow%20(Bomb)%20(68x46).png",
       "sha256": "0e84cd3f5affaa03787d526fc3ae89563049d9a3321bf8b177de5e8d4b75fd54",
       "size": 3974,
       "contentType": "image/png",
@@ -2825,7 +2825,7 @@
     {
       "fileName": "BOMB - Bomb Off (96x108).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/BOMB - Bomb Off (96x108).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/BOMB%20-%20Bomb%20Off%20(96x108).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/BOMB%20-%20Bomb%20Off%20(96x108).png",
       "sha256": "5eb471eb0f06a682056995c97fee3e36ea5272ca174099be672e395f3afd43f3",
       "size": 583,
       "contentType": "image/png",
@@ -2835,7 +2835,7 @@
     {
       "fileName": "BOMB - Bomb On (96x108).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/BOMB - Bomb On (96x108).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/BOMB%20-%20Bomb%20On%20(96x108).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/BOMB%20-%20Bomb%20On%20(96x108).png",
       "sha256": "f97ad1da1524d1e3455d5c78766a3fd48eab368a731da72ddd31ec7450e1345c",
       "size": 2621,
       "contentType": "image/png",
@@ -2845,7 +2845,7 @@
     {
       "fileName": "BOMB - Explotion (96x108).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/BOMB - Explotion (96x108).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/BOMB%20-%20Explotion%20(96x108).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/BOMB%20-%20Explotion%20(96x108).png",
       "sha256": "7eead3b3ada7e8bc5cbc7f9473027faea59155c28264703292a9afc707bba75c",
       "size": 5246,
       "contentType": "image/png",
@@ -2855,7 +2855,7 @@
     {
       "fileName": "Big Chain (9x100).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Big Chain (9x100).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Big%20Chain%20(9x100).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Big%20Chain%20(9x100).png",
       "sha256": "64071780b0c0b62e5772c13c66da0431aaa94c89cf51285a42781020b77805b6",
       "size": 1335,
       "contentType": "image/png",
@@ -2865,7 +2865,7 @@
     {
       "fileName": "Bomb Bar - Charging Bar (39x9).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Bomb Bar - Charging Bar (39x9).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Bomb%20Bar%20-%20Charging%20Bar%20(39x9).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Bomb%20Bar%20-%20Charging%20Bar%20(39x9).png",
       "sha256": "9d156b869a9bee98c61391cc9f918eb066ec404d14d1feb83f2af015e5f28a0e",
       "size": 416,
       "contentType": "image/png",
@@ -2875,7 +2875,7 @@
     {
       "fileName": "Bomb Bar - Closing (39x9).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Bomb Bar - Closing (39x9).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Bomb%20Bar%20-%20Closing%20(39x9).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Bomb%20Bar%20-%20Closing%20(39x9).png",
       "sha256": "a64a4bc1af85dea9d5a08be45b0469260a807537b8f1b4802e7b7b558cdc6ddb",
       "size": 192,
       "contentType": "image/png",
@@ -2885,7 +2885,7 @@
     {
       "fileName": "Bomb Bar - Full (Intermitent) (39x9).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Bomb Bar - Full (Intermitent) (39x9).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Bomb%20Bar%20-%20Full%20(Intermitent)%20(39x9).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Bomb%20Bar%20-%20Full%20(Intermitent)%20(39x9).png",
       "sha256": "81eb0b38f252798d914caa902c69d120c17697e5f0553fed1e4ee606a19b5535",
       "size": 232,
       "contentType": "image/png",
@@ -2895,7 +2895,7 @@
     {
       "fileName": "Candle (14x32).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Candle (14x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Candle%20(14x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Candle%20(14x32).png",
       "sha256": "875b3931a838a77ff2d6e9b9dd50ff6ba2cf35fd811921d234fc98d8e599106b",
       "size": 702,
       "contentType": "image/png",
@@ -2905,7 +2905,7 @@
     {
       "fileName": "Candle Light (60x58).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Candle Light (60x58).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Candle%20Light%20(60x58).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Candle%20Light%20(60x58).png",
       "sha256": "741005c04790c99d828db578e484813f525775d6eb50aa21173ec5a2081d2203",
       "size": 2166,
       "contentType": "image/png",
@@ -2915,7 +2915,7 @@
     {
       "fileName": "Door - Closed (78x96).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Door - Closed (78x96).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Door%20-%20Closed%20(78x96).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Door%20-%20Closed%20(78x96).png",
       "sha256": "7452819c69b39818ee48bd095af6561b2d3efba59ab36df3d02937c4ddb54720",
       "size": 1305,
       "contentType": "image/png",
@@ -2925,7 +2925,7 @@
     {
       "fileName": "Door - Closing (78x96).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Door - Closing (78x96).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Door%20-%20Closing%20(78x96).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Door%20-%20Closing%20(78x96).png",
       "sha256": "169c406cd27512fb718c2a25680e63a10849de977d47bbcbc075571b0e397f2b",
       "size": 3009,
       "contentType": "image/png",
@@ -2935,7 +2935,7 @@
     {
       "fileName": "Door - Opening (78x96).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Door - Opening (78x96).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Door%20-%20Opening%20(78x96).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Door%20-%20Opening%20(78x96).png",
       "sha256": "97854ae455e392d01ceb240d2d62079226c21fdd147b2b6995042c51ab04bfe5",
       "size": 2943,
       "contentType": "image/png",
@@ -2945,7 +2945,7 @@
     {
       "fileName": "Enemy-Cannon - Attack (62x46).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Enemy-Cannon - Attack (62x46).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Enemy-Cannon%20-%20Attack%20(62x46).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Enemy-Cannon%20-%20Attack%20(62x46).png",
       "sha256": "0a8dbbab3792292b9e6b18969e3afeb6b3a2e0f622e06b24695572a28215163c",
       "size": 2955,
       "contentType": "image/png",
@@ -2955,7 +2955,7 @@
     {
       "fileName": "Enemy-Cannon - Cannon Ball (30x30).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Enemy-Cannon - Cannon Ball (30x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Enemy-Cannon%20-%20Cannon%20Ball%20(30x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Enemy-Cannon%20-%20Cannon%20Ball%20(30x30).png",
       "sha256": "6cbf60234a5d3441cc2f8cc43a41affbe67526abec1d001866cb22a5491281ea",
       "size": 391,
       "contentType": "image/png",
@@ -2965,7 +2965,7 @@
     {
       "fileName": "Enemy-Cannon - Idle (62x46).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Enemy-Cannon - Idle (62x46).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Enemy-Cannon%20-%20Idle%20(62x46).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Enemy-Cannon%20-%20Idle%20(62x46).png",
       "sha256": "b11b9b33b603a47eda6d16256535106bad1694ecbf3ccd4a35479799bc8b0d14",
       "size": 1009,
       "contentType": "image/png",
@@ -2975,7 +2975,7 @@
     {
       "fileName": "Exclamation Dialog - Closing (20x22).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Exclamation Dialog - Closing (20x22).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Exclamation%20Dialog%20-%20Closing%20(20x22).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Exclamation%20Dialog%20-%20Closing%20(20x22).png",
       "sha256": "64a1d7d6a8c99f21659e4356015836e741bded584932affdaacc3c1044c66456",
       "size": 249,
       "contentType": "image/png",
@@ -2985,7 +2985,7 @@
     {
       "fileName": "Exclamation Dialog - Opening (20x22).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Exclamation Dialog - Opening (20x22).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Exclamation%20Dialog%20-%20Opening%20(20x22).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Exclamation%20Dialog%20-%20Opening%20(20x22).png",
       "sha256": "c87974a66383bcf0669ae00ffb943659c3cde48ab6c03ad454616f35ac51a4a7",
       "size": 464,
       "contentType": "image/png",
@@ -2995,7 +2995,7 @@
     {
       "fileName": "Fall Particles (80x10).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Fall Particles (80x10).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Fall%20Particles%20(80x10).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Fall%20Particles%20(80x10).png",
       "sha256": "6ef4edcd63d6fe9d5d4086efb03ea3f0561474e180a9106eb46a75d3912e35be",
       "size": 351,
       "contentType": "image/png",
@@ -3005,7 +3005,7 @@
     {
       "fileName": "Health Bar - Heart.png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Health Bar - Heart.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Health%20Bar%20-%20Heart.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Health%20Bar%20-%20Heart.png",
       "sha256": "42890704134a271e167d4190ac46b7151bae32b8d9bd14744e9e37afdf26de61",
       "size": 372,
       "contentType": "image/png",
@@ -3015,7 +3015,7 @@
     {
       "fileName": "Health Bar.png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Health Bar.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Health%20Bar.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Health%20Bar.png",
       "sha256": "170ffc04f5c5d3a09ae860fd58129b1a7a1b34962757edfb1093a0c8d9b04db3",
       "size": 1465,
       "contentType": "image/png",
@@ -3025,7 +3025,7 @@
     {
       "fileName": "Heart - Idle (20x18).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Heart - Idle (20x18).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Heart%20-%20Idle%20(20x18).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Heart%20-%20Idle%20(20x18).png",
       "sha256": "f440388e3a09c1b370f4a3a29f617a94cd5ff6c53082ffda0ce8a2f502d56e9d",
       "size": 766,
       "contentType": "image/png",
@@ -3035,7 +3035,7 @@
     {
       "fileName": "Heart - Live+1 (20x18).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Heart - Live+1 (20x18).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Heart%20-%20Live%2B1%20(20x18).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Heart%20-%20Live%2B1%20(20x18).png",
       "sha256": "92d0c32a3777aa2df595ce8e92f36ff9c6eb2a714c37e55df3f3871d1cfe67ec",
       "size": 306,
       "contentType": "image/png",
@@ -3045,7 +3045,7 @@
     {
       "fileName": "Interrogation Dialog - Closing (20x22).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Interrogation Dialog - Closing (20x22).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Interrogation%20Dialog%20-%20Closing%20(20x22).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Interrogation%20Dialog%20-%20Closing%20(20x22).png",
       "sha256": "2e5afca72b4cae09e5192fbad0943ff0f928a6523bda2c9aab9ae09c6d5d1ccc",
       "size": 270,
       "contentType": "image/png",
@@ -3055,7 +3055,7 @@
     {
       "fileName": "Interrogation Dialog - Opening (20x22).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Interrogation Dialog - Opening (20x22).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Interrogation%20Dialog%20-%20Opening%20(20x22).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Interrogation%20Dialog%20-%20Opening%20(20x22).png",
       "sha256": "87453ac609ca6743cdc3f5d35f8bf27327bf041f1dddd86fca19733e7bd6d498",
       "size": 473,
       "contentType": "image/png",
@@ -3065,7 +3065,7 @@
     {
       "fileName": "Jump Particles (40x28).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Jump Particles (40x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Jump%20Particles%20(40x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Jump%20Particles%20(40x28).png",
       "sha256": "d9e9ad53d2c109eac6014a257c0cdaf4224d67fa64dcc9f1b3d7b6d79a994bbd",
       "size": 602,
       "contentType": "image/png",
@@ -3075,7 +3075,7 @@
     {
       "fileName": "Other Objects - Barrel.png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other Objects - Barrel.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Barrel.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Barrel.png",
       "sha256": "c6004e69d87b4f06fd7721780478462ba9c3185ce1ad3b1ea2812dce55224aff",
       "size": 764,
       "contentType": "image/png",
@@ -3085,7 +3085,7 @@
     {
       "fileName": "Other Objects - Blue Bottle.png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other Objects - Blue Bottle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Blue%20Bottle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Blue%20Bottle.png",
       "sha256": "2d3c218cf6aecab9879b2ff81635d0d1bd9932460df4ff0c48c0b2b52073fe6e",
       "size": 386,
       "contentType": "image/png",
@@ -3095,7 +3095,7 @@
     {
       "fileName": "Other Objects - Chair.png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other Objects - Chair.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Chair.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Chair.png",
       "sha256": "0e9badc53c379bda04921bcf3df26ac80c9953a15842552910e5841fba9b3f18",
       "size": 529,
       "contentType": "image/png",
@@ -3105,7 +3105,7 @@
     {
       "fileName": "Other Objects - Green Bottle.png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other Objects - Green Bottle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Green%20Bottle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Green%20Bottle.png",
       "sha256": "dba088d7c4da11e5d3cb00631895d89231bbea471e7aebd08ec3b063c1e43c01",
       "size": 370,
       "contentType": "image/png",
@@ -3115,7 +3115,7 @@
     {
       "fileName": "Other Objects - Red Bottle.png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other Objects - Red Bottle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Red%20Bottle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Red%20Bottle.png",
       "sha256": "d4395c51fe6068b7194149082ab025bd8686bbeea640b7bbc94a13dc865b403b",
       "size": 436,
       "contentType": "image/png",
@@ -3125,7 +3125,7 @@
     {
       "fileName": "Other Objects - Skull.png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other Objects - Skull.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Skull.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Skull.png",
       "sha256": "ade82663962871c82845cbf99efc1b2909171654371c66ab5b2dce600a961c2c",
       "size": 279,
       "contentType": "image/png",
@@ -3135,7 +3135,7 @@
     {
       "fileName": "Other Objects - Table.png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other Objects - Table.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Table.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Table.png",
       "sha256": "2b7b7ff43823262ad570cf6171b7993250f8a60ffdf4efb3b69c2d08b38ed1d2",
       "size": 458,
       "contentType": "image/png",
@@ -3145,7 +3145,7 @@
     {
       "fileName": "Other Objects - Windows.png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other Objects - Windows.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Windows.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Other%20Objects%20-%20Windows.png",
       "sha256": "e444bc5b51b781669715379f31932bf0d76b14ba80ed5fb22759c7c34469f1dd",
       "size": 1575,
       "contentType": "image/png",
@@ -3155,7 +3155,7 @@
     {
       "fileName": "Run Particles (12x10).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Run Particles (12x10).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Run%20Particles%20(12x10).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Run%20Particles%20(12x10).png",
       "sha256": "279846b76c89b5321c36539d583ef71cb7c4d340b7a16715eeffbce11324cdae",
       "size": 232,
       "contentType": "image/png",
@@ -3165,7 +3165,7 @@
     {
       "fileName": "Small Chain (9x52).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Small Chain (9x52).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Small%20Chain%20(9x52).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Small%20Chain%20(9x52).png",
       "sha256": "4a375e66f83fd33b8cb553e2cfcbe2d76164e4aa75acfb827cc4e4fa756e1cf6",
       "size": 812,
       "contentType": "image/png",
@@ -3175,7 +3175,7 @@
     {
       "fileName": "Window Light (170x139).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/7-Objects/Window Light (170x139).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Window%20Light%20(170x139).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/7-Objects/Window%20Light%20(170x139).png",
       "sha256": "c2f4e20d3b740bb82c38dc91e1a90ad518c4c8e60d46acab6cdfa5d0b0322448",
       "size": 4968,
       "contentType": "image/png",
@@ -3185,7 +3185,7 @@
     {
       "fileName": "Tile-Sets (64-64).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/8-Tile-Sets/Tile-Sets (64-64).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/8-Tile-Sets/Tile-Sets%20(64-64).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/8-Tile-Sets/Tile-Sets%20(64-64).png",
       "sha256": "a97e21c30989debb80f61d17ac091cbf01ab5a1e505f882bec9ea8836f69330e",
       "size": 13367,
       "contentType": "image/png",
@@ -3195,7 +3195,7 @@
     {
       "fileName": "Variations (64x16).png",
       "path": "packs/pixelfrog-pirate-bomb/sprites/8-Tile-Sets/Variations (64x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pirate-bomb/sprites/8-Tile-Sets/Variations%20(64x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pirate-bomb/sprites/8-Tile-Sets/Variations%20(64x16).png",
       "sha256": "10e32815eba51b5b85d5d5334fc076bd095c5d72e81146850846ad3651f3cf92",
       "size": 1235,
       "contentType": "image/png",

@@ -6,7 +6,7 @@
   "website": "https://pixelfrog-assets.itch.io/pixel-adventure-2",
   "description": "20 unique animated 2D enemy characters (Angry Pig, Bat, Bee, Blue Bird, Bunny, Chameleon, Duck, Fat Bird, Ghost, Mushroom, Plant, Radish, Rhino, Rocks, Skull, Slime, Snail, Spiked Ball, Trunk, Turtle) with idle, run, hit, and attack sprite strips by Pixel Frog.",
   "folder": "packs/pixelfrog-pixel-adventure-2",
-  "pinnedSha": "3af33dfa72868b34b0e38a8691d82fd773614339",
+  "pinnedSha": "fa6432a09ee34a7d146a3684afa9337d5b38259c",
   "itemCount": 97,
   "items": [
     {
@@ -1178,7 +1178,7 @@
     {
       "fileName": "Hit 1 (36x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Hit 1 (36x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Hit%201%20(36x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Hit%201%20(36x30).png",
       "sha256": "5e8987a545000678d14146a1a407a89881443c373072a3a2106f8b8bd9164439",
       "size": 1493,
       "role": "Image"
@@ -1186,7 +1186,7 @@
     {
       "fileName": "Hit 2 (36x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Hit 2 (36x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Hit%202%20(36x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Hit%202%20(36x30).png",
       "sha256": "bf8fbe48bc4b490ac599596095d38ca4fb90a72481aa5139ec53d8ce0d0106d2",
       "size": 1411,
       "role": "Image"
@@ -1194,7 +1194,7 @@
     {
       "fileName": "Idle (36x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Idle (36x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Idle%20(36x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Idle%20(36x30).png",
       "sha256": "c5dca4b22a0984ffa8423e959a8289a7781f8a801f550ffbf910b3330235f316",
       "size": 1675,
       "role": "Image"
@@ -1202,7 +1202,7 @@
     {
       "fileName": "Run (36x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Run (36x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Run%20(36x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Run%20(36x30).png",
       "sha256": "adb327a811eac0b7d90b6322a8c5f583c9df7502311b3ac6eb8088c2d44ae4b3",
       "size": 2244,
       "role": "Image"
@@ -1210,7 +1210,7 @@
     {
       "fileName": "Walk (36x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Walk (36x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Walk%20(36x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Walk%20(36x30).png",
       "sha256": "13c9a389b8c3642bde23b065f39a929c053ebdeb1179cc88c19f5cd7e6b846c0",
       "size": 2554,
       "role": "Image"
@@ -1218,7 +1218,7 @@
     {
       "fileName": "Ceiling In (46x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Ceiling In (46x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Ceiling%20In%20(46x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Ceiling%20In%20(46x30).png",
       "sha256": "92219d0fbe1766f17b7c8d01c4b68e0d51d3a9002d232b1a88d9497a4e728d79",
       "size": 1699,
       "role": "Image"
@@ -1226,7 +1226,7 @@
     {
       "fileName": "Ceiling Out (46x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Ceiling Out (46x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Ceiling%20Out%20(46x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Ceiling%20Out%20(46x30).png",
       "sha256": "8a2e8245288ee910fea67aff96c1c822f7d842813ad9eae453375aa1e7c54735",
       "size": 1698,
       "role": "Image"
@@ -1234,7 +1234,7 @@
     {
       "fileName": "Flying (46x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Flying (46x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Flying%20(46x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Flying%20(46x30).png",
       "sha256": "fc62ba4d2037004ece0ef2ba722eca7ce2d5f8d49d43a6a5d1ff1378924b1770",
       "size": 1898,
       "role": "Image"
@@ -1242,7 +1242,7 @@
     {
       "fileName": "Hit (46x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Hit (46x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Hit%20(46x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Hit%20(46x30).png",
       "sha256": "e1a64068e963bacb140c0519221b42a5966688403c6b70b67ef9c058e51a2ee9",
       "size": 1437,
       "role": "Image"
@@ -1250,7 +1250,7 @@
     {
       "fileName": "Idle (46x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Idle (46x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Idle%20(46x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Idle%20(46x30).png",
       "sha256": "08e622b0d7e490f4801baf05b2189e347a2b33f28440271a2f1c7a34ea046575",
       "size": 1455,
       "role": "Image"
@@ -1258,7 +1258,7 @@
     {
       "fileName": "Attack (36x34).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Attack (36x34).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Attack%20(36x34).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Attack%20(36x34).png",
       "sha256": "9f44af06968cdbe6cab0e3e20fd5d5320a8b8f721b5b8c5dc131e9f0c35424bd",
       "size": 2354,
       "role": "Image"
@@ -1266,7 +1266,7 @@
     {
       "fileName": "Bullet Pieces.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Bullet Pieces.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Bullet%20Pieces.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Bullet%20Pieces.png",
       "sha256": "0b486053abdc63dab0a4045518838f627ececf902f35cb9a79c83008447b1e3a",
       "size": 233,
       "role": "Image"
@@ -1274,7 +1274,7 @@
     {
       "fileName": "Bullet.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Bullet.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Bullet.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Bullet.png",
       "sha256": "a7fee287e60bd535244f4d357b691b28d8dbccad2d84454c2796578622f12996",
       "size": 179,
       "role": "Image"
@@ -1282,7 +1282,7 @@
     {
       "fileName": "Hit (36x34).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Hit (36x34).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Hit%20(36x34).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Hit%20(36x34).png",
       "sha256": "d58431b007ff98ff23f48fcf52406b5d12849f63e51565862491c23d9c883b34",
       "size": 1643,
       "role": "Image"
@@ -1290,7 +1290,7 @@
     {
       "fileName": "Idle (36x34).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Idle (36x34).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Idle%20(36x34).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Idle%20(36x34).png",
       "sha256": "10ad353dcd3e93e1baf4fd9e42684bd21a7425505fc38725f11d89092b125ead",
       "size": 1783,
       "role": "Image"
@@ -1298,7 +1298,7 @@
     {
       "fileName": "Flying (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/BlueBird/Flying (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/BlueBird/Flying%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/BlueBird/Flying%20(32x32).png",
       "sha256": "cdbc0b60fb985a56ec8e9a16e361dd1ff7e38996c8513a56228e08e07dd1adfb",
       "size": 1880,
       "role": "Image"
@@ -1306,7 +1306,7 @@
     {
       "fileName": "Hit (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/BlueBird/Hit (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/BlueBird/Hit%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/BlueBird/Hit%20(32x32).png",
       "sha256": "4c05b308c7e73677a80d1878e3e55177cb27482e7a14119a83903809d0f2ecdd",
       "size": 1103,
       "role": "Image"
@@ -1314,7 +1314,7 @@
     {
       "fileName": "Fall.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Fall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Fall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Fall.png",
       "sha256": "2aca52a7e28c36a18e743b690087b4a789ac7dbb747592d3f23911cdf8501278",
       "size": 883,
       "role": "Image"
@@ -1322,7 +1322,7 @@
     {
       "fileName": "Hit (34x44).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Hit (34x44).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Hit%20(34x44).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Hit%20(34x44).png",
       "sha256": "ec97202f5bb5ce71325d4813bd497755068f9e561608ffc98dfecd45ae86d2de",
       "size": 1729,
       "role": "Image"
@@ -1330,7 +1330,7 @@
     {
       "fileName": "Idle (34x44).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Idle (34x44).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Idle%20(34x44).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Idle%20(34x44).png",
       "sha256": "71306dfb9206ee5a71ae71587b8bf8ea9be7f351ba5286dfb8ac404aafcc0ed4",
       "size": 2158,
       "role": "Image"
@@ -1338,7 +1338,7 @@
     {
       "fileName": "Jump.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Jump.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Jump.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Jump.png",
       "sha256": "5040e19e59d8a3ac2d11e35db5994c0299f357d05e06a1defcc7348ecd3cbaf2",
       "size": 876,
       "role": "Image"
@@ -1346,7 +1346,7 @@
     {
       "fileName": "Run (34x44).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Run (34x44).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Run%20(34x44).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Run%20(34x44).png",
       "sha256": "7a942ee1d3fb9a294a6937a953d409a5a67652ccdb8b123931816d24422e00bf",
       "size": 3015,
       "role": "Image"
@@ -1354,7 +1354,7 @@
     {
       "fileName": "Attack (84x38).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chameleon/Attack (84x38).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chameleon/Attack%20(84x38).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chameleon/Attack%20(84x38).png",
       "sha256": "f3bb42f81aab3959953a0944165dc4dc51bf3d66e5dedb73d65306ae8c2206a1",
       "size": 3490,
       "role": "Image"
@@ -1362,7 +1362,7 @@
     {
       "fileName": "Hit (84x38).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chameleon/Hit (84x38).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chameleon/Hit%20(84x38).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chameleon/Hit%20(84x38).png",
       "sha256": "bd61780031484debfb670328ce8f55e0309ea725f53626c007531fd97898eef4",
       "size": 1844,
       "role": "Image"
@@ -1370,7 +1370,7 @@
     {
       "fileName": "Idle (84x38).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chameleon/Idle (84x38).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chameleon/Idle%20(84x38).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chameleon/Idle%20(84x38).png",
       "sha256": "15946a0f02d6b013a96c58ad0816a46b6036bcde5eea7c6e14c1454af77ffd13",
       "size": 2935,
       "role": "Image"
@@ -1378,7 +1378,7 @@
     {
       "fileName": "Run (84x38).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chameleon/Run (84x38).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chameleon/Run%20(84x38).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chameleon/Run%20(84x38).png",
       "sha256": "0ea94b05d1f8d2f83aab98ef218422f93c329ee15b88596e005da5927c2e085e",
       "size": 2496,
       "role": "Image"
@@ -1386,7 +1386,7 @@
     {
       "fileName": "Hit (32x34).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chicken/Hit (32x34).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chicken/Hit%20(32x34).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chicken/Hit%20(32x34).png",
       "sha256": "4b10dda20544ec060b76f463741376fd74a223c50d2c9c8664ea48016c66e12f",
       "size": 2156,
       "role": "Image"
@@ -1394,7 +1394,7 @@
     {
       "fileName": "Idle (32x34).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chicken/Idle (32x34).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chicken/Idle%20(32x34).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chicken/Idle%20(32x34).png",
       "sha256": "7a312ae5999654f5abea218b1fc04bdebd23f55dbf529934ca4fa1ec0424aa8d",
       "size": 3686,
       "role": "Image"
@@ -1402,7 +1402,7 @@
     {
       "fileName": "Run (32x34).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chicken/Run (32x34).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chicken/Run%20(32x34).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chicken/Run%20(32x34).png",
       "sha256": "4bd724703e0efd40316dccef69a2a7290230bb9590d3135b012a47da1e34aaa1",
       "size": 3068,
       "role": "Image"
@@ -1410,7 +1410,7 @@
     {
       "fileName": "Fall (36x36).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Fall (36x36).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Fall%20(36x36).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Fall%20(36x36).png",
       "sha256": "7d413cadfa9b83603151cea50b57d48a4fd6f442625ce95cf3ca24a825560f79",
       "size": 784,
       "role": "Image"
@@ -1418,7 +1418,7 @@
     {
       "fileName": "Hit (36x36).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Hit (36x36).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Hit%20(36x36).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Hit%20(36x36).png",
       "sha256": "10638ef8272aa2aff5097f2431d1c6001e98fab7ee3dbd463e99ace212e112f3",
       "size": 1454,
       "role": "Image"
@@ -1426,7 +1426,7 @@
     {
       "fileName": "Idle (36x36).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Idle (36x36).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Idle%20(36x36).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Idle%20(36x36).png",
       "sha256": "e2e693fbe82cd59418c16922211f983456b533c0156b662feb73939211741638",
       "size": 1944,
       "role": "Image"
@@ -1434,7 +1434,7 @@
     {
       "fileName": "Jump (36x36).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Jump (36x36).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Jump%20(36x36).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Jump%20(36x36).png",
       "sha256": "ad7ff859eaac3f6f50e707fdd78b5ef03a58d8147726ad2d48ef42910b44c136",
       "size": 763,
       "role": "Image"
@@ -1442,7 +1442,7 @@
     {
       "fileName": "Jump Anticipation (36x36).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Jump Anticipation (36x36).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Jump%20Anticipation%20(36x36).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Jump%20Anticipation%20(36x36).png",
       "sha256": "6268a3d06a97e4ab0b15c674f94237539a8281ab48ff56120c06e57f47fe5e25",
       "size": 1124,
       "role": "Image"
@@ -1450,7 +1450,7 @@
     {
       "fileName": "Fall (40x48).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/FatBird/Fall (40x48).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/FatBird/Fall%20(40x48).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/FatBird/Fall%20(40x48).png",
       "sha256": "c7bdf61f6c57c7942ddf29cb84196803919d11b39ac62c53e975b399edf5300b",
       "size": 1845,
       "role": "Image"
@@ -1458,7 +1458,7 @@
     {
       "fileName": "Ground (40x48).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/FatBird/Ground (40x48).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/FatBird/Ground%20(40x48).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/FatBird/Ground%20(40x48).png",
       "sha256": "9a1058ef382d9db37b5551b5a888d41094b1a79fb55017337095aa8754592bc2",
       "size": 1800,
       "role": "Image"
@@ -1466,7 +1466,7 @@
     {
       "fileName": "Hit (40x48).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/FatBird/Hit (40x48).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/FatBird/Hit%20(40x48).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/FatBird/Hit%20(40x48).png",
       "sha256": "550cc59005dc9028bfb04eb9b2f636df3375d181fe64d33909d634838d4d3116",
       "size": 1609,
       "role": "Image"
@@ -1474,7 +1474,7 @@
     {
       "fileName": "Idle (40x48).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/FatBird/Idle (40x48).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/FatBird/Idle%20(40x48).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/FatBird/Idle%20(40x48).png",
       "sha256": "c92f88f70485f3db3da39e519cd566aef4fdc131a83b1b1dba6aa48e2d1c6a70",
       "size": 2700,
       "role": "Image"
@@ -1482,7 +1482,7 @@
     {
       "fileName": "Appear (44x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Appear (44x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Appear%20(44x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Appear%20(44x30).png",
       "sha256": "40fb2155cabb0fa433f6d1d6896b050e63f8f0cb7c27d440e882143636f832e7",
       "size": 869,
       "role": "Image"
@@ -1490,7 +1490,7 @@
     {
       "fileName": "Desappear (44x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Desappear (44x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Desappear%20(44x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Desappear%20(44x30).png",
       "sha256": "a94f2face7b148074960175975c76894c34ef7978dfaebbac5f14dc2b1d550f1",
       "size": 864,
       "role": "Image"
@@ -1498,7 +1498,7 @@
     {
       "fileName": "Gost Particles (48x16).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Gost Particles (48x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Gost%20Particles%20(48x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Gost%20Particles%20(48x16).png",
       "sha256": "5e22d92d99bd493da08490bacbb1e84a30695436db45e91efdd62e50f12265a3",
       "size": 160,
       "role": "Image"
@@ -1506,7 +1506,7 @@
     {
       "fileName": "Hit (44x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Hit (44x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Hit%20(44x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Hit%20(44x30).png",
       "sha256": "99d54b96ab1ba10c41fe0b5fed57a28848173fd63e52e963ba0e00896d194377",
       "size": 935,
       "role": "Image"
@@ -1514,7 +1514,7 @@
     {
       "fileName": "Idle (44x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Idle (44x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Idle%20(44x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Idle%20(44x30).png",
       "sha256": "0c50d0cadbdfeb8128dabfd652a3be3e2fee2f2d74155038b1d4045a1bbb7133",
       "size": 1292,
       "role": "Image"
@@ -1522,7 +1522,7 @@
     {
       "fileName": "Hit.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Mushroom/Hit.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Mushroom/Hit.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Mushroom/Hit.png",
       "sha256": "3de1f14fd16347782dbd936511394641af068ea41d5abff84913aee21ff37f63",
       "size": 920,
       "role": "Image"
@@ -1530,7 +1530,7 @@
     {
       "fileName": "Idle (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Mushroom/Idle (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Mushroom/Idle%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Mushroom/Idle%20(32x32).png",
       "sha256": "a34884c9c02ce4893388f2534a8b395f987120098359815d661af1edbf4581ad",
       "size": 1355,
       "role": "Image"
@@ -1538,7 +1538,7 @@
     {
       "fileName": "Run (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Mushroom/Run (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Mushroom/Run%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Mushroom/Run%20(32x32).png",
       "sha256": "3edc4b0a16fb07ccee7e3dd96de8d382b86705f5b035be6b4c8b2b962b38e44e",
       "size": 1538,
       "role": "Image"
@@ -1546,7 +1546,7 @@
     {
       "fileName": "Attack (44x42).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Attack (44x42).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Attack%20(44x42).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Attack%20(44x42).png",
       "sha256": "5308ea1787d97f4f07d2838f497a4f0fb5bc1e21aa6997fd0230d32bb1512555",
       "size": 3042,
       "role": "Image"
@@ -1554,7 +1554,7 @@
     {
       "fileName": "Bullet Pieces.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Bullet Pieces.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Bullet%20Pieces.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Bullet%20Pieces.png",
       "sha256": "98a3df67fc802efe281e1ed045211b2c56eba259d905675c4f4aab71b6e2b69c",
       "size": 188,
       "role": "Image"
@@ -1562,7 +1562,7 @@
     {
       "fileName": "Bullet.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Bullet.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Bullet.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Bullet.png",
       "sha256": "4769027d7ddd8a11f0368a3e375eb98a5c5b777ec9075271306c8d2f82a51a78",
       "size": 178,
       "role": "Image"
@@ -1570,7 +1570,7 @@
     {
       "fileName": "Hit (44x42).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Hit (44x42).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Hit%20(44x42).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Hit%20(44x42).png",
       "sha256": "f00d8bb1b6323e76e74adfc702a3c0a80d54347b701f83007ae56d7ae41446bf",
       "size": 1923,
       "role": "Image"
@@ -1578,7 +1578,7 @@
     {
       "fileName": "Idle (44x42).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Idle (44x42).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Idle%20(44x42).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Idle%20(44x42).png",
       "sha256": "f3cb4bc313ebe9fdc2335c460b8f665110738a068eedd464217a678101cde6cf",
       "size": 2711,
       "role": "Image"
@@ -1586,7 +1586,7 @@
     {
       "fileName": "Hit (30x38).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Hit (30x38).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Hit%20(30x38).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Hit%20(30x38).png",
       "sha256": "5f0f7b668e4dd7ec5c0070cf4aff1ca08bac1854a021aaf09e7c59d268d3c514",
       "size": 1282,
       "role": "Image"
@@ -1594,7 +1594,7 @@
     {
       "fileName": "Idle 1 (30x38).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Idle 1 (30x38).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Idle%201%20(30x38).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Idle%201%20(30x38).png",
       "sha256": "4e92e43588ae624636486ade10492fcae789cccf98547fc92e550abfd5b76f9d",
       "size": 2038,
       "role": "Image"
@@ -1602,7 +1602,7 @@
     {
       "fileName": "Idle 2 (30x38).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Idle 2 (30x38).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Idle%202%20(30x38).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Idle%202%20(30x38).png",
       "sha256": "7ffc682262005fea0e46c1e844179d155c6296adcb84ce6afee45a703b8c7bfe",
       "size": 1619,
       "role": "Image"
@@ -1610,7 +1610,7 @@
     {
       "fileName": "Leafs.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Leafs.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Leafs.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Leafs.png",
       "sha256": "23369acd31bb6a159e5e6fc26064cf8e280afedf52052bb6a62cf7dd22666b7a",
       "size": 246,
       "role": "Image"
@@ -1618,7 +1618,7 @@
     {
       "fileName": "Run (30x38).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Run (30x38).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Run%20(30x38).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Run%20(30x38).png",
       "sha256": "fa38cc7acd820d552523cc2ad232092c5b7f0965d09ba32387e64aeb89c864c2",
       "size": 2547,
       "role": "Image"
@@ -1626,7 +1626,7 @@
     {
       "fileName": "Hit (52x34).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rino/Hit (52x34).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rino/Hit%20(52x34).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rino/Hit%20(52x34).png",
       "sha256": "0328172c0d9a373c82fcf8231f0d637b7dc59032adcfd7064b88b46350467c1d",
       "size": 1726,
       "role": "Image"
@@ -1634,7 +1634,7 @@
     {
       "fileName": "Hit Wall (52x34).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rino/Hit Wall (52x34).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rino/Hit%20Wall%20(52x34).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rino/Hit%20Wall%20(52x34).png",
       "sha256": "5d895b5955172f6747f786bcf35c4ced27ce6fbf1e0a2bfddf414f2bcdd59ae8",
       "size": 1542,
       "role": "Image"
@@ -1642,7 +1642,7 @@
     {
       "fileName": "Idle (52x34).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rino/Idle (52x34).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rino/Idle%20(52x34).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rino/Idle%20(52x34).png",
       "sha256": "910d7452ecadf3da63c74073a6e2ce5223708f5a1af34337dc80992c17373b92",
       "size": 2349,
       "role": "Image"
@@ -1650,7 +1650,7 @@
     {
       "fileName": "Run (52x34).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rino/Run (52x34).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rino/Run%20(52x34).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rino/Run%20(52x34).png",
       "sha256": "a0ab2337e38c7f9c22d3750405dc3efca63bf977d107f27d91d622038f30ff65",
       "size": 1671,
       "role": "Image"
@@ -1658,7 +1658,7 @@
     {
       "fileName": "Rock1_Hit.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock1_Hit.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock1_Hit.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock1_Hit.png",
       "sha256": "a3620370521988b8b0bc783b438b1d70303f8ae85ee065a7bc082dff69fa757c",
       "size": 234,
       "role": "Image"
@@ -1666,7 +1666,7 @@
     {
       "fileName": "Rock1_Idle (38x34).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock1_Idle (38x34).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock1_Idle%20(38x34).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock1_Idle%20(38x34).png",
       "sha256": "6f540ee33e7808653516c6b909dfd25e9ba6b5a1cdc9b224750792a9df3803c1",
       "size": 1753,
       "role": "Image"
@@ -1674,7 +1674,7 @@
     {
       "fileName": "Rock1_Run (38x34).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock1_Run (38x34).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock1_Run%20(38x34).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock1_Run%20(38x34).png",
       "sha256": "f246182b93e08cf27f1e58cdf87cc273048f5330344eec5625b579a0a057d245",
       "size": 1996,
       "role": "Image"
@@ -1682,7 +1682,7 @@
     {
       "fileName": "Rock2_Hit (32x28).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock2_Hit (32x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock2_Hit%20(32x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock2_Hit%20(32x28).png",
       "sha256": "7dd597692565371a9f19ad41e4f7153a43b6299cd07a7b86ca324033b1f60c26",
       "size": 198,
       "role": "Image"
@@ -1690,7 +1690,7 @@
     {
       "fileName": "Rock2_Idle (32x28).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock2_Idle (32x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock2_Idle%20(32x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock2_Idle%20(32x28).png",
       "sha256": "1a5c68c572977c96f365009f33b071dd4f28eb378eb472f5508e3dc989d992f0",
       "size": 1462,
       "role": "Image"
@@ -1698,7 +1698,7 @@
     {
       "fileName": "Rock2_Run (32x28).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock2_Run (32x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock2_Run%20(32x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock2_Run%20(32x28).png",
       "sha256": "326fc1b1cef35c226c2f2aa544848bbbf15546cb37fb83bbf9240e118fb3e96f",
       "size": 1551,
       "role": "Image"
@@ -1706,7 +1706,7 @@
     {
       "fileName": "Rock3_Hit (22x18).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock3_Hit (22x18).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock3_Hit%20(22x18).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock3_Hit%20(22x18).png",
       "sha256": "2bdf22b8daa12d59751cd4533e133e9eff2a0254bf26853d062eb2c1176b98b4",
       "size": 576,
       "role": "Image"
@@ -1714,7 +1714,7 @@
     {
       "fileName": "Rock3_Idle (22x18).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock3_Idle (22x18).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock3_Idle%20(22x18).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock3_Idle%20(22x18).png",
       "sha256": "8111dd2229a3250fce69195b3a69600a349d8782da6cb5a302fab7d12a3e803a",
       "size": 767,
       "role": "Image"
@@ -1722,7 +1722,7 @@
     {
       "fileName": "Rock3_Run (22x18).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock3_Run (22x18).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock3_Run%20(22x18).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock3_Run%20(22x18).png",
       "sha256": "ef29e98a18b76a1647e8f96bdc8a9d9f219eaf43d0b5fb636531045523ec3a70",
       "size": 934,
       "role": "Image"
@@ -1730,7 +1730,7 @@
     {
       "fileName": "Hit (52x54).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Hit (52x54).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Hit%20(52x54).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Hit%20(52x54).png",
       "sha256": "99740122b2775a846dfe832df720f192d1cb01eb2f9ab85a4311e57de8dd0fcc",
       "size": 1460,
       "role": "Image"
@@ -1738,7 +1738,7 @@
     {
       "fileName": "Hit Wall 1 (52x54).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Hit Wall 1 (52x54).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Hit%20Wall%201%20(52x54).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Hit%20Wall%201%20(52x54).png",
       "sha256": "5c51db8f79d5a3cfa9b52086df15369c1fffc8ca313327211f1ec482a0e204e5",
       "size": 3052,
       "role": "Image"
@@ -1746,7 +1746,7 @@
     {
       "fileName": "Hit Wall 2 (52x54).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Hit Wall 2 (52x54).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Hit%20Wall%202%20(52x54).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Hit%20Wall%202%20(52x54).png",
       "sha256": "359af86313d6bbaa45b9f9c5f2b87e7fc44d19c28212b4a2970338c27f633a44",
       "size": 2986,
       "role": "Image"
@@ -1754,7 +1754,7 @@
     {
       "fileName": "Idle 1 (52x54).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Idle 1 (52x54).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Idle%201%20(52x54).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Idle%201%20(52x54).png",
       "sha256": "e9868cdb5a35f610cd0457a4bd14a62c7410fef7354173292ba6e5a5e8742b30",
       "size": 3260,
       "role": "Image"
@@ -1762,7 +1762,7 @@
     {
       "fileName": "Idle 2 (52x54).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Idle 2 (52x54).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Idle%202%20(52x54).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Idle%202%20(52x54).png",
       "sha256": "3f9330786418bd8b1f1385a4f357a89a7b55bf7413760c39553ea6e8494b2551",
       "size": 2069,
       "role": "Image"
@@ -1770,7 +1770,7 @@
     {
       "fileName": "Orange Particle.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Orange Particle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Orange%20Particle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Orange%20Particle.png",
       "sha256": "002140321191e51cfdfe8b4fdca99c0374da3b83bcebf25dbd4707ef5133f97f",
       "size": 168,
       "role": "Image"
@@ -1778,7 +1778,7 @@
     {
       "fileName": "Red Particle.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Red Particle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Red%20Particle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Red%20Particle.png",
       "sha256": "a517755b52b5f017c40e6b5d7fa9707244f0027f137305ace0d736b58ad23e94",
       "size": 177,
       "role": "Image"
@@ -1786,7 +1786,7 @@
     {
       "fileName": "Hit (44x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Slime/Hit (44x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Slime/Hit%20(44x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Slime/Hit%20(44x30).png",
       "sha256": "487fa9c147cb2b8784f90a704b6a76935d2b23e6a3d006db25b8215dc89e3dfb",
       "size": 1313,
       "role": "Image"
@@ -1794,7 +1794,7 @@
     {
       "fileName": "Idle-Run (44x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Slime/Idle-Run (44x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Slime/Idle-Run%20(44x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Slime/Idle-Run%20(44x30).png",
       "sha256": "50fe9559e908cc28ba923bbf1f119ab662467ae99c4f47879fec93fabce7ecc2",
       "size": 1953,
       "role": "Image"
@@ -1802,7 +1802,7 @@
     {
       "fileName": "Particles (62x16).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Slime/Particles (62x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Slime/Particles%20(62x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Slime/Particles%20(62x16).png",
       "sha256": "93fae05342114ed41ba3947150e1aa95a16deb7122f52984988fcb1124f39350",
       "size": 236,
       "role": "Image"
@@ -1810,7 +1810,7 @@
     {
       "fileName": "Hit (38x24).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Hit (38x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Hit%20(38x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Hit%20(38x24).png",
       "sha256": "cd3c2a3c6031a75d1f7068819e9c62f8fa426005fdb2fad1fb5f094eae4a42e2",
       "size": 1189,
       "role": "Image"
@@ -1818,7 +1818,7 @@
     {
       "fileName": "Idle (38x24).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Idle (38x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Idle%20(38x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Idle%20(38x24).png",
       "sha256": "246e7bd913760d6976bec7a68157d4eed80dfff0267876de5dc0601789f1da31",
       "size": 1566,
       "role": "Image"
@@ -1826,7 +1826,7 @@
     {
       "fileName": "Shell Idle (38x24).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Shell Idle (38x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Shell%20Idle%20(38x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Shell%20Idle%20(38x24).png",
       "sha256": "5c901262fa1a72c76f2ed5bbd6c60553de0721403f5a1639123895db3a211b3e",
       "size": 989,
       "role": "Image"
@@ -1834,7 +1834,7 @@
     {
       "fileName": "Shell Top Hit (38x24).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Shell Top Hit (38x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Shell%20Top%20Hit%20(38x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Shell%20Top%20Hit%20(38x24).png",
       "sha256": "b05ec33937732136fc12b9b87fb3c09897631f6eb52d5b194e6caac2289457d9",
       "size": 958,
       "role": "Image"
@@ -1842,7 +1842,7 @@
     {
       "fileName": "Shell Wall Hit (38x24).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Shell Wall Hit (38x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Shell%20Wall%20Hit%20(38x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Shell%20Wall%20Hit%20(38x24).png",
       "sha256": "f1551bf148e7bfea1bfbce178cf354c0d78956a8b9c3b3141dd7a818bff2f9c1",
       "size": 829,
       "role": "Image"
@@ -1850,7 +1850,7 @@
     {
       "fileName": "Snail without shell.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Snail without shell.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Snail%20without%20shell.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Snail%20without%20shell.png",
       "sha256": "2e4a614fdafd5d811edd3cf1370d7f42b07545b46a075b1f17f031ac1f07b898",
       "size": 421,
       "role": "Image"
@@ -1858,7 +1858,7 @@
     {
       "fileName": "Walk (38x24).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Walk (38x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Walk%20(38x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Walk%20(38x24).png",
       "sha256": "c7ef13f0da3ec07ee5d2865e20901e802d6d690878a71928366905a619795b56",
       "size": 1515,
       "role": "Image"
@@ -1866,7 +1866,7 @@
     {
       "fileName": "Attack (64x32).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Attack (64x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Attack%20(64x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Attack%20(64x32).png",
       "sha256": "aa4ebd014fb15e8f8ebae0ff58880c5cb14d94ad6412e2132ee617f48ea4ffcc",
       "size": 2590,
       "role": "Image"
@@ -1874,7 +1874,7 @@
     {
       "fileName": "Bullet Pieces.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Bullet Pieces.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Bullet%20Pieces.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Bullet%20Pieces.png",
       "sha256": "b29f4c0d4323c7a83a1e480f693482c3d0ee849fd58969372d2d0b43bacf294c",
       "size": 298,
       "role": "Image"
@@ -1882,7 +1882,7 @@
     {
       "fileName": "Bullet.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Bullet.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Bullet.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Bullet.png",
       "sha256": "bda07fddce70b45e7dd70ac8b98bae71ef55409080d0cfb78a5729529f3df837",
       "size": 231,
       "role": "Image"
@@ -1890,7 +1890,7 @@
     {
       "fileName": "Hit (64x32).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Hit (64x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Hit%20(64x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Hit%20(64x32).png",
       "sha256": "1b3ce7c6b273ec809994da65cfd702031d9ab7c6253d3832eef9345d51669a60",
       "size": 1599,
       "role": "Image"
@@ -1898,7 +1898,7 @@
     {
       "fileName": "Idle (64x32).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Idle (64x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Idle%20(64x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Idle%20(64x32).png",
       "sha256": "bbc3bed28d0ce03315a0c00aef3ce89519e7aed1eb40327fb816e29b5abebe67",
       "size": 2728,
       "role": "Image"
@@ -1906,7 +1906,7 @@
     {
       "fileName": "Run (64x32).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Run (64x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Run%20(64x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Run%20(64x32).png",
       "sha256": "af9a4872924b08d9fc721e23be05572faed89428f46ec49497bb5a5f2b515b6f",
       "size": 2409,
       "role": "Image"
@@ -1914,7 +1914,7 @@
     {
       "fileName": "Hit (44x26).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Hit (44x26).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Hit%20(44x26).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Hit%20(44x26).png",
       "sha256": "7168695bbc1cc8cf37df8515e33f8523f3215ec58747c6247c8c30535da759e7",
       "size": 1026,
       "role": "Image"
@@ -1922,7 +1922,7 @@
     {
       "fileName": "Idle 1 (44x26).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Idle 1 (44x26).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Idle%201%20(44x26).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Idle%201%20(44x26).png",
       "sha256": "aa8d95f36149c9c824bf561b7976112dbf548fc8203d0ef6763458c2f68a0491",
       "size": 1791,
       "role": "Image"
@@ -1930,7 +1930,7 @@
     {
       "fileName": "Idle 2 (44x26).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Idle 2 (44x26).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Idle%202%20(44x26).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Idle%202%20(44x26).png",
       "sha256": "55c4241de005fea4bdf49e3084f7c0725b863302edaede7cc46293d483ac600b",
       "size": 1321,
       "role": "Image"
@@ -1938,7 +1938,7 @@
     {
       "fileName": "Spikes in (44x26).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Spikes in (44x26).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Spikes%20in%20(44x26).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Spikes%20in%20(44x26).png",
       "sha256": "1b5b170239bfaf9febb18dd08ae732598df88959b02950f8a6d17faec79ae810",
       "size": 1731,
       "role": "Image"
@@ -1946,7 +1946,7 @@
     {
       "fileName": "Spikes out (44x26).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Spikes out (44x26).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Spikes%20out%20(44x26).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Spikes%20out%20(44x26).png",
       "sha256": "1fc1287a65c4d12dea328470fe47241b5b77f6ed8608dff6a3d776fb275158ac",
       "size": 1614,
       "role": "Image"
@@ -1956,7 +1956,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/pixelfrog-pixel-adventure-2/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/cover.png",
       "sha256": "c5dca4b22a0984ffa8423e959a8289a7781f8a801f550ffbf910b3330235f316",
       "size": 1675,
       "contentType": "image/png",
@@ -1965,7 +1965,7 @@
     {
       "fileName": "Hit 1 (36x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Hit 1 (36x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Hit%201%20(36x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Hit%201%20(36x30).png",
       "sha256": "5e8987a545000678d14146a1a407a89881443c373072a3a2106f8b8bd9164439",
       "size": 1493,
       "contentType": "image/png",
@@ -1975,7 +1975,7 @@
     {
       "fileName": "Hit 2 (36x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Hit 2 (36x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Hit%202%20(36x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Hit%202%20(36x30).png",
       "sha256": "bf8fbe48bc4b490ac599596095d38ca4fb90a72481aa5139ec53d8ce0d0106d2",
       "size": 1411,
       "contentType": "image/png",
@@ -1985,7 +1985,7 @@
     {
       "fileName": "Idle (36x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Idle (36x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Idle%20(36x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Idle%20(36x30).png",
       "sha256": "c5dca4b22a0984ffa8423e959a8289a7781f8a801f550ffbf910b3330235f316",
       "size": 1675,
       "contentType": "image/png",
@@ -1995,7 +1995,7 @@
     {
       "fileName": "Run (36x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Run (36x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Run%20(36x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Run%20(36x30).png",
       "sha256": "adb327a811eac0b7d90b6322a8c5f583c9df7502311b3ac6eb8088c2d44ae4b3",
       "size": 2244,
       "contentType": "image/png",
@@ -2005,7 +2005,7 @@
     {
       "fileName": "Walk (36x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Walk (36x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Walk%20(36x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/AngryPig/Walk%20(36x30).png",
       "sha256": "13c9a389b8c3642bde23b065f39a929c053ebdeb1179cc88c19f5cd7e6b846c0",
       "size": 2554,
       "contentType": "image/png",
@@ -2015,7 +2015,7 @@
     {
       "fileName": "Ceiling In (46x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Ceiling In (46x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Ceiling%20In%20(46x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Ceiling%20In%20(46x30).png",
       "sha256": "92219d0fbe1766f17b7c8d01c4b68e0d51d3a9002d232b1a88d9497a4e728d79",
       "size": 1699,
       "contentType": "image/png",
@@ -2025,7 +2025,7 @@
     {
       "fileName": "Ceiling Out (46x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Ceiling Out (46x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Ceiling%20Out%20(46x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Ceiling%20Out%20(46x30).png",
       "sha256": "8a2e8245288ee910fea67aff96c1c822f7d842813ad9eae453375aa1e7c54735",
       "size": 1698,
       "contentType": "image/png",
@@ -2035,7 +2035,7 @@
     {
       "fileName": "Flying (46x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Flying (46x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Flying%20(46x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Flying%20(46x30).png",
       "sha256": "fc62ba4d2037004ece0ef2ba722eca7ce2d5f8d49d43a6a5d1ff1378924b1770",
       "size": 1898,
       "contentType": "image/png",
@@ -2045,7 +2045,7 @@
     {
       "fileName": "Hit (46x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Hit (46x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Hit%20(46x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Hit%20(46x30).png",
       "sha256": "e1a64068e963bacb140c0519221b42a5966688403c6b70b67ef9c058e51a2ee9",
       "size": 1437,
       "contentType": "image/png",
@@ -2055,7 +2055,7 @@
     {
       "fileName": "Idle (46x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Idle (46x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Idle%20(46x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bat/Idle%20(46x30).png",
       "sha256": "08e622b0d7e490f4801baf05b2189e347a2b33f28440271a2f1c7a34ea046575",
       "size": 1455,
       "contentType": "image/png",
@@ -2065,7 +2065,7 @@
     {
       "fileName": "Attack (36x34).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Attack (36x34).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Attack%20(36x34).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Attack%20(36x34).png",
       "sha256": "9f44af06968cdbe6cab0e3e20fd5d5320a8b8f721b5b8c5dc131e9f0c35424bd",
       "size": 2354,
       "contentType": "image/png",
@@ -2075,7 +2075,7 @@
     {
       "fileName": "Bullet Pieces.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Bullet Pieces.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Bullet%20Pieces.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Bullet%20Pieces.png",
       "sha256": "0b486053abdc63dab0a4045518838f627ececf902f35cb9a79c83008447b1e3a",
       "size": 233,
       "contentType": "image/png",
@@ -2085,7 +2085,7 @@
     {
       "fileName": "Bullet.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Bullet.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Bullet.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Bullet.png",
       "sha256": "a7fee287e60bd535244f4d357b691b28d8dbccad2d84454c2796578622f12996",
       "size": 179,
       "contentType": "image/png",
@@ -2095,7 +2095,7 @@
     {
       "fileName": "Hit (36x34).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Hit (36x34).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Hit%20(36x34).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Hit%20(36x34).png",
       "sha256": "d58431b007ff98ff23f48fcf52406b5d12849f63e51565862491c23d9c883b34",
       "size": 1643,
       "contentType": "image/png",
@@ -2105,7 +2105,7 @@
     {
       "fileName": "Idle (36x34).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Idle (36x34).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Idle%20(36x34).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bee/Idle%20(36x34).png",
       "sha256": "10ad353dcd3e93e1baf4fd9e42684bd21a7425505fc38725f11d89092b125ead",
       "size": 1783,
       "contentType": "image/png",
@@ -2115,7 +2115,7 @@
     {
       "fileName": "Flying (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/BlueBird/Flying (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/BlueBird/Flying%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/BlueBird/Flying%20(32x32).png",
       "sha256": "cdbc0b60fb985a56ec8e9a16e361dd1ff7e38996c8513a56228e08e07dd1adfb",
       "size": 1880,
       "contentType": "image/png",
@@ -2125,7 +2125,7 @@
     {
       "fileName": "Hit (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/BlueBird/Hit (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/BlueBird/Hit%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/BlueBird/Hit%20(32x32).png",
       "sha256": "4c05b308c7e73677a80d1878e3e55177cb27482e7a14119a83903809d0f2ecdd",
       "size": 1103,
       "contentType": "image/png",
@@ -2135,7 +2135,7 @@
     {
       "fileName": "Fall.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Fall.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Fall.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Fall.png",
       "sha256": "2aca52a7e28c36a18e743b690087b4a789ac7dbb747592d3f23911cdf8501278",
       "size": 883,
       "contentType": "image/png",
@@ -2145,7 +2145,7 @@
     {
       "fileName": "Hit (34x44).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Hit (34x44).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Hit%20(34x44).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Hit%20(34x44).png",
       "sha256": "ec97202f5bb5ce71325d4813bd497755068f9e561608ffc98dfecd45ae86d2de",
       "size": 1729,
       "contentType": "image/png",
@@ -2155,7 +2155,7 @@
     {
       "fileName": "Idle (34x44).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Idle (34x44).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Idle%20(34x44).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Idle%20(34x44).png",
       "sha256": "71306dfb9206ee5a71ae71587b8bf8ea9be7f351ba5286dfb8ac404aafcc0ed4",
       "size": 2158,
       "contentType": "image/png",
@@ -2165,7 +2165,7 @@
     {
       "fileName": "Jump.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Jump.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Jump.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Jump.png",
       "sha256": "5040e19e59d8a3ac2d11e35db5994c0299f357d05e06a1defcc7348ecd3cbaf2",
       "size": 876,
       "contentType": "image/png",
@@ -2175,7 +2175,7 @@
     {
       "fileName": "Run (34x44).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Run (34x44).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Run%20(34x44).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Bunny/Run%20(34x44).png",
       "sha256": "7a942ee1d3fb9a294a6937a953d409a5a67652ccdb8b123931816d24422e00bf",
       "size": 3015,
       "contentType": "image/png",
@@ -2185,7 +2185,7 @@
     {
       "fileName": "Attack (84x38).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chameleon/Attack (84x38).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chameleon/Attack%20(84x38).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chameleon/Attack%20(84x38).png",
       "sha256": "f3bb42f81aab3959953a0944165dc4dc51bf3d66e5dedb73d65306ae8c2206a1",
       "size": 3490,
       "contentType": "image/png",
@@ -2195,7 +2195,7 @@
     {
       "fileName": "Hit (84x38).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chameleon/Hit (84x38).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chameleon/Hit%20(84x38).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chameleon/Hit%20(84x38).png",
       "sha256": "bd61780031484debfb670328ce8f55e0309ea725f53626c007531fd97898eef4",
       "size": 1844,
       "contentType": "image/png",
@@ -2205,7 +2205,7 @@
     {
       "fileName": "Idle (84x38).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chameleon/Idle (84x38).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chameleon/Idle%20(84x38).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chameleon/Idle%20(84x38).png",
       "sha256": "15946a0f02d6b013a96c58ad0816a46b6036bcde5eea7c6e14c1454af77ffd13",
       "size": 2935,
       "contentType": "image/png",
@@ -2215,7 +2215,7 @@
     {
       "fileName": "Run (84x38).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chameleon/Run (84x38).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chameleon/Run%20(84x38).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chameleon/Run%20(84x38).png",
       "sha256": "0ea94b05d1f8d2f83aab98ef218422f93c329ee15b88596e005da5927c2e085e",
       "size": 2496,
       "contentType": "image/png",
@@ -2225,7 +2225,7 @@
     {
       "fileName": "Hit (32x34).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chicken/Hit (32x34).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chicken/Hit%20(32x34).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chicken/Hit%20(32x34).png",
       "sha256": "4b10dda20544ec060b76f463741376fd74a223c50d2c9c8664ea48016c66e12f",
       "size": 2156,
       "contentType": "image/png",
@@ -2235,7 +2235,7 @@
     {
       "fileName": "Idle (32x34).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chicken/Idle (32x34).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chicken/Idle%20(32x34).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chicken/Idle%20(32x34).png",
       "sha256": "7a312ae5999654f5abea218b1fc04bdebd23f55dbf529934ca4fa1ec0424aa8d",
       "size": 3686,
       "contentType": "image/png",
@@ -2245,7 +2245,7 @@
     {
       "fileName": "Run (32x34).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chicken/Run (32x34).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chicken/Run%20(32x34).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Chicken/Run%20(32x34).png",
       "sha256": "4bd724703e0efd40316dccef69a2a7290230bb9590d3135b012a47da1e34aaa1",
       "size": 3068,
       "contentType": "image/png",
@@ -2255,7 +2255,7 @@
     {
       "fileName": "Fall (36x36).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Fall (36x36).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Fall%20(36x36).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Fall%20(36x36).png",
       "sha256": "7d413cadfa9b83603151cea50b57d48a4fd6f442625ce95cf3ca24a825560f79",
       "size": 784,
       "contentType": "image/png",
@@ -2265,7 +2265,7 @@
     {
       "fileName": "Hit (36x36).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Hit (36x36).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Hit%20(36x36).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Hit%20(36x36).png",
       "sha256": "10638ef8272aa2aff5097f2431d1c6001e98fab7ee3dbd463e99ace212e112f3",
       "size": 1454,
       "contentType": "image/png",
@@ -2275,7 +2275,7 @@
     {
       "fileName": "Idle (36x36).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Idle (36x36).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Idle%20(36x36).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Idle%20(36x36).png",
       "sha256": "e2e693fbe82cd59418c16922211f983456b533c0156b662feb73939211741638",
       "size": 1944,
       "contentType": "image/png",
@@ -2285,7 +2285,7 @@
     {
       "fileName": "Jump (36x36).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Jump (36x36).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Jump%20(36x36).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Jump%20(36x36).png",
       "sha256": "ad7ff859eaac3f6f50e707fdd78b5ef03a58d8147726ad2d48ef42910b44c136",
       "size": 763,
       "contentType": "image/png",
@@ -2295,7 +2295,7 @@
     {
       "fileName": "Jump Anticipation (36x36).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Jump Anticipation (36x36).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Jump%20Anticipation%20(36x36).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Duck/Jump%20Anticipation%20(36x36).png",
       "sha256": "6268a3d06a97e4ab0b15c674f94237539a8281ab48ff56120c06e57f47fe5e25",
       "size": 1124,
       "contentType": "image/png",
@@ -2305,7 +2305,7 @@
     {
       "fileName": "Fall (40x48).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/FatBird/Fall (40x48).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/FatBird/Fall%20(40x48).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/FatBird/Fall%20(40x48).png",
       "sha256": "c7bdf61f6c57c7942ddf29cb84196803919d11b39ac62c53e975b399edf5300b",
       "size": 1845,
       "contentType": "image/png",
@@ -2315,7 +2315,7 @@
     {
       "fileName": "Ground (40x48).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/FatBird/Ground (40x48).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/FatBird/Ground%20(40x48).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/FatBird/Ground%20(40x48).png",
       "sha256": "9a1058ef382d9db37b5551b5a888d41094b1a79fb55017337095aa8754592bc2",
       "size": 1800,
       "contentType": "image/png",
@@ -2325,7 +2325,7 @@
     {
       "fileName": "Hit (40x48).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/FatBird/Hit (40x48).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/FatBird/Hit%20(40x48).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/FatBird/Hit%20(40x48).png",
       "sha256": "550cc59005dc9028bfb04eb9b2f636df3375d181fe64d33909d634838d4d3116",
       "size": 1609,
       "contentType": "image/png",
@@ -2335,7 +2335,7 @@
     {
       "fileName": "Idle (40x48).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/FatBird/Idle (40x48).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/FatBird/Idle%20(40x48).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/FatBird/Idle%20(40x48).png",
       "sha256": "c92f88f70485f3db3da39e519cd566aef4fdc131a83b1b1dba6aa48e2d1c6a70",
       "size": 2700,
       "contentType": "image/png",
@@ -2345,7 +2345,7 @@
     {
       "fileName": "Appear (44x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Appear (44x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Appear%20(44x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Appear%20(44x30).png",
       "sha256": "40fb2155cabb0fa433f6d1d6896b050e63f8f0cb7c27d440e882143636f832e7",
       "size": 869,
       "contentType": "image/png",
@@ -2355,7 +2355,7 @@
     {
       "fileName": "Desappear (44x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Desappear (44x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Desappear%20(44x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Desappear%20(44x30).png",
       "sha256": "a94f2face7b148074960175975c76894c34ef7978dfaebbac5f14dc2b1d550f1",
       "size": 864,
       "contentType": "image/png",
@@ -2365,7 +2365,7 @@
     {
       "fileName": "Gost Particles (48x16).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Gost Particles (48x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Gost%20Particles%20(48x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Gost%20Particles%20(48x16).png",
       "sha256": "5e22d92d99bd493da08490bacbb1e84a30695436db45e91efdd62e50f12265a3",
       "size": 160,
       "contentType": "image/png",
@@ -2375,7 +2375,7 @@
     {
       "fileName": "Hit (44x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Hit (44x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Hit%20(44x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Hit%20(44x30).png",
       "sha256": "99d54b96ab1ba10c41fe0b5fed57a28848173fd63e52e963ba0e00896d194377",
       "size": 935,
       "contentType": "image/png",
@@ -2385,7 +2385,7 @@
     {
       "fileName": "Idle (44x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Idle (44x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Idle%20(44x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Ghost/Idle%20(44x30).png",
       "sha256": "0c50d0cadbdfeb8128dabfd652a3be3e2fee2f2d74155038b1d4045a1bbb7133",
       "size": 1292,
       "contentType": "image/png",
@@ -2395,7 +2395,7 @@
     {
       "fileName": "Hit.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Mushroom/Hit.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Mushroom/Hit.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Mushroom/Hit.png",
       "sha256": "3de1f14fd16347782dbd936511394641af068ea41d5abff84913aee21ff37f63",
       "size": 920,
       "contentType": "image/png",
@@ -2405,7 +2405,7 @@
     {
       "fileName": "Idle (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Mushroom/Idle (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Mushroom/Idle%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Mushroom/Idle%20(32x32).png",
       "sha256": "a34884c9c02ce4893388f2534a8b395f987120098359815d661af1edbf4581ad",
       "size": 1355,
       "contentType": "image/png",
@@ -2415,7 +2415,7 @@
     {
       "fileName": "Run (32x32).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Mushroom/Run (32x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Mushroom/Run%20(32x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Mushroom/Run%20(32x32).png",
       "sha256": "3edc4b0a16fb07ccee7e3dd96de8d382b86705f5b035be6b4c8b2b962b38e44e",
       "size": 1538,
       "contentType": "image/png",
@@ -2425,7 +2425,7 @@
     {
       "fileName": "Attack (44x42).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Attack (44x42).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Attack%20(44x42).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Attack%20(44x42).png",
       "sha256": "5308ea1787d97f4f07d2838f497a4f0fb5bc1e21aa6997fd0230d32bb1512555",
       "size": 3042,
       "contentType": "image/png",
@@ -2435,7 +2435,7 @@
     {
       "fileName": "Bullet Pieces.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Bullet Pieces.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Bullet%20Pieces.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Bullet%20Pieces.png",
       "sha256": "98a3df67fc802efe281e1ed045211b2c56eba259d905675c4f4aab71b6e2b69c",
       "size": 188,
       "contentType": "image/png",
@@ -2445,7 +2445,7 @@
     {
       "fileName": "Bullet.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Bullet.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Bullet.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Bullet.png",
       "sha256": "4769027d7ddd8a11f0368a3e375eb98a5c5b777ec9075271306c8d2f82a51a78",
       "size": 178,
       "contentType": "image/png",
@@ -2455,7 +2455,7 @@
     {
       "fileName": "Hit (44x42).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Hit (44x42).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Hit%20(44x42).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Hit%20(44x42).png",
       "sha256": "f00d8bb1b6323e76e74adfc702a3c0a80d54347b701f83007ae56d7ae41446bf",
       "size": 1923,
       "contentType": "image/png",
@@ -2465,7 +2465,7 @@
     {
       "fileName": "Idle (44x42).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Idle (44x42).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Idle%20(44x42).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Plant/Idle%20(44x42).png",
       "sha256": "f3cb4bc313ebe9fdc2335c460b8f665110738a068eedd464217a678101cde6cf",
       "size": 2711,
       "contentType": "image/png",
@@ -2475,7 +2475,7 @@
     {
       "fileName": "Hit (30x38).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Hit (30x38).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Hit%20(30x38).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Hit%20(30x38).png",
       "sha256": "5f0f7b668e4dd7ec5c0070cf4aff1ca08bac1854a021aaf09e7c59d268d3c514",
       "size": 1282,
       "contentType": "image/png",
@@ -2485,7 +2485,7 @@
     {
       "fileName": "Idle 1 (30x38).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Idle 1 (30x38).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Idle%201%20(30x38).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Idle%201%20(30x38).png",
       "sha256": "4e92e43588ae624636486ade10492fcae789cccf98547fc92e550abfd5b76f9d",
       "size": 2038,
       "contentType": "image/png",
@@ -2495,7 +2495,7 @@
     {
       "fileName": "Idle 2 (30x38).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Idle 2 (30x38).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Idle%202%20(30x38).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Idle%202%20(30x38).png",
       "sha256": "7ffc682262005fea0e46c1e844179d155c6296adcb84ce6afee45a703b8c7bfe",
       "size": 1619,
       "contentType": "image/png",
@@ -2505,7 +2505,7 @@
     {
       "fileName": "Leafs.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Leafs.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Leafs.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Leafs.png",
       "sha256": "23369acd31bb6a159e5e6fc26064cf8e280afedf52052bb6a62cf7dd22666b7a",
       "size": 246,
       "contentType": "image/png",
@@ -2515,7 +2515,7 @@
     {
       "fileName": "Run (30x38).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Run (30x38).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Run%20(30x38).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Radish/Run%20(30x38).png",
       "sha256": "fa38cc7acd820d552523cc2ad232092c5b7f0965d09ba32387e64aeb89c864c2",
       "size": 2547,
       "contentType": "image/png",
@@ -2525,7 +2525,7 @@
     {
       "fileName": "Hit (52x34).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rino/Hit (52x34).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rino/Hit%20(52x34).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rino/Hit%20(52x34).png",
       "sha256": "0328172c0d9a373c82fcf8231f0d637b7dc59032adcfd7064b88b46350467c1d",
       "size": 1726,
       "contentType": "image/png",
@@ -2535,7 +2535,7 @@
     {
       "fileName": "Hit Wall (52x34).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rino/Hit Wall (52x34).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rino/Hit%20Wall%20(52x34).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rino/Hit%20Wall%20(52x34).png",
       "sha256": "5d895b5955172f6747f786bcf35c4ced27ce6fbf1e0a2bfddf414f2bcdd59ae8",
       "size": 1542,
       "contentType": "image/png",
@@ -2545,7 +2545,7 @@
     {
       "fileName": "Idle (52x34).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rino/Idle (52x34).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rino/Idle%20(52x34).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rino/Idle%20(52x34).png",
       "sha256": "910d7452ecadf3da63c74073a6e2ce5223708f5a1af34337dc80992c17373b92",
       "size": 2349,
       "contentType": "image/png",
@@ -2555,7 +2555,7 @@
     {
       "fileName": "Run (52x34).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rino/Run (52x34).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rino/Run%20(52x34).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rino/Run%20(52x34).png",
       "sha256": "a0ab2337e38c7f9c22d3750405dc3efca63bf977d107f27d91d622038f30ff65",
       "size": 1671,
       "contentType": "image/png",
@@ -2565,7 +2565,7 @@
     {
       "fileName": "Rock1_Hit.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock1_Hit.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock1_Hit.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock1_Hit.png",
       "sha256": "a3620370521988b8b0bc783b438b1d70303f8ae85ee065a7bc082dff69fa757c",
       "size": 234,
       "contentType": "image/png",
@@ -2575,7 +2575,7 @@
     {
       "fileName": "Rock1_Idle (38x34).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock1_Idle (38x34).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock1_Idle%20(38x34).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock1_Idle%20(38x34).png",
       "sha256": "6f540ee33e7808653516c6b909dfd25e9ba6b5a1cdc9b224750792a9df3803c1",
       "size": 1753,
       "contentType": "image/png",
@@ -2585,7 +2585,7 @@
     {
       "fileName": "Rock1_Run (38x34).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock1_Run (38x34).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock1_Run%20(38x34).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock1_Run%20(38x34).png",
       "sha256": "f246182b93e08cf27f1e58cdf87cc273048f5330344eec5625b579a0a057d245",
       "size": 1996,
       "contentType": "image/png",
@@ -2595,7 +2595,7 @@
     {
       "fileName": "Rock2_Hit (32x28).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock2_Hit (32x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock2_Hit%20(32x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock2_Hit%20(32x28).png",
       "sha256": "7dd597692565371a9f19ad41e4f7153a43b6299cd07a7b86ca324033b1f60c26",
       "size": 198,
       "contentType": "image/png",
@@ -2605,7 +2605,7 @@
     {
       "fileName": "Rock2_Idle (32x28).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock2_Idle (32x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock2_Idle%20(32x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock2_Idle%20(32x28).png",
       "sha256": "1a5c68c572977c96f365009f33b071dd4f28eb378eb472f5508e3dc989d992f0",
       "size": 1462,
       "contentType": "image/png",
@@ -2615,7 +2615,7 @@
     {
       "fileName": "Rock2_Run (32x28).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock2_Run (32x28).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock2_Run%20(32x28).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock2_Run%20(32x28).png",
       "sha256": "326fc1b1cef35c226c2f2aa544848bbbf15546cb37fb83bbf9240e118fb3e96f",
       "size": 1551,
       "contentType": "image/png",
@@ -2625,7 +2625,7 @@
     {
       "fileName": "Rock3_Hit (22x18).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock3_Hit (22x18).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock3_Hit%20(22x18).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock3_Hit%20(22x18).png",
       "sha256": "2bdf22b8daa12d59751cd4533e133e9eff2a0254bf26853d062eb2c1176b98b4",
       "size": 576,
       "contentType": "image/png",
@@ -2635,7 +2635,7 @@
     {
       "fileName": "Rock3_Idle (22x18).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock3_Idle (22x18).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock3_Idle%20(22x18).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock3_Idle%20(22x18).png",
       "sha256": "8111dd2229a3250fce69195b3a69600a349d8782da6cb5a302fab7d12a3e803a",
       "size": 767,
       "contentType": "image/png",
@@ -2645,7 +2645,7 @@
     {
       "fileName": "Rock3_Run (22x18).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock3_Run (22x18).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock3_Run%20(22x18).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Rocks/Rock3_Run%20(22x18).png",
       "sha256": "ef29e98a18b76a1647e8f96bdc8a9d9f219eaf43d0b5fb636531045523ec3a70",
       "size": 934,
       "contentType": "image/png",
@@ -2655,7 +2655,7 @@
     {
       "fileName": "Hit (52x54).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Hit (52x54).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Hit%20(52x54).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Hit%20(52x54).png",
       "sha256": "99740122b2775a846dfe832df720f192d1cb01eb2f9ab85a4311e57de8dd0fcc",
       "size": 1460,
       "contentType": "image/png",
@@ -2665,7 +2665,7 @@
     {
       "fileName": "Hit Wall 1 (52x54).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Hit Wall 1 (52x54).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Hit%20Wall%201%20(52x54).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Hit%20Wall%201%20(52x54).png",
       "sha256": "5c51db8f79d5a3cfa9b52086df15369c1fffc8ca313327211f1ec482a0e204e5",
       "size": 3052,
       "contentType": "image/png",
@@ -2675,7 +2675,7 @@
     {
       "fileName": "Hit Wall 2 (52x54).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Hit Wall 2 (52x54).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Hit%20Wall%202%20(52x54).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Hit%20Wall%202%20(52x54).png",
       "sha256": "359af86313d6bbaa45b9f9c5f2b87e7fc44d19c28212b4a2970338c27f633a44",
       "size": 2986,
       "contentType": "image/png",
@@ -2685,7 +2685,7 @@
     {
       "fileName": "Idle 1 (52x54).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Idle 1 (52x54).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Idle%201%20(52x54).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Idle%201%20(52x54).png",
       "sha256": "e9868cdb5a35f610cd0457a4bd14a62c7410fef7354173292ba6e5a5e8742b30",
       "size": 3260,
       "contentType": "image/png",
@@ -2695,7 +2695,7 @@
     {
       "fileName": "Idle 2 (52x54).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Idle 2 (52x54).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Idle%202%20(52x54).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Idle%202%20(52x54).png",
       "sha256": "3f9330786418bd8b1f1385a4f357a89a7b55bf7413760c39553ea6e8494b2551",
       "size": 2069,
       "contentType": "image/png",
@@ -2705,7 +2705,7 @@
     {
       "fileName": "Orange Particle.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Orange Particle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Orange%20Particle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Orange%20Particle.png",
       "sha256": "002140321191e51cfdfe8b4fdca99c0374da3b83bcebf25dbd4707ef5133f97f",
       "size": 168,
       "contentType": "image/png",
@@ -2715,7 +2715,7 @@
     {
       "fileName": "Red Particle.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Red Particle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Red%20Particle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Skull/Red%20Particle.png",
       "sha256": "a517755b52b5f017c40e6b5d7fa9707244f0027f137305ace0d736b58ad23e94",
       "size": 177,
       "contentType": "image/png",
@@ -2725,7 +2725,7 @@
     {
       "fileName": "Hit (44x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Slime/Hit (44x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Slime/Hit%20(44x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Slime/Hit%20(44x30).png",
       "sha256": "487fa9c147cb2b8784f90a704b6a76935d2b23e6a3d006db25b8215dc89e3dfb",
       "size": 1313,
       "contentType": "image/png",
@@ -2735,7 +2735,7 @@
     {
       "fileName": "Idle-Run (44x30).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Slime/Idle-Run (44x30).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Slime/Idle-Run%20(44x30).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Slime/Idle-Run%20(44x30).png",
       "sha256": "50fe9559e908cc28ba923bbf1f119ab662467ae99c4f47879fec93fabce7ecc2",
       "size": 1953,
       "contentType": "image/png",
@@ -2745,7 +2745,7 @@
     {
       "fileName": "Particles (62x16).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Slime/Particles (62x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Slime/Particles%20(62x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Slime/Particles%20(62x16).png",
       "sha256": "93fae05342114ed41ba3947150e1aa95a16deb7122f52984988fcb1124f39350",
       "size": 236,
       "contentType": "image/png",
@@ -2755,7 +2755,7 @@
     {
       "fileName": "Hit (38x24).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Hit (38x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Hit%20(38x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Hit%20(38x24).png",
       "sha256": "cd3c2a3c6031a75d1f7068819e9c62f8fa426005fdb2fad1fb5f094eae4a42e2",
       "size": 1189,
       "contentType": "image/png",
@@ -2765,7 +2765,7 @@
     {
       "fileName": "Idle (38x24).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Idle (38x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Idle%20(38x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Idle%20(38x24).png",
       "sha256": "246e7bd913760d6976bec7a68157d4eed80dfff0267876de5dc0601789f1da31",
       "size": 1566,
       "contentType": "image/png",
@@ -2775,7 +2775,7 @@
     {
       "fileName": "Shell Idle (38x24).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Shell Idle (38x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Shell%20Idle%20(38x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Shell%20Idle%20(38x24).png",
       "sha256": "5c901262fa1a72c76f2ed5bbd6c60553de0721403f5a1639123895db3a211b3e",
       "size": 989,
       "contentType": "image/png",
@@ -2785,7 +2785,7 @@
     {
       "fileName": "Shell Top Hit (38x24).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Shell Top Hit (38x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Shell%20Top%20Hit%20(38x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Shell%20Top%20Hit%20(38x24).png",
       "sha256": "b05ec33937732136fc12b9b87fb3c09897631f6eb52d5b194e6caac2289457d9",
       "size": 958,
       "contentType": "image/png",
@@ -2795,7 +2795,7 @@
     {
       "fileName": "Shell Wall Hit (38x24).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Shell Wall Hit (38x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Shell%20Wall%20Hit%20(38x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Shell%20Wall%20Hit%20(38x24).png",
       "sha256": "f1551bf148e7bfea1bfbce178cf354c0d78956a8b9c3b3141dd7a818bff2f9c1",
       "size": 829,
       "contentType": "image/png",
@@ -2805,7 +2805,7 @@
     {
       "fileName": "Snail without shell.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Snail without shell.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Snail%20without%20shell.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Snail%20without%20shell.png",
       "sha256": "2e4a614fdafd5d811edd3cf1370d7f42b07545b46a075b1f17f031ac1f07b898",
       "size": 421,
       "contentType": "image/png",
@@ -2815,7 +2815,7 @@
     {
       "fileName": "Walk (38x24).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Walk (38x24).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Walk%20(38x24).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Snail/Walk%20(38x24).png",
       "sha256": "c7ef13f0da3ec07ee5d2865e20901e802d6d690878a71928366905a619795b56",
       "size": 1515,
       "contentType": "image/png",
@@ -2825,7 +2825,7 @@
     {
       "fileName": "Attack (64x32).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Attack (64x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Attack%20(64x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Attack%20(64x32).png",
       "sha256": "aa4ebd014fb15e8f8ebae0ff58880c5cb14d94ad6412e2132ee617f48ea4ffcc",
       "size": 2590,
       "contentType": "image/png",
@@ -2835,7 +2835,7 @@
     {
       "fileName": "Bullet Pieces.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Bullet Pieces.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Bullet%20Pieces.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Bullet%20Pieces.png",
       "sha256": "b29f4c0d4323c7a83a1e480f693482c3d0ee849fd58969372d2d0b43bacf294c",
       "size": 298,
       "contentType": "image/png",
@@ -2845,7 +2845,7 @@
     {
       "fileName": "Bullet.png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Bullet.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Bullet.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Bullet.png",
       "sha256": "bda07fddce70b45e7dd70ac8b98bae71ef55409080d0cfb78a5729529f3df837",
       "size": 231,
       "contentType": "image/png",
@@ -2855,7 +2855,7 @@
     {
       "fileName": "Hit (64x32).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Hit (64x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Hit%20(64x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Hit%20(64x32).png",
       "sha256": "1b3ce7c6b273ec809994da65cfd702031d9ab7c6253d3832eef9345d51669a60",
       "size": 1599,
       "contentType": "image/png",
@@ -2865,7 +2865,7 @@
     {
       "fileName": "Idle (64x32).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Idle (64x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Idle%20(64x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Idle%20(64x32).png",
       "sha256": "bbc3bed28d0ce03315a0c00aef3ce89519e7aed1eb40327fb816e29b5abebe67",
       "size": 2728,
       "contentType": "image/png",
@@ -2875,7 +2875,7 @@
     {
       "fileName": "Run (64x32).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Run (64x32).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Run%20(64x32).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Trunk/Run%20(64x32).png",
       "sha256": "af9a4872924b08d9fc721e23be05572faed89428f46ec49497bb5a5f2b515b6f",
       "size": 2409,
       "contentType": "image/png",
@@ -2885,7 +2885,7 @@
     {
       "fileName": "Hit (44x26).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Hit (44x26).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Hit%20(44x26).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Hit%20(44x26).png",
       "sha256": "7168695bbc1cc8cf37df8515e33f8523f3215ec58747c6247c8c30535da759e7",
       "size": 1026,
       "contentType": "image/png",
@@ -2895,7 +2895,7 @@
     {
       "fileName": "Idle 1 (44x26).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Idle 1 (44x26).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Idle%201%20(44x26).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Idle%201%20(44x26).png",
       "sha256": "aa8d95f36149c9c824bf561b7976112dbf548fc8203d0ef6763458c2f68a0491",
       "size": 1791,
       "contentType": "image/png",
@@ -2905,7 +2905,7 @@
     {
       "fileName": "Idle 2 (44x26).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Idle 2 (44x26).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Idle%202%20(44x26).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Idle%202%20(44x26).png",
       "sha256": "55c4241de005fea4bdf49e3084f7c0725b863302edaede7cc46293d483ac600b",
       "size": 1321,
       "contentType": "image/png",
@@ -2915,7 +2915,7 @@
     {
       "fileName": "Spikes in (44x26).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Spikes in (44x26).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Spikes%20in%20(44x26).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Spikes%20in%20(44x26).png",
       "sha256": "1b5b170239bfaf9febb18dd08ae732598df88959b02950f8a6d17faec79ae810",
       "size": 1731,
       "contentType": "image/png",
@@ -2925,7 +2925,7 @@
     {
       "fileName": "Spikes out (44x26).png",
       "path": "packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Spikes out (44x26).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/3af33dfa72868b34b0e38a8691d82fd773614339/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Spikes%20out%20(44x26).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/fa6432a09ee34a7d146a3684afa9337d5b38259c/packs/pixelfrog-pixel-adventure-2/sprites/Enemies/Turtle/Spikes%20out%20(44x26).png",
       "sha256": "1fc1287a65c4d12dea328470fe47241b5b77f6ed8608dff6a3d776fb275158ac",
       "size": 1614,
       "contentType": "image/png",
