@@ -1,0 +1,17 @@
+{
+  "name": "Pixel Adventure 1",
+  "creator": "Pixel Frog",
+  "website": "https://pixelfrog-assets.itch.io/pixel-adventure-1",
+  "license": "CC0",
+  "description": "2D pixel-art platformer graphics featuring iconic characters (Ninja Frog, Pink Man, Mask Dude, Virtual Guy), animated items, fruit collectibles, checkpoints, traps, backgrounds, and terrain tilesets by Pixel Frog.",
+  "generation": {
+    "category": "Characters",
+    "allowed_categories": [
+      "Characters",
+      "Tilesets & Environments",
+      "Items & Icons",
+      "Backgrounds",
+      "Effects"
+    ]
+  }
+}

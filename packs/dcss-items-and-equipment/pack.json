@@ -1,0 +1,13 @@
+{
+  "name": "Dungeon Crawl: Items & Equipment",
+  "creator": "Dungeon Crawl Stone Soup Team",
+  "website": "https://crawl.develz.org/",
+  "license": "CC0",
+  "description": "Over 640 classic 32x32 RPG items: swords, axes, maces, bows, shields, body armor, helmets, boots, potions, scrolls, wands, rings, amulets, and gold from Dungeon Crawl Stone Soup. CC0 1.0 Universal.",
+  "generation": {
+    "category": "Items & Icons",
+    "allowed_categories": [
+      "Items & Icons"
+    ]
+  }
+}

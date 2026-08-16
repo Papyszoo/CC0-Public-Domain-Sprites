@@ -140,22 +140,29 @@ function categorize(relPath, options = {}) {
   // 2. Directory segment mapping
   const segments = normalized.split('/').filter(Boolean);
   for (const seg of segments) {
-    if ((seg === 'characters' || seg === 'character') && (!allowedCategories || allowedCategories.has('Characters'))) {
+    if ((seg === 'characters' || seg === 'character' || seg.includes('main characters') || seg.includes('-player-')) && (!allowedCategories || allowedCategories.has('Characters'))) {
       return { category: 'Characters', subcategory: 'Humanoids' };
     }
-    if ((seg === 'creatures' || seg === 'monsters' || seg === 'enemies') && (!allowedCategories || allowedCategories.has('Creatures'))) {
+    if ((seg === 'creatures' || seg === 'monsters' || seg === 'enemies' || seg.includes('-enemy-') || seg.includes('pig')) && (!allowedCategories || allowedCategories.has('Creatures'))) {
+      if (seg.includes('whale') || seg.includes('bird') || seg.includes('duck') || seg.includes('turtle')) {
+        return { category: 'Creatures', subcategory: 'Animals' };
+      }
       return { category: 'Creatures', subcategory: 'Monsters' };
     }
-    if ((seg === 'tilesets' || seg === 'tiles' || seg === 'environments' || seg === 'terrain') && (!allowedCategories || allowedCategories.has('Tilesets & Environments'))) {
+    if ((seg === 'tilesets' || seg === 'tiles' || seg === 'environments' || seg === 'terrain' || seg.includes('tile-set') || seg.includes('tileset')) && (!allowedCategories || allowedCategories.has('Tilesets & Environments'))) {
       return { category: 'Tilesets & Environments', subcategory: 'Terrain & Platforms' };
     }
-    if ((seg === 'items' || seg === 'icons') && (!allowedCategories || allowedCategories.has('Items & Icons'))) {
+    if ((seg === 'items' || seg === 'icons' || seg.includes('objects')) && (!allowedCategories || allowedCategories.has('Items & Icons'))) {
+      if (baseName.includes('bomb') || baseName.includes('cannon')) return { category: 'Items & Icons', subcategory: 'Weapons' };
+      if (baseName.includes('coin') || baseName.includes('diamond') || baseName.includes('heart') || baseName.includes('live')) return { category: 'Items & Icons', subcategory: 'Loot & Coins' };
+      if (baseName.includes('potion') || baseName.includes('fruit')) return { category: 'Items & Icons', subcategory: 'Consumables' };
       return { category: 'Items & Icons', subcategory: 'Tools & Resources' };
     }
-    if ((seg === 'ui' || seg === 'gui' || seg === 'interface') && (!allowedCategories || allowedCategories.has('UI'))) {
+    if ((seg === 'ui' || seg === 'gui' || seg === 'interface' || seg.includes('dialogue')) && (!allowedCategories || allowedCategories.has('UI'))) {
+      if (seg.includes('dialogue')) return { category: 'UI', subcategory: 'Panels & Windows' };
       return { category: 'UI', subcategory: 'Buttons & Controls' };
     }
-    if ((seg === 'effects' || seg === 'fx' || seg === 'particles') && (!allowedCategories || allowedCategories.has('Effects'))) {
+    if ((seg === 'effects' || seg === 'fx' || seg === 'particles' || seg.includes('traps') || seg.includes('effect')) && (!allowedCategories || allowedCategories.has('Effects'))) {
       return { category: 'Effects', subcategory: 'Particles' };
     }
     if ((seg === 'backgrounds' || seg === 'background' || seg === 'parallax') && (!allowedCategories || allowedCategories.has('Backgrounds'))) {

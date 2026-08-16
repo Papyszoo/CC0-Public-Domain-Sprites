@@ -1,0 +1,17 @@
+{
+  "name": "Pirate Bomb",
+  "creator": "Pixel Frog",
+  "website": "https://pixelfrog-assets.itch.io/pirate-bomb",
+  "license": "CC0",
+  "description": "2D pirate pixel art asset pack with animated Bomb Guy player, pirate enemies (Bald Pirate, Cucumber, Big Guy, Captain, Whale), interactive bombs, chests, doors, and wooden ship tile-sets by Pixel Frog.",
+  "generation": {
+    "category": "Characters",
+    "allowed_categories": [
+      "Characters",
+      "Creatures",
+      "Tilesets & Environments",
+      "Items & Icons",
+      "Effects"
+    ]
+  }
+}

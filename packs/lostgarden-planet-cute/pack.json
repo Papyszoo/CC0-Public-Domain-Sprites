@@ -1,0 +1,16 @@
+{
+  "name": "Planet Cute",
+  "creator": "Daniel Cook",
+  "website": "https://lostgarden.home.blog/2007/05/12/dancs-miraculously-flexible-game-prototyping-tiles/",
+  "license": "CC0",
+  "description": "Iconic modular isometric and orthographic prototyping tiles, cute characters (Boy, Cat Girl, Horn Girl, Princess Girl), enemy bugs, ramps, water, gems, chests, and terrain blocks by Daniel Cook (Lostgarden).",
+  "generation": {
+    "category": "Tilesets & Environments",
+    "allowed_categories": [
+      "Tilesets & Environments",
+      "Characters",
+      "Creatures",
+      "Items & Icons"
+    ]
+  }
+}

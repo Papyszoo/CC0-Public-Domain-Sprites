@@ -1,0 +1,14 @@
+{
+  "name": "Dungeon Crawl: Characters & Spells",
+  "creator": "Dungeon Crawl Stone Soup Team",
+  "website": "https://crawl.develz.org/",
+  "license": "CC0",
+  "description": "Over 1,000 RPG character race avatars, equipment overlays, spell icons, elemental magic bursts, and status effects from Dungeon Crawl Stone Soup. CC0 1.0 Universal.",
+  "generation": {
+    "category": "Characters",
+    "allowed_categories": [
+      "Characters",
+      "Effects"
+    ]
+  }
+}

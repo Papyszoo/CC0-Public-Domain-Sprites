@@ -1,0 +1,14 @@
+{
+  "name": "Pixel Adventure 2",
+  "creator": "Pixel Frog",
+  "website": "https://pixelfrog-assets.itch.io/pixel-adventure-2",
+  "license": "CC0",
+  "description": "20 unique animated 2D enemy characters (Angry Pig, Bat, Bee, Blue Bird, Bunny, Chameleon, Duck, Fat Bird, Ghost, Mushroom, Plant, Radish, Rhino, Rocks, Skull, Slime, Snail, Spiked Ball, Trunk, Turtle) with idle, run, hit, and attack sprite strips by Pixel Frog.",
+  "generation": {
+    "category": "Creatures",
+    "allowed_categories": [
+      "Creatures",
+      "Effects"
+    ]
+  }
+}

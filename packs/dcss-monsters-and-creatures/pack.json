@@ -1,0 +1,13 @@
+{
+  "name": "Dungeon Crawl: Monsters & Creatures",
+  "creator": "Dungeon Crawl Stone Soup Team",
+  "website": "https://crawl.develz.org/",
+  "license": "CC0",
+  "description": "Over 540 fantasy monster sprites: dragons, demons, undead, orcs, goblins, slimes, hydras, beasts, and mythical creatures from Dungeon Crawl Stone Soup. CC0 1.0 Universal.",
+  "generation": {
+    "category": "Creatures",
+    "allowed_categories": [
+      "Creatures"
+    ]
+  }
+}
