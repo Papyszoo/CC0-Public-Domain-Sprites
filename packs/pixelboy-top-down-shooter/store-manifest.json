@@ -6,7 +6,7 @@
   "website": "https://github.com/sparklinlabs/superpowers-asset-packs",
   "description": "Top-down survival shooter pixel art sprites by Pixel-boy: commando soldiers, zombie hordes, assault rifles, shotguns, bullet casings, blood splatters, and urban warehouse tiles.",
   "folder": "packs/pixelboy-top-down-shooter",
-  "pinnedSha": "4c9cf1daaa502e338091086b353022c0330d745e",
+  "pinnedSha": "74dd2512da9a1f55334407b73f8ce5405481c17c",
   "itemCount": 101,
   "items": [
     {
@@ -1226,7 +1226,7 @@
     {
       "fileName": "background_tileset.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/background_tileset.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/background_tileset.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/background_tileset.png",
       "sha256": "281430fd30733e500bca366a46bcaccc26ec2dda0fe086d35d27d573b6bf48f2",
       "size": 12947,
       "role": "Image"
@@ -1234,7 +1234,7 @@
     {
       "fileName": "background_window_particle-1.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/background_window_particle-1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/background_window_particle-1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/background_window_particle-1.png",
       "sha256": "504e3a0ca31736be219e985b1f80bfc07602165a7d3348ee89c06caad76d2f56",
       "size": 2818,
       "role": "Image"
@@ -1242,7 +1242,7 @@
     {
       "fileName": "background_window_particle-2.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/background_window_particle-2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/background_window_particle-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/background_window_particle-2.png",
       "sha256": "e1ecef8e748cd5fe043b1021b7b670fcca45932bd0db3a69c9f086932cc6f04b",
       "size": 2826,
       "role": "Image"
@@ -1250,7 +1250,7 @@
     {
       "fileName": "background_window_particle-3.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/background_window_particle-3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/background_window_particle-3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/background_window_particle-3.png",
       "sha256": "2a9c398ec2d8dc748971b93238cbc55a757a66b96e864da159945c3bcf773777",
       "size": 2852,
       "role": "Image"
@@ -1258,7 +1258,7 @@
     {
       "fileName": "background_window_window-horizontal.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/background_window_window-horizontal.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/background_window_window-horizontal.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/background_window_window-horizontal.png",
       "sha256": "93a717de90323a6d62a4ce815c5da578301f0b0f867b9debe8a04e4366e586e2",
       "size": 2844,
       "role": "Image"
@@ -1266,7 +1266,7 @@
     {
       "fileName": "background_window_window-vertical.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/background_window_window-vertical.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/background_window_window-vertical.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/background_window_window-vertical.png",
       "sha256": "1ff326f79ee2b009d29d3596beb2ad08f51ac42dafc256543dbf1fdd3c9784a5",
       "size": 2854,
       "role": "Image"
@@ -1274,7 +1274,7 @@
     {
       "fileName": "characters_body_1.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_body_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_body_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_body_1.png",
       "sha256": "f7e87cea213d29f802d52721916e9aed50d5bb9fd4d9635f9e4557191c06a171",
       "size": 2933,
       "role": "Image"
@@ -1282,7 +1282,7 @@
     {
       "fileName": "characters_body_2.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_body_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_body_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_body_2.png",
       "sha256": "ee8d6f80592d579c8c3f265dcc4d4f9300981340a7eb37eff96c9f75d62c3108",
       "size": 2942,
       "role": "Image"
@@ -1290,7 +1290,7 @@
     {
       "fileName": "characters_body_3.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_body_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_body_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_body_3.png",
       "sha256": "12af7f92a1dd5c639bbeb488f06485ab162ce4755118ea19392b1d6678eabe97",
       "size": 2944,
       "role": "Image"
@@ -1298,7 +1298,7 @@
     {
       "fileName": "characters_example.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_example.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_example.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_example.png",
       "sha256": "7a3e88657dc5c226645f5261ff3590aad4c499306d7d57da6c071548ed2bcc39",
       "size": 3108,
       "role": "Image"
@@ -1306,7 +1306,7 @@
     {
       "fileName": "characters_head_1.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_1.png",
       "sha256": "6a8c954a9611f5029654bd5d3af149c041cf0d4ac5495aec02a2477ab71289f8",
       "size": 2960,
       "role": "Image"
@@ -1314,7 +1314,7 @@
     {
       "fileName": "characters_head_10.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_10.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_10.png",
       "sha256": "eb780993a0ae3d3f13d0d1de060802e8977068a5e48cb641d1ec0f3d9c610f8b",
       "size": 3035,
       "role": "Image"
@@ -1322,7 +1322,7 @@
     {
       "fileName": "characters_head_11.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_11.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_11.png",
       "sha256": "31db1eeb976a486d014a5eb26608cabf9386a52c486e487c7948c43eb70d9267",
       "size": 2934,
       "role": "Image"
@@ -1330,7 +1330,7 @@
     {
       "fileName": "characters_head_12.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_12.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_12.png",
       "sha256": "08870d18eaeb2bd74247d3d0a69d94fa65768ea89a5549904a4ac60bc5d46c13",
       "size": 2941,
       "role": "Image"
@@ -1338,7 +1338,7 @@
     {
       "fileName": "characters_head_13.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_13.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_13.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_13.png",
       "sha256": "b5995ae0f168aa40b3d0faf6221d97a12fc5a1a6ea2ac4d09f04255520a275d8",
       "size": 2969,
       "role": "Image"
@@ -1346,7 +1346,7 @@
     {
       "fileName": "characters_head_14.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_14.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_14.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_14.png",
       "sha256": "626ab725a491e3379eda4e8f191cb55e08ea6257dea90994196a8a804b985d53",
       "size": 3059,
       "role": "Image"
@@ -1354,7 +1354,7 @@
     {
       "fileName": "characters_head_2.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_2.png",
       "sha256": "774d60c10f2e0b407e44a4386fd9e554f267ce3b21cdde15e3b4ca5859673023",
       "size": 2946,
       "role": "Image"
@@ -1362,7 +1362,7 @@
     {
       "fileName": "characters_head_3.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_3.png",
       "sha256": "d258029a635361f7525f60c20d836ee213e53cea91603fc744043df28299fc19",
       "size": 2968,
       "role": "Image"
@@ -1370,7 +1370,7 @@
     {
       "fileName": "characters_head_4.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_4.png",
       "sha256": "8e0b338fc4c60db2847e3d0836e4150b5bffb94b053a5a94ad4564b75f5f3529",
       "size": 2982,
       "role": "Image"
@@ -1378,7 +1378,7 @@
     {
       "fileName": "characters_head_5.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_5.png",
       "sha256": "371411046775e1108763beb64a48bb337aa65d902a2d57671dc91c5063763534",
       "size": 3032,
       "role": "Image"
@@ -1386,7 +1386,7 @@
     {
       "fileName": "characters_head_6.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_6.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_6.png",
       "sha256": "460fdb0e122fa09563b88ffaa1bbf14a81c31d190d133907df413b354b6d7df9",
       "size": 2988,
       "role": "Image"
@@ -1394,7 +1394,7 @@
     {
       "fileName": "characters_head_7.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_7.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_7.png",
       "sha256": "e152260d2e73b22b3e21083a4f1f0038f7151bee0e4dff34b1331621646eb074",
       "size": 2949,
       "role": "Image"
@@ -1402,7 +1402,7 @@
     {
       "fileName": "characters_head_8.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_8.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_8.png",
       "sha256": "aa252fc0971c3fa7bb2e22c4f674c8831e66b66754a564e06bc263d1641453c8",
       "size": 2976,
       "role": "Image"
@@ -1410,7 +1410,7 @@
     {
       "fileName": "characters_head_9.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_9.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_9.png",
       "sha256": "1b9e3a98f8fd922ed3ae9bd426305a357b0370160c92d1b5e6983e7870626870",
       "size": 2988,
       "role": "Image"
@@ -1418,7 +1418,7 @@
     {
       "fileName": "characters_leg-animation.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_leg-animation.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_leg-animation.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_leg-animation.png",
       "sha256": "8d13a5c4882d0641dfa52793266831934f407f109f8f63602d65ebde93ae6a22",
       "size": 258,
       "role": "Image"
@@ -1426,7 +1426,7 @@
     {
       "fileName": "characters_robot_body.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_robot_body.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_robot_body.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_robot_body.png",
       "sha256": "de0902cc6eeee2139ce8ff3538faf742fc91c1cd337d9c090c445be289ecb3f0",
       "size": 3324,
       "role": "Image"
@@ -1434,7 +1434,7 @@
     {
       "fileName": "characters_robot_example.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_robot_example.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_robot_example.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_robot_example.png",
       "sha256": "46b138422048bdc9348f10928a04f1fb5099f732ed9fa9ea44225a334c379fa2",
       "size": 3670,
       "role": "Image"
@@ -1442,7 +1442,7 @@
     {
       "fileName": "characters_robot_head.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_robot_head.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_robot_head.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_robot_head.png",
       "sha256": "935fde27566d9b256d16cd54bd67bd534ff66233d28a684822686a9cd1da3bad",
       "size": 3054,
       "role": "Image"
@@ -1450,7 +1450,7 @@
     {
       "fileName": "characters_robot_leg.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_robot_leg.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_robot_leg.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_robot_leg.png",
       "sha256": "a54b19f0e6359b90813512a306d33bff747586fe66f8fbb25da5a578ee49f14a",
       "size": 265,
       "role": "Image"
@@ -1458,7 +1458,7 @@
     {
       "fileName": "characters_robot_weapon.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_robot_weapon.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_robot_weapon.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_robot_weapon.png",
       "sha256": "ec8309618f0298b84a6c66bb513fb72f7d8b4836cbf036722f2b1d5460be05ef",
       "size": 3235,
       "role": "Image"
@@ -1466,7 +1466,7 @@
     {
       "fileName": "characters_tank-base.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_tank-base.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_tank-base.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_tank-base.png",
       "sha256": "80326ba0ec7ab0215b23b1e0cf6acf676c79b158e712f461fc1236eb2be7660f",
       "size": 4545,
       "role": "Image"
@@ -1474,7 +1474,7 @@
     {
       "fileName": "characters_tank-cannon.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_tank-cannon.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_tank-cannon.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_tank-cannon.png",
       "sha256": "528df94d70218dcca8e5ec34fae9f5e06c989852a8a5b912f63450691119bf30",
       "size": 4265,
       "role": "Image"
@@ -1482,7 +1482,7 @@
     {
       "fileName": "characters_tank.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_tank.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_tank.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_tank.png",
       "sha256": "378be4d5dbc1b6272e6f9d156274a22793262cb88761ea2d726a45232c0a5618",
       "size": 5753,
       "role": "Image"
@@ -1490,7 +1490,7 @@
     {
       "fileName": "characters_turret_1.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_turret_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_turret_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_turret_1.png",
       "sha256": "423e318cd054af4b83e0f0f211cafbe8da88ec9b8f924e402d3d639390d8e1c0",
       "size": 3199,
       "role": "Image"
@@ -1498,7 +1498,7 @@
     {
       "fileName": "characters_turret_2.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_turret_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_turret_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_turret_2.png",
       "sha256": "eae4ffd847a397731d89c8a87cdc927a889b2e794cc9d6ffde3738e20f7ce2f4",
       "size": 3131,
       "role": "Image"
@@ -1506,7 +1506,7 @@
     {
       "fileName": "characters_turret_3.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_turret_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_turret_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_turret_3.png",
       "sha256": "68b6ec2c8a1a06d4b7ccbd8097581b9cfa23cc913946435e3b127bc766fa79bb",
       "size": 3145,
       "role": "Image"
@@ -1514,7 +1514,7 @@
     {
       "fileName": "characters_turret_base.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_turret_base.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_turret_base.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_turret_base.png",
       "sha256": "147e759961b329248b2c703702181ed1961a8946f858fdec42624580621a6833",
       "size": 3238,
       "role": "Image"
@@ -1522,7 +1522,7 @@
     {
       "fileName": "effects_1 (37x37).png",
       "path": "packs/pixelboy-top-down-shooter/sprites/effects_1 (37x37).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/effects_1%20(37x37).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/effects_1%20(37x37).png",
       "sha256": "2f9012bab2c1e4c1e8b62a36e3b0e87a78a59274d787b58f03c9b3c2a94d79c4",
       "size": 634,
       "role": "Image"
@@ -1530,7 +1530,7 @@
     {
       "fileName": "effects_2.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/effects_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/effects_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/effects_2.png",
       "sha256": "ecc44bfffc0f79b2c6bd55fb19885f96ceb008adcb8a00cdd608d7899de21df0",
       "size": 1300,
       "role": "Image"
@@ -1538,7 +1538,7 @@
     {
       "fileName": "effects_3.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/effects_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/effects_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/effects_3.png",
       "sha256": "a2485918f13c63c9cde975dce8820ead7f65470b4a35d85db8bac5b24ecbe8aa",
       "size": 522,
       "role": "Image"
@@ -1546,7 +1546,7 @@
     {
       "fileName": "effects_4 (16x16).png",
       "path": "packs/pixelboy-top-down-shooter/sprites/effects_4 (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/effects_4%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/effects_4%20(16x16).png",
       "sha256": "4acd8e3ead00c19fe8923c96abd5c09580ad50293fb09cc832c82af0ed7f4d55",
       "size": 330,
       "role": "Image"
@@ -1554,7 +1554,7 @@
     {
       "fileName": "effects_alert-sign.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/effects_alert-sign.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/effects_alert-sign.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/effects_alert-sign.png",
       "sha256": "dfe3bbd2e9452040863df7ad4d7e90ce7daee12176afdc96659e518aafd98ace",
       "size": 2898,
       "role": "Image"
@@ -1562,7 +1562,7 @@
     {
       "fileName": "effects_explosion.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/effects_explosion.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/effects_explosion.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/effects_explosion.png",
       "sha256": "470c1faaedbae4347be139afb4c7fcf6cb3853f6bcb0fef81fd9462029f098de",
       "size": 1305,
       "role": "Image"
@@ -1570,7 +1570,7 @@
     {
       "fileName": "font-1.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/font-1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/font-1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/font-1.png",
       "sha256": "1792ae4e0fb23cb26a34d627c76e06282751b7e6ec10514581ee587c1522f93e",
       "size": 5843,
       "role": "Image"
@@ -1578,7 +1578,7 @@
     {
       "fileName": "font-2.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/font-2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/font-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/font-2.png",
       "sha256": "d93a246d5567064a491dc294b6a9618402b8c860932762482edf03df031f33da",
       "size": 6958,
       "role": "Image"
@@ -1586,7 +1586,7 @@
     {
       "fileName": "hud_ammo-empty.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/hud_ammo-empty.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/hud_ammo-empty.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/hud_ammo-empty.png",
       "sha256": "4f3e5916aa73f30c6074932ab6fc389ce151c725ac4cbcec6c29f6714e1c93b7",
       "size": 2862,
       "role": "Image"
@@ -1594,7 +1594,7 @@
     {
       "fileName": "hud_ammo.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/hud_ammo.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/hud_ammo.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/hud_ammo.png",
       "sha256": "06f0595b7142be6c4587951dcffde60e0cd75e6476b53e5a726cdd92a99241c3",
       "size": 2920,
       "role": "Image"
@@ -1602,7 +1602,7 @@
     {
       "fileName": "hud_arrow.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/hud_arrow.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/hud_arrow.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/hud_arrow.png",
       "sha256": "6a8bcd7798e65ef01d4109c2f4c4a1cda2b0674853f0ad4de1c6ab05492ec5e2",
       "size": 2932,
       "role": "Image"
@@ -1610,7 +1610,7 @@
     {
       "fileName": "hud_cursor.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/hud_cursor.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/hud_cursor.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/hud_cursor.png",
       "sha256": "4913a11ead5edbcc707b29523b8c88780ebce9f5573999e1f445d9fc187db084",
       "size": 2833,
       "role": "Image"
@@ -1618,7 +1618,7 @@
     {
       "fileName": "hud_example.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/hud_example.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/hud_example.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/hud_example.png",
       "sha256": "977390debc7662e9bfd1f4608b181a9b2df27d164518932a22d5b3aa3d0e7424",
       "size": 3206,
       "role": "Image"
@@ -1626,7 +1626,7 @@
     {
       "fileName": "hud_life-box.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/hud_life-box.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/hud_life-box.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/hud_life-box.png",
       "sha256": "a6df9a92ba57b353edd7d8de0ac4befde8fb2f46c354320f69c4752ae203aa0c",
       "size": 3135,
       "role": "Image"
@@ -1634,7 +1634,7 @@
     {
       "fileName": "hud_life-rectangle.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/hud_life-rectangle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/hud_life-rectangle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/hud_life-rectangle.png",
       "sha256": "f4a56f8ffea1851265dab5beec491b626dbff18519c1a2a5e4c2cff8af86208d",
       "size": 2840,
       "role": "Image"
@@ -1642,7 +1642,7 @@
     {
       "fileName": "hud_part-1.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/hud_part-1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/hud_part-1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/hud_part-1.png",
       "sha256": "71ca8b1440c4a72aef15e9cea73abeb82ab387e0e513919ad0db8ce5d285d03f",
       "size": 2978,
       "role": "Image"
@@ -1650,7 +1650,7 @@
     {
       "fileName": "hud_part-2.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/hud_part-2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/hud_part-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/hud_part-2.png",
       "sha256": "c412c6d4d78d56326fb21e64331cb0898d34d5446a716d71594c52e8e208634c",
       "size": 2826,
       "role": "Image"
@@ -1658,7 +1658,7 @@
     {
       "fileName": "hud_wrench.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/hud_wrench.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/hud_wrench.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/hud_wrench.png",
       "sha256": "612af89dc9082552fa5c281207055202830d94dafe4abaccc6cf589019722eb3",
       "size": 290,
       "role": "Image"
@@ -1666,7 +1666,7 @@
     {
       "fileName": "item_ammo-pack.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/item_ammo-pack.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/item_ammo-pack.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/item_ammo-pack.png",
       "sha256": "e6f424d3de0239eec1085654ddb1d8c835d30895e60a5dfd2f453acea7b22f03",
       "size": 2925,
       "role": "Image"
@@ -1674,7 +1674,7 @@
     {
       "fileName": "item_barril.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/item_barril.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/item_barril.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/item_barril.png",
       "sha256": "67d4f7490447b85a67d37750166a53c47aa9a5a34ff55d3859e836c06f9d5fa3",
       "size": 3257,
       "role": "Image"
@@ -1682,7 +1682,7 @@
     {
       "fileName": "item_grenade-pack.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/item_grenade-pack.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/item_grenade-pack.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/item_grenade-pack.png",
       "sha256": "9d1c8ec46e98864259f6780df079b5ab03e110101531ba437cf5cc33f1e103df",
       "size": 3126,
       "role": "Image"
@@ -1690,7 +1690,7 @@
     {
       "fileName": "item_grenade.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/item_grenade.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/item_grenade.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/item_grenade.png",
       "sha256": "704b1adacd8e5ad993af462c7087d665b1cf6e270d127f95d3bc1784e8983ecb",
       "size": 2925,
       "role": "Image"
@@ -1698,7 +1698,7 @@
     {
       "fileName": "item_medikit.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/item_medikit.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/item_medikit.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/item_medikit.png",
       "sha256": "6e071cc9959b6c000e41030f8c008ca94ba5a3083135cd93fd7fe3cea6b9859c",
       "size": 2922,
       "role": "Image"
@@ -1706,7 +1706,7 @@
     {
       "fileName": "weapons_1.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_1.png",
       "sha256": "f20fa2dc1131e160d49367fb787370601954490ec45907e0ad9e63bf2a5a196d",
       "size": 3043,
       "role": "Image"
@@ -1714,7 +1714,7 @@
     {
       "fileName": "weapons_10.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_10.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_10.png",
       "sha256": "c3ad268a44f9384e159c990ed7262cb5f00e215c3f246ead9d5595be79a197a6",
       "size": 3148,
       "role": "Image"
@@ -1722,7 +1722,7 @@
     {
       "fileName": "weapons_11.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_11.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_11.png",
       "sha256": "d28da3ee62db6ae587ab77e5b9ce521511f50cf0e80a8e9a8c3cf3a74a573b91",
       "size": 3250,
       "role": "Image"
@@ -1730,7 +1730,7 @@
     {
       "fileName": "weapons_12.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_12.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_12.png",
       "sha256": "195ccbd331079c7cc2cba0676b651fc7e5f636eb4f4d10029d56cc0d9215b1e6",
       "size": 3030,
       "role": "Image"
@@ -1738,7 +1738,7 @@
     {
       "fileName": "weapons_2.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_2.png",
       "sha256": "472ed6386ce96ab5589eaa73017b3a5e330a4ee834b994c37e7ac8f1786cc3ba",
       "size": 3125,
       "role": "Image"
@@ -1746,7 +1746,7 @@
     {
       "fileName": "weapons_3.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_3.png",
       "sha256": "e729875dad86520930812ea4dd8f4304e0ebc8b61011acbece3cd78e7ea91993",
       "size": 3048,
       "role": "Image"
@@ -1754,7 +1754,7 @@
     {
       "fileName": "weapons_4.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_4.png",
       "sha256": "0c872d25dad668cfa7facb71ef1b9eeede957d2071b39246c92484e2cba3f203",
       "size": 3181,
       "role": "Image"
@@ -1762,7 +1762,7 @@
     {
       "fileName": "weapons_5.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_5.png",
       "sha256": "3451a6e3f9d978f08d0aefa1beed1f8a606caa0e1e611710248cd0d5a964f33a",
       "size": 3055,
       "role": "Image"
@@ -1770,7 +1770,7 @@
     {
       "fileName": "weapons_6.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_6.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_6.png",
       "sha256": "1832b0caa88c20487ef1ffa6b756c4d77e535071d3de888c064cee4da66f5dd2",
       "size": 3068,
       "role": "Image"
@@ -1778,7 +1778,7 @@
     {
       "fileName": "weapons_7.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_7.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_7.png",
       "sha256": "3022eb91ea202c48eea1c2846345effed4eb23b088411bc33ad678974f5a97cb",
       "size": 3056,
       "role": "Image"
@@ -1786,7 +1786,7 @@
     {
       "fileName": "weapons_8.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_8.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_8.png",
       "sha256": "3444f8ca3b46bd9ec6b0bb31ebb787fdb61b020aea7328602d8ab0a532124fd5",
       "size": 3111,
       "role": "Image"
@@ -1794,7 +1794,7 @@
     {
       "fileName": "weapons_9 (16x16).png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_9 (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_9%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_9%20(16x16).png",
       "sha256": "5e1896d0f6248bc2bfa4ffd123e4faf0814c160e2bd9a9ea7b3a5a1f0be642bd",
       "size": 3128,
       "role": "Image"
@@ -1802,7 +1802,7 @@
     {
       "fileName": "weapons_attach-to-body_1.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_1.png",
       "sha256": "d410e846e80b0209c40384dd550ff0215c93e85e4f6a45baadf54b2efcd1a698",
       "size": 2872,
       "role": "Image"
@@ -1810,7 +1810,7 @@
     {
       "fileName": "weapons_attach-to-body_10.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_10.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_10.png",
       "sha256": "709898c1fc3ae1d1dbf68810b88e26048709a15f8c6007987eb23e5d3d310214",
       "size": 2964,
       "role": "Image"
@@ -1818,7 +1818,7 @@
     {
       "fileName": "weapons_attach-to-body_11.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_11.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_11.png",
       "sha256": "b55f4c9f11e1fce68879d5dae0f015fd88b3831ee26dc51871efa31242468abd",
       "size": 2934,
       "role": "Image"
@@ -1826,7 +1826,7 @@
     {
       "fileName": "weapons_attach-to-body_12.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_12.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_12.png",
       "sha256": "1ceb39bde094cc5e2155d02a8b406a6b015520c19a2de4b7102b4620a7a34588",
       "size": 2948,
       "role": "Image"
@@ -1834,7 +1834,7 @@
     {
       "fileName": "weapons_attach-to-body_2.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_2.png",
       "sha256": "9f37bb54bdf85171a224166366715a870d707d3873ec88c66728071b96086e3b",
       "size": 2928,
       "role": "Image"
@@ -1842,7 +1842,7 @@
     {
       "fileName": "weapons_attach-to-body_3.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_3.png",
       "sha256": "19c09682d0dc1d2788d7019ff017bf8c136f3f750e3575f249c4cdb301ae3766",
       "size": 2897,
       "role": "Image"
@@ -1850,7 +1850,7 @@
     {
       "fileName": "weapons_attach-to-body_4.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_4.png",
       "sha256": "e510b538753b124dafd01de48d99b594176db3627e26a8e9aaf91d6013ffeccd",
       "size": 2944,
       "role": "Image"
@@ -1858,7 +1858,7 @@
     {
       "fileName": "weapons_attach-to-body_5.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_5.png",
       "sha256": "063dd8b0a2bab2ece098ef2cfbd4652d93925257f49c5662253490d0c8f3c67d",
       "size": 2932,
       "role": "Image"
@@ -1866,7 +1866,7 @@
     {
       "fileName": "weapons_attach-to-body_6.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_6.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_6.png",
       "sha256": "47b5b8b29249376a09a6785d632e4754bbdcc78e0d820f5d48eb3db135daca3e",
       "size": 2900,
       "role": "Image"
@@ -1874,7 +1874,7 @@
     {
       "fileName": "weapons_attach-to-body_7.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_7.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_7.png",
       "sha256": "08a40b99642755e1eb8d9bca1e72b8cd1d90543e1dc5fdd42001524153162213",
       "size": 2881,
       "role": "Image"
@@ -1882,7 +1882,7 @@
     {
       "fileName": "weapons_attach-to-body_8.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_8.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_8.png",
       "sha256": "535e297b52da87292bbb8a6a0adeff5074243cae0225d7935bba963e6632bb33",
       "size": 2916,
       "role": "Image"
@@ -1890,7 +1890,7 @@
     {
       "fileName": "weapons_attach-to-body_9.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_9.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_9.png",
       "sha256": "e1dc4808eb46ec54db8efa190ad7a6b783e9273ab3241671b2ec06f63a19177a",
       "size": 2874,
       "role": "Image"
@@ -1898,7 +1898,7 @@
     {
       "fileName": "weapons_attach-to-body_all (18x18).png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_all (18x18).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_all%20(18x18).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_all%20(18x18).png",
       "sha256": "b739dff9621de4385d561943e91e78aaf4ac637adf604e95bb7b2f42b3630400",
       "size": 3633,
       "role": "Image"
@@ -1906,7 +1906,7 @@
     {
       "fileName": "weapons_attach-to-body_example.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_example.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_example.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_example.png",
       "sha256": "02d41f281d9ab5e93b2356f2c58f2f14428b56ed1f22b7260805d2d7ef642564",
       "size": 3147,
       "role": "Image"
@@ -1914,7 +1914,7 @@
     {
       "fileName": "weapons_shoot_1.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_1.png",
       "sha256": "2cb5a97a10763627eccf4d379759fc7c116453258b38be7ba51d135c3c8ad6cd",
       "size": 2945,
       "role": "Image"
@@ -1922,7 +1922,7 @@
     {
       "fileName": "weapons_shoot_10.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_10.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_10.png",
       "sha256": "e47b3a13e9341c6920e0e2114c616356dbf2c5e271ffd9e854500c0b5ef0c285",
       "size": 2932,
       "role": "Image"
@@ -1930,7 +1930,7 @@
     {
       "fileName": "weapons_shoot_11.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_11.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_11.png",
       "sha256": "d7f31ea3680df9eebbe6698707469710216b7b1a1070fd77ae307f15003bf523",
       "size": 2879,
       "role": "Image"
@@ -1938,7 +1938,7 @@
     {
       "fileName": "weapons_shoot_12.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_12.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_12.png",
       "sha256": "2ad059772e9775a594fea2d234cd171a4b23c4d1840f6acc5c44b6896196e17f",
       "size": 3105,
       "role": "Image"
@@ -1946,7 +1946,7 @@
     {
       "fileName": "weapons_shoot_2.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_2.png",
       "sha256": "20f5401390034b6322e20d90349ee2902e6594724acfa766ed55f765744e0209",
       "size": 2951,
       "role": "Image"
@@ -1954,7 +1954,7 @@
     {
       "fileName": "weapons_shoot_3.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_3.png",
       "sha256": "4822a980a038a13a437f291dc3120f0c7b43cbc8a4bac049cfb08d5b0e1f2f06",
       "size": 2853,
       "role": "Image"
@@ -1962,7 +1962,7 @@
     {
       "fileName": "weapons_shoot_4.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_4.png",
       "sha256": "268a54be138b1350d4f5acccd99048d95809d4008a29c4e1a2754472ac79df1d",
       "size": 3046,
       "role": "Image"
@@ -1970,7 +1970,7 @@
     {
       "fileName": "weapons_shoot_5.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_5.png",
       "sha256": "e7af590fcc8f93b9c00210be26b4b4bf6ab656b5d149622bb69855e0a645e54c",
       "size": 3015,
       "role": "Image"
@@ -1978,7 +1978,7 @@
     {
       "fileName": "weapons_shoot_6.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_6.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_6.png",
       "sha256": "93e7a8f0754bbe61080fcc27d29a2668807f90e7251949d645f8af08ab1dbc32",
       "size": 2895,
       "role": "Image"
@@ -1986,7 +1986,7 @@
     {
       "fileName": "weapons_shoot_7.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_7.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_7.png",
       "sha256": "cc431ff74049524090086bf861dce688dd8ced11c24f28e76554299b06ecc270",
       "size": 3006,
       "role": "Image"
@@ -1994,7 +1994,7 @@
     {
       "fileName": "weapons_shoot_8.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_8.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_8.png",
       "sha256": "9e345dcf6dbe45549830696bdaac377b1795b9d14f516bcccafc9548f2e6a29e",
       "size": 2875,
       "role": "Image"
@@ -2002,7 +2002,7 @@
     {
       "fileName": "weapons_shoot_9.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_9.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_9.png",
       "sha256": "c2f18291ecfb8c83eea06c2bf88e140f7ae8e3402a1fe04b86dbe9770833cee2",
       "size": 3006,
       "role": "Image"
@@ -2010,7 +2010,7 @@
     {
       "fileName": "weapons_shoot_Bomb.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_Bomb.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_Bomb.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_Bomb.png",
       "sha256": "d87ce7f4a167777a1c297d84e4f7dfb39af764487560773d2019634c76dc175c",
       "size": 3064,
       "role": "Image"
@@ -2018,7 +2018,7 @@
     {
       "fileName": "weapons_shoot_bullets.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_bullets.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_bullets.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_bullets.png",
       "sha256": "72458fef42831b04d722210652d89c5809252855bdd980aa9ce92001eae1eaaf",
       "size": 1406,
       "role": "Image"
@@ -2026,7 +2026,7 @@
     {
       "fileName": "weapons_weapons.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_weapons.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_weapons.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_weapons.png",
       "sha256": "af81fdef22e6b4cb78b9b6ea7f4b5a77ed0a2eb2f4a4c309f5cb5fb858e080c8",
       "size": 2298,
       "role": "Image"
@@ -2036,7 +2036,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/pixelboy-top-down-shooter/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/cover.png",
       "sha256": "8a36af7f56a2d8493b0e6acaf3ac37c26eb232d4c05e721bfe8fb89ab0d01fdf",
       "size": 71816,
       "contentType": "image/png",
@@ -2045,7 +2045,7 @@
     {
       "fileName": "background_tileset.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/background_tileset.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/background_tileset.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/background_tileset.png",
       "sha256": "281430fd30733e500bca366a46bcaccc26ec2dda0fe086d35d27d573b6bf48f2",
       "size": 12947,
       "contentType": "image/png",
@@ -2055,7 +2055,7 @@
     {
       "fileName": "background_window_particle-1.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/background_window_particle-1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/background_window_particle-1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/background_window_particle-1.png",
       "sha256": "504e3a0ca31736be219e985b1f80bfc07602165a7d3348ee89c06caad76d2f56",
       "size": 2818,
       "contentType": "image/png",
@@ -2065,7 +2065,7 @@
     {
       "fileName": "background_window_particle-2.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/background_window_particle-2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/background_window_particle-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/background_window_particle-2.png",
       "sha256": "e1ecef8e748cd5fe043b1021b7b670fcca45932bd0db3a69c9f086932cc6f04b",
       "size": 2826,
       "contentType": "image/png",
@@ -2075,7 +2075,7 @@
     {
       "fileName": "background_window_particle-3.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/background_window_particle-3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/background_window_particle-3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/background_window_particle-3.png",
       "sha256": "2a9c398ec2d8dc748971b93238cbc55a757a66b96e864da159945c3bcf773777",
       "size": 2852,
       "contentType": "image/png",
@@ -2085,7 +2085,7 @@
     {
       "fileName": "background_window_window-horizontal.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/background_window_window-horizontal.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/background_window_window-horizontal.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/background_window_window-horizontal.png",
       "sha256": "93a717de90323a6d62a4ce815c5da578301f0b0f867b9debe8a04e4366e586e2",
       "size": 2844,
       "contentType": "image/png",
@@ -2095,7 +2095,7 @@
     {
       "fileName": "background_window_window-vertical.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/background_window_window-vertical.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/background_window_window-vertical.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/background_window_window-vertical.png",
       "sha256": "1ff326f79ee2b009d29d3596beb2ad08f51ac42dafc256543dbf1fdd3c9784a5",
       "size": 2854,
       "contentType": "image/png",
@@ -2105,7 +2105,7 @@
     {
       "fileName": "characters_body_1.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_body_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_body_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_body_1.png",
       "sha256": "f7e87cea213d29f802d52721916e9aed50d5bb9fd4d9635f9e4557191c06a171",
       "size": 2933,
       "contentType": "image/png",
@@ -2115,7 +2115,7 @@
     {
       "fileName": "characters_body_2.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_body_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_body_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_body_2.png",
       "sha256": "ee8d6f80592d579c8c3f265dcc4d4f9300981340a7eb37eff96c9f75d62c3108",
       "size": 2942,
       "contentType": "image/png",
@@ -2125,7 +2125,7 @@
     {
       "fileName": "characters_body_3.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_body_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_body_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_body_3.png",
       "sha256": "12af7f92a1dd5c639bbeb488f06485ab162ce4755118ea19392b1d6678eabe97",
       "size": 2944,
       "contentType": "image/png",
@@ -2135,7 +2135,7 @@
     {
       "fileName": "characters_example.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_example.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_example.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_example.png",
       "sha256": "7a3e88657dc5c226645f5261ff3590aad4c499306d7d57da6c071548ed2bcc39",
       "size": 3108,
       "contentType": "image/png",
@@ -2145,7 +2145,7 @@
     {
       "fileName": "characters_head_1.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_1.png",
       "sha256": "6a8c954a9611f5029654bd5d3af149c041cf0d4ac5495aec02a2477ab71289f8",
       "size": 2960,
       "contentType": "image/png",
@@ -2155,7 +2155,7 @@
     {
       "fileName": "characters_head_10.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_10.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_10.png",
       "sha256": "eb780993a0ae3d3f13d0d1de060802e8977068a5e48cb641d1ec0f3d9c610f8b",
       "size": 3035,
       "contentType": "image/png",
@@ -2165,7 +2165,7 @@
     {
       "fileName": "characters_head_11.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_11.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_11.png",
       "sha256": "31db1eeb976a486d014a5eb26608cabf9386a52c486e487c7948c43eb70d9267",
       "size": 2934,
       "contentType": "image/png",
@@ -2175,7 +2175,7 @@
     {
       "fileName": "characters_head_12.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_12.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_12.png",
       "sha256": "08870d18eaeb2bd74247d3d0a69d94fa65768ea89a5549904a4ac60bc5d46c13",
       "size": 2941,
       "contentType": "image/png",
@@ -2185,7 +2185,7 @@
     {
       "fileName": "characters_head_13.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_13.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_13.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_13.png",
       "sha256": "b5995ae0f168aa40b3d0faf6221d97a12fc5a1a6ea2ac4d09f04255520a275d8",
       "size": 2969,
       "contentType": "image/png",
@@ -2195,7 +2195,7 @@
     {
       "fileName": "characters_head_14.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_14.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_14.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_14.png",
       "sha256": "626ab725a491e3379eda4e8f191cb55e08ea6257dea90994196a8a804b985d53",
       "size": 3059,
       "contentType": "image/png",
@@ -2205,7 +2205,7 @@
     {
       "fileName": "characters_head_2.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_2.png",
       "sha256": "774d60c10f2e0b407e44a4386fd9e554f267ce3b21cdde15e3b4ca5859673023",
       "size": 2946,
       "contentType": "image/png",
@@ -2215,7 +2215,7 @@
     {
       "fileName": "characters_head_3.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_3.png",
       "sha256": "d258029a635361f7525f60c20d836ee213e53cea91603fc744043df28299fc19",
       "size": 2968,
       "contentType": "image/png",
@@ -2225,7 +2225,7 @@
     {
       "fileName": "characters_head_4.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_4.png",
       "sha256": "8e0b338fc4c60db2847e3d0836e4150b5bffb94b053a5a94ad4564b75f5f3529",
       "size": 2982,
       "contentType": "image/png",
@@ -2235,7 +2235,7 @@
     {
       "fileName": "characters_head_5.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_5.png",
       "sha256": "371411046775e1108763beb64a48bb337aa65d902a2d57671dc91c5063763534",
       "size": 3032,
       "contentType": "image/png",
@@ -2245,7 +2245,7 @@
     {
       "fileName": "characters_head_6.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_6.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_6.png",
       "sha256": "460fdb0e122fa09563b88ffaa1bbf14a81c31d190d133907df413b354b6d7df9",
       "size": 2988,
       "contentType": "image/png",
@@ -2255,7 +2255,7 @@
     {
       "fileName": "characters_head_7.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_7.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_7.png",
       "sha256": "e152260d2e73b22b3e21083a4f1f0038f7151bee0e4dff34b1331621646eb074",
       "size": 2949,
       "contentType": "image/png",
@@ -2265,7 +2265,7 @@
     {
       "fileName": "characters_head_8.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_8.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_8.png",
       "sha256": "aa252fc0971c3fa7bb2e22c4f674c8831e66b66754a564e06bc263d1641453c8",
       "size": 2976,
       "contentType": "image/png",
@@ -2275,7 +2275,7 @@
     {
       "fileName": "characters_head_9.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_head_9.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_head_9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_head_9.png",
       "sha256": "1b9e3a98f8fd922ed3ae9bd426305a357b0370160c92d1b5e6983e7870626870",
       "size": 2988,
       "contentType": "image/png",
@@ -2285,7 +2285,7 @@
     {
       "fileName": "characters_leg-animation.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_leg-animation.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_leg-animation.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_leg-animation.png",
       "sha256": "8d13a5c4882d0641dfa52793266831934f407f109f8f63602d65ebde93ae6a22",
       "size": 258,
       "contentType": "image/png",
@@ -2295,7 +2295,7 @@
     {
       "fileName": "characters_robot_body.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_robot_body.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_robot_body.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_robot_body.png",
       "sha256": "de0902cc6eeee2139ce8ff3538faf742fc91c1cd337d9c090c445be289ecb3f0",
       "size": 3324,
       "contentType": "image/png",
@@ -2305,7 +2305,7 @@
     {
       "fileName": "characters_robot_example.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_robot_example.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_robot_example.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_robot_example.png",
       "sha256": "46b138422048bdc9348f10928a04f1fb5099f732ed9fa9ea44225a334c379fa2",
       "size": 3670,
       "contentType": "image/png",
@@ -2315,7 +2315,7 @@
     {
       "fileName": "characters_robot_head.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_robot_head.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_robot_head.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_robot_head.png",
       "sha256": "935fde27566d9b256d16cd54bd67bd534ff66233d28a684822686a9cd1da3bad",
       "size": 3054,
       "contentType": "image/png",
@@ -2325,7 +2325,7 @@
     {
       "fileName": "characters_robot_leg.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_robot_leg.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_robot_leg.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_robot_leg.png",
       "sha256": "a54b19f0e6359b90813512a306d33bff747586fe66f8fbb25da5a578ee49f14a",
       "size": 265,
       "contentType": "image/png",
@@ -2335,7 +2335,7 @@
     {
       "fileName": "characters_robot_weapon.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_robot_weapon.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_robot_weapon.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_robot_weapon.png",
       "sha256": "ec8309618f0298b84a6c66bb513fb72f7d8b4836cbf036722f2b1d5460be05ef",
       "size": 3235,
       "contentType": "image/png",
@@ -2345,7 +2345,7 @@
     {
       "fileName": "characters_tank-base.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_tank-base.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_tank-base.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_tank-base.png",
       "sha256": "80326ba0ec7ab0215b23b1e0cf6acf676c79b158e712f461fc1236eb2be7660f",
       "size": 4545,
       "contentType": "image/png",
@@ -2355,7 +2355,7 @@
     {
       "fileName": "characters_tank-cannon.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_tank-cannon.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_tank-cannon.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_tank-cannon.png",
       "sha256": "528df94d70218dcca8e5ec34fae9f5e06c989852a8a5b912f63450691119bf30",
       "size": 4265,
       "contentType": "image/png",
@@ -2365,7 +2365,7 @@
     {
       "fileName": "characters_tank.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_tank.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_tank.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_tank.png",
       "sha256": "378be4d5dbc1b6272e6f9d156274a22793262cb88761ea2d726a45232c0a5618",
       "size": 5753,
       "contentType": "image/png",
@@ -2375,7 +2375,7 @@
     {
       "fileName": "characters_turret_1.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_turret_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_turret_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_turret_1.png",
       "sha256": "423e318cd054af4b83e0f0f211cafbe8da88ec9b8f924e402d3d639390d8e1c0",
       "size": 3199,
       "contentType": "image/png",
@@ -2385,7 +2385,7 @@
     {
       "fileName": "characters_turret_2.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_turret_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_turret_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_turret_2.png",
       "sha256": "eae4ffd847a397731d89c8a87cdc927a889b2e794cc9d6ffde3738e20f7ce2f4",
       "size": 3131,
       "contentType": "image/png",
@@ -2395,7 +2395,7 @@
     {
       "fileName": "characters_turret_3.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_turret_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_turret_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_turret_3.png",
       "sha256": "68b6ec2c8a1a06d4b7ccbd8097581b9cfa23cc913946435e3b127bc766fa79bb",
       "size": 3145,
       "contentType": "image/png",
@@ -2405,7 +2405,7 @@
     {
       "fileName": "characters_turret_base.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/characters_turret_base.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/characters_turret_base.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/characters_turret_base.png",
       "sha256": "147e759961b329248b2c703702181ed1961a8946f858fdec42624580621a6833",
       "size": 3238,
       "contentType": "image/png",
@@ -2415,7 +2415,7 @@
     {
       "fileName": "effects_1 (37x37).png",
       "path": "packs/pixelboy-top-down-shooter/sprites/effects_1 (37x37).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/effects_1%20(37x37).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/effects_1%20(37x37).png",
       "sha256": "2f9012bab2c1e4c1e8b62a36e3b0e87a78a59274d787b58f03c9b3c2a94d79c4",
       "size": 634,
       "contentType": "image/png",
@@ -2425,7 +2425,7 @@
     {
       "fileName": "effects_2.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/effects_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/effects_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/effects_2.png",
       "sha256": "ecc44bfffc0f79b2c6bd55fb19885f96ceb008adcb8a00cdd608d7899de21df0",
       "size": 1300,
       "contentType": "image/png",
@@ -2435,7 +2435,7 @@
     {
       "fileName": "effects_3.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/effects_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/effects_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/effects_3.png",
       "sha256": "a2485918f13c63c9cde975dce8820ead7f65470b4a35d85db8bac5b24ecbe8aa",
       "size": 522,
       "contentType": "image/png",
@@ -2445,7 +2445,7 @@
     {
       "fileName": "effects_4 (16x16).png",
       "path": "packs/pixelboy-top-down-shooter/sprites/effects_4 (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/effects_4%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/effects_4%20(16x16).png",
       "sha256": "4acd8e3ead00c19fe8923c96abd5c09580ad50293fb09cc832c82af0ed7f4d55",
       "size": 330,
       "contentType": "image/png",
@@ -2455,7 +2455,7 @@
     {
       "fileName": "effects_alert-sign.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/effects_alert-sign.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/effects_alert-sign.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/effects_alert-sign.png",
       "sha256": "dfe3bbd2e9452040863df7ad4d7e90ce7daee12176afdc96659e518aafd98ace",
       "size": 2898,
       "contentType": "image/png",
@@ -2465,7 +2465,7 @@
     {
       "fileName": "effects_explosion.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/effects_explosion.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/effects_explosion.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/effects_explosion.png",
       "sha256": "470c1faaedbae4347be139afb4c7fcf6cb3853f6bcb0fef81fd9462029f098de",
       "size": 1305,
       "contentType": "image/png",
@@ -2475,7 +2475,7 @@
     {
       "fileName": "font-1.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/font-1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/font-1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/font-1.png",
       "sha256": "1792ae4e0fb23cb26a34d627c76e06282751b7e6ec10514581ee587c1522f93e",
       "size": 5843,
       "contentType": "image/png",
@@ -2485,7 +2485,7 @@
     {
       "fileName": "font-2.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/font-2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/font-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/font-2.png",
       "sha256": "d93a246d5567064a491dc294b6a9618402b8c860932762482edf03df031f33da",
       "size": 6958,
       "contentType": "image/png",
@@ -2495,7 +2495,7 @@
     {
       "fileName": "hud_ammo-empty.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/hud_ammo-empty.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/hud_ammo-empty.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/hud_ammo-empty.png",
       "sha256": "4f3e5916aa73f30c6074932ab6fc389ce151c725ac4cbcec6c29f6714e1c93b7",
       "size": 2862,
       "contentType": "image/png",
@@ -2505,7 +2505,7 @@
     {
       "fileName": "hud_ammo.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/hud_ammo.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/hud_ammo.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/hud_ammo.png",
       "sha256": "06f0595b7142be6c4587951dcffde60e0cd75e6476b53e5a726cdd92a99241c3",
       "size": 2920,
       "contentType": "image/png",
@@ -2515,7 +2515,7 @@
     {
       "fileName": "hud_arrow.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/hud_arrow.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/hud_arrow.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/hud_arrow.png",
       "sha256": "6a8bcd7798e65ef01d4109c2f4c4a1cda2b0674853f0ad4de1c6ab05492ec5e2",
       "size": 2932,
       "contentType": "image/png",
@@ -2525,7 +2525,7 @@
     {
       "fileName": "hud_cursor.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/hud_cursor.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/hud_cursor.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/hud_cursor.png",
       "sha256": "4913a11ead5edbcc707b29523b8c88780ebce9f5573999e1f445d9fc187db084",
       "size": 2833,
       "contentType": "image/png",
@@ -2535,7 +2535,7 @@
     {
       "fileName": "hud_example.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/hud_example.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/hud_example.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/hud_example.png",
       "sha256": "977390debc7662e9bfd1f4608b181a9b2df27d164518932a22d5b3aa3d0e7424",
       "size": 3206,
       "contentType": "image/png",
@@ -2545,7 +2545,7 @@
     {
       "fileName": "hud_life-box.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/hud_life-box.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/hud_life-box.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/hud_life-box.png",
       "sha256": "a6df9a92ba57b353edd7d8de0ac4befde8fb2f46c354320f69c4752ae203aa0c",
       "size": 3135,
       "contentType": "image/png",
@@ -2555,7 +2555,7 @@
     {
       "fileName": "hud_life-rectangle.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/hud_life-rectangle.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/hud_life-rectangle.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/hud_life-rectangle.png",
       "sha256": "f4a56f8ffea1851265dab5beec491b626dbff18519c1a2a5e4c2cff8af86208d",
       "size": 2840,
       "contentType": "image/png",
@@ -2565,7 +2565,7 @@
     {
       "fileName": "hud_part-1.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/hud_part-1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/hud_part-1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/hud_part-1.png",
       "sha256": "71ca8b1440c4a72aef15e9cea73abeb82ab387e0e513919ad0db8ce5d285d03f",
       "size": 2978,
       "contentType": "image/png",
@@ -2575,7 +2575,7 @@
     {
       "fileName": "hud_part-2.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/hud_part-2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/hud_part-2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/hud_part-2.png",
       "sha256": "c412c6d4d78d56326fb21e64331cb0898d34d5446a716d71594c52e8e208634c",
       "size": 2826,
       "contentType": "image/png",
@@ -2585,7 +2585,7 @@
     {
       "fileName": "hud_wrench.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/hud_wrench.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/hud_wrench.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/hud_wrench.png",
       "sha256": "612af89dc9082552fa5c281207055202830d94dafe4abaccc6cf589019722eb3",
       "size": 290,
       "contentType": "image/png",
@@ -2595,7 +2595,7 @@
     {
       "fileName": "item_ammo-pack.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/item_ammo-pack.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/item_ammo-pack.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/item_ammo-pack.png",
       "sha256": "e6f424d3de0239eec1085654ddb1d8c835d30895e60a5dfd2f453acea7b22f03",
       "size": 2925,
       "contentType": "image/png",
@@ -2605,7 +2605,7 @@
     {
       "fileName": "item_barril.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/item_barril.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/item_barril.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/item_barril.png",
       "sha256": "67d4f7490447b85a67d37750166a53c47aa9a5a34ff55d3859e836c06f9d5fa3",
       "size": 3257,
       "contentType": "image/png",
@@ -2615,7 +2615,7 @@
     {
       "fileName": "item_grenade-pack.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/item_grenade-pack.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/item_grenade-pack.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/item_grenade-pack.png",
       "sha256": "9d1c8ec46e98864259f6780df079b5ab03e110101531ba437cf5cc33f1e103df",
       "size": 3126,
       "contentType": "image/png",
@@ -2625,7 +2625,7 @@
     {
       "fileName": "item_grenade.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/item_grenade.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/item_grenade.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/item_grenade.png",
       "sha256": "704b1adacd8e5ad993af462c7087d665b1cf6e270d127f95d3bc1784e8983ecb",
       "size": 2925,
       "contentType": "image/png",
@@ -2635,7 +2635,7 @@
     {
       "fileName": "item_medikit.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/item_medikit.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/item_medikit.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/item_medikit.png",
       "sha256": "6e071cc9959b6c000e41030f8c008ca94ba5a3083135cd93fd7fe3cea6b9859c",
       "size": 2922,
       "contentType": "image/png",
@@ -2645,7 +2645,7 @@
     {
       "fileName": "weapons_1.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_1.png",
       "sha256": "f20fa2dc1131e160d49367fb787370601954490ec45907e0ad9e63bf2a5a196d",
       "size": 3043,
       "contentType": "image/png",
@@ -2655,7 +2655,7 @@
     {
       "fileName": "weapons_10.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_10.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_10.png",
       "sha256": "c3ad268a44f9384e159c990ed7262cb5f00e215c3f246ead9d5595be79a197a6",
       "size": 3148,
       "contentType": "image/png",
@@ -2665,7 +2665,7 @@
     {
       "fileName": "weapons_11.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_11.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_11.png",
       "sha256": "d28da3ee62db6ae587ab77e5b9ce521511f50cf0e80a8e9a8c3cf3a74a573b91",
       "size": 3250,
       "contentType": "image/png",
@@ -2675,7 +2675,7 @@
     {
       "fileName": "weapons_12.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_12.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_12.png",
       "sha256": "195ccbd331079c7cc2cba0676b651fc7e5f636eb4f4d10029d56cc0d9215b1e6",
       "size": 3030,
       "contentType": "image/png",
@@ -2685,7 +2685,7 @@
     {
       "fileName": "weapons_2.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_2.png",
       "sha256": "472ed6386ce96ab5589eaa73017b3a5e330a4ee834b994c37e7ac8f1786cc3ba",
       "size": 3125,
       "contentType": "image/png",
@@ -2695,7 +2695,7 @@
     {
       "fileName": "weapons_3.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_3.png",
       "sha256": "e729875dad86520930812ea4dd8f4304e0ebc8b61011acbece3cd78e7ea91993",
       "size": 3048,
       "contentType": "image/png",
@@ -2705,7 +2705,7 @@
     {
       "fileName": "weapons_4.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_4.png",
       "sha256": "0c872d25dad668cfa7facb71ef1b9eeede957d2071b39246c92484e2cba3f203",
       "size": 3181,
       "contentType": "image/png",
@@ -2715,7 +2715,7 @@
     {
       "fileName": "weapons_5.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_5.png",
       "sha256": "3451a6e3f9d978f08d0aefa1beed1f8a606caa0e1e611710248cd0d5a964f33a",
       "size": 3055,
       "contentType": "image/png",
@@ -2725,7 +2725,7 @@
     {
       "fileName": "weapons_6.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_6.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_6.png",
       "sha256": "1832b0caa88c20487ef1ffa6b756c4d77e535071d3de888c064cee4da66f5dd2",
       "size": 3068,
       "contentType": "image/png",
@@ -2735,7 +2735,7 @@
     {
       "fileName": "weapons_7.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_7.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_7.png",
       "sha256": "3022eb91ea202c48eea1c2846345effed4eb23b088411bc33ad678974f5a97cb",
       "size": 3056,
       "contentType": "image/png",
@@ -2745,7 +2745,7 @@
     {
       "fileName": "weapons_8.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_8.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_8.png",
       "sha256": "3444f8ca3b46bd9ec6b0bb31ebb787fdb61b020aea7328602d8ab0a532124fd5",
       "size": 3111,
       "contentType": "image/png",
@@ -2755,7 +2755,7 @@
     {
       "fileName": "weapons_9 (16x16).png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_9 (16x16).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_9%20(16x16).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_9%20(16x16).png",
       "sha256": "5e1896d0f6248bc2bfa4ffd123e4faf0814c160e2bd9a9ea7b3a5a1f0be642bd",
       "size": 3128,
       "contentType": "image/png",
@@ -2765,7 +2765,7 @@
     {
       "fileName": "weapons_attach-to-body_1.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_1.png",
       "sha256": "d410e846e80b0209c40384dd550ff0215c93e85e4f6a45baadf54b2efcd1a698",
       "size": 2872,
       "contentType": "image/png",
@@ -2775,7 +2775,7 @@
     {
       "fileName": "weapons_attach-to-body_10.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_10.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_10.png",
       "sha256": "709898c1fc3ae1d1dbf68810b88e26048709a15f8c6007987eb23e5d3d310214",
       "size": 2964,
       "contentType": "image/png",
@@ -2785,7 +2785,7 @@
     {
       "fileName": "weapons_attach-to-body_11.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_11.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_11.png",
       "sha256": "b55f4c9f11e1fce68879d5dae0f015fd88b3831ee26dc51871efa31242468abd",
       "size": 2934,
       "contentType": "image/png",
@@ -2795,7 +2795,7 @@
     {
       "fileName": "weapons_attach-to-body_12.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_12.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_12.png",
       "sha256": "1ceb39bde094cc5e2155d02a8b406a6b015520c19a2de4b7102b4620a7a34588",
       "size": 2948,
       "contentType": "image/png",
@@ -2805,7 +2805,7 @@
     {
       "fileName": "weapons_attach-to-body_2.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_2.png",
       "sha256": "9f37bb54bdf85171a224166366715a870d707d3873ec88c66728071b96086e3b",
       "size": 2928,
       "contentType": "image/png",
@@ -2815,7 +2815,7 @@
     {
       "fileName": "weapons_attach-to-body_3.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_3.png",
       "sha256": "19c09682d0dc1d2788d7019ff017bf8c136f3f750e3575f249c4cdb301ae3766",
       "size": 2897,
       "contentType": "image/png",
@@ -2825,7 +2825,7 @@
     {
       "fileName": "weapons_attach-to-body_4.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_4.png",
       "sha256": "e510b538753b124dafd01de48d99b594176db3627e26a8e9aaf91d6013ffeccd",
       "size": 2944,
       "contentType": "image/png",
@@ -2835,7 +2835,7 @@
     {
       "fileName": "weapons_attach-to-body_5.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_5.png",
       "sha256": "063dd8b0a2bab2ece098ef2cfbd4652d93925257f49c5662253490d0c8f3c67d",
       "size": 2932,
       "contentType": "image/png",
@@ -2845,7 +2845,7 @@
     {
       "fileName": "weapons_attach-to-body_6.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_6.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_6.png",
       "sha256": "47b5b8b29249376a09a6785d632e4754bbdcc78e0d820f5d48eb3db135daca3e",
       "size": 2900,
       "contentType": "image/png",
@@ -2855,7 +2855,7 @@
     {
       "fileName": "weapons_attach-to-body_7.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_7.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_7.png",
       "sha256": "08a40b99642755e1eb8d9bca1e72b8cd1d90543e1dc5fdd42001524153162213",
       "size": 2881,
       "contentType": "image/png",
@@ -2865,7 +2865,7 @@
     {
       "fileName": "weapons_attach-to-body_8.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_8.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_8.png",
       "sha256": "535e297b52da87292bbb8a6a0adeff5074243cae0225d7935bba963e6632bb33",
       "size": 2916,
       "contentType": "image/png",
@@ -2875,7 +2875,7 @@
     {
       "fileName": "weapons_attach-to-body_9.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_9.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_9.png",
       "sha256": "e1dc4808eb46ec54db8efa190ad7a6b783e9273ab3241671b2ec06f63a19177a",
       "size": 2874,
       "contentType": "image/png",
@@ -2885,7 +2885,7 @@
     {
       "fileName": "weapons_attach-to-body_all (18x18).png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_all (18x18).png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_all%20(18x18).png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_all%20(18x18).png",
       "sha256": "b739dff9621de4385d561943e91e78aaf4ac637adf604e95bb7b2f42b3630400",
       "size": 3633,
       "contentType": "image/png",
@@ -2895,7 +2895,7 @@
     {
       "fileName": "weapons_attach-to-body_example.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_example.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_example.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_attach-to-body_example.png",
       "sha256": "02d41f281d9ab5e93b2356f2c58f2f14428b56ed1f22b7260805d2d7ef642564",
       "size": 3147,
       "contentType": "image/png",
@@ -2905,7 +2905,7 @@
     {
       "fileName": "weapons_shoot_1.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_1.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_1.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_1.png",
       "sha256": "2cb5a97a10763627eccf4d379759fc7c116453258b38be7ba51d135c3c8ad6cd",
       "size": 2945,
       "contentType": "image/png",
@@ -2915,7 +2915,7 @@
     {
       "fileName": "weapons_shoot_10.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_10.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_10.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_10.png",
       "sha256": "e47b3a13e9341c6920e0e2114c616356dbf2c5e271ffd9e854500c0b5ef0c285",
       "size": 2932,
       "contentType": "image/png",
@@ -2925,7 +2925,7 @@
     {
       "fileName": "weapons_shoot_11.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_11.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_11.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_11.png",
       "sha256": "d7f31ea3680df9eebbe6698707469710216b7b1a1070fd77ae307f15003bf523",
       "size": 2879,
       "contentType": "image/png",
@@ -2935,7 +2935,7 @@
     {
       "fileName": "weapons_shoot_12.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_12.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_12.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_12.png",
       "sha256": "2ad059772e9775a594fea2d234cd171a4b23c4d1840f6acc5c44b6896196e17f",
       "size": 3105,
       "contentType": "image/png",
@@ -2945,7 +2945,7 @@
     {
       "fileName": "weapons_shoot_2.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_2.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_2.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_2.png",
       "sha256": "20f5401390034b6322e20d90349ee2902e6594724acfa766ed55f765744e0209",
       "size": 2951,
       "contentType": "image/png",
@@ -2955,7 +2955,7 @@
     {
       "fileName": "weapons_shoot_3.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_3.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_3.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_3.png",
       "sha256": "4822a980a038a13a437f291dc3120f0c7b43cbc8a4bac049cfb08d5b0e1f2f06",
       "size": 2853,
       "contentType": "image/png",
@@ -2965,7 +2965,7 @@
     {
       "fileName": "weapons_shoot_4.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_4.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_4.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_4.png",
       "sha256": "268a54be138b1350d4f5acccd99048d95809d4008a29c4e1a2754472ac79df1d",
       "size": 3046,
       "contentType": "image/png",
@@ -2975,7 +2975,7 @@
     {
       "fileName": "weapons_shoot_5.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_5.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_5.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_5.png",
       "sha256": "e7af590fcc8f93b9c00210be26b4b4bf6ab656b5d149622bb69855e0a645e54c",
       "size": 3015,
       "contentType": "image/png",
@@ -2985,7 +2985,7 @@
     {
       "fileName": "weapons_shoot_6.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_6.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_6.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_6.png",
       "sha256": "93e7a8f0754bbe61080fcc27d29a2668807f90e7251949d645f8af08ab1dbc32",
       "size": 2895,
       "contentType": "image/png",
@@ -2995,7 +2995,7 @@
     {
       "fileName": "weapons_shoot_7.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_7.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_7.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_7.png",
       "sha256": "cc431ff74049524090086bf861dce688dd8ced11c24f28e76554299b06ecc270",
       "size": 3006,
       "contentType": "image/png",
@@ -3005,7 +3005,7 @@
     {
       "fileName": "weapons_shoot_8.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_8.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_8.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_8.png",
       "sha256": "9e345dcf6dbe45549830696bdaac377b1795b9d14f516bcccafc9548f2e6a29e",
       "size": 2875,
       "contentType": "image/png",
@@ -3015,7 +3015,7 @@
     {
       "fileName": "weapons_shoot_9.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_9.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_9.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_9.png",
       "sha256": "c2f18291ecfb8c83eea06c2bf88e140f7ae8e3402a1fe04b86dbe9770833cee2",
       "size": 3006,
       "contentType": "image/png",
@@ -3025,7 +3025,7 @@
     {
       "fileName": "weapons_shoot_Bomb.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_Bomb.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_Bomb.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_Bomb.png",
       "sha256": "d87ce7f4a167777a1c297d84e4f7dfb39af764487560773d2019634c76dc175c",
       "size": 3064,
       "contentType": "image/png",
@@ -3035,7 +3035,7 @@
     {
       "fileName": "weapons_shoot_bullets.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_shoot_bullets.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_bullets.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_shoot_bullets.png",
       "sha256": "72458fef42831b04d722210652d89c5809252855bdd980aa9ce92001eae1eaaf",
       "size": 1406,
       "contentType": "image/png",
@@ -3045,7 +3045,7 @@
     {
       "fileName": "weapons_weapons.png",
       "path": "packs/pixelboy-top-down-shooter/sprites/weapons_weapons.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/4c9cf1daaa502e338091086b353022c0330d745e/packs/pixelboy-top-down-shooter/sprites/weapons_weapons.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Sprites/74dd2512da9a1f55334407b73f8ce5405481c17c/packs/pixelboy-top-down-shooter/sprites/weapons_weapons.png",
       "sha256": "af81fdef22e6b4cb78b9b6ea7f4b5a77ed0a2eb2f4a4c309f5cb5fb858e080c8",
       "size": 2298,
       "contentType": "image/png",
