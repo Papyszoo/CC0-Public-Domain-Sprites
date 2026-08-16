@@ -356,28 +356,56 @@ async function intakeHardVacuum() {
     const srcBase = "/tmp/openhv/mods/hv/bits/sprites";
     if (!fs.existsSync(srcBase)) return;
 
+    // Helper to get frame size from yaml
+    function getYamlFrameSize(yamlPath) {
+        if (!fs.existsSync(yamlPath)) return null;
+        const content = fs.readFileSync(yamlPath, "utf8");
+        const fsMatch = content.match(/FrameSize:\s*(\d+)\s*,\s*(\d+)/);
+        const faMatch = content.match(/FrameAmount:\s*(\d+)/);
+        if (fsMatch) {
+            return {
+                fw: parseInt(fsMatch[1], 10),
+                fh: parseInt(fsMatch[2], 10),
+                fa: faMatch ? parseInt(faMatch[1], 10) : 1
+            };
+        }
+        return null;
+    }
+
     // 1. Hard Vacuum: Units & Vehicles
     {
         const slug = "lostgarden-hard-vacuum-units";
         const targetDir = path.join(PACKS_DIR, slug);
+        fs.rmSync(path.join(targetDir, "sprites"), { recursive: true, force: true });
         fs.mkdirSync(path.join(targetDir, "sprites"), { recursive: true });
 
         const unitDirs = ["aircraft", "infantry", "ships", "vehicles", "animals"];
         for (const d of unitDirs) {
             const s = path.join(srcBase, d);
             if (fs.existsSync(s)) {
-                // Copy only PNG files
                 for (const file of fs.readdirSync(s)) {
                     if (file.endsWith(".png")) {
-                        fs.copyFileSync(path.join(s, file), path.join(targetDir, "sprites", `${d}_${file}`));
+                        const base = file.slice(0, -4);
+                        const yamlPath = path.join(s, `${base}.yaml`);
+                        const ymeta = getYamlFrameSize(yamlPath);
+                        let destName = `${d}_${base}.png`;
+                        if (ymeta && ymeta.fa > 1) {
+                            destName = `${d}_${base} (${ymeta.fw}x${ymeta.fh}).png`;
+                        }
+                        fs.copyFileSync(path.join(s, file), path.join(targetDir, "sprites", destName));
                     }
                 }
             }
         }
 
         // Cover
-        const tank = path.join(targetDir, "sprites", "vehicles_tank-idle.png");
-        if (fs.existsSync(tank)) fs.copyFileSync(tank, path.join(targetDir, "cover.png"));
+        const tank = path.join(targetDir, "sprites", "vehicles_tank (32x32).png") || path.join(targetDir, "sprites", "vehicles_tank-idle.png");
+        for (const f of fs.readdirSync(path.join(targetDir, "sprites"))) {
+            if (f.startsWith("vehicles_tank") && f.endsWith(".png") && !f.includes("icon")) {
+                fs.copyFileSync(path.join(targetDir, "sprites", f), path.join(targetDir, "cover.png"));
+                break;
+            }
+        }
 
         const packJson = {
             name: "Hard Vacuum: Units & Vehicles",
@@ -402,6 +430,7 @@ async function intakeHardVacuum() {
     {
         const slug = "lostgarden-hard-vacuum-structures";
         const targetDir = path.join(PACKS_DIR, slug);
+        fs.rmSync(path.join(targetDir, "sprites"), { recursive: true, force: true });
         fs.mkdirSync(path.join(targetDir, "sprites"), { recursive: true });
 
         const structDirs = ["buildings", "props", "effects"];
@@ -410,15 +439,26 @@ async function intakeHardVacuum() {
             if (fs.existsSync(s)) {
                 for (const file of fs.readdirSync(s)) {
                     if (file.endsWith(".png")) {
-                        fs.copyFileSync(path.join(s, file), path.join(targetDir, "sprites", `${d}_${file}`));
+                        const base = file.slice(0, -4);
+                        const yamlPath = path.join(s, `${base}.yaml`);
+                        const ymeta = getYamlFrameSize(yamlPath);
+                        let destName = `${d}_${base}.png`;
+                        if (ymeta && ymeta.fa > 1) {
+                            destName = `${d}_${base} (${ymeta.fw}x${ymeta.fh}).png`;
+                        }
+                        fs.copyFileSync(path.join(s, file), path.join(targetDir, "sprites", destName));
                     }
                 }
             }
         }
 
         // Cover
-        const bldg = path.join(targetDir, "sprites", "buildings_hq-idle.png");
-        if (fs.existsSync(bldg)) fs.copyFileSync(bldg, path.join(targetDir, "cover.png"));
+        for (const f of fs.readdirSync(path.join(targetDir, "sprites"))) {
+            if (f.startsWith("buildings_hq") && f.endsWith(".png") && !f.includes("icon")) {
+                fs.copyFileSync(path.join(targetDir, "sprites", f), path.join(targetDir, "cover.png"));
+                break;
+            }
+        }
 
         const packJson = {
             name: "Hard Vacuum: Structures & Base",

@@ -341,12 +341,24 @@ for (const slug of packSlugs) {
     files.push(fileEntry);
 
     const { category, subcategory } = categorize(relFromPack, meta.generation || {});
+
+    let spritesheet = null;
+    const match = dn.match(/\((\d+)\s*[xX-]\s*(\d+)\)/);
+    if (match) {
+      const fw = parseInt(match[1], 10);
+      const fh = parseInt(match[2], 10);
+      if (fw > 0 && fh > 0) {
+        spritesheet = { frameWidth: fw, frameHeight: fh };
+      }
+    }
+
     items.push({
       name: dn,
       itemType: 'Sprite',
       metadataJson: JSON.stringify({
         category,
         ...(subcategory ? { subcategory } : {}),
+        ...(spritesheet ? { spritesheet } : {}),
       }),
       isPreviewable: true,
       files: [{ path: ast.rel, role: 'Image' }],
